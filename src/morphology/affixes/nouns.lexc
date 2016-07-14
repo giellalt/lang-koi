@@ -199,9 +199,9 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_CNS/END
 +Nom: K ;
 !+ZeroAcc: K ;
 +Gen:%>лӧн K ;
-+Abl:%>лысь K ;
-+Dat:%>лы K ;
-+Com:%>кӧд K ;
++Abl:%>лісь K ;
++Dat:%>лӧ K ;
++Com:%>кӧт K ;
 +Car:%>тӧг K ;
 +Cns:%>ла K ;
 +Comp:%>ся K ;
@@ -263,11 +263,11 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_CNS/END
 !! PL1
 +PxPl1+Nom:%>ным K ;
 +PxPl1+Gen:%>нымлӧн K ;
-+PxPl1+Abl:%>нымлысь K ;
-+PxPl1+Dat:%>нымлы K ;
++PxPl1+Abl:%>нымлісь K ;
++PxPl1+Dat:%>нымлӧ K ;
 +PxPl1+Acc:%>нымӧс K ;
 +Ins+PxPl1:%>наным K ;
-+PxPl1+Com:%>нымкӧд K ;
++PxPl1+Com:%>нымкӧт K ;
 +Car+PxPl1:%>тӧгным K ;
 +PxPl1+Car:%>нымтӧг K ;
 +PxPl1+Cns:%>нымла K ;
@@ -290,11 +290,11 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_CNS/END
 !! PL2
 +PxPl2+Nom:%>ныд K ;
 +PxPl2+Gen:%>ныдлӧн K ;
-+PxPl2+Abl:%>ныдлысь K ;
-+PxPl2+Dat:%>ныдлы K ;
++PxPl2+Abl:%>ныдлісь K ;
++PxPl2+Dat:%>ныдлӧ K ;
 +PxPl2+Acc2:%>нытӧ K ;
 +Ins+PxPl2:%>наныд K ;
-+PxPl2+Com:%>ныдкӧд K ;
++PxPl2+Com:%>ныдкӧт K ;
 +Car+PxPl2:%>тӧгныд K ;
 +PxPl2+Cns:%>ныдла K ;
 +Comp+PxPl2:%>сяныд K ;
@@ -314,11 +314,11 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_CNS/END
 !! PL3
 +PxPl3+Nom:%>ныс K ;
 +PxPl3+Gen:%>ныслӧн K ;
-+PxPl3+Abl:%>ныслысь K ;
-+PxPl3+Dat:%>ныслы K ;
++PxPl3+Abl:%>ныслісь K ;
++PxPl3+Dat:%>ныслӧ K ;
 +PxPl3+Acc3:%>нысӧ K ;
 +Ins+PxPl3:%>наныс K ;
-+PxPl3+Com:%>ныскӧд K ;
++PxPl3+Com:%>ныскӧт K ;
 +Car+PxPl3:%>тӧгныс K ;
 +PxPl3+Cns:%>нысла K ;
 +Comp+PxPl3:%>сяныс K ;
@@ -393,10 +393,10 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 !! SG1
 +PxSg1+Nom:%>ӧй K ;
 +PxSg1+Gen:%>ӧйлӧн K ;
-+PxSg1+Abl:%>ӧйлысь K ;
-+PxSg1+Dat:%>ӧйлы K ;
++PxSg1+Abl:%>ӧйлісь K ;
++PxSg1+Dat:%>ӧйлӧ K ;
 +PxSg1+Acc:%>ӧс K ;
-+PxSg1+Com:%>ӧйкӧд K ;
++PxSg1+Com:%>ӧйкӧт K ;
 +PxSg1+Car:%>ӧйтӧг K ;
 +PxSg1+Cns:%>ӧйла K ;
 +PxSg1+Comp:%>ӧйся K ;
@@ -409,9 +409,9 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 !! SG2
 +PxSg2+Nom:%>ыд K ;
 +PxSg2+Gen:%>ыдлӧн K ;
-+PxSg2+Abl:%>ыдлысь K ;
-+PxSg2+Dat:%>ыдлы K ;
-+PxSg2+Com:%>ыдкӧд K ;
++PxSg2+Abl:%>ыдлісь K ;
++PxSg2+Dat:%>ыдлӧ K ;
++PxSg2+Com:%>ыдкӧт K ;
 +PxSg2+Cns:%>ыдла K ;
 +Prl+PxSg2:%>ӧдыд K ;
 +Ter+PxSg2:%>ӧдзыд K ;
@@ -419,9 +419,9 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 !! SG3
 +PxSg3+Nom:%>ыс K ;
 +PxSg3+Gen:%>ыслӧн K ;
-+PxSg3+Abl:%>ыслысь K ;
-+PxSg3+Dat:%>ыслы K ;
-+PxSg3+Com:%>ыскӧд K ;
++PxSg3+Abl:%>ыслісь K ;
++PxSg3+Dat:%>ыслӧ K ;
++PxSg3+Com:%>ыскӧт K ;
 +PxSg3+Cns:%>ысла K ;
 +Prl+PxSg3:%>ӧдыс K ;
 +Ter+PxSg3:%>ӧдзыс K ;
