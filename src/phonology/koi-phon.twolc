@@ -79,6 +79,16 @@ Dummy = %> %^Inf %^PATR %^FEM ;
 
 Rules
 
+"Double stem-final consonant"
+!! __@RULENAME@__
+ %^1Cns:Cy <=> Cy (ь:) %> _ э: ;
+          where Cy in (б в г д ж з к л м н м п р с т ф х ц ч ш щ) ;
+
+"э:е"
+!! __@RULENAME@__
+э:е <=> [CnsBeforeCyri|ь:|й] %> %^1Cns: _ з ;
+
+
 "The famous L/V"
 !! __@RULENAME@__
  л:в <=> Vow _ [ # | %> Cns ] ;
@@ -205,7 +215,10 @@ Rules
 
 "Soft Sign Deletion"
 !! __@RULENAME@__
- ь:0 <=> Cns _ %> [ а: | о: | у: | і: ] ; 
+ ь:0 <=>  Cns _ %> %^1Cns: ;
+!!€ нянь%>%^1Cnsэз
+!!€ нян0%>нез
+ Cns _ %> [ а: | о: | у: | і: ] ; 
         с _  %> с [ ь | я ] ;
 
 ! Testcases: see VowelPalatalisation above
