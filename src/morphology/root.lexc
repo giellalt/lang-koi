@@ -679,6 +679,15 @@ LEXICON Root
    Numerals    ;
    Prefixes    ;
 
+!! Incoming for conversion from kpv
++EOLang/KPV: A_NEWWORDS ;
++EOLang/KPV: ADV_NEWWORDS ;
++EOLang/KPV: N_NEWWORDS ;
++EOLang/KPV: NUM_NEWWORDS ;
++EOLang/KPV: PRON_NEWWORDS ;
++EOLang/KPV: V_NEWWORDS ;
+
+
 ! ======================================================= !
 ! These lexica are for parts of speech without morphology !
 ! ======================================================= !
