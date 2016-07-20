@@ -76,12 +76,13 @@ ELA_ісь-THEN-K ; !Synomymous with: миянысь
 LEXICON perssg2decl     !!≈ * __@CODE@__
 +Nom: WordEnd ;
 +Gen:нат WordEnd ;
++Dat:ныт WordEnd ;
+
 +Cmpl: WordEnd ;
 +Cmpl: GEN_лӧн-THEN-K ;
 +GenStem:нат WordEnd ;
 +GenStem:нат GEN_лӧн-THEN-K ;
 +Ela+PxSg2:нсьыт WordEnd ;
-+Dat:ныд WordEnd ;
 +Dat:н WordEnd ;
 +Dat:т WordEnd ;
 :т DAT_лӧ-THEN-K ;
@@ -102,13 +103,15 @@ LEXICON perspl2decl !!≈ * __@CODE@__
 +Nom: WordEnd ;
 +Cmpl: WordEnd ;
 +Der/йӧ+Nom:йӧ WordEnd ; !We need a special tag for discerning +Nom forms
++GenStem:ян DAT_лӧ-THEN-K ;
+
 +GenStem:ян WordEnd ;
 +GenStem:ян GEN_лӧн-THEN-K ;
 +Acc:янӧс WordEnd ;
 +GenStem:ян persplobl ;
+
 !More forms from Ӧнія коми кыв 2000: 163
 +GenStem+Abl+PxPl2:янлысьныд WordEnd ;
-+GenStem:ян DAT_лӧ-THEN-K ;
 +GenStem+PxPl2+PxSg2+Acc2:янныдтӧ WordEnd ;
 +Ins:ӧн WordEnd ;
 +GenStem+PxPl2+Car:янныдтӧг WordEnd ;
@@ -123,11 +126,12 @@ ELA_ісь-THEN-K ;
 
 LEXICON perssg3decl  !!≈ * __@CODE@__ 
 +Nom:ія WordEnd ;
++Der/йӧ+Acc:ійӧ WordEnd ;
+
 +Cmpl:ы GEN_лӧн-THEN-K ;
 +Cmpl+Abl:ылісь WordEnd ;
 +Cmpl:ы ELA_ісь-THEN-K ;
 +Cmpl:ы DAT_лӧ-THEN-K ;
-+Der/йӧ+Acc:ійӧс WordEnd ;
 +Der/йӧ+Ins:ійӧн WordEnd ;
 +Cmpl:ы perssg ;  ! for the regular obl sg
 +Cmpl:ы WordEnd ;
