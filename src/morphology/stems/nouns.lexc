@@ -1,0 +1,14 @@
+!! Nouns
+!  -----
+!! Nouns in the Komi Permyak language are things.
+
+LEXICON Nouns
+керку:керку N_ ;
+морт:морт N_ ;
+нянь:нянь N_ ;
+вӧв:вӧв N_ ;
+джыдж:джыдж N_ ;
+кай:кай N_ ;
+отир:отир N_  "(kpv)..войтыр:войтыр.." ;
+
+! vim: set ft=xfst-lexc:

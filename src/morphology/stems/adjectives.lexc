@@ -1,0 +1,8 @@
+!! Adjectives
+!  ----------
+!! Adjectives in Komi-Permyak language describe things.
+
+LEXICON Adjectives
+adjective    A_   ;
+
+! vim: set ft=xfst-lexc:
