@@ -28,7 +28,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 
 !! The parts-of-speech tags are:
  +A      !!≈ ;@CODE@: adjective
- +Adp 	 !!≈ ;@CODE@: Aposition
+ +Adp 	 !!≈ ;@CODE@: Adposition
  +Adv    !!≈ ;@CODE@: adverb
  +CS     !!≈ ;@CODE@: subordinating conjunction
  +CC     !!≈ ;@CODE@: coordinating conjunction
@@ -442,7 +442,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +Der/тӧдз !+VTer
 !!+TODZ Verbal terminative
 +Der/тӧм !+VAbe
-+Der/ысь +ActPrsPtc
++Der/ісь !!≈ * __@CODE@__ Der/ысь
++ActPrsPtc 
 
 +Der/кості ! +KOSTI
 +Der/коста !+KOSTA
@@ -678,6 +679,8 @@ LEXICON Root
    Pronouns    ;
    Numerals    ;
    Prefixes    ;
+
+VERBNEGATIVE ;
 
 !! Incoming for conversion from kpv
 +EOLang/KPV: A_NEWWORDS ;

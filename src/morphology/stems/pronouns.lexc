@@ -4,6 +4,11 @@
 
 LEXICON Pronouns
 pronoun    Cases   ;
-ме:ме PRON_  "(kpv)..ме:ме.." ;
+ме:ме PERS-SG1_  "(kpv)..ме:ме.." ;
+тэ:тэ PERS-SG2_  "(kpv)..тэ:тэ.." ;
+сія:с PERS-SG3_  "(kpv)..сійӧ:сы PRONDEMTAG.." ;
+ми:ми PERS-PL1_  "(kpv)..ми:ми.." ; 
+ті:ті PERS-PL2_  "(kpv)..ті:ті.." ;
+нія:н PERS-PL3_  "(kpv)..найӧ:на.." ;
 
 ! vim: set ft=xfst-lexc:

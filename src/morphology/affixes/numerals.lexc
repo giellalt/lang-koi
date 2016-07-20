@@ -73,7 +73,7 @@ LEXICON NumMWN
 +Acc:%>ӧс K ;
 +Gen:%>лӧн K ;
 +Abl:%>лысь K ;
-+Dat:%>лы K ;
+DAT_лӧ-THEN-K ;
 +Acc:%>сӧ K ;
 +Ins:%>ӧн K ;
 +Com:%>кӧд K ;
