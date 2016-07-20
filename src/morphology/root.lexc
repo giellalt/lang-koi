@@ -671,6 +671,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 
 LEXICON Root
 !! The word forms in the KOMI-PERMYAK language start from the lexeme roots of basic
+   Punctuation    ;
+
 !! word classes, or optionally from prefixes:
    Nouns       ;
    Verbs       ;
