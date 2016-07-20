@@ -1,0 +1,9 @@
+!! Numerals
+!  --------
+!! Numerals in the KOMI-PERMYAK language are numbers.
+
+LEXICON Numerals
+numeral    Cases   ;
+
+
+! vim: set ft=xfst-lexc:
