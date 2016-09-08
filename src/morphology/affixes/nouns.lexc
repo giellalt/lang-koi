@@ -514,5 +514,9 @@ LEXICON PredMonLex
 !! 2012-02-07 !!+Der/а+Adv:%>а K ;
  
 
+LEXICON DESCR_ # ; ! lexicon to make compilation possible
+LEXICON PcleIntens # ;
+LEXICON PCLE_ # ;
 
 ! vim: set ft=xfst-lexc:
+
