@@ -674,6 +674,7 @@ LEXICON Root
    Punctuation    ;
 
 !! word classes, or optionally from prefixes:
+   Abbreviation       ;
    Nouns       ;
    Verbs       ;
    Adjectives  ;
