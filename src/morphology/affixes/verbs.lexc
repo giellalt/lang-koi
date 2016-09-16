@@ -149,15 +149,15 @@ LEXICON VR_АРТАСЬНЫ !!≈ * __@CODE@__
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ Verb-nyDer-ONSET-Я ; !
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer_АРТАСЬНЫ ; !
 +V+Refl@U.CONJ-INF.YES@:ь0@U.CONJ-INF.YES@ VerbDer-V ; !
-+V+Refl:ь VerbConj ; !а
-+V+Refl:ь VerbConj-V ; !б
++V+Refl: VerbConj ; !а
++V+Refl: VerbConj-V ; !б
 
 LEXICON V_АРТАСЬНЫ !!≈ * __@CODE@__ артасьны:артас -Cны.
 +V@U.CONJ-INF.YES@:ь@U.CONJ-INF.YES@ Verb-nyDer ; !
 +V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer_АРТАСЬНЫ ; !
 +V@U.CONJ-INF.YES@:ь@U.CONJ-INF.YES@ VerbDer-V ; !
-+V:ь VerbConj ; !а
-+V:ь VerbConj-V ; !б
++V: VerbConj ; !а
++V: VerbConj-V ; !б
 
 LEXICON VR_ЛЫДДЬЫНЫ !!≈ * __@CODE@__ 
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ Verb-ynyDer ; !
@@ -363,11 +363,15 @@ LEXICON PL3
 +Pl300@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ны@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ;
 
 LEXICON Pret2a
-:а PRET2-linkki-a ; 
+:а PRET2-linkki-a ;
    PRET2PL2 ; 
    PL3 ;   ! for continuation in different persons. 
                   !Could also have used the homonymic participle
                   ! as point of departure
+!! Differs from kpv 2016-09-15
++Pl1000@U.CONJ-NX.PL@@U.CONJ-PX.1@:%>ӧсь@U.CONJ-NX.PL@@U.CONJ-PX.1@ VerbEnd-Comparison ; 
++Pl3000@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ӧсь@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ;
+ 
 
 LEXICON PRET2PL2
 +Sg200@U.CONJ-NX.SG@@U.CONJ-PX.2@:%>ыд@U.CONJ-NX.SG@@U.CONJ-PX.2@ VerbEnd-Comparison ;
@@ -380,8 +384,8 @@ LEXICON PRET2-linkki-a
 +Sg1@U.CONJ-NX.SG@@U.CONJ-PX.1@:0@U.CONJ-NX.SG@@U.CONJ-PX.1@ VerbEnd-Comparison ;  
 +Sg3@U.CONJ-NX.SG@@U.CONJ-PX.3@:0@U.CONJ-NX.SG@@U.CONJ-PX.3@ VerbEnd-Comparison ;
 !+Pl1+Err/Orth:%>ӧсь VerbEnd-Comparison ; ! no Pl1 for Prt2 in the standard
-+Pl1000@U.CONJ-NX.PL@@U.CONJ-PX.1@:%>ӧсь@U.CONJ-NX.PL@@U.CONJ-PX.1@ VerbEnd-Comparison ; 
-+Pl3000@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ӧсь@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ;
++Pl100@U.CONJ-NX.PL@@U.CONJ-PX.1@:%>сь@U.CONJ-NX.PL@@U.CONJ-PX.1@ VerbEnd-Comparison ; 
++Pl300@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>сь@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ;
 
 LEXICON MatrixVerb-Comparison
                K ;
