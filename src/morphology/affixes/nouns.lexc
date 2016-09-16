@@ -106,20 +106,20 @@ LEXICON N_END-IN-ДДЬ !!= * @CODE@ автомобиль:автомобил а�
 +N+Sg:ь CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +N+Sg:д CASEPOSSLEX-AFTERDERIVATION_Я ;
 +N+Sg:дь CASEPOSSLEX-AFTERDERIVATION_Ӧ ;
-+N+Pl:ьяс CASEPOSSLEX ; !!= * @CODE@ 2015-09-04 change to ь%>яс after xfst rules are removed
++N+Pl:%>%^1Cnsэз CASEPOSSLEX ; !!= * @CODE@ 2015-09-04 change to ь%>яс after xfst rules are removed
 
 LEXICON N_END-IN-ДДЗ !!= * @CODE@ автомобиль:автомобил автомобильыс
 +N+Cmp:з R ;
 +N+Sg:з CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +N+Sg:дз CASEPOSSLEX-AFTERDERIVATION_VOW ;
-+N+Pl:з%>ьяс CASEPOSSLEX ;
++N+Pl:з%>%^1Cnsэз CASEPOSSLEX ;
 
 LEXICON N_END-IN-ЛЛЬ !!= * @CODE@ моль:мол молльӧ
 +N+Cmp:ь R ;
 +N+Sg:ь CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +N+Sg:л CASEPOSSLEX-AFTERDERIVATION_Я ;
 +N+Sg:ль CASEPOSSLEX-AFTERDERIVATION_Ӧ ;
-+N+Pl:%>ьяс CASEPOSSLEX ; !! 2015-09-04 change to ь%>яс after xfst rules are removed
++N+Pl:%>%^1Cnsэз CASEPOSSLEX ; !! 2015-09-04 change to ь%>яс after xfst rules are removed
 
 LEXICON N_END-IN-Ч/ДЗ !!= * @CODE@ автомобиль:автомобил автомобильыс
 +N: NMN_END-IN-Ч/ДЗ ;
@@ -127,14 +127,14 @@ LEXICON NMN_END-IN-Ч/ДЗ !!= * @CODE@ автомобиль:автомобил 
 +Cmp: R ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_VOW ;
-+Pl:%>ьяс CASEPOSSLEX ;
++Pl:%>%^1Cnsэз CASEPOSSLEX ;
 
 LEXICON N_END-IN-Ь !!= * @CODE@ автомобиль:автомобил автомобильыс
 +N+Cmp:ь R ;
 +N+Sg:ь CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +N+Sg: CASEPOSSLEX-AFTERDERIVATION_Я ;
 +N+Sg:ь CASEPOSSLEX-AFTERDERIVATION_Ӧ ;
-+N+Pl:%>ьяс CASEPOSSLEX ; !! 2015-09-04 change to ь%>яс after xfst rules are removed
++N+Pl:%>%^1Cnsэз CASEPOSSLEX ; !! 2015-09-04 change to ь%>яс after xfst rules are removed
 
 
 

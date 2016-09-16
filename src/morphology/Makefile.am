@@ -42,6 +42,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/prefixes.lexc      \
 			 stems/pronouns.lexc      \
 			 stems/pronouns_newwords.lexc      \
+			 stems/propernouns-toponyms-Komi_newwords.lexc      \
 			 stems/punctuation.lexc   \
 			 stems/verbs.lexc	\
 			 stems/verbs_newwords.lexc
