@@ -19,7 +19,8 @@ LEXICON VERBNEGATIVE
 оз+V+Neg+Ind+Prs+Pl2:онӧ MatrixVerb-Comparison ;
 оз+V+Neg+Ind+Prs+Pl1:огӧй MatrixVerb-Comparison ;
 оз+V+Neg+Ind+Prs+Pl2:онӧй MatrixVerb-Comparison ;
-оз+V+Neg+Ind+Prs+Pl3:оз MatrixVerb-Comparison ;
+оз+V+Neg+Ind+Prs+Pl3:озӧ MatrixVerb-Comparison ;
+
 
 !Past Neg
 оз+V+Neg+Ind+Prt+Sg1:эг MatrixVerb-Comparison ;
@@ -29,7 +30,7 @@ LEXICON VERBNEGATIVE
 оз+V+Neg+Ind+Prt+Pl2:эн MatrixVerb-Comparison ;
 оз+V+Neg+Ind+Prt+Pl1:эгӧ MatrixVerb-Comparison ;
 оз+V+Neg+Ind+Prt+Pl2:энӧ MatrixVerb-Comparison ;
-оз+V+Neg+Ind+Prt+Pl3:эз MatrixVerb-Comparison ;
+оз+V+Neg+Ind+Prt+Pl3:эзӧ MatrixVerb-Comparison ;
 
 !Imperative
 оз+V+Neg+Imprt+Sg2:эн K ;
@@ -301,8 +302,8 @@ LEXICON future_КУТНЫ
 +Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>ас@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ PresPret1-SgPl3 ; ! 3 PresPret1-SgPl3   ХХХ check this
 
 LEXICON preterite
-+Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>і@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@ PresPret1 ; 
-+Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>і@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@  P3 ; ! 3 
++Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>%{иі%}@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@ PresPret1 ; 
++Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>%{иі%}@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@  P3 ; ! 3 
 +Ind+Prt20@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@:%>ӧм@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@ Pret2a ;
 
 LEXICON preterite_КЫЙНЫ
@@ -316,8 +317,8 @@ LEXICON preterite_АМНЫ
 +Ind+Prt20@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@:%>ӧм@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@ Pret2a ;
 
 LEXICON preterite_КУТНЫ
-+Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>і@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@ PresPret1 ; 
-+Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>і@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@  P3 ; ! 3 
++Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>%{иі%}@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@ PresPret1 ; 
++Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>%{иі%}@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@  P3 ; ! 3 
 +Ind+Prt20@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@:%>ӧм@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@ Pret2a ;
 
 LEXICON imperative
@@ -360,7 +361,7 @@ LEXICON SG3
   
 LEXICON PL3
 +Pl300@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ны@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ;
-+Pl300@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ны@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ;
+!+Pl300@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ны@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ;
 
 LEXICON Pret2a
 :а PRET2-linkki-a ;
@@ -374,10 +375,12 @@ LEXICON Pret2a
  
 
 LEXICON PRET2PL2
-+Sg200@U.CONJ-NX.SG@@U.CONJ-PX.2@:%>ыд@U.CONJ-NX.SG@@U.CONJ-PX.2@ VerbEnd-Comparison ;
++Sg200@U.CONJ-NX.SG@@U.CONJ-PX.2@:%>ыт@U.CONJ-NX.SG@@U.CONJ-PX.2@ VerbEnd-Comparison ;
++Sg200@U.CONJ-NX.SG@@U.CONJ-PX.2@:%>ат@U.CONJ-NX.SG@@U.CONJ-PX.2@ VerbEnd-Comparison ;
 +Pl2000@U.CONJ-NX.PL@@U.CONJ-PX.2@:%>ныт@U.CONJ-NX.PL@@U.CONJ-PX.2@ VerbEnd-Comparison ;
-+Pl2000000@U.CONJ-NX.PL@@U.CONJ-PX.2@:%>нытӧсь@U.CONJ-NX.PL@@U.CONJ-PX.2@ VerbEnd-Comparison ; !224
-+Pl300@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ны@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ; !227
++Sg3@U.CONJ-NX.SG@@U.CONJ-PX.3@:0@U.CONJ-NX.SG@@U.CONJ-PX.3@ VerbEnd-Comparison ; !2016.10.25 Цыпанов 1999: 64
+!+Pl2000000@U.CONJ-NX.PL@@U.CONJ-PX.2@:%>нытӧсь@U.CONJ-NX.PL@@U.CONJ-PX.2@ VerbEnd-Comparison ; !224
+!+Pl300@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ны@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ; !227
 
 LEXICON PRET2-linkki-a
 !+Sg1+Err/Orth: VerbEnd-Comparison ; ! no Sg1 for Prt2 in the standard
@@ -482,48 +485,48 @@ LEXICON VerbDer_АРТАСЬНЫ !!≈ * __@CODE@__
 LEXICON VerbDer-ONSET_Ӧ !!≈ * __@CODE@__ 
 +Der/ӧм+Event:%>ӧм Noun1 ;
 +Der/ӧм+Event+N+Ins:%>ӧмӧн K ;
-+Der/ісь+ActPrsPtc:%>ісь N_ ; !!≈ * __@CODE@__ kpv ысь
++Der/ісь+ActPrsPtc:%>%{иі%}сь N_ ; !!≈ * __@CODE@__ kpv ысь
 
 LEXICON VerbDer-ONSET_І !!≈ * __@CODE@__ 
   ! nonfinites
-+Der/иг+Duration+Ger:%>іг K ; ! gerund (at the same time as the action)
++Der/иг+Duration+Ger:%>%{иі%}г K ; ! gerund (at the same time as the action)
 !352 Pl
-+Der/иг+Duration+Ger+Pl:%>ігъяс K ;
-+Der/иг+Duration+Ger+Pl+Ill:%>ігъясӧ K ; !345
-+Der/иг+Duration+Ger+Pl+Ill+PxSg1:%>ігъясам K ;
-+Der/иг+Duration+Ger+Pl+Ill+PxSg2:%>ігъясад K ;
-+Der/иг+Duration+Ger+Pl+Ill+PxSg3:%>ігъясас K ;
-+Der/иг+Duration+Ger+Pl+Ill+PxPl1:%>ігъясаным K ;
-+Der/иг+Duration+Ger+Pl+Ill+PxPl2:%>ігъясаныт K ;
-+Der/иг+Duration+Ger+Pl+Ill+PxPl3:%>ігъясаныс K ;
-+Der/иг+Duration+Ger+Pl+Ins+NoPoss:%>ігъясӧн K ;! 2000:359 
++Der/иг+Duration+Ger+Pl:%>%{иі%}гъяс K ;
++Der/иг+Duration+Ger+Pl+Ill:%>%{иі%}гъясӧ K ; !345
++Der/иг+Duration+Ger+Pl+Ill+PxSg1:%>%{иі%}гъясам K ;
++Der/иг+Duration+Ger+Pl+Ill+PxSg2:%>%{иі%}гъясад K ;
++Der/иг+Duration+Ger+Pl+Ill+PxSg3:%>%{иі%}гъясас K ;
++Der/иг+Duration+Ger+Pl+Ill+PxPl1:%>%{иі%}гъясаным K ;
++Der/иг+Duration+Ger+Pl+Ill+PxPl2:%>%{иі%}гъясаныт K ;
++Der/иг+Duration+Ger+Pl+Ill+PxPl3:%>%{иі%}гъясаныс K ;
++Der/иг+Duration+Ger+Pl+Ins+NoPoss:%>%{иі%}гъясӧн K ;! 2000:359 
                                            !And Marina 2011-10-05 no Px
-+Der/иг+Duration+Ger+Sg+Ill:%>ігӧ K ;
-+Der/иг+Duration+Ger+Sg+Ill+PxSg1:%>ігам K ;
-+Der/иг+Duration+Ger+Sg+Ill+PxSg2:%>ігад K ;
-+Der/иг+Duration+Ger+Sg+Ill+PxSg3:%>ігас K ;
-+Der/иг+Duration+Ger+Sg+Ill+PxPl1:%>іганым K ;
-+Der/иг+Duration+Ger+Sg+Ill+PxPl2:%>іганыт K ;
-+Der/иг+Duration+Ger+Sg+Ill+PxPl3:%>іганыс K ;
-+Der/иг+Duration+Ger+Sg+Ins:%>ігӧн PossessiveSuffixes_NoSg1 ; !Ӧнія коми кыв, 2000: 360
++Der/иг+Duration+Ger+Sg+Ill:%>%{иі%}гӧ K ;
++Der/иг+Duration+Ger+Sg+Ill+PxSg1:%>%{иі%}гам K ;
++Der/иг+Duration+Ger+Sg+Ill+PxSg2:%>%{иі%}гад K ;
++Der/иг+Duration+Ger+Sg+Ill+PxSg3:%>%{иі%}гас K ;
++Der/иг+Duration+Ger+Sg+Ill+PxPl1:%>%{иі%}ганым K ;
++Der/иг+Duration+Ger+Sg+Ill+PxPl2:%>%{иі%}ганыт K ;
++Der/иг+Duration+Ger+Sg+Ill+PxPl3:%>%{иі%}ганыс K ;
++Der/иг+Duration+Ger+Sg+Ins:%>%{иі%}гӧн PossessiveSuffixes_NoSg1 ; !Ӧнія коми кыв, 2000: 360
 !351 Pl
-+Der/иг+Duration+Ger+Der/моз:%>ігмоз PossessiveSuffixes_NoSg1 ; !371
-+Der/иг+Duration+Ger+Der/сор:%>ігсор K ;
-+Der/иг+Duration+Ger+Der/сор+Ins:%>ігсорӧн K ;
-+Der/иг+Duration+Ger+Der/тыр:%>ігтыр K ;
-+Der/иг+Duration+Ger+Der/тырйи:%>ігтырйи PossessiveSuffixes_NoSg1 ; !374
-+Der/иг+Duration+Ger+Der/тыръя:%>ігтыръя K ;
-+Der/иг+Duration+Ger+Der/чӧж:%>ігчӧж PossessiveSuffixes_NoSg1 ; !377
-+Der/иг+Duration+Ger+Der/чӧж+Ins:%>ігчӧжӧн K ; !
-+Der/иг+Duration+Ger+Der/кості:%>ігкості PossessiveSuffixes_NoSg1 ; !352, 379
-+Der/иг+Duration+Ger+Der/коста:%>ігкоста K ;
-+Der/иг+Duration+Ger+Der/кежлӧ:%>ігкежлӧ K ; !393
++Der/иг+Duration+Ger+Der/моз:%>%{иі%}гмоз PossessiveSuffixes_NoSg1 ; !371
++Der/иг+Duration+Ger+Der/сор:%>%{иі%}гсор K ;
++Der/иг+Duration+Ger+Der/сор+Ins:%>%{иі%}гсорӧн K ;
++Der/иг+Duration+Ger+Der/тыр:%>%{иі%}гтыр K ;
++Der/иг+Duration+Ger+Der/тырйи:%>%{иі%}гтырйи PossessiveSuffixes_NoSg1 ; !374
++Der/иг+Duration+Ger+Der/тыръя:%>%{иі%}гтыръя K ;
++Der/иг+Duration+Ger+Der/чӧж:%>%{иі%}гчӧж PossessiveSuffixes_NoSg1 ; !377
++Der/иг+Duration+Ger+Der/чӧж+Ins:%>%{иі%}гчӧжӧн K ; !
++Der/иг+Duration+Ger+Der/кості:%>%{иі%}гкості PossessiveSuffixes_NoSg1 ; !352, 379
++Der/иг+Duration+Ger+Der/коста:%>%{иі%}гкоста K ;
++Der/иг+Duration+Ger+Der/кежлӧ:%>%{иі%}гкежлӧ K ; !393
 
-+Der/иг+Duration+Ger+Der/кежлӧ+PxSg2:%>ігкежлад K ;
-+Der/иг+Duration+Ger+Der/кежлӧ+PxSg3:%>ігкежлас K ;
-+Der/иг+Duration+Ger+Der/кежлӧ+PxPl1:%>ігкежланым K ;
-+Der/иг+Duration+Ger+Der/кежлӧ+PxPl2:%>ігкежланыт K ;
-+Der/иг+Duration+Ger+Der/кежлӧ+PxPl3:%>ігкежланыс K ;
++Der/иг+Duration+Ger+Der/кежлӧ+PxSg2:%>%{иі%}гкежлад K ;
++Der/иг+Duration+Ger+Der/кежлӧ+PxSg3:%>%{иі%}гкежлас K ;
++Der/иг+Duration+Ger+Der/кежлӧ+PxPl1:%>%{иі%}гкежланым K ;
++Der/иг+Duration+Ger+Der/кежлӧ+PxPl2:%>%{иі%}гкежланыт K ;
++Der/иг+Duration+Ger+Der/кежлӧ+PxPl3:%>%{иі%}гкежланыс K ;
 
 LEXICON VerbDer-ONSET_И !!≈ * __@CODE@__ 
 +Der/иг+Duration+Ger:%>иг K ; ! gerund (at the same time as the action)
