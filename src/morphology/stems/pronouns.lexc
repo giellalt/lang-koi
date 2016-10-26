@@ -10,5 +10,7 @@ pronoun    Cases   ;
 ми:ми PERS-PL1_  "(kpv)..ми:ми.." ; 
 ті:ті PERS-PL2_  "(kpv)..ті:ті.." ;
 нія:н PERS-PL3_  "(kpv)..найӧ:на.." ;
+кинкӧ:кин PRONINDEFTAG-KO  "(kpv)..кодкӧ:код PRONINDEFTAG-KO.." ;
+
 
 ! vim: set ft=xfst-lexc:

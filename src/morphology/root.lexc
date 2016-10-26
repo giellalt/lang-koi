@@ -117,6 +117,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 ! +Der/Apr+Prl, +Der/Apr+Tra
 ! +Der/Apr+Ter
 
++Der/Ок
++Der/Dimin
 
 
 !! The possession is marked as such:
@@ -521,8 +523,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 !  ---------------
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
- {aä} {oö} {uü}
 к2 л2 м2 т2 ь2 К2 Л2 М2 Т2 Ь2 И2 %>
+%{иі%} 
 
 !! And following triggers to control variation
  {front} {back}
@@ -678,7 +680,10 @@ LEXICON Root
    Nouns       ;
    Verbs       ;
    Adjectives  ;
+   Adpositions  ;
    Adverbs  ;
+   Conjunctors	;
+   Particles	;
    Pronouns    ;
    Numerals    ;
    Prefixes    ;
@@ -687,9 +692,12 @@ VERBNEGATIVE ;
 
 !! Incoming for conversion from kpv
 +EOLang/KPV: A_NEWWORDS ;
++EOLang/KPV: ADP_NEWWORDS ;
 +EOLang/KPV: ADV_NEWWORDS ;
++EOLang/KPV: CONJ_NEWWORDS ;
 +EOLang/KPV: N_NEWWORDS ;
 +EOLang/KPV: NUM_NEWWORDS ;
++EOLang/KPV: PCLE_NEWWORDS ;
 +EOLang/KPV: PRON_NEWWORDS ;
 +EOLang/KPV: PROPERNOUNS-TOPONYMS-KOMI_NEWWORDS ;
 +EOLang/KPV: V_NEWWORDS ;

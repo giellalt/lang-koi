@@ -24,21 +24,30 @@ GT_LEXC_ROOT=root.lexc
 # Set this to the names of all regular lexc source files:
 GT_LEXC_SRCS_L1_L2=\
 			 affixes/adjectives.lexc  \
+			 affixes/adpositions.lexc  \
 			 affixes/adverbs.lexc  \
+			 affixes/conjunctors.lexc       \
 			 affixes/nouns.lexc       \
 			 affixes/numerals.lexc       \
+			 affixes/particles.lexc       \
 			 affixes/pronouns.lexc \
 			 affixes/propernouns.lexc \
 			 affixes/verbs.lexc       \
-			 stems/adjectives.lexc    \
 			 stems/abbreviations.lexc  \
+			 stems/adjectives.lexc    \
 			 stems/adjectives_newwords.lexc    \
+			 stems/adpositions.lexc    \
+			 stems/adpositions_newwords.lexc    \
 			 stems/adverbs.lexc    \
 			 stems/adverbs_newwords.lexc    \
+			 stems/conjunctors.lexc         \
+			 stems/conjunctors_newwords.lexc         \
 			 stems/nouns.lexc         \
 			 stems/nouns_newwords.lexc         \
 			 stems/numerals.lexc      \
 			 stems/numerals_newwords.lexc      \
+			 stems/particles.lexc         \
+			 stems/particles_newwords.lexc         \
 			 stems/prefixes.lexc      \
 			 stems/pronouns.lexc      \
 			 stems/pronouns_newwords.lexc      \
