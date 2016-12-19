@@ -287,19 +287,19 @@ LEXICON present_КУТНЫ
 
 LEXICON future
 +Ind+Fut@U.CONJ-MX.IND@@U.CONJ-TX.FUT@:%>а@U.CONJ-MX.IND@@U.CONJ-TX.FUT@ PresPret1 ; ! 1,2  Future
-+Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>ас@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ PresPret1-SgPl3 ; ! 3 PresPret1-SgPl3   ХХХ check this
++Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>ас@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
 
 LEXICON future_КЫЙНЫ
 +Ind+Fut@U.CONJ-MX.IND@@U.CONJ-TX.FUT@:%>я@U.CONJ-MX.IND@@U.CONJ-TX.FUT@ PresPret1 ; ! 1,2  Future
-+Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>яс@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ PresPret1-SgPl3 ; ! 3 PresPret1-SgPl3   ХХХ check this
++Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>яс@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
 
 LEXICON future_АМНЫ
 +Ind+Fut@U.CONJ-MX.IND@@U.CONJ-TX.FUT@:%>а@U.CONJ-MX.IND@@U.CONJ-TX.FUT@ PresPret1 ; ! 1,2  Future
-+Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>ас@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ PresPret1-SgPl3 ; ! 3 PresPret1-SgPl3   ХХХ check this
++Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>ас@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
 
 LEXICON future_КУТНЫ
 +Ind+Fut@U.CONJ-MX.IND@@U.CONJ-TX.FUT@:%>а@U.CONJ-MX.IND@@U.CONJ-TX.FUT@ PresPret1 ; ! 1,2  Future
-+Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>ас@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ PresPret1-SgPl3 ; ! 3 PresPret1-SgPl3   ХХХ check this
++Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>ас@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
 
 LEXICON preterite
 +Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>%{иі%}@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@ PresPret1 ; 
@@ -344,12 +344,11 @@ LEXICON PresPret1  ! First and second person
 +Pl10@U.CONJ-NX.PL@@U.CONJ-PX.1@:%>м@U.CONJ-NX.PL@@U.CONJ-PX.1@ VerbEnd-Comparison ; 
 +Pl1+Err/Orth0@U.CONJ-NX.PL@@U.CONJ-PX.1@:%>мӧ@U.CONJ-NX.PL@@U.CONJ-PX.1@ VerbEnd-Comparison ; 
 +Pl1000@U.CONJ-NX.PL@@U.CONJ-PX.1@:%>мӧй@U.CONJ-NX.PL@@U.CONJ-PX.1@ VerbEnd-Comparison ;  ! imperatiivi / optatiivi ??
-+Pl20000@U.CONJ-NX.PL@@U.CONJ-PX.2@:%>нныт@U.CONJ-NX.PL@@U.CONJ-PX.2@ VerbEnd-Comparison ;
-+Pl2+Err/Orth@U.CONJ-NX.PL@@U.CONJ-PX.2@:%>д@U.CONJ-NX.PL@@U.CONJ-PX.2@ VerbEnd-Comparison ; 
++Pl2@U.CONJ-NX.PL@@U.CONJ-PX.2@:%>т@U.CONJ-NX.PL@@U.CONJ-PX.2@ VerbEnd-Comparison ; 
 
 LEXICON P3         
-00@U.CONJ-PX.3@:%>с@U.CONJ-PX.3@ PresPret1-SgPl3 ; ! This is regular
-@U.CONJ-PX.3@  PresPret1-SgPl3 ; ! This is usually restricted to intransitives
+00@U.CONJ-PX.3@:%>с@U.CONJ-PX.3@ FutPret1-SgPl3 ; ! This is regular
+!@U.CONJ-PX.3@  PresPret1-SgPl3 ; ! This is usually restricted to intransitives
 
 
 LEXICON PresPret1-SgPl3
@@ -362,6 +361,15 @@ LEXICON SG3
 LEXICON PL3
 +Pl300@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ны@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ;
 !+Pl300@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ны@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ;
+
+LEXICON FutPret1-SgPl3
+Fut/Pret1-Sg3 ;
+Fut/Pret1-Pl3 ;
+LEXICON Fut/Pret1-Sg3
++Sg3@U.CONJ-NX.SG@@U.CONJ-PX.3@:0@U.CONJ-NX.SG@@U.CONJ-PX.3@ VerbEnd-Comparison ;
+LEXICON Fut/Pret1-Pl3
++Pl300@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ӧ@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ;
+
 
 LEXICON Pret2a
 :а PRET2-linkki-a ;
