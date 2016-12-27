@@ -97,7 +97,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Car !! carative -тӧг
  +Cns !! consecultative -ла
  +Com !! Comitative -кӧд
- +Comp !! Comparative case form -ся
+ +Cmpr !! Comparative case form -ся
  +Dat !! dative case -лы
  +Egr !! egressive -сянь
  +Ela !! elative -ысь
@@ -127,7 +127,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Px1 +Px2 +Px3
  
 !! The comparative forms are:
- +Compar +Superl
+ +Comp +Superl
 !! Numerals are classified under:
  +Attr +Card
  +Ord
@@ -530,6 +530,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  {front} {back}
 %^1Cns   !!= * @CODE@ Plural-initial; it allows for doubling of consonant
 
++Cmp
 !! !!Flag diacritics
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics - only allow compounds
