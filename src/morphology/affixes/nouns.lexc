@@ -206,7 +206,7 @@ ELA_ісь-THEN-K ;
 +Com:%>кӧт K ;
 +Car:%>тӧг K ;
 +Cns:%>ла K ;
-+Comp:%>ся K ;
++Cmpr:%>ся K ;
 +Apr:%>лань SPAT-COMPARATIVE ;
 +Egr:%>сянь SPAT-COMPARATIVE ;
 +Tra:%>ті K ;
@@ -231,7 +231,7 @@ ELA_ісь-THEN-K ;
 !! SG2
 +Ins+PxSg2:%>над K ;
 +Car+PxSg2:%>тӧгыд K ;
-+Comp+PxSg2:%>сяыд K ;
++Cmpr+PxSg2:%>сяыд K ;
 +Ela+PxSg2:%>сьыд SPAT-COMPARATIVE ;
 +Apr+PxSg2:%>ланьыд SPAT-COMPARATIVE ;
 +Egr+PxSg2:%>сяньыд SPAT-COMPARATIVE ;
@@ -249,7 +249,7 @@ ELA_ісь-THEN-K ;
 +PxSg3+Acc3:%>сӧ K ;
 +Ins+PxSg3:%>нас K ;
 +Car+PxSg3:%>тӧгыс K ;
-+Comp+PxSg3:%>сяыс K ;
++Cmpr+PxSg3:%>сяыс K ;
 +Ela+PxSg3:%>сьыс SPAT-COMPARATIVE ;
 +Apr+PxSg3:%>ланьыс SPAT-COMPARATIVE ;
 +Egr+PxSg3:%>сяньыс SPAT-COMPARATIVE ;
@@ -273,7 +273,7 @@ ELA_ісь-THEN-K ;
 +Car+PxPl1:%>тӧгным K ;
 +PxPl1+Car:%>нымтӧг K ;
 +PxPl1+Cns:%>нымла K ;
-+Comp+PxPl1:%>сяным K ;
++Cmpr+PxPl1:%>сяным K ;
 +Ela+PxPl1:%>сьыным SPAT-COMPARATIVE ;
 
 +Apr+PxPl1:%>ланьным SPAT-COMPARATIVE ;
@@ -299,7 +299,7 @@ ELA_ісь-THEN-K ;
 +PxPl2+Com:%>ныткӧт K ;
 +Car+PxPl2:%>тӧгныт K ;
 +PxPl2+Cns:%>нытла K ;
-+Comp+PxPl2:%>сяныт K ;
++Cmpr+PxPl2:%>сяныт K ;
 +Ela+PxPl2:%>сьыныт SPAT-COMPARATIVE ;
 +PxPl2+Apr:%>нытлань SPAT-COMPARATIVE ;
 +Egr+PxPl2:%>сяньныт SPAT-COMPARATIVE ;
@@ -323,7 +323,7 @@ ELA_ісь-THEN-K ;
 +PxPl3+Com:%>ныскӧт K ;
 +Car+PxPl3:%>тӧгныс K ;
 +PxPl3+Cns:%>нысла K ;
-+Comp+PxPl3:%>сяныс K ;
++Cmpr+PxPl3:%>сяныс K ;
 +Ela+PxPl3:%>сьыныс SPAT-COMPARATIVE ;
 +PxPl3+Apr:%>ныслань SPAT-COMPARATIVE ;
 +Apr+PxPl3:%>ланьныс SPAT-COMPARATIVE ;
@@ -401,7 +401,7 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 +PxSg1+Com:%>ӧйкӧт K ;
 +PxSg1+Car:%>ӧйтӧг K ;
 +PxSg1+Cns:%>ӧйла K ;
-+PxSg1+Comp:%>ӧйся K ;
++PxSg1+Cmpr:%>ӧйся K ;
 +PxSg1+Apr:%>ӧйлань SPAT-COMPARATIVE ;
 +PxSg1+Egr:%>ӧйсянь SPAT-COMPARATIVE ;
 +Prl+PxSg1:%>ӧдым K ;
@@ -487,16 +487,16 @@ LEXICON DERIVEDADJ
     
 
 LEXICON AdjCompar
-+Der/жык+Compar:%>жык PredMonLex ;
-+Der/жык+Compar+Der/а:%>жыка ADV_ ;
-+Der/жык+Compar+Der/MWN+N+Sg:%>жык CASEPOSSLEX-afterDerivation ;
-+Der/жык+Compar+Der/MWN+N+Pl:%>жыккез CASEPOSSLEX-afterDerivation ;
++Der/жык+Comp:%>жык PredMonLex ;
++Der/жык+Comp+Der/а:%>жыка ADV_ ;
++Der/жык+Comp+Der/MWN+N+Sg:%>жык CASEPOSSLEX-afterDerivation ;
++Der/жык+Comp+Der/MWN+N+Pl:%>жыккез CASEPOSSLEX-afterDerivation ;
 +Der/MWN+N+Sg: CASEPOSSLEX-afterDerivation ; !This is for adjectives without nouns
 +Der/MWN+N+Pl:%>%^1Cnsэз CASEPOSSLEX-afterDerivation ; !This is for adjectives without nouns
 
 LEXICON IllCompar
  K ;
-+Der/жык+Compar:%>жык K ;
++Der/жык+Comp:%>жык K ;
 
 LEXICON PredMonLex-Spat
  K ;      ! Singular predicative
@@ -505,8 +505,8 @@ LEXICON PredMonLex-Spat
 LEXICON PredMonLex-Spat-Add-Morphology ! This allows consistency 
                                        ! with SPAT elsewhere
 +Pred+Pl:ӧсь K ; ! Plural predicative.
-+Der/жык+Compar:%>жык K ; !ывлаынжык
-+Der/жык+Compar+Pred+Pl:%>жыкӧсь K ; !ывлаынжыкӧсь
++Der/жык+Comp:%>жык K ; !ывлаынжык
++Der/жык+Comp+Pred+Pl:%>жыкӧсь K ; !ывлаынжыкӧсь
 
 
 LEXICON PredMonLex
