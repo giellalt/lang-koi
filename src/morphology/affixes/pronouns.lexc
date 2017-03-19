@@ -215,13 +215,13 @@ APR_сянь-THEN-K ;
 +Prl:ӧд WordEnd ;
 +Tra:ті WordEnd ;
 +Ter:ӧдз WordEnd ;
-+Apr+Ine:ланьын WordEnd ;  ! New cases in last grammar  
-+Apr+Ela:ланьысь WordEnd ;  ! 
-+Apr+Ill:ланьӧ WordEnd ; ! 
-+Apr+Egr:ланьсянь WordEnd ; ! 
-+Apr+Prl:ланьӧд WordEnd ; !
-+Apr+Tra:ланьті WordEnd ; !       
-+Apr+Ter:ланьӧдз WordEnd ; ! 
++AprIne:ланьын WordEnd ;  ! New cases in last grammar  
++AprEla:ланьысь WordEnd ;  ! 
++AprIll:ланьӧ WordEnd ; ! 
++AprEgr:ланьсянь WordEnd ; ! 
++AprPrl:ланьӧд WordEnd ; !
++AprTra:ланьті WordEnd ; !       
++AprTer:ланьӧдз WordEnd ; ! 
 
 
 ! These ones to be removed:
@@ -558,66 +558,66 @@ LEXICON EndRefl
  PRON-REFL-OBL-CASES ;
 
 LEXICON PRON-REFL-OBL-CASES
-+Ela+PxSg1:сьым K ;
-+Ela+PxSg2:сьыд K ;
-+Ela+PxSg3:сьыс K ;
-+Ela+PxPl1:сьыным K ;
-+Ela+PxPl1+Abl:сьынымлісь K ;
-+Ela+PxPl1+Ela:сьынымысь K ;
-+Ela+PxPl2:сьыныд K ;
-+Ela+PxPl3:сьыныс K ;
++Ela+PxSg1:сим K ;
++Ela+PxSg2:сит K ;
++Ela+PxSg3:сис K ;
++Ela+PxPl1:синым K ;
++Ela+PxPl1+Abl:синымлісь K ;
++Ela+PxPl1+Ela:синымысь K ;
++Ela+PxPl2:синыт K ;
++Ela+PxPl3:синыс K ;
 +Dat+PxSg1:лым K ;
-+Dat+PxSg2:лыд K ;
++Dat+PxSg2:лыт K ;
 +Dat+PxSg3:лыс K ;
 +Dat+PxPl1:лыным K ;
-+Dat+PxPl2:лыныд K ;
-+Dat+PxPl2+Dat:лыныдлӧ K ;
++Dat+PxPl2:лыныт K ;
++Dat+PxPl2+Dat:лынытлӧ K ;
 +Dat+PxPl3:лыныс K ;
 +Dat+PxPl3+Dat:лыныслӧ K ;
 +PxPl3+Dat:ныслӧ K ;
-+Sg1+Ins:ӧн K ; !There is no indication of person. = Sg1, Pl3
-+Pl3+Ins:ӧн K ; !There is no indication of person. = Sg1, Pl3
++Ins+PxSg1:ӧн K ; !There is no indication of person. = Sg1, Pl3
++Ins+PxPl3:ӧн K ; !There is no indication of person. = Sg1, Pl3
 +Ins+PxSg1+Ins:намӧн K ;
 +Ins+PxSg2:над K ;
 +Ins+PxSg3:нас K ;
 +Ins+PxPl1:наным K ;
 +Ins+PxPl2:наныд K ;
 +Ins+PxPl3:наныс K ;
-+Sg1+Com:кӧт K ; !There is no indication of person. = Sg1
++Com+PxSg1:кӧт K ; !There is no indication of person. = Sg1
 +Com+PxSg2:кӧтыд K ; !
 +Com+PxSg3:кӧтыс K ; !
 +Com+PxPl1:кӧтным K ; !
 +Com+PxPl2:кӧтныд K ; !
-+PxPl2+Com:ныдкӧт K ; !
++Com+PxPl2:ныдкӧт K ; !
 +Com+PxPl3:кӧтныс K ; !
-+PxPl3+Com:ныскӧт K ; !
-+Sg1+Car:тӧг K ; !There is no indication of person. = Sg1
++Com+PxPl3:ныскӧт K ; !
++Car+PxSg1:тӧг K ; !There is no indication of person. = Sg1
 +Car+PxSg2:тӧгыд K ; !
 +Car+PxSg3:тӧгыс K ; !
 +Car+PxPl1:тӧгным K ; !
 +Car+PxPl2:тӧгныд K ; !
-+PxPl2+Car:ныдтӧг K ; !
++Car+PxPl2:ныдтӧг K ; !
 +Car+PxPl3:тӧгныс K ; !
-+PxPl3+Car:ныстӧг K ; !
-+Sg1+Cons:ла K ; !There is no indication of person. = Sg1
++Car+PxPl3:ныстӧг K ; !
++Cons+PxSg1:ла K ; !There is no indication of person. = Sg1
 +Cons+PxSg2:лаыд K ;
-+PxSg2+Cons:ыдла K ;
-+PxSg3+Cons:ысла K ;
-+PxPl2+Cons:ныдла K ;
-+PxPl3+Cons:нысла K ;
++Cons+PxSg2:ыдла K ;
++Cons+PxSg3:ысла K ;
++Cons+PxPl2:ныдла K ;
++Cons+PxPl3:нысла K ;
 +Ine+PxSg2:ад K ;
 +Ine+PxSg3:ас K ;
 +Ine+PxPl1:аным K ;
 +Ine+PxPl2:аныд K ;
 +Ine+PxPl3:аныс K ;
-+Sg1+Ill:ӧ K ; !There is no indication of person. = Sg1
++Ill+PxSg1:ӧ K ; !There is no indication of person. = Sg1
 +Ill+PxSg1:ам K ; !Ӧнія коми кыв gives this for illative only
 +Ill+PxSg2:ад K ; !
 +Ill+PxSg3:ас K ; !
 +Ill+PxPl1:аным K ; !
 +Ill+PxPl2:аныд K ; !
 +Ill+PxPl3:аныс K ; !
-+Sg1+Apr:лань K ; !There is no indication of person. = Sg1
++Apr+PxSg1:лань K ; !There is no indication of person. = Sg1
 +Apr+PxSg2:ланьыд K ;
 +Apr+PxSg3:ланьыс K ;
 +Apr+PxPl1:ланьным K ;
@@ -804,16 +804,16 @@ LEXICON PRONDEMTAG-APR
 APR_сянь-THEN-K ;
 
 LEXICON PRONDEMTAG-APR-EGR
-+Apr:ланьсянь K ;
++AprEgr:ланьсянь K ;
 
 LEXICON PRONDEMTAG-APR-ELA
-+Apr:ланьысь K ;
++AprEla:ланьысь K ;
 
 LEXICON PRONDEMTAG-APR-ILL
-+Apr:ланьӧ K ;
++AprIll:ланьӧ K ;
 
 LEXICON PRONDEMTAG-APR-INE
-+Apr:ланьын K ;
++AprIne:ланьын K ;
 
 LEXICON PRONDEMTAG-EGR
 +Egr:сянь K ;
@@ -1002,17 +1002,17 @@ CAR_тӧг-THEN-K ;
 
 APR_сянь-THEN-K ;
 +Apr+PxSg3:ланьыс K ;
-+PxSg3+Apr:ыслань K ;
-+PxPl1+Apr:нымлань K ;
-+PxPl2+Apr:ныдлань K ;
-+PxPl3+Apr:ныслань K ;
++Apr+PxSg3:ыслань K ;
++Apr+PxPl1:нымлань K ;
++Apr+PxPl2:ныдлань K ;
++Apr+PxPl3:ныслань K ;
 
 +Tra:ті K ;
 +Tra+PxSg3:тіыс K ;
-+PxSg3+Tra:ысті K ;
-+PxPl1+Tra:нымті K ;
-+PxPl2+Tra:ныдті K ;
-+PxPl3+Tra:нысті K ;
++Tra+PxSg3:ысті K ;
++Tra+PxPl1:нымті K ;
++Tra+PxPl2:ныдті K ;
++Tra+PxPl3:нысті K ;
 
 +Ter:ӧдз K ;
 +PxSg3+Ter:ысӧдз K ;
@@ -1046,14 +1046,14 @@ DAT_лӧ-THEN-K ;
 +PxSg3+Acc3:сӧ K ;
 +Ins:ӧн K ;
 +Com:кӧт K ;
-+PxSg2+Com:ыдкӧт K ;
-+PxSg3+Com:ыскӧт K ;
++Com+PxSg2:ыдкӧт K ;
++Com+PxSg3:ыскӧт K ;
 CAR_тӧг-THEN-K ;
 +Car+PxSg2:тӧгыд K ;
 +Car+PxSg3:тӧгыс K ;
 +Cns:ла K ;
-+PxSg2+Cns:ыдла K ;
-+PxSg3+Cns:ысла K ;
++Cns+PxSg2:ыдла K ;
++Cns+PxSg3:ысла K ;
 +Ine:ын K ;
 ELA_ісь-THEN-K ;
 +Ela+PxSg2:сьыд K ;
