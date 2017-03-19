@@ -94,6 +94,13 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Acc !! accusative -ӧс
  +Abl !! ablative case -лысь
  +Apr !! approximative -лань
+ +AprEgr !! approximative -ланьсянь
+ +AprEla !! approximative -ланьысь
+ +AprIll !! approximative -ланьӧ
+ +AprIne !! approximative -ланьын
+ +AprPrl !! approximative -ланьӧд
+ +AprTer !! approximative -ланьӧдз
+ +AprTra !! approximative -ланьті
  +Car !! carative -тӧг
  +Cns !! consecultative -ла
  +Com !! Comitative -кӧд
