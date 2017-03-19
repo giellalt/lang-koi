@@ -1,0 +1,314 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+  
+  Noun - горт: # Ordinary nouns - full paradigm 'road / tie / дорога'
+     горт+N+Sg+Nom: горт
+     горт+N+Sg+Acc: горт
+     горт+N+Sg+Gen: гортлӧн
+     горт+N+Sg+Abl: гортлісь
+     горт+N+Sg+Dat: гортлӧ
+     горт+N+Sg+Ins: гортӧн
+     горт+N+Sg+Com: горткӧт
+     горт+N+Sg+Car: горттӧг
+     горт+N+Sg+Cns: гортла
+     горт+N+Sg+Cmpr: гортся
+     горт+N+Sg+Ine: гортын
+     горт+N+Sg+Ela: гортісь
+     горт+N+Sg+Ill: гортӧ
+     горт+N+Sg+Apr: гортлань
+     горт+N+Sg+Egr: гортсянь
+     горт+N+Sg+Prl: гортӧт
+     горт+N+Sg+Ter: [гортӧдз, гортви]
+     горт+N+Sg+AprIne: гортланьын
+     горт+N+Sg+AprEla: гортланись
+     горт+N+Sg+AprIll: гортланьӧ
+     горт+N+Sg+AprEgr: гортланьсянь
+     горт+N+Sg+AprTer: гортланьӧдз
+     горт+N+Sg+Nom+PxSg1: гортӧ
+     горт+N+Sg+Gen+PxSg1: гортӧлӧн
+     горт+N+Sg+Abl+PxSg1: гортӧлісь
+     горт+N+Sg+Dat+PxSg1: гортӧлӧ
+     горт+N+Sg+Acc+PxSg1: гортӧс
+     горт+N+Sg+Ins+PxSg1: гортнам
+     горт+N+Sg+Com+PxSg1: гортӧкӧт
+     горт+N+Sg+Car+PxSg1: гортӧтӧг
+     горт+N+Sg+Cns+PxSg1: гортӧла
+     горт+N+Sg+Cmpr+PxSg1: гортӧся
+     горт+N+Sg+Ine+PxSg1: гортам
+     горт+N+Sg+Ela+PxSg1: гортсим
+     горт+N+Sg+Ill+PxSg1: гортам
+     горт+N+Sg+Apr+PxSg1: [гортӧлань, гортланям]
+     горт+N+Sg+Egr+PxSg1: гортӧсянь
+     горт+N+Sg+Prl+PxSg1: [гортӧттям, гортӧттим]
+     горт+N+Sg+Ter+PxSg1: [гортӧдззам, гортӧдззим]
+     горт+N+Sg+AprIne+PxSg1: гортланям
+     горт+N+Sg+AprEla+PxSg1: гортланьсим
+     горт+N+Sg+AprIll+PxSg1: гортланям
+     горт+N+Sg+AprEgr+PxSg1: [гортланьсям, гортӧланьсянь]
+     горт+N+Sg+AprTer+PxSg1: [гортланьӧдззам, гортланьӧдззим]
+     горт+N+Sg+Nom+PxSg2: гортыт
+     горт+N+Sg+Gen+PxSg2: гортытлӧн
+     горт+N+Sg+Abl+PxSg2: гортытлісь
+     горт+N+Sg+Dat+PxSg2: гортытлӧ
+     горт+N+Sg+Acc+PxSg2: горттӧ
+     горт+N+Sg+Ins+PxSg2: гортнат
+     горт+N+Sg+Com+PxSg2: гортыткӧт
+     горт+N+Sg+Car+PxSg2: гортыттӧг
+     горт+N+Sg+Cns+PxSg2: гортытла
+     горт+N+Sg+Cmpr+PxSg2: гортытся
+     горт+N+Sg+Ine+PxSg2: гортат
+     горт+N+Sg+Ela+PxSg2: гортсит
+     горт+N+Sg+Ill+PxSg2: гортат
+     горт+N+Sg+Apr+PxSg2: [гортытлань, гортланят]
+     горт+N+Sg+Egr+PxSg2: гортсянят
+     горт+N+Sg+Prl+PxSg2: [гортӧттят, гортӧттит]
+     горт+N+Sg+Ter+PxSg2: [гортӧдззат, гортӧдззит]
+     горт+N+Sg+AprIne+PxSg2: гортланят
+     горт+N+Sg+AprEla+PxSg2: гортланьсят
+     горт+N+Sg+AprIll+PxSg2: гортланят
+     горт+N+Sg+AprEgr+PxSg2: гортланьсянят
+     горт+N+Sg+AprTer+PxSg2: [гортланьӧдззат, гортланьӧдззит]
+     горт+N+Sg+Nom+PxSg3: гортыс
+     горт+N+Sg+Gen+PxSg3: гортыслӧн
+     горт+N+Sg+Abl+PxSg3: гортыслісь
+     горт+N+Sg+Dat+PxSg3: гортыслӧ
+     горт+N+Sg+Acc+PxSg3: гортсӧ
+     горт+N+Sg+Ins+PxSg3: гортнас
+     горт+N+Sg+Com+PxSg3: гортыскӧт
+     горт+N+Sg+Car+PxSg3: гортыстӧг
+     горт+N+Sg+Cns+PxSg3: гортысла
+     горт+N+Sg+Cmpr+PxSg3: гортысся
+     
+     горт+N+Sg+Ine+PxSg3: гортас
+     горт+N+Sg+Ela+PxSg3: гортсис
+     горт+N+Sg+Ill+PxSg3: гортас
+     горт+N+Sg+Apr+PxSg3: [гортыслань, гортланяс]
+     горт+N+Sg+Egr+PxSg3: гортсяняс
+     горт+N+Sg+Ter+PxSg3: [гортӧдззас, гортӧдззис]
+     горт+N+Sg+AprIne+PxSg3: гортланяс
+     горт+N+Sg+AprEla+PxSg3: гортланьсис
+     горт+N+Sg+AprIll+PxSg3: гортланяс
+     горт+N+Sg+AprEgr+PxSg3: гортланьсяняс
+     горт+N+Sg+AprTer+PxSg3: [гортланьӧдззаc, гортланьӧдззиc]
+     горт+N+Sg+Nom+PxPl1: гортным
+     горт+N+Sg+Gen+PxPl1: гортнымлӧн
+     горт+N+Sg+Abl+PxPl1: гортнымлісь
+     горт+N+Sg+Dat+PxPl1: гортнымлӧ
+     горт+N+Sg+Acc+PxPl1: гортнымӧс
+     горт+N+Sg+Ins+PxPl1: гортнаным
+     горт+N+Sg+Com+PxPl1: гортнымкӧт
+     горт+N+Sg+Car+PxPl1: гортнымтӧг
+     горт+N+Sg+PxPl1+Cns: гортнымла
+     горт+N+Sg+Cmpr+PxPl1: гортнымся
+     горт+N+Sg+Ine+PxPl1: гортаным
+     горт+N+Sg+Ela+PxPl1: гортсиным
+     горт+N+Sg+Ill+PxPl1: гортаным
+     горт+N+Sg+Apr+PxPl1: [гортнымлань, гортланяным]
+     горт+N+Sg+Egr+PxPl1: гортнымсянь
+     горт+N+Sg+Ter+PxPl1: [гортӧдззаным, гортӧдззиным]
+     горт+N+Sg+AprIne+PxPl1: гортнымлань
+     горт+N+Sg+AprEla+PxPl1: гортланьсиным
+     горт+N+Sg+AprIll+PxPl1: гортнымлань
+     горт+N+Sg+AprEgr+PxPl1: гортланьсяньным
+     горт+N+Sg+AprTer+PxPl1: [гортланьӧдззаным, гортланьӧдззиным]
+     горт+N+Sg+Nom+PxPl2: гортныт
+     горт+N+Sg+Gen+PxPl2: гортнытлӧн
+     горт+N+Sg+Abl+PxPl2: гортнытлісь
+     горт+N+Sg+Dat+PxPl2: гортнытлӧ
+     горт+N+Sg+Acc+PxPl2: гортнытӧ
+     горт+N+Sg+Ins+PxPl2: гортнаныт
+     горт+N+Sg+Com+PxPl2: гортныткӧт
+     горт+N+Sg+Car+PxPl2: гортныттӧг
+     горт+N+Sg+Cns+PxPl2: гортнытла
+     горт+N+Sg+Cmpr+PxPl2: гортсянят
+     горт+N+Sg+Ine+PxPl2: гортаныт
+     горт+N+Sg+Ela+PxPl2: гортсиныт
+     горт+N+Sg+Ill+PxPl2: гортаныт
+     горт+N+Sg+Apr+PxPl2: [гортнытлань, гортланяныт]
+     горт+N+Sg+Egr+PxPl2: гортсяньныт
+     горт+N+Sg+Ter+PxPl2: [гортӧдззаныт, гортӧдззиныт]
+     горт+N+Sg+AprIne+PxPl2: гортланяныт
+     горт+N+Sg+AprEla+PxPl2: гортланьсиныт
+     горт+N+Sg+AprIll+PxPl2: гортланяныт
+     горт+N+Sg+AprEgr+PxPl2: гортланьсяньныт
+     горт+N+Sg+AprTer+PxPl2: [гортланьӧдззаныт, гортланьӧдззиныт]
+     горт+N+Sg+Nom+PxPl3: гортныс
+     горт+N+Sg+Gen+PxPl3: гортныслӧн
+     горт+N+Sg+Abl+PxPl3: гортныслісь
+     горт+N+Sg+Dat+PxPl3: гортныслӧ
+     горт+N+Sg+Acc+PxPl3: гортнысӧ
+     горт+N+Sg+Ins+PxPl3: гортнаныс
+     горт+N+Sg+Com+PxPl3: гортныскӧт
+     горт+N+Sg+Car+PxPl3: гортныстӧг
+     горт+N+Sg+Cns+PxPl3: гортнысла
+     горт+N+Sg+Cmpr+PxPl3: гортнысся
+     горт+N+Sg+Ine+PxPl3: гортаныс
+     горт+N+Sg+Ela+PxPl3: гортсиныс
+     горт+N+Sg+Ill+PxPl3: гортаныс
+     горт+N+Sg+Apr+PxPl3: [гортныслань, гортланяныс]
+     горт+N+Sg+Egr+PxPl3: гортсяньныс
+     горт+N+Sg+Ter+PxPl3: [гортӧдззаныс, гортӧдззиныс]
+     горт+N+Sg+AprIne+PxPl3: гортланяныс
+     горт+N+Sg+AprEla+PxPl3: гортланьсиныс
+     горт+N+Sg+AprIll+PxPl3: гортланяныс
+     горт+N+Sg+AprEgr+PxPl3: гортланьсяняныс
+     горт+N+Sg+AprTer+PxPl3: [гортланьӧдззаныс, гортланьӧдззиныс]
+     горт+N+Pl+Nom: горттэз
+     горт+N+Pl+Acc: горттэз
+     горт+N+Pl+Gen: горттэзлӧн
+     горт+N+Pl+Abl: горттэзлісь
+     горт+N+Pl+Dat: горттэзлӧ
+     горт+N+Pl+Ins: горттэзӧн
+     горт+N+Pl+Com: горттэзкӧт
+     горт+N+Pl+Car: горттэзтӧг
+     горт+N+Pl+Cns: горттэзла
+     горт+N+Pl+Cmpr: горттэзся
+     горт+N+Pl+Ine: горттэзын
+     горт+N+Pl+Ela: горттэзісь
+     горт+N+Pl+Ill: горттэзӧ
+     горт+N+Pl+Apr: горттэзлань
+     горт+N+Pl+Egr: горттэзсянь
+     горт+N+Pl+Prl: горттэзӧд
+     горт+N+Pl+Tra: горттэзті
+     горт+N+Pl+Ter: горттэзӧдз
+     горт+N+Pl+AprIne: горттэзланьын
+     горт+N+Pl+AprEla: горттэзланись
+     горт+N+Pl+AprIll: горттэзланьӧ
+     горт+N+Pl+AprEgr: горттэзланьсянь
+     горт+N+Pl+AprPrl: горттэзланьӧт
+     горт+N+Pl+AprTer: горттэзланьӧдз
+     горт+N+Pl+Nom+PxSg1: горттэзӧ
+     горт+N+Pl+Gen+PxSg1: горттэзӧлӧн
+     горт+N+Pl+Abl+PxSg1: горттэзӧлісь
+     горт+N+Pl+Dat+PxSg1: горттэзӧлӧ
+     горт+N+Pl+Acc+PxSg1: горттэзӧс
+     горт+N+Pl+Ins+PxSg1: горттэзнам
+     горт+N+Pl+Com+PxSg1: горттэзӧкӧт
+     горт+N+Pl+Car+PxSg1: горттэзӧтӧг
+     горт+N+Pl+Cns+PxSg1: горттэзӧла
+     горт+N+Pl+Cmpr+PxSg1: горттэзӧся
+     горт+N+Pl+Ine+PxSg1: горттэзам
+     горт+N+Pl+Ela+PxSg1: горттэзсим
+     горт+N+Pl+Ill+PxSg1: горттэзам
+     горт+N+Pl+Apr+PxSg1: горттэзӧлань
+     горт+N+Pl+Egr+PxSg1: горттэзӧсянь
+     горт+N+Pl+Ter+PxSg1: [горттэзӧдззам, горттэзӧдззим]
+     горт+N+Pl+AprIne+PxSg1: горттэзланям
+     горт+N+Pl+AprEla+PxSg1: горттэзланьсим
+     горт+N+Pl+AprIll+PxSg1: горттэзланям
+     горт+N+Pl+AprEgr+PxSg1: горттэзӧланьсянь
+     горт+N+Pl+AprTer+PxSg1: [горттэзланьӧдззам, горттэзланьӧдззим]
+     горт+N+Pl+Nom+PxSg2: [горттэзыт, горттэт]
+     горт+N+Pl+Gen+PxSg2: [горттэзытлӧн, горттэтлӧн]
+     горт+N+Pl+Abl+PxSg2: [горттэзытлісь, горттэтлісь]
+     горт+N+Pl+Dat+PxSg2: [горттэзытлӧ, горттэтлӧ]
+     горт+N+Pl+Acc+PxSg2: [горттэзтӧ, горттэтӧ]
+     горт+N+Pl+Ins+PxSg2: горттэзнат
+     горт+N+Pl+Com+PxSg2: [горттэзыткӧт, горттэткӧт]
+     горт+N+Pl+Car+PxSg2: горттэзыттӧг
+     горт+N+Pl+Cns+PxSg2: [горттэзытла, горттэтла]
+     горт+N+Pl+Cmpr+PxSg2: горттэзытся
+     горт+N+Pl+Ine+PxSg2: горттэзат
+     горт+N+Pl+Ela+PxSg2: горттэзсит
+     горт+N+Pl+Ill+PxSg2: горттэзат
+     горт+N+Pl+Apr+PxSg2: горттэзланят
+     горт+N+Pl+Egr+PxSg2: горттэзсянят
+     горт+N+Pl+Prl+PxSg2: [горттэзӧттят, горттэзӧттит]
+     горт+N+Pl+Ter+PxSg2: [горттэзӧдззат, горттэзӧдззит]
+     горт+N+Pl+AprIne+PxSg2: горттэзланят
+     горт+N+Pl+AprEla+PxSg2: горттэзланьсит
+     горт+N+Pl+AprIll+PxSg2: горттэзланят
+     горт+N+Pl+AprEgr+PxSg2: горттэзланьсянят
+     горт+N+Pl+AprTer+PxSg2: [горттэзланьӧдззат, горттэзланьӧдззит]
+     горт+N+Pl+Nom+PxSg3: [горттэзыс, горттэс]
+     горт+N+Pl+Gen+PxSg3: [горттэзыслӧн, горттэслӧн]
+     горт+N+Pl+Abl+PxSg3: [горттэзыслісь, горттэслісь]
+     горт+N+Pl+Dat+PxSg3: [горттэзыслӧ, горттэслӧ]
+     горт+N+Pl+Acc+PxSg3: горттэзсӧ
+     горт+N+Pl+Ins+PxSg3: горттэзнас
+     горт+N+Pl+Com+PxSg3: [горттэзыскӧт, горттэскӧт]
+     горт+N+Pl+Car+PxSg3: [горттэзыстӧг, горттэстӧг]
+     горт+N+Pl+Cns+PxSg3: [горттэзысла, горттэсла]
+     горт+N+Pl+Cmpr+PxSg3: [горттэзысся, горттэсся]
+     горт+N+Pl+Ine+PxSg3: горттэзас
+     горт+N+Pl+Ela+PxSg3: горттэзсис
+     горт+N+Pl+Ill+PxSg3: горттэзас
+     горт+N+Pl+Apr+PxSg3: горттэзланяс
+     горт+N+Pl+Egr+PxSg3: горттэзсяняс
+     горт+N+Pl+Ter+PxSg3: [горттэзӧдззас, горттэзӧдззис]
+     горт+N+Pl+AprIne+PxSg3: горттэзланяс
+     горт+N+Pl+AprEla+PxSg3: горттэзланьсис
+     горт+N+Pl+AprIll+PxSg3: горттэзланяс
+     горт+N+Pl+AprEgr+PxSg3: горттэзланьсяняс
+     горт+N+Pl+AprTer+PxSg3: [горттэзланьӧдззаc, горттэзланьӧдззиc]
+     горт+N+Pl+Nom+PxPl1: горттэзным
+     горт+N+Pl+Gen+PxPl1: горттэзнымлӧн
+     горт+N+Pl+Abl+PxPl1: горттэзнымлісь
+     горт+N+Pl+Dat+PxPl1: горттэзнымлӧ
+     горт+N+Pl+Acc+PxPl1: горттэзнымӧс
+     горт+N+Pl+Ins+PxPl1: горттэзнаным
+     горт+N+Pl+Com+PxPl1: горттэзнымкӧт
+     горт+N+Pl+Car+PxPl1: горттэзнымтӧг
+     горт+N+Pl+Cns+PxPl1: горттэзнымла
+     горт+N+Pl+Cmpr+PxPl1: горттэзнымся
+     горт+N+Pl+Ine+PxPl1: горттэзаным
+     горт+N+Pl+Ela+PxPl1: горттэзсиным
+     горт+N+Pl+Ill+PxPl1: горттэзаным
+     горт+N+Pl+Apr+PxPl1: горттэзнымлань
+     горт+N+Pl+Egr+PxPl1: горттэзсяняным
+     горт+N+Pl+Ter+PxPl1: [горттэзӧдззаным, горттэзӧдззиным]
+     горт+N+Pl+AprIne+PxPl1: горттэзланяным
+     горт+N+Pl+AprEla+PxPl1: горттэзланьсиным
+     горт+N+Pl+AprIll+PxPl1: горттэзланяным
+     горт+N+Pl+AprEgr+PxPl1: горттэзланьсяняным
+     горт+N+Pl+AprTer+PxPl1: [горттэзланьӧдззаным, горттэзланьӧдззиным]
+     горт+N+Pl+Nom+PxPl2: горттэзныт
+     горт+N+Pl+Gen+PxPl2: горттэзнытлӧн
+     горт+N+Pl+Abl+PxPl2: горттэзнытлісь
+     горт+N+Pl+Dat+PxPl2: горттэзнытлӧ
+     горт+N+Pl+Acc+PxPl2: горттэзнытӧ
+     горт+N+Pl+Ins+PxPl2: горттэзнаныт
+     горт+N+Pl+Com+PxPl2: горттэзныткӧт
+     горт+N+Pl+Car+PxPl2: горттэзныттӧг
+     горт+N+Pl+Cns+PxPl2: горттэзнытла
+     горт+N+Pl+Cmpr+PxPl2: горттэзнытся
+     горт+N+Pl+Ine+PxPl2: горттэзаныт
+     горт+N+Pl+Ela+PxPl2: горттэзсиныт
+     горт+N+Pl+Ill+PxPl2: горттэзаныт
+     горт+N+Pl+Apr+PxPl2: горттэзнытлань
+     горт+N+Pl+Egr+PxPl2: горттэзсяняныт
+     горт+N+Pl+Ter+PxPl2: [горттэзӧдззаныт, горттэзӧдззиныт]
+     горт+N+Pl+AprIne+PxPl2: горттэзланяныт
+     горт+N+Pl+AprEla+PxPl2: горттэзланьсиныт
+     горт+N+Pl+AprIll+PxPl2: горттэзланяныт
+     горт+N+Pl+AprEgr+PxPl2: горттэзланьсяняныт
+     горт+N+Pl+AprTer+PxPl2: [горттэзланьӧдззаныт, горттэзланьӧдззаныт]
+     горт+N+Pl+Nom+PxPl3: горттэзныс
+     горт+N+Pl+Gen+PxPl3: горттэзныслӧн
+     горт+N+Pl+Abl+PxPl3: горттэзныслісь
+     горт+N+Pl+Dat+PxPl3: горттэзныслӧ
+     горт+N+Pl+Acc+PxPl3: горттэзнысӧ
+     горт+N+Pl+Ins+PxPl3: горттэзнаныс
+     горт+N+Pl+Com+PxPl3: горттэзныскӧт
+     горт+N+Pl+Car+PxPl3: горттэзныстӧг
+     горт+N+Pl+Cns+PxPl3: горттэзнысла
+     горт+N+Pl+Cmpr+PxPl3: горттэзнысся
+     горт+N+Pl+Ine+PxPl3: горттэзаныс
+     горт+N+Pl+Ela+PxPl3: горттэзсиныс
+     горт+N+Pl+Ill+PxPl3: горттэзаныс
+     горт+N+Pl+Apr+PxPl3: [горттэзныслань, горттэзланяныс]
+     горт+N+Pl+Egr+PxPl3: горттэзсяняныс
+     горт+N+Pl+Ter+PxPl3: [горттэзӧдззаныс, горттэзӧдззиныс]
+     горт+N+Pl+AprIne+PxPl3: горттэзланяныс
+     горт+N+Pl+AprEla+PxPl3: горттэзланьсиныс
+     горт+N+Pl+AprIll+PxPl3: горттэзланяныс
+     горт+N+Pl+AprEgr+PxPl3: горттэзланьсяняныс
+     горт+N+Pl+AprTer+PxPl3: [горттэзланьӧдззаныс, горттэзланьӧдззиныс]
