@@ -88,7 +88,7 @@ Rules
 "Double stem-final consonant"
 !! __@RULENAME@__
  %^1Cns:Cy <=> Cy (ь:) %> _ э: ;
-          where Cy in (б в г д ж з к л м н м п р с т ф х ц ч ш щ) ;
+          where Cy in (б в г д ж з к л м н п р с т ф х ц ч ш щ) ;
 
 "%^1Cns to zero"
 !! __@RULENAME@__
