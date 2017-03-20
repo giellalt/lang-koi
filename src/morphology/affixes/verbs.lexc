@@ -344,7 +344,7 @@ LEXICON PresPret1  ! First and second person
 +Pl10@U.CONJ-NX.PL@@U.CONJ-PX.1@:%>м@U.CONJ-NX.PL@@U.CONJ-PX.1@ VerbEnd-Comparison ; 
 +Pl1+Err/Orth0@U.CONJ-NX.PL@@U.CONJ-PX.1@:%>мӧ@U.CONJ-NX.PL@@U.CONJ-PX.1@ VerbEnd-Comparison ; 
 +Pl1000@U.CONJ-NX.PL@@U.CONJ-PX.1@:%>мӧй@U.CONJ-NX.PL@@U.CONJ-PX.1@ VerbEnd-Comparison ;  ! imperatiivi / optatiivi ??
-+Pl2@U.CONJ-NX.PL@@U.CONJ-PX.2@:%>т@U.CONJ-NX.PL@@U.CONJ-PX.2@ VerbEnd-Comparison ; 
++Pl20@U.CONJ-NX.PL@@U.CONJ-PX.2@:%>т@U.CONJ-NX.PL@@U.CONJ-PX.2@ VerbEnd-Comparison ; 
 
 LEXICON P3         
 00@U.CONJ-PX.3@:%>с@U.CONJ-PX.3@ FutPret1-SgPl3 ; ! This is regular
@@ -368,7 +368,7 @@ Fut/Pret1-Pl3 ;
 LEXICON Fut/Pret1-Sg3
 +Sg3@U.CONJ-NX.SG@@U.CONJ-PX.3@:0@U.CONJ-NX.SG@@U.CONJ-PX.3@ VerbEnd-Comparison ;
 LEXICON Fut/Pret1-Pl3
-+Pl300@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ӧ@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ;
++Pl30@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ӧ@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd-Comparison ;
 
 
 LEXICON Pret2a
