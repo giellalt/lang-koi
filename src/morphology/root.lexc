@@ -143,7 +143,12 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Iter ! Iterative form expressing number of times
 
 !! Verb moods are:
- +Ind +Prs +Prt1 +Prt2 +Fut +Imprt 
+ +Imprt !!≈ ;@CODE@: imperative
+ +Ind !!≈ ;@CODE@: indicative
+ +Prs !!≈ ;@CODE@: present      -ӧ
+ +Prt1 !!≈ ;@CODE@: preterite 1 -ис
+ +Prt2 !!≈ ;@CODE@: preterite 2 -ӧма
+ +Fut  !!≈ ;@CODE@: future      -ас
 !!!!! +Pot +Cond
 !! Verb personal forms are:
  +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
