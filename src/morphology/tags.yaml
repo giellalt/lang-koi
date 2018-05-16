@@ -1,12 +1,8 @@
-!!python/object/apply:collections.defaultdict
-args:
-- !!python/name:__builtin__.set ''
-dictitems:
-  Hom: !!set
-    !!python/unicode 'Hom1': null
-    !!python/unicode 'Hom2': null
-  Sem: !!set
-    !!python/unicode 'Sem/Plc': null
-    !!python/unicode 'Sem/Time': null
-  resten: !!set
-    !!python/unicode 'EOLang/KOM': null
+Hom
+	Hom1
+	Hom2
+Sem
+	Sem/Plc
+	Sem/Time
+resten
+	EOLang/KOM
