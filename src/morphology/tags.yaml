@@ -9,13 +9,4 @@ dictitems:
     !!python/unicode 'Sem/Plc': null
     !!python/unicode 'Sem/Time': null
   resten: !!set
-    ? !!python/unicode ''
-    : null
-    !!python/unicode '/-': null
-    !!python/unicode 'ABBR': null
-    !!python/unicode 'CLB': null
     !!python/unicode 'EOLang/KOM': null
-    !!python/unicode 'LEFT': null
-    !!python/unicode 'N': null
-    !!python/unicode 'PUNCT': null
-    !!python/unicode 'RIGHT': null
