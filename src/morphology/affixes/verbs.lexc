@@ -4,6 +4,10 @@
 !! !!!Verbal morphology               
 ! ====================================== !
 
+LEXICON Verbs
+verb    V_   ;
+verbs ; 
+
 LEXICON V_
 +WORK: # ;
 
@@ -53,7 +57,7 @@ LEXICON VERBNEGATIVE
 !! Some Flag diacritic lines are with regexes, other with aligned zeros. We want to migrate to
 !! regexes < … > , for readability reasons (sic!)
 
-LEXICON V_ЛОКНЫ !!≈ * __@CODE@__ One verb only, локны:лок
+LEXICON V_LOKNY !!≈ * __@CODE@__ One verb only, локны:лок
 +V+Inf0@U.CONJ-INF.YES@:%>ны@U.CONJ-INF.YES@ VerbEnd-Comparison ;
 +V+Inf+Px10@U.CONJ-INF.YES@@U.CONJ-POSS.1@:%>ным@U.CONJ-INF.YES@@U.CONJ-POSS.1@ VerbEnd-Comparison ;
 +V+Inf+Px20@U.CONJ-INF.YES@@U.CONJ-POSS.2@:%>ныт@U.CONJ-INF.YES@@U.CONJ-POSS.2@ VerbEnd-Comparison ;
@@ -63,129 +67,134 @@ LEXICON V_ЛОКНЫ !!≈ * __@CODE@__ One verb only, локны:лок
 +V+ConNeg+Pl3@U.CONJ-INF.NO@@U.CONJ-CONNEG.YES@@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ны@U.CONJ-INF.NO@@U.CONJ-CONNEG.YES@@U.CONJ-NX.PL@@U.CONJ-PX.3@ VerbEnd ;
 +V+ConNeg@U.CONJ-INF.NO@@U.CONJ-CONNEG.YES@:00@U.CONJ-INF.NO@@U.CONJ-CONNEG.YES@ VerbEnd ;
 +V+Imprt+Sg2@U.CONJ-INF.NO@@U.CONJ-MX.IMP@@U.CONJ-NX.SG@@U.CONJ-PX.2@:000@U.CONJ-INF.NO@@U.CONJ-MX.IMP@@U.CONJ-NX.SG@@U.CONJ-PX.2@ VerbEnd ;
-+V0@U.CONJ-INF.YES@:%>т@U.CONJ-INF.YES@ VerbDer_КУТНЫ ; !
++V0@U.CONJ-INF.YES@:%>т@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
 +V0@U.CONJ-INF.YES@:%>т@U.CONJ-INF.YES@ VerbDer-V ; !
-+V:т  VerbConj_КУТНЫ ; !а
++V:т  VerbConj_KUTNY ; !а
 
 
-LEXICON VR_ШУНЫ !!≈ * __@CODE@__ 
+LEXICON VR_SHUNY !!≈ * __@CODE@__ 
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ Verb-nyDer ; !
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer ; !
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer-V ; !
 +V+Refl: VerbConj ; !а
 +V+Refl: VerbConj-V ; !б
 
-LEXICON V_ШУНЫ !!≈ * __@CODE@__ шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
+LEXICON V_SHUNY !!≈ * __@CODE@__ шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
 +V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ Verb-nyDer ; !
 +V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer ; !
 +V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer-V ; !
 +V: VerbConj ; !а
 +V: VerbConj-V ; !б
 
-LEXICON VR_АМНЫ !!≈ * __@CODE@__
+LEXICON V_JUAYSHNY !!≈ * __@CODE@__ is there ш : шт gradation
+ V_AMNY ; 
+LEXICON VR_AMNY !!≈ * __@CODE@__
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ Verb-nyDer ; !
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer ; !
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer-V ; !
-+V+Refl: VerbConj_АМНЫ ; !а
++V+Refl: VerbConj_AMNY ; !а
 +V+Refl: VerbConj-V ; !б
 
-LEXICON V_АМНЫ !!≈ * __@CODE@__ амны:ам Ending in -мны, -жны, -дзны,
+LEXICON V_AMNY !!≈ * __@CODE@__ амны:ам Ending in -мны, -жны, -дзны,
 +V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ Verb-nyDer ; !
 +V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer ; !
 +V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer-V ; !
-+V: VerbConj_АМНЫ ; !а
++V: VerbConj_AMNY ; !а
 +V: VerbConj-V ; !б
 
-LEXICON VR_КЫЙНЫ !!≈ * __@CODE@__ 
+LEXICON VR_KYJNY !!≈ * __@CODE@__ 
 +V+Refl@U.CONJ-INF.YES@:й0@U.CONJ-INF.YES@ Verb-nyDer-ONSET-CONS ; !
-+V+Refl@U.CONJ-INF.YES@:й0@U.CONJ-INF.YES@ Verb-nyDer-ONSET-Ы ; !
-+V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ Verb-nyDer-ONSET-Я ; !
-+V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer_КЫЙНЫ ; !
++V+Refl@U.CONJ-INF.YES@:й0@U.CONJ-INF.YES@ Verb-nyDer-ONSET-Y ; !
++V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ Verb-nyDer-ONSET-JA ; !
++V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer_KYJNY ; !
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer-V ; !
-+V+Refl: VerbConj_КЫЙНЫ ; !а
++V+Refl: VerbConj_KYJNY ; !а
 +V+Refl:й VerbConj-V ; !б
 
-LEXICON V_КЫЙНЫ !!≈ * __@CODE@__ кыйны:кы Ending in -йны, 
+LEXICON V_KYJNY !!≈ * __@CODE@__ кыйны:кы Ending in -йны, 
 +V@U.CONJ-INF.YES@:й@U.CONJ-INF.YES@ Verb-nyDer-ONSET-CONS ; !
-+V@U.CONJ-INF.YES@:й@U.CONJ-INF.YES@ Verb-nyDer-ONSET-Ы ; !
-+V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ Verb-nyDer-ONSET-Я ; !
-+V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer_КЫЙНЫ ; !
++V@U.CONJ-INF.YES@:й@U.CONJ-INF.YES@ Verb-nyDer-ONSET-Y ; !
++V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ Verb-nyDer-ONSET-JA ; !
++V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer_KYJNY ; !
 +V@U.CONJ-INF.YES@:й@U.CONJ-INF.YES@ VerbDer-V ; !
-+V: VerbConj_КЫЙНЫ ; !а
++V: VerbConj_KYJNY ; !а
 +V:й VerbConj-V ; !б
 
-LEXICON VR_КУТНЫ !!≈ * __@CODE@__
+LEXICON V_CHILOESNY !!≈ * __@CODE@__ is there s : st alternation 2018-09-01
+ V_KUTNY ;
+
+LEXICON VR_KUTNY !!≈ * __@CODE@__
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ Verb-nyDer ; !
-+V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer_КУТНЫ ; !
++V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer-V ; !
-+V+Refl: VerbConj_КУТНЫ ; !а
++V+Refl: VerbConj_KUTNY ; !а
 +V+Refl: VerbConj-V ; !б
 
-LEXICON V_КУТНЫ !!≈ * __@CODE@__ шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
+LEXICON V_KUTNY !!≈ * __@CODE@__ шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
 +V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ Verb-nyDer ; !
-+V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer_КУТНЫ ; !
++V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
 +V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer-V ; !
-+V: VerbConj_КУТНЫ ; !а
++V: VerbConj_KUTNY ; !а
 +V: VerbConj-V ; !б
 
-LEXICON VR_НУАВНЫ !!≈ * __@CODE@__ нуавны:нуа
+LEXICON VR_NUAVNY !!≈ * __@CODE@__ нуавны:нуа
 +V+Refl@U.CONJ-INF.YES@:в0@U.CONJ-INF.YES@ Verb-nyDer-ONSET-CONS ; !
 +V+Refl@U.CONJ-INF.YES@:л0@U.CONJ-INF.YES@ Verb-nyDer-ONSET-VOW ; !
-+V+Refl@U.CONJ-INF.YES@:л0@U.CONJ-INF.YES@ VerbDer_КУТНЫ ; !
++V+Refl@U.CONJ-INF.YES@:л0@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
 +V+Refl@U.CONJ-INF.YES@:в0@U.CONJ-INF.YES@ VerbDer-V ; !
-+V+Refl:л VerbConj_КУТНЫ ; !а
++V+Refl:л VerbConj_KUTNY ; !а
 +V+Refl:в VerbConj-V ; !б
 
-LEXICON V_НУАВНЫ !!≈ * __@CODE@__ нуавны:нуа
+LEXICON V_NUAVNY !!≈ * __@CODE@__ нуавны:нуа
 +V@U.CONJ-INF.YES@:в@U.CONJ-INF.YES@ Verb-nyDer-ONSET-CONS ; !
 +V@U.CONJ-INF.YES@:л@U.CONJ-INF.YES@ Verb-nyDer-ONSET-VOW ; !
-+V@U.CONJ-INF.YES@:л@U.CONJ-INF.YES@ VerbDer_КУТНЫ ; !
++V@U.CONJ-INF.YES@:л@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
 +V@U.CONJ-INF.YES@:в@U.CONJ-INF.YES@ VerbDer-V ; !
-+V:л VerbConj_КУТНЫ ; !а
++V:л VerbConj_KUTNY ; !а
 +V:в VerbConj-V ; !! Consonant-onset
 
-LEXICON VR_АРТАСЬНЫ !!≈ * __@CODE@__
+LEXICON VR_ARTASJNY !!≈ * __@CODE@__
 +V+Refl@U.CONJ-INF.YES@:ь0@U.CONJ-INF.YES@ Verb-nyDer-ONSET-CONS ; !
-+V+Refl@U.CONJ-INF.YES@:ь0@U.CONJ-INF.YES@ Verb-nyDer-ONSET-Ы ; !
-+V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ Verb-nyDer-ONSET-Я ; !
-+V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer_АРТАСЬНЫ ; !
++V+Refl@U.CONJ-INF.YES@:ь0@U.CONJ-INF.YES@ Verb-nyDer-ONSET-Y ; !
++V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ Verb-nyDer-ONSET-JA ; !
++V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer_ARTASJNY ; !
 +V+Refl@U.CONJ-INF.YES@:ь0@U.CONJ-INF.YES@ VerbDer-V ; !
 +V+Refl: VerbConj ; !а
 +V+Refl: VerbConj-V ; !б
 
-LEXICON V_АРТАСЬНЫ !!≈ * __@CODE@__ артасьны:артас -Cны.
+LEXICON V_ARTASJNY !!≈ * __@CODE@__ артасьны:артас -Cны.
 +V@U.CONJ-INF.YES@:ь@U.CONJ-INF.YES@ Verb-nyDer ; !
-+V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer_АРТАСЬНЫ ; !
++V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer_ARTASJNY ; !
 +V@U.CONJ-INF.YES@:ь@U.CONJ-INF.YES@ VerbDer-V ; !
 +V: VerbConj ; !а
 +V: VerbConj-V ; !б
 
-LEXICON VR_ЛЫДДЬЫНЫ !!≈ * __@CODE@__ 
+LEXICON VR_LYDDJYNY !!≈ * __@CODE@__ 
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ Verb-ynyDer ; !
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer ; !
 +V+Refl@U.CONJ-INF.YES@:ы0@U.CONJ-INF.YES@ VerbDer-V ; !
 +V+Refl: VerbConj ; ! check this!!!
 +V+Refl:ы VerbConj-V ; ! check this!!!
 
-LEXICON V_ЛЫДДЬЫНЫ !!≈ * __@CODE@__ лыддьыны:лыддь ! ярмыны. Multiple-syllable verb ending in -ыны.
+LEXICON V_LYDDJYNY !!≈ * __@CODE@__ лыддьыны:лыддь ! ярмыны. Multiple-syllable verb ending in -ыны.
 +V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ Verb-ynyDer ; !
 +V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer ; !
 +V@U.CONJ-INF.YES@:ы@U.CONJ-INF.YES@ VerbDer-V ; !
 +V: VerbConj ; ! check this!!!
 +V:ы VerbConj-V ; ! check this!!!
 
-LEXICON VR_ВОЛЫНЫ !!≈ * __@CODE@__ 
+LEXICON VR_VOLYNY !!≈ * __@CODE@__ 
 +V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ Verb-ynyDer ; !
-+V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer_КУТНЫ ; !
++V+Refl@U.CONJ-INF.YES@:00@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
 +V+Refl@U.CONJ-INF.YES@:ы0@U.CONJ-INF.YES@ VerbDer-V ; !
-+V+Refl: VerbConj_КУТНЫ ; ! check this!!!
++V+Refl: VerbConj_KUTNY ; ! check this!!!
 +V+Refl:ы VerbConj-V ; ! check this!!!
 
-LEXICON V_ВОЛЫНЫ !!≈ * __@CODE@__ волыны:лыддь ! ярмыны. Multiple-syllable verb ending in -ыны.
+LEXICON V_VOLYNY !!≈ * __@CODE@__ волыны:лыддь ! ярмыны. Multiple-syllable verb ending in -ыны.
 +V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ Verb-ynyDer ; !
-+V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer_КУТНЫ ; !
++V@U.CONJ-INF.YES@:0@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
 +V@U.CONJ-INF.YES@:ы@U.CONJ-INF.YES@ VerbDer-V ; !
-+V: VerbConj_КУТНЫ ; ! check this!!!
++V: VerbConj_KUTNY ; ! check this!!!
 +V:ы VerbConj-V ; ! check this!!!
 
 ! First model: ы added as part of the suffix in б
@@ -232,17 +241,17 @@ LEXICON VerbConj !!≈ * __@CODE@__ суф а
 @U.CONJ-INF.NO@ Finiteforms ;
 @U.CONJ-INF.YES@ Non-finiteforms ;
 
-LEXICON VerbConj_КЫЙНЫ !!≈ * __@CODE@__ суф а
-@U.CONJ-INF.NO@ Finiteforms_КЫЙНЫ ;
-@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ VerbDer_КЫЙНЫ ;
+LEXICON VerbConj_KYJNY !!≈ * __@CODE@__ суф а
+@U.CONJ-INF.NO@ Finiteforms_KYJNY ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ VerbDer_KYJNY ;
 
-LEXICON VerbConj_АМНЫ !!≈ * __@CODE@__ суф а
-@U.CONJ-INF.NO@ Finiteforms_АМНЫ ;
+LEXICON VerbConj_AMNY !!≈ * __@CODE@__ суф а
+@U.CONJ-INF.NO@ Finiteforms_AMNY ;
 @U.CONJ-INF.YES@ Non-finiteforms ;
 
-LEXICON VerbConj_КУТНЫ !!≈ * __@CODE@__ суф а
-@U.CONJ-INF.NO@ Finiteforms_КУТНЫ ;
-@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ VerbDer_КУТНЫ ; !
+LEXICON VerbConj_KUTNY !!≈ * __@CODE@__ суф а
+@U.CONJ-INF.NO@ Finiteforms_KUTNY ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
 
 
 LEXICON Finiteforms  !!≈ * __@CODE@__ Gives linking vowels for 3 tenses
@@ -251,37 +260,37 @@ LEXICON Finiteforms  !!≈ * __@CODE@__ Gives linking vowels for 3 tenses
  preterite ;
  imperative ;
 
-LEXICON Finiteforms_КЫЙНЫ  !!≈ * __@CODE@__ Gives linking vowels for 3 tenses
- present_КЫЙНЫ ;
- future_КЫЙНЫ ;
-:й preterite_КЫЙНЫ ;
+LEXICON Finiteforms_KYJNY  !!≈ * __@CODE@__ Gives linking vowels for 3 tenses
+ present_KYJNY ;
+ future_KYJNY ;
+:й preterite_KYJNY ;
 :й imperative ;
 
-LEXICON Finiteforms_АМНЫ  !!≈ * __@CODE@__ Gives linking vowels for 3 tenses
- present_АМНЫ ;
- future_АМНЫ ;
- preterite_АМНЫ ;
+LEXICON Finiteforms_AMNY  !!≈ * __@CODE@__ Gives linking vowels for 3 tenses
+ present_AMNY ;
+ future_AMNY ;
+ preterite_AMNY ;
  imperative ;
 
-LEXICON Finiteforms_КУТНЫ  !!≈ * __@CODE@__ Gives linking vowels for 3 tenses
- present_КУТНЫ ;
- future_КУТНЫ ;
- preterite_КУТНЫ ;
+LEXICON Finiteforms_KUTNY  !!≈ * __@CODE@__ Gives linking vowels for 3 tenses
+ present_KUTNY ;
+ future_KUTNY ;
+ preterite_KUTNY ;
  imperative ;
 
 LEXICON present
 +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.PRES@:%>а@U.CONJ-MX.IND@@U.CONJ-TX.PRES@ PresPret1 ; ! 1,2  Present
 +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.PRES@:%>ӧ@U.CONJ-MX.IND@@U.CONJ-TX.PRES@ PresPret1-SgPl3 ; ! 3
 
-LEXICON present_КЫЙНЫ
+LEXICON present_KYJNY
 +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.PRES@:%>я@U.CONJ-MX.IND@@U.CONJ-TX.PRES@ PresPret1 ; ! 1,2  Present
 +Ind+Prs0@U.CONJ-MX.IND@@U.CONJ-TX.PRES@:й%>ӧ@U.CONJ-MX.IND@@U.CONJ-TX.PRES@ PresPret1-SgPl3 ; ! 3
 
-LEXICON present_АМНЫ
+LEXICON present_AMNY
 +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.PRES@:%>а@U.CONJ-MX.IND@@U.CONJ-TX.PRES@ PresPret1 ; ! 1,2  Present
 +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.PRES@:%>ӧ@U.CONJ-MX.IND@@U.CONJ-TX.PRES@ PresPret1-SgPl3 ; ! 3
 
-LEXICON present_КУТНЫ
+LEXICON present_KUTNY
 +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.PRES@:%>а@U.CONJ-MX.IND@@U.CONJ-TX.PRES@ PresPret1 ; ! 1,2  Present
 +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.PRES@:%>ӧ@U.CONJ-MX.IND@@U.CONJ-TX.PRES@ PresPret1-SgPl3 ; ! 3
 
@@ -289,15 +298,15 @@ LEXICON future
 +Ind+Fut@U.CONJ-MX.IND@@U.CONJ-TX.FUT@:%>а@U.CONJ-MX.IND@@U.CONJ-TX.FUT@ PresPret1 ; ! 1,2  Future
 +Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>ас@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
 
-LEXICON future_КЫЙНЫ
+LEXICON future_KYJNY
 +Ind+Fut@U.CONJ-MX.IND@@U.CONJ-TX.FUT@:%>я@U.CONJ-MX.IND@@U.CONJ-TX.FUT@ PresPret1 ; ! 1,2  Future
 +Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>яс@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
 
-LEXICON future_АМНЫ
+LEXICON future_AMNY
 +Ind+Fut@U.CONJ-MX.IND@@U.CONJ-TX.FUT@:%>а@U.CONJ-MX.IND@@U.CONJ-TX.FUT@ PresPret1 ; ! 1,2  Future
 +Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>ас@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
 
-LEXICON future_КУТНЫ
+LEXICON future_KUTNY
 +Ind+Fut@U.CONJ-MX.IND@@U.CONJ-TX.FUT@:%>а@U.CONJ-MX.IND@@U.CONJ-TX.FUT@ PresPret1 ; ! 1,2  Future
 +Ind+Fut0@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@:%>ас@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@ FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
 
@@ -306,17 +315,17 @@ LEXICON preterite
 +Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>%{иі%}@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@  P3 ; ! 3 
 +Ind+Prt20@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@:%>ӧм@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@ Pret2a ;
 
-LEXICON preterite_КЫЙНЫ
+LEXICON preterite_KYJNY
 +Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>и@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@ PresPret1 ; 
 +Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>и@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@  P3 ; ! 3 
 +Ind+Prt20@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@:%>ӧм@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@ Pret2a ;
 
-LEXICON preterite_АМНЫ
+LEXICON preterite_AMNY
 +Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>и@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@ PresPret1 ; 
 +Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>и@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@  P3 ; ! 3 
 +Ind+Prt20@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@:%>ӧм@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@ Pret2a ;
 
-LEXICON preterite_КУТНЫ
+LEXICON preterite_KUTNY
 +Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>%{иі%}@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@ PresPret1 ; 
 +Ind+Prt1@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@:%>%{иі%}@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@  P3 ; ! 3 
 +Ind+Prt20@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@:%>ӧм@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@ Pret2a ;
@@ -432,70 +441,70 @@ Verb-nyDer-ONSET-VOW ;
 LEXICON Verb-nyDer-ONSET-CONS !!≈ * __@CODE@__ Derivation onset in consonant
 !! verb-to-verb
 
-!! This is fed by LEXICON V_ШУНЫ, and therefore certain corrections
+!! This is fed by LEXICON V_SHUNY, and therefore certain corrections
 !! must be made 2012-01-18
 
-+Der/лы0@C.CONJ-INF@@C.CONJ-POSS@:%>л@C.CONJ-INF@@C.CONJ-POSS@  V_ВОЛЫНЫ ; !!босьтлыны
-+Der/лывлы0000@C.CONJ-INF@@C.CONJ-POSS@:%>лывл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ; !!босьтлывлыны
-+Der/сьы00@C.CONJ-INF@@C.CONJ-POSS@:%>сь@C.CONJ-INF@@C.CONJ-POSS@ V_ЛЫДДЬЫНЫ ; !! овсьыны
-+Der/сьы+Der/ышт0000@C.CONJ-INF@@C.CONJ-POSS@:%>сьышт@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !!вежсьыштны
-+Der/сьы+Der/ышт+Der/лывлы0000000@C.CONJ-INF@@C.CONJ-POSS@:%>сьыштлывл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ; !! пусьыштлывлыны
-+Der/сьы+Der/ышт+Der/лы0000@C.CONJ-INF@@C.CONJ-POSS@:%>сьыштл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ; !!?? пусьыштлыны
++Der/лы0@C.CONJ-INF@@C.CONJ-POSS@:%>л@C.CONJ-INF@@C.CONJ-POSS@  V_VOLYNY ; !!босьтлыны
++Der/лывлы0000@C.CONJ-INF@@C.CONJ-POSS@:%>лывл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ; !!босьтлывлыны
++Der/сьы00@C.CONJ-INF@@C.CONJ-POSS@:%>сь@C.CONJ-INF@@C.CONJ-POSS@ V_LYDDJYNY ; !! овсьыны
++Der/сьы+Der/ышт0000@C.CONJ-INF@@C.CONJ-POSS@:%>сьышт@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !!вежсьыштны
++Der/сьы+Der/ышт+Der/лывлы0000000@C.CONJ-INF@@C.CONJ-POSS@:%>сьыштлывл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ; !! пусьыштлывлыны
++Der/сьы+Der/ышт+Der/лы0000@C.CONJ-INF@@C.CONJ-POSS@:%>сьыштл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ; !!?? пусьыштлыны
 ! зь:зь  !!югзьыны
 ! Why do the suffixes above have ">" marking
 ! while the ones below do not?
-+Der/чы@C.CONJ-INF@@C.CONJ-POSS@:ч@C.CONJ-INF@@C.CONJ-POSS@ V_ЛЫДДЬЫНЫ ; !!босьтчыны
-+Der/чы+Der/л0@C.CONJ-INF@@C.CONJ-POSS@:чыл@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !!дӧзмӧдчывны
-+Der/чы+Der/ышт+Der/лы00@C.CONJ-INF@@C.CONJ-POSS@:чыштл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ; !!босьтчыштлыны
-+Der/чы+Der/ышт+Der/лывлы00000@C.CONJ-INF@@C.CONJ-POSS@:чыштлывл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ; !! босьтчыштлывлыны
-+Der/чы+Der/ышт00@C.CONJ-INF@@C.CONJ-POSS@:чышт@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !!босьтчыштны
++Der/чы@C.CONJ-INF@@C.CONJ-POSS@:ч@C.CONJ-INF@@C.CONJ-POSS@ V_LYDDJYNY ; !!босьтчыны
++Der/чы+Der/л0@C.CONJ-INF@@C.CONJ-POSS@:чыл@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !!дӧзмӧдчывны
++Der/чы+Der/ышт+Der/лы00@C.CONJ-INF@@C.CONJ-POSS@:чыштл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ; !!босьтчыштлыны
++Der/чы+Der/ышт+Der/лывлы00000@C.CONJ-INF@@C.CONJ-POSS@:чыштлывл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ; !! босьтчыштлывлыны
++Der/чы+Der/ышт00@C.CONJ-INF@@C.CONJ-POSS@:чышт@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !!босьтчыштны
 
 LEXICON Verb-nyDer-ONSET-VOW !!≈ * __@CODE@__ Derivation onset	in vowel
- Verb-nyDer-ONSET-Ы ;
- Verb-nyDer-ONSET-А ;
+ Verb-nyDer-ONSET-Y ;
+ Verb-nyDer-ONSET-A ;
 
-LEXICON Verb-nyDer-ONSET-Ы !!≈ * __@CODE@__ Derivation onset	in vowel
-+Der/ышт+Der/лы00@C.CONJ-INF@@C.CONJ-POSS@:ыштл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ;   !!сёйыштлыны
-+Der/ышт+Der/лывлы00000@C.CONJ-INF@@C.CONJ-POSS@:ыштлывл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ;  !!сёйыштлывлыны
-+Der/ышт00@C.CONJ-INF@@C.CONJ-POSS@:ышт@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !!сёйыштны
+LEXICON Verb-nyDer-ONSET-Y !!≈ * __@CODE@__ Derivation onset	in vowel
++Der/ышт+Der/лы00@C.CONJ-INF@@C.CONJ-POSS@:ыштл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ;   !!сёйыштлыны
++Der/ышт+Der/лывлы00000@C.CONJ-INF@@C.CONJ-POSS@:ыштлывл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ;  !!сёйыштлывлыны
++Der/ышт00@C.CONJ-INF@@C.CONJ-POSS@:ышт@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !!сёйыштны
 
-LEXICON Verb-nyDer-ONSET-А !!≈ * __@CODE@__ Derivation onset	in vowel
-+Der/ал0@C.CONJ-INF@@C.CONJ-POSS@:ал@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !!сетавны
-+Der/овт00@C.CONJ-INF@@C.CONJ-POSS@:овт@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !!пановтны
-+Der/ась00@C.CONJ-INF@@C.CONJ-POSS@:ась@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !! босьтасьны
+LEXICON Verb-nyDer-ONSET-A !!≈ * __@CODE@__ Derivation onset	in vowel
++Der/ал0@C.CONJ-INF@@C.CONJ-POSS@:ал@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !!сетавны
++Der/овт00@C.CONJ-INF@@C.CONJ-POSS@:овт@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !!пановтны
++Der/ась00@C.CONJ-INF@@C.CONJ-POSS@:ась@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !! босьтасьны
 
-LEXICON Verb-nyDer-ONSET-Я !!≈ * __@CODE@__ Derivation onset	in vowel
-+Der/ал0@C.CONJ-INF@@C.CONJ-POSS@:ял@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !!сетавны
-+Der/овт00@C.CONJ-INF@@C.CONJ-POSS@:ёвт@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !!пановтны
-+Der/ась00@C.CONJ-INF@@C.CONJ-POSS@:ясь@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !! босьтасьны
+LEXICON Verb-nyDer-ONSET-JA !!≈ * __@CODE@__ Derivation onset	in vowel
++Der/ал0@C.CONJ-INF@@C.CONJ-POSS@:ял@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !!сетавны
++Der/овт00@C.CONJ-INF@@C.CONJ-POSS@:ёвт@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !!пановтны
++Der/ась00@C.CONJ-INF@@C.CONJ-POSS@:ясь@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !! босьтасьны
 
 
 !! verb-to-noun
  
 LEXICON VerbDer !!≈ * __@CODE@__ 
- VerbDer-ONSET_Ӧ ; !! FIX THIS 2015-09-06
+ VerbDer-ONSET_OE ; !! FIX THIS 2015-09-06
 
-LEXICON VerbDer_КЫЙНЫ !!≈ * __@CODE@__
-:й VerbDer-ONSET_Ӧ ; !!≈ * __@CODE@__
- VerbDer-ONSET_Я ; !!≈ * __@CODE@__ 
-:й VerbDer-ONSET_И ; !!≈ * __@CODE@__
+LEXICON VerbDer_KYJNY !!≈ * __@CODE@__
+:й VerbDer-ONSET_OE ; !!≈ * __@CODE@__
+ VerbDer-ONSET_JA ; !!≈ * __@CODE@__ 
+:й VerbDer-ONSET_JI ; !!≈ * __@CODE@__
 
-LEXICON VerbDer_КУТНЫ !!≈ * __@CODE@__
- VerbDer-ONSET_Ӧ ; !!≈ * __@CODE@__
- VerbDer-ONSET_А ; !!≈ * __@CODE@__ 
- VerbDer-ONSET_І ; !!≈ * __@CODE@__
+LEXICON VerbDer_KUTNY !!≈ * __@CODE@__
+ VerbDer-ONSET_OE ; !!≈ * __@CODE@__
+ VerbDer-ONSET_A ; !!≈ * __@CODE@__ 
+ VerbDer-ONSET_I ; !!≈ * __@CODE@__
 
-LEXICON VerbDer_АРТАСЬНЫ !!≈ * __@CODE@__
-:ь VerbDer-ONSET_Ӧ ; !!≈ * __@CODE@__
- VerbDer-ONSET_Я ; !!≈ * __@CODE@__ 
- VerbDer-ONSET_И ; !!≈ * __@CODE@__
+LEXICON VerbDer_ARTASJNY !!≈ * __@CODE@__
+:ь VerbDer-ONSET_OE ; !!≈ * __@CODE@__
+ VerbDer-ONSET_JA ; !!≈ * __@CODE@__ 
+ VerbDer-ONSET_JI ; !!≈ * __@CODE@__
 
-LEXICON VerbDer-ONSET_Ӧ !!≈ * __@CODE@__ 
+LEXICON VerbDer-ONSET_OE !!≈ * __@CODE@__ 
 +Der/ӧм+Event:%>ӧм Noun1 ;
 +Der/ӧм+Event+N+Ins:%>ӧмӧн K ;
 +Der/ісь+ActPrsPtc:%>%{иі%}сь N_ ; !!≈ * __@CODE@__ kpv ысь
 
-LEXICON VerbDer-ONSET_І !!≈ * __@CODE@__ 
+LEXICON VerbDer-ONSET_I !!≈ * __@CODE@__ 
   ! nonfinites
 +Der/иг+Duration+Ger:%>%{иі%}г K ; ! gerund (at the same time as the action)
 !352 Pl
@@ -536,7 +545,7 @@ LEXICON VerbDer-ONSET_І !!≈ * __@CODE@__
 +Der/иг+Duration+Ger+Der/кежлӧ+PxPl2:%>%{иі%}гкежланыт K ;
 +Der/иг+Duration+Ger+Der/кежлӧ+PxPl3:%>%{иі%}гкежланыс K ;
 
-LEXICON VerbDer-ONSET_И !!≈ * __@CODE@__ 
+LEXICON VerbDer-ONSET_JI !!≈ * __@CODE@__ 
 +Der/иг+Duration+Ger:%>иг K ; ! gerund (at the same time as the action)
 !352 Pl
 +Der/иг+Duration+Ger+Pl:%>игъяс K ;
@@ -577,12 +586,12 @@ LEXICON VerbDer-ONSET_И !!≈ * __@CODE@__
 +Der/иг+Duration+Ger+Der/кежлӧ+PxPl3:%>игкежланыс K ;
 
 
-LEXICON VerbDer-ONSET_А !!≈ * __@CODE@__ 
+LEXICON VerbDer-ONSET_A !!≈ * __@CODE@__ 
 +ANA+Adv:%>ана K ;
 +ANAA+Adv:%>анаа K ; !Adding after attestation in Komi Grammar 2000: 381
 +AN+Der/моз:%>анмоз PossessiveSuffixes_NoSg1 ; !383
 
-LEXICON VerbDer-ONSET_Я !!≈ * __@CODE@__ 
+LEXICON VerbDer-ONSET_JA !!≈ * __@CODE@__ 
 +ANA+Adv:%>яна K ;
 +ANAA+Adv:%>янаа K ; !Adding after attestation in Komi Grammar 2000: 381
 +AN+Der/моз:%>янмоз PossessiveSuffixes_NoSg1 ; !383
@@ -595,45 +604,45 @@ LEXICON Verb-ynyDer
 ! The source stems have no stem vowel "ы", and therefore
 ! dervational suffixes come with an onset vowel
 
-+Der/ышт+Dim0@C.CONJ-INF@@C.CONJ-POSS@:ышт@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !!кольмыштны
++Der/ышт+Dim0@C.CONJ-INF@@C.CONJ-POSS@:ышт@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !!кольмыштны
 !+V+Der/ышт+Dim+V:%>ышт  VerbConj ;
 !+V+Der/ышт+Dim+V+Inf:%>ыштны K ;
 !+V+Der/ышт+Dim+V+ConNeg0@U.CONJ-CONNEG.YES@+Pl3@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ыштны@U.CONJ-CONNEG.YES@0@U.CONJ-NX.PL@@U.CONJ-PX.3@ WordEnd ;
 !+V+Der/ышт+Dim+V+ConNeg@U.CONJ-CONNEG.YES@:%>ышт0@U.CONJ-CONNEG.YES@ WordEnd ;
 !+V+Der/ышт+Dim+V+Imprt+Sg2:%>ышт WordEnd ;
 
-+Der/ышт+Dim+Der/лы0@C.CONJ-INF@@C.CONJ-POSS@:ыштл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ;   !!??кольмыштлыны
++Der/ышт+Dim+Der/лы0@C.CONJ-INF@@C.CONJ-POSS@:ыштл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ;   !!??кольмыштлыны
 !+V+Der/ышт+Dim+V+Der/лы+V:%>ыштл  VerbConj ;
 !+V+Der/ышт+Dim+V+Der/лы+V+Inf:%>ыштлыны K ;
 !+V+Der/ышт+Dim+V+Der/лы+V+ConNeg0@U.CONJ-CONNEG.YES@+Pl3@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ыштлыны@U.CONJ-CONNEG.YES@0@U.CONJ-NX.PL@@U.CONJ-PX.3@ WordEnd ;
 !+V+Der/ышт+Dim+V+Der/лы+V+ConNeg@U.CONJ-CONNEG.YES@:%>ыштл00@U.CONJ-CONNEG.YES@ WordEnd ;
 !+V+Der/ышт+Dim+V+Der/лы+V+Imprt+Sg2:%>ыштл WordEnd ;
 
-+Der/ышт+Dim+Der/лывлы0000@C.CONJ-INF@@C.CONJ-POSS@:ыштлывл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ;  !!??кольмыштлывлыны
++Der/ышт+Dim+Der/лывлы0000@C.CONJ-INF@@C.CONJ-POSS@:ыштлывл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ;  !!??кольмыштлывлыны
 
-+Der/л0@C.CONJ-INF@@C.CONJ-POSS@:ыл@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ;  !!тшӧктывны
++Der/л0@C.CONJ-INF@@C.CONJ-POSS@:ыл@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ;  !!тшӧктывны
 
-+Der/лывлы00@C.CONJ-INF@@C.CONJ-POSS@:ывл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ; !!тшӧктывлыны
++Der/лывлы00@C.CONJ-INF@@C.CONJ-POSS@:ывл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ; !!тшӧктывлыны
 !+V+Der/ывлы+V:%>ывл VerbConj ; ! мынтывл - мынтывлан
 !+V+Der/ывлы+V+Inf:%>ывлыны K ;
 !+V+Der/ывлы+V+ConNeg000@U.CONJ-CONNEG.YES@+Pl3@U.CONJ-NX.PL@@U.CONJ-PX.3@:%>ывлыны@U.CONJ-CONNEG.YES@0@U.CONJ-NX.PL@@U.CONJ-PX.3@ WordEnd ;
 !+V+Der/ывлы+V+ConNeg0@U.CONJ-CONNEG.YES@:%>ывлы@U.CONJ-CONNEG.YES@ WordEnd ;
 !+V+Der/ывлы+V+Imprt+Sg2:%>ывлы WordEnd ;
 
-+Der/сьы00@C.CONJ-INF@@C.CONJ-POSS@:ысь@C.CONJ-INF@@C.CONJ-POSS@ V_ЛЫДДЬЫНЫ ; !! вевттьысьыны
-+Der/сь+Der/ышт+Dim000@C.CONJ-INF@@C.CONJ-POSS@:ысьышт@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !!лэптысьыштны
-+Der/сьы+Der/ышт+Der/лывлы0000000@C.CONJ-INF@@C.CONJ-POSS@:ысьыштлывл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ; !!?? вевттьысьыштлывлыны
-+Der/сьы+Der/ышт+Der/лы0000@C.CONJ-INF@@C.CONJ-POSS@:ысьыштл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ; !!лэптысьыштлыны
-+Der/сь+Der/л00@C.CONJ-INF@@C.CONJ-POSS@:ысьл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ; !!кутчысьлыны
++Der/сьы00@C.CONJ-INF@@C.CONJ-POSS@:ысь@C.CONJ-INF@@C.CONJ-POSS@ V_LYDDJYNY ; !! вевттьысьыны
++Der/сь+Der/ышт+Dim000@C.CONJ-INF@@C.CONJ-POSS@:ысьышт@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !!лэптысьыштны
++Der/сьы+Der/ышт+Der/лывлы0000000@C.CONJ-INF@@C.CONJ-POSS@:ысьыштлывл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ; !!?? вевттьысьыштлывлыны
++Der/сьы+Der/ышт+Der/лы0000@C.CONJ-INF@@C.CONJ-POSS@:ысьыштл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ; !!лэптысьыштлыны
++Der/сь+Der/л00@C.CONJ-INF@@C.CONJ-POSS@:ысьл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ; !!кутчысьлыны
 
-+Der/ал0@C.CONJ-INF@@C.CONJ-POSS@:ал@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !!бергӧдчавны
-+Der/ал+Der/лы0@C.CONJ-INF@@C.CONJ-POSS@:авл@C.CONJ-INF@@C.CONJ-POSS@ V_ВОЛЫНЫ ; !!бергӧдчавлыны
-+Der/ась00@C.CONJ-INF@@C.CONJ-POSS@:ась@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !! бертласьны
++Der/ал0@C.CONJ-INF@@C.CONJ-POSS@:ал@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !!бергӧдчавны
++Der/ал+Der/лы0@C.CONJ-INF@@C.CONJ-POSS@:авл@C.CONJ-INF@@C.CONJ-POSS@ V_VOLYNY ; !!бергӧдчавлыны
++Der/ась00@C.CONJ-INF@@C.CONJ-POSS@:ась@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !! бертласьны
 
 
 !<!-- This far 2012-01-19 -->
 
-!+Der/овт@C.CONJ-INF@@C.CONJ-POSS@:овт@C.CONJ-INF@@C.CONJ-POSS@ V_ШУНЫ ; !!пановтны
+!+Der/овт@C.CONJ-INF@@C.CONJ-POSS@:овт@C.CONJ-INF@@C.CONJ-POSS@ V_SHUNY ; !!пановтны
 
 
 ! Stray verb forms :-о

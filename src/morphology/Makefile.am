@@ -72,10 +72,13 @@ GT_LEXC_L2_SRCS=\
 			$(L2)
 
 # Set this to the names of all generated lexc files, if any
-GENERATED_LEXC_SRCS=
+GENERATED_LEXC_SRCS=\
+		$(srcdir)/stems/verbs.lexc         
+
 
 # Set this to the names of all source xml files, if any
-GT_XML_SRCS=
+GT_XML_SRCS=\
+		stems/verbs.xml      
 
 # Define any additional lexc sources here (compiled on their own):
 GT_LOCAL_SRCS=
