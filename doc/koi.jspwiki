@@ -85,6 +85,13 @@ plural
 accusative -ӧс
 ablative case -лысь
 approximative -лань
+approximative egressive -ланьсянь
+approximative elative -ланьысь
+approximative illative -ланьӧ
+approximative inessive -ланьын
+approximative prolative -ланьӧд
+approximative terminative -ланьӧдз
+approximative translative -ланьті
 carative -тӧг
 consecultative -ла
 Comitative -кӧд
@@ -112,6 +119,12 @@ The comparative forms are:
 Numerals are classified under:
 
 Verb moods are:
+ ;+Imprt: imperative
+ ;+Ind: indicative
+ ;+Prs: present      -ӧ
+ ;+Prt1: preterite 1 -ис
+ ;+Prt2: preterite 2 -ӧма
+ ;+Fut: future      -ас
 Verb personal forms are:
 Other verb forms are
 Gerund This is used with derivations
