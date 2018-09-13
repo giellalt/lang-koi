@@ -52,7 +52,6 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/pronouns.lexc      \
 			 stems/pronouns_newwords.lexc      \
 			 stems/propernouns-toponyms-Komi_newwords.lexc      \
-			 stems/punctuation.lexc   \
 			 stems/verbs.lexc	\
 			 stems/verbs_newwords.lexc
 
@@ -73,7 +72,8 @@ GT_LEXC_L2_SRCS=\
 
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
-		$(srcdir)/stems/verbs.lexc         
+		$(srcdir)/stems/verbs.lexc \
+		generated_files/punctuation.lexc
 
 
 # Set this to the names of all source xml files, if any
