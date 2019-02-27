@@ -700,6 +700,8 @@ LEXICON Root
    Pronouns    ;
    Numerals    ;
    Prefixes    ;
+   Punctuation ;
+   Symbols     ;
 
 VERBNEGATIVE ;
 
