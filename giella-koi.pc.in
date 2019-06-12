@@ -7,5 +7,5 @@ srcdir=${datadir}/giella/${gtlang}
 
 Name: giella-koi
 Description: Finite-state language processing tools for Komi-Permyak
-URL: http://divvun.no/doc/index.html
+URL: https://giellalt.uit.no/index.html
 Version: @VERSION@
