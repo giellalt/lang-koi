@@ -128,6 +128,17 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +Der/Dimin
 
 
+        !! !!Symbols that need to be escaped on the lower side (towards twolc):
+ »7     !!≈ ; @CODE@ : Literal »
+ «7     !!≈ ; @CODE@ : Literal «
+        !! {{{
+ %[%>%] !!= @CODE@ - Literal >
+ %[%<%] !!= @CODE@ - Literal <
+        !! }}}
+
+
+
+
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
 !! ODD
