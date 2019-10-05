@@ -83,20 +83,20 @@ singular
 plural
 !!Case
 accusative -ӧс
-ablative case -лысь
+ablative case -лісь
 approximative -лань
 approximative egressive -ланьсянь
 approximative elative -ланьысь
 approximative illative -ланьӧ
 approximative inessive -ланьын
-approximative prolative -ланьӧд
+approximative prolative -ланьӧт
 approximative terminative -ланьӧдз
-approximative translative -ланьті
+approximative terminative -ланьви
 carative -тӧг
 consecultative -ла
-Comitative -кӧд
+Comitative -кӧт
 Comparative case form -ся
-dative case -лы
+dative case -лӧ
 egressive -сянь
 elative -ысь
 genitive case -лӧн
@@ -104,10 +104,23 @@ illative -ӧ
 inessive -ын
 instrumental -ӧн
 nominative case
-prolative -ӧд
-translative -ті
+prolative -ӧт
+Terminative -ви
 Terminative -ӧдз
 Vocative
+
+used when possessive marking occurs before case
+used when case occurs before possessive marking
+
+
+
+!!Symbols that need to be escaped on the lower side (towards twolc):
+ ; »7 : Literal »
+ ; «7 : Literal «
+{{{
+  %[%>%]  - Literal >
+  %[%<%]  - Literal <
+}}}
 
 
 
