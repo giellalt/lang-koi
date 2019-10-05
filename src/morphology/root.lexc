@@ -92,20 +92,20 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Pl !! plural
 !! !!Case
  +Acc !! accusative -ӧс
- +Abl !! ablative case -лысь
+ +Abl !! ablative case -лісь
  +Apr !! approximative -лань
  +AprEgr !! approximative egressive -ланьсянь
  +AprEla !! approximative elative -ланьысь
  +AprIll !! approximative illative -ланьӧ
  +AprIne !! approximative inessive -ланьын
- +AprPrl !! approximative prolative -ланьӧд
- +AprTer !! approximative terminative -ланьӧдз
- +AprTra !! approximative translative -ланьті
+ +AprPrl !! approximative prolative -ланьӧт
+ +AprTerI !! approximative terminative -ланьӧдз
+ +AprTerII !! approximative terminative -ланьви
  +Car !! carative -тӧг
  +Cns !! consecultative -ла
- +Com !! Comitative -кӧд
+ +Com !! Comitative -кӧт
  +Cmpr !! Comparative case form -ся
- +Dat !! dative case -лы
+ +Dat !! dative case -лӧ
  +Egr !! egressive -сянь
  +Ela !! elative -ысь
  +Gen !! genitive case -лӧн
@@ -113,16 +113,13 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Ine !! inessive -ын
  +Ins !! instrumental -ӧн
  +Nom !! nominative case
- +Prl !! prolative -ӧд
- +Tra !! translative -ті
- +Ter !! Terminative -ӧдз
+ +Prl !! prolative -ӧт
+ +TerII !! Terminative -ви
+ +TerI !! Terminative -ӧдз
  +Voc !! Vocative
 
-! Compounding regular derivation case
-! +Der/Apr+Ine, +Der/Apr+Ela
-! +Der/Apr+Ill, +Der/Apr+Egr
-! +Der/Apr+Prl, +Der/Apr+Tra
-! +Der/Apr+Ter
++So/PC !! used when possessive marking occurs before case
++So/CP !! used when case occurs before possessive marking
 
 +Der/Ок
 +Der/Dimin
