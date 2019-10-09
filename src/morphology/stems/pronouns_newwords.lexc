@@ -1,7 +1,8 @@
 !! This is where new words from kpv are initially shown
 
 LEXICON PRON_NEWWORDS
-ас:ас EndRefl  "(kpv)..ас:ас EndRefl.." ;
+ас+Det:ас EndRefl  "(kpv)..ас:ас EndRefl.." ;
+
 аслат:аслат PRON-REFL-SG2-GEN  "(kpv)..аслат:аслат PRON-REFL-SG2-GEN.." ;
 асладор:асладор PRON-REFL-IN_LADOR  "(kpv)..асладор:асладор.." ;
 аслам:аслам PRON-REFL-SG1-GEN  "(kpv)..аслам:аслам PRON-REFL-SG1-GEN.." ;

@@ -62,7 +62,7 @@ LEXICON Adj-IS_PTC-ANA !
 +V+Der/ана: A_ ;
 
 LEXICON A-IS_DIM-НИК
-+A+Der/Иник: A_ ;
++Der/Иник: A_ ;
 
 LEXICON Adj-IS_TOM
  A-IS_TOM ;
@@ -76,20 +76,20 @@ LEXICON Adj-SUPERL !
 +Superl: A_ ;
 
 LEXICON A-PRED ! ӧбиднӧ
-+A+Pred: WordEnd ; !
++Pred: WordEnd ; !
 
 
 LEXICON A_
-+A: PredMonLex ;
-+A: AdjCompar ;
-+A+Der/лун:%>лун N_ ; !Derivational suffix for A-N
-+A+Der/а:%>а ADV_ ; ! Derivation for adjective-to-adverb
+: PredMonLex ;
+: AdjCompar ;
++Der/лун:%>лун N_ ; !Derivational suffix for A-N
++Der/а:%>а ADV_ ; ! Derivation for adjective-to-adverb
 
 LEXICON A_PARAGOGIC-В/Л !!= * @CODE@ юмов:юмо юмолӧсь
-+A:в K ; !! Singular predicative 
-+A+Pred+Pl:л%>ӧсь K ; ! Plural predicative.
-+A:в AdjCompar ;
-+A+Der/лун:в%>лун N_ ; !Derivational suffix for A-N
+:в K ; !! Singular predicative 
++Pred+Pl:л%>ӧсь K ; ! Plural predicative.
+:в AdjCompar ;
++Der/лун:в%>лун N_ ; !Derivational suffix for A-N
 
 
 

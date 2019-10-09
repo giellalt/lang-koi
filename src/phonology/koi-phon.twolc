@@ -96,7 +96,7 @@ Rules
 
 "э:е"
 !! __@RULENAME@__
-э:е <=> [CnsBeforeCyri|ь:|й|д з] %> %^1Cns: _ з ;
+э:е <=> [CnsBeforeCyri|ь:|й|д з] %> %^1Cns: _ [з|с|т] ;
 
 
 "The famous L/V"
