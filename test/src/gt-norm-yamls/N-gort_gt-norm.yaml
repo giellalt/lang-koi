@@ -112,7 +112,7 @@ Tests:
      горт+N+Sg+AprEgr+PxSg3: [гортланьсяняс, гортысланьсянь]
      горт+N+Sg+AprPrl+PxSg3: [гортланьӧттяc, гортланьӧттиc, гортысланьӧт]
      горт+N+Sg+AprTerI+PxSg3: [гортланьӧдззаc, гортланьӧдззиc, гортысланьӧдз]
-     горт+N+Sg+AprTerII+PxSg3: гортланьви
+     горт+N+Sg+AprTerII+PxSg3: гортысланьви
      горт+N+Sg+Nom+PxPl1: гортным
      горт+N+Sg+Gen+PxPl1: гортнымлӧн
      горт+N+Sg+Abl+PxPl1: гортнымлісь
@@ -137,7 +137,7 @@ Tests:
      горт+N+Sg+AprEgr+PxPl1: [гортланьсяняным, гортнымланьсянь]
      горт+N+Sg+AprPrl+PxPl1: [гортланьӧттяным, гортланьӧттиным, гортнымланьӧт]
      горт+N+Sg+AprTerI+PxPl1: [гортланьӧдззаным, гортланьӧдззиным,  гортнымланьӧдз]
-     горт+N+Sg+AprTerII+PxPl1: гортланьви
+     горт+N+Sg+AprTerII+PxPl1: гортнымланьви
      горт+N+Sg+Nom+PxPl2: гортныт
      горт+N+Sg+Gen+PxPl2: гортнытлӧн
      горт+N+Sg+Abl+PxPl2: гортнытлісь
@@ -187,7 +187,7 @@ Tests:
      горт+N+Sg+AprEgr+PxPl3: [гортланьсяняныс, гортнысланьсянь]
      горт+N+Sg+AprPrl+PxPl3: [гортланьӧттяныс, гортланьӧттиныс, гортнысланьӧт]
      горт+N+Sg+AprTerI+PxPl3: [гортланьӧдззаныс, гортланьӧдззиныс, гортнысланьӧдз]
-     горт+N+Sg+AprTerII+PxPl3: гортланьнысви
+     горт+N+Sg+AprTerII+PxPl3: гортнысланьви
      горт+N+Pl+Nom: горттэз
      горт+N+Pl+Acc: горттэз
      горт+N+Pl+Gen: горттэзлӧн
@@ -236,17 +236,24 @@ Tests:
      горт+N+Pl+AprIll+PxSg1: горттэзланям
      горт+N+Pl+AprEgr+PxSg1: [горттэзланьсяням, горттэзӧланьсянь]
      горт+N+Pl+AprPrl+PxSg1: [горттэзланьӧттям, горттэзланьӧттим, горттэзӧланьӧт]
-     горт+N+Pl+AprTerI+PxSg1: [горттэзланьӧдззам, горттэзланьӧдззим]
+     горт+N+Pl+AprTerI+PxSg1: [горттэзланьӧдззам, горттэзланьӧдззим, горттэзӧланьӧдз]
      горт+N+Pl+AprTerII+PxSg1: горттэзӧланьви
-     горт+N+Pl+Nom+PxSg2: [горттэзыт, горттэт]
-     горт+N+Pl+Gen+PxSg2: [горттэзытлӧн, горттэтлӧн]
-     горт+N+Pl+Abl+PxSg2: [горттэзытлісь, горттэтлісь]
-     горт+N+Pl+Dat+PxSg2: [горттэзытлӧ, горттэтлӧ]
-     горт+N+Pl+Acc+PxSg2: [горттэзтӧ, горттэтӧ]
+# Esimerkkien järjestys vaihdettu, koska горттэт on useammin käytetty muoto
+     горт+N+Pl+Nom+PxSg2: [горттэт, горттэзыт]
+# Esimerkkien järjestys vaihdettu, koska горттэтлӧн on useammin käytetty muoto
+     горт+N+Pl+Gen+PxSg2: [горттэтлӧн, горттэзытлӧн]
+# Esimerkkien järjestys vaihdettu, koska горттэтлісь on useammin käytetty muoto
+     горт+N+Pl+Abl+PxSg2: [горттэтлісь, горттэзытлісь]
+# Esimerkkien järjestys vaihdettu, koska горттэтлӧ on useammin käytetty muoto
+     горт+N+Pl+Dat+PxSg2: [горттэтлӧ, горттэзытлӧ]
+# Esimerkkien järjestys vaihdettu, koska горттэтӧ on useammin käytetty muoto
+     горт+N+Pl+Acc+PxSg2: [горттэтӧ, горттэзтӧ]
      горт+N+Pl+Ins+PxSg2: горттэзнат
-     горт+N+Pl+Com+PxSg2: [горттэзыткӧт, горттэткӧт]
+# Esimerkkien järjestys vaihdettu, koska горттэткӧт on useammin käytetty muoto
+     горт+N+Pl+Com+PxSg2: [горттэткӧт, горттэзыткӧт]
      горт+N+Pl+Car+PxSg2: [горттэттӧг, горттэзыттӧг, горттэзтӧгьят]
-     горт+N+Pl+Cns+PxSg2: [горттэзытла, горттэтла]
+# Esimerkkien järjestys vaihdettu, koska горттэтла on useammin käytetty muoto
+     горт+N+Pl+Cns+PxSg2: [горттэтла, горттэзытла]
      горт+N+Pl+Cmpr+PxSg2: [горттэтся, горттэзытся]
      горт+N+Pl+Ine+PxSg2: горттэзат
      горт+N+Pl+Ela+PxSg2: [горттэзсит, горттэсит]
@@ -263,18 +270,26 @@ Tests:
      горт+N+Pl+AprPrl+PxSg2: [горттэзланьӧттят, горттэзланьӧттит, горттэтланьӧт, горттэзытланьӧт]
      горт+N+Pl+AprTerI+PxSg2: [горттэзланьӧдззат, горттэзланьӧдззит, горттэтланьӧдз, горттэзытланьӧдз]
      горт+N+Pl+AprTerII+PxSg2: [горттэтланьви, горттэзытланьви]
-     горт+N+Pl+Nom+PxSg3: [горттэзыс, горттэс]
-     горт+N+Pl+Gen+PxSg3: [горттэзыслӧн, горттэслӧн]
-     горт+N+Pl+Abl+PxSg3: [горттэзыслісь, горттэслісь]
-     горт+N+Pl+Dat+PxSg3: [горттэзыслӧ, горттэслӧ]
+# Esimerkkien järjestys vaihdettu, koska горттэс on useammin käytetty muoto
+     горт+N+Pl+Nom+PxSg3: [горттэс, горттэзыс]
+# Esimerkkien järjestys vaihdettu, koska горттэслӧн on useammin käytetty muoto
+     горт+N+Pl+Gen+PxSg3: [горттэслӧн, горттэзыслӧн]
+# Esimerkkien järjestys vaihdettu, koska горттэслісь on useammin käytetty muoto
+     горт+N+Pl+Abl+PxSg3: [горттэслісь, горттэзыслісь]
+# Esimerkkien järjestys vaihdettu, koska горттэслӧ on useammin käytetty muoto
+     горт+N+Pl+Dat+PxSg3: [горттэслӧ, горттэзыслӧ]
      горт+N+Pl+Acc+PxSg3: [горттэсӧ, горттэзсӧ]
      горт+N+Pl+Ins+PxSg3: горттэзнас
-     горт+N+Pl+Com+PxSg3: [горттэзыскӧт, горттэскӧт]
-     горт+N+Pl+Car+PxSg3: [горттэзыстӧг, горттэстӧг, горттэзтӧгьяс]
-     горт+N+Pl+Cns+PxSg3: [горттэзысла, горттэсла]
-     горт+N+Pl+Cmpr+PxSg3: [горттэзысся, горттэсся]
+# Esimerkkien järjestys vaihdettu, koska горттэскӧт on useammin käytetty muoto
+     горт+N+Pl+Com+PxSg3: [горттэскӧт, горттэзыскӧт]
+# Esimerkkien järjestys vaihdettu, koska горттэстӧг on useammin käytetty muoto
+     горт+N+Pl+Car+PxSg3: [горттэстӧг, горттэзыстӧг, горттэзтӧгьяс]
+# Esimerkkien järjestys vaihdettu, koska горттэсла on useammin käytetty muoto
+     горт+N+Pl+Cns+PxSg3: [горттэсла, горттэзысла]
+# Esimerkkien järjestys vaihdettu, koska горттэсся on useammin käytetty muoto
+     горт+N+Pl+Cmpr+PxSg3: [горттэсся, горттэзысся]
      горт+N+Pl+Ine+PxSg3: горттэзас
-     горт+N+Pl+Ela+PxSg3: [горттэзсис, горттэсис
+     горт+N+Pl+Ela+PxSg3: [горттэзсис, горттэсис]
      горт+N+Pl+Ill+PxSg3: горттэзас
      горт+N+Pl+Apr+PxSg3: [горттэслань, горттэзланяс]
      горт+N+Pl+Egr+PxSg3: [горттэссянь, горттэзсяняс]
@@ -336,7 +351,7 @@ Tests:
      горт+N+Pl+AprIll+PxPl2: горттэзланяныт
      горт+N+Pl+AprEgr+PxPl2: [горттэзланьсяняныт, горттэзнытланьсянь]
      горт+N+Pl+AprPrl+PxPl2: [горттэзланьӧттяныт, горттэзланьӧттиныт, горттэзнытланьӧт]
-     горт+N+Pl+AprTerI+PxPl2: [горттэзланьӧдззаныт, горттэзланьӧдззаныт, горттэзнытланьӧдз]
+     горт+N+Pl+AprTerI+PxPl2: [горттэзланьӧдззаныт, горттэзланьӧдззиныт, горттэзнытланьӧдз]
      горт+N+Pl+AprTerII+PxPl2: горттэзнытланьви
      горт+N+Pl+Nom+PxPl3: горттэзныс
      горт+N+Pl+Gen+PxPl3: горттэзныслӧн
