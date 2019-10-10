@@ -8,6 +8,7 @@ Config:
     App: lookup
 
 Tests:
+# The were proofread for golden standard by Larisa Ponomareva 2019-10-07
   
   Noun - горт: # Nouns in hard consonants: д, з, л, н, с, т - inanimate noun, full paradigm 'house / talo / дом'
      горт+N+Sg+Nom: горт
