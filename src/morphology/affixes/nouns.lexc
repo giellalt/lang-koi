@@ -279,7 +279,7 @@ ELA_ісь-THEN-K ;
 +Ela+PxSg2:%>сит SPAT-COMPARATIVE ;
 +Apr+PxSg2+So/CP:%>ланят SPAT-COMPARATIVE ;
 +Egr+PxSg2+So/CP:%>сянят SPAT-COMPARATIVE ;
-+PxSg2+Acc2:%>тӧ K ;
++Acc+PxSg2:%>тӧ K ;
 +AprIne+PxSg2:%>ланят SPAT-COMPARATIVE ;
 +AprEla+PxSg2:%>ланьсит SPAT-COMPARATIVE ;
 +AprIll+PxSg2:%>ланят IllCompar ; !
@@ -291,7 +291,7 @@ ELA_ісь-THEN-K ;
 +AprTerI+PxSg2+So/CP:%>ланьӧдззит K ;
 
 !! SG3
-+PxSg3+Acc3:%>сӧ K ;
++Acc+PxSg3:%>сӧ K ;
 +Ins+PxSg3:%>нас K ;
 +Car+PxSg3+So/CP:%>тӧгыс K ;
 +Ela+PxSg3:%>сис SPAT-COMPARATIVE ;
@@ -342,7 +342,7 @@ ELA_ісь-THEN-K ;
 +Gen+PxPl2:%>нытлӧн K ;
 +Abl+PxPl2:%>нытлісь K ;
 +Dat+PxPl2:%>нытлӧ K ;
-+Acc2+PxPl2:%>нытӧ K ;
++Acc+PxPl2:%>нытӧ K ;
 +Ins+PxPl2:%>наныт K ;
 +Com+PxPl2:%>ныткӧт K ;
 +Car+PxPl2+So/PC:%>ныттӧг K ;
@@ -372,7 +372,7 @@ ELA_ісь-THEN-K ;
 +Gen+PxPl3:%>ныслӧн K ;
 +Abl+PxPl3:%>ныслісь K ;
 +Dat+PxPl3:%>ныслӧ K ;
-+Acc3+PxPl3:%>нысӧ K ;
++Acc+PxPl3:%>нысӧ K ;
 +Ins+PxPl3:%>наныс K ;
 +Com+PxPl3:%>ныскӧт K ;
 +Car+PxPl3+So/PC:%>ныстӧг K ;
