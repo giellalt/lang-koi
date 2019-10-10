@@ -8,6 +8,7 @@ Config:
     App: lookup
 
 Tests:
+# The were proofread for golden standard by Larisa Ponomareva 2019-10-09
   
   Noun - кар: # Nouns in hard consonants: б, г, ж, к, м, п, р, ф, х, ц, ч, щ, ш - inanimate noun, full paradigm 'city / kaupunki / город'
      кар+N+Sg+Nom: кар

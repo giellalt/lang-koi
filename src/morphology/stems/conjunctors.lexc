@@ -1,10 +1,10 @@
 
 LEXICON Conjunctors
 
-жӧ:жӧ CC_  "vuorostaan" ;
-кӧ:кӧ CS_  "jos" ;
-медбы:медбы CC_ ;
-мый:мый CS_  "että" ;
-но:но CC_  "mutta (kuitenkin)" ;
-что:что CS_  "että" ;
+жӧ+CC:жӧ CC_  "vuorostaan" ;
+кӧ+CS:кӧ CS_  "jos" ;
+медбы+CC:медбы CC_ ;
+мый+CS:мый CS_  "että" ;
+но+CC:но CC_  "mutta (kuitenkin)" ;
+что+CS:что CS_  "että" ;
 

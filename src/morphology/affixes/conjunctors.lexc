@@ -7,10 +7,10 @@ LEXICON CONJ_
 +Conj: WordEnd ;
 
 LEXICON CC_
-+CC: WordEnd ;
+: WordEnd ;
 
 LEXICON CS_
-+CS: WordEnd ;
+: WordEnd ;
 
 
 
