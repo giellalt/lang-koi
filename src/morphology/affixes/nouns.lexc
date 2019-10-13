@@ -36,8 +36,8 @@ LEXICON Noun1-SYT-STY !
 +Err/Orth:ть N_ ;  ! This deals with гӧсть
 :ьт         N_ ; ! This is the new proper spelling гӧсьт
 
-LEXICON N_RU-ӦЙ
-+Use/SpellNoSugg:ӧй N_ ;
+!LEXICON N_RU-ӦЙ
+!+Use/SpellNoSugg:ӧй N_ ;
 
 
 !! Basic nouns.
@@ -173,17 +173,17 @@ LEXICON NMN_END-IN-Ч/ДЗ !!= * @CODE@ автомобиль:автомобил 
 +Sg: CASEPOSSLEX-AFTERDERIVATION_VOW ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ;
 
-LEXICON N_END-IN-Ь !!= * @CODE@ автомобиль:автомобил автомобильыс
-+Cmp:ь R ;
-+Sg:ь CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
-+Sg: CASEPOSSLEX-AFTERDERIVATION_Я ;
-+Sg:ь CASEPOSSLEX-AFTERDERIVATION_Ӧ ;
-+Pl:%>%^1Cnsэз CASEPOSSLEX ; !! 2015-09-04 change to ь%>яс after xfst rules are removed
+!LEXICON N_END-IN-Ь !!= * @CODE@ автомобиль:автомобил автомобильыс
+!+Cmp:ь R ;
+!+Sg:ь CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
+!+Sg: CASEPOSSLEX-AFTERDERIVATION_Я ;
+!+Sg:ь CASEPOSSLEX-AFTERDERIVATION_Ӧ ;
+!+Pl:%>%^1Cnsэз CASEPOSSLEX ; !! 2015-09-04 change to ь%>яс after xfst rules are removed
 
 
 
-LEXICON NounLA ! ӧтила
-N_ ; ! Difference betw N_ and NounLA still to be documented.
+!LEXICON NounLA ! ӧтила
+!N_ ; ! Difference betw N_ and NounLA still to be documented.
 
 LEXICON NounMort
 N_ ; ! Difference betw N_ and NounMort still to be documented.
@@ -196,25 +196,25 @@ LEXICON NounPi ! пи These have a unique  pl marker ян.
 +Pl:%>ян CASEPOSSLEX ;    
 
 
-LEXICON Noun1-IS_ACRON ! А*С*СР ! АТП Note the inconcistencies in the star use.
-+ACR: ACRONDELIMITER ;
+!LEXICON Noun1-IS_ACRON ! А*С*СР ! АТП Note the inconcistencies in the star use.
+!+ACR: ACRONDELIMITER ;
 
 LEXICON NounPL ! бедьторъяс
 +Pl: CASEPOSSLEX ; ! here, %>%^1Cnsэз is put as part of the stem
 ! Very many plural nouns do not have this tag. We could change яс-final
 ! nouns from N_ to NounPL, I guess.
 
-LEXICON NounPOSS ! чой niece, nephew
-N_ ; ! Declension to be determined.
+!LEXICON NounPOSS ! чой niece, nephew
+!N_ ; ! Declension to be determined.
 
 LEXICON FIRST
 +Cmp: # ;
 
-LEXICON ACRONDELIMITER
-    CASEPOSSLEX ;
-:%: CASEPOSSLEX ;
-:%- CASEPOSSLEX ;
-:%' CASEPOSSLEX ;
+!LEXICON ACRONDELIMITER
+!    CASEPOSSLEX ;
+!:%: CASEPOSSLEX ;
+!:%- CASEPOSSLEX ;
+!:%' CASEPOSSLEX ;
 
 
 ! =================== !
@@ -543,26 +543,26 @@ LEXICON CAR_тӧг-THEN-K
 
 LEXICON DAT_лӧ-THEN-K
 +Dat:%>лӧ K ;
-LEXICON DAT_ZERO-THEN-K
-+Dat: K ;
+!LEXICON DAT_ZERO-THEN-K
+!+Dat: K ;
 
 LEXICON ELA_ісь-THEN-K
 +Ela:%>%{иі%}сь K ;
 
 LEXICON GEN_лӧн-THEN-K
 +Gen:%>лӧн K ;
-LEXICON GEN_ZERO-THEN-K
-+Gen: K ;
+!LEXICON GEN_ZERO-THEN-K
+!+Gen: K ;
 
-LEXICON ILL_ӧ-THEN-K
-+Ill:%>ӧ K ;
-LEXICON INE_ын-THEN-K
-+Inе:%>ын K ;
-LEXICON INS_ӧн-THEN-K
-+Ins:%>ӧн K ;
+!LEXICON ILL_ӧ-THEN-K
+!+Ill:%>ӧ K ;
+!LEXICON INE_ын-THEN-K
+!+Inе:%>ын K ;
+!LEXICON INS_ӧн-THEN-K
+!+Ins:%>ӧн K ;
 
-LEXICON TER_ӧдз-THEN-K
-+Ter:%>ӧдз K ;
+!LEXICON TER_ӧдз-THEN-K
+!+Ter:%>ӧдз K ;
 
 
 LEXICON Noun1-IS_INE
@@ -589,9 +589,9 @@ LEXICON IllCompar
  K ;
 +Der/жык+Comp:%>жык K ;
 
-LEXICON PredMonLex-Spat
- K ;      ! Singular predicative
- PredMonLex-Spat-Add-Morphology ; !
+!LEXICON PredMonLex-Spat
+! K ;      ! Singular predicative
+! PredMonLex-Spat-Add-Morphology ; !
 
 LEXICON PredMonLex-Spat-Add-Morphology ! This allows consistency 
                                        ! with SPAT elsewhere
