@@ -4,14 +4,21 @@
 
 !! !!Closed class personal pronouns
 ! ------------------------------
+LEXICON PRONOUN-TYPES
+ PERS ;
+! INTERR ;
+! INDEFINITE-PRON ;
+! NEG-PRON ;
+! COLL-PRON ;
+
 
 LEXICON PERS                        !!≈ * __@CODE@__ 
-ме+Pron+Pers+Sg1: perssg1decl ;    !!≈ * __@CODE@__ ...
-тэ+Pron+Pers+Sg2: perssg2decl ; 
-сія+Pron+Pers+Sg3: perssg3decl ;
-ми+Pron+Pers+Pl1: perspl1decl ;
-ті+Pron+Pers+Pl2: perspl2decl ; 
-нія+Pron+Pers+Pl3: perspl3decl ;
+ме+Pron+Pers+Sg1:ме perssg1decl ;    !!≈ * __@CODE@__ ...
+тэ+Pron+Pers+Sg2:ті perssg2decl ; 
+сія+Pron+Pers+Sg3:с perssg3decl ;
+ме+Pron+Pers+Pl1:ми perspl1decl ;
+тэ+Pron+Pers+Pl2:ті perspl2decl ; 
+сія+Pron+Pers+Pl3:н perspl3decl ;
 
 LEXICON PERS-SG1_
 +Pron+Pers+Sg1: perssg1decl ;
@@ -29,10 +36,7 @@ LEXICON PERS-PL3_
 
 LEXICON perssg1decl   !!≈ * __@CODE@__ 
 +Nom: WordEnd ;
-+Cmpl: WordEnd ; !Postposition complement
-+GenStem:нам WordEnd ;
-+Cmpl: GEN_лӧн-THEN-K ;
-+GenStem:нам GEN_лӧн-THEN-K ;
+: GEN_лӧн-THEN-K ;
 +Ela+PxSg1:нсьым WordEnd ; !The elative case is used in Sg1 and Sg2 
                  !for the functions of the ablative in other persons
 +Dat:ным WordEnd ; !What should be done with the 4 dative forms?
@@ -40,48 +44,46 @@ LEXICON perssg1decl   !!≈ * __@CODE@__
 +Dat:н WordEnd ;
 :н DAT_лӧ-THEN-K ;
 +Acc:нӧ WordEnd ;
-+GenStem+Ins:намӧн WordEnd ;
-+GenStem+Com:намкӧт WordEnd ;
-+GenStem:нам CAR_тӧг-THEN-K ;
-+GenStem+Inе:намын WordEnd ;
-+GenStem:нам ELA_ісь-THEN-K ;
-+GenStem+Ill:намӧ WordEnd ;
-+GenStem:нам APR_сянь-THEN-K ;
-+GenStem+Ter:намӧдз WordEnd ;
-+Cmpl: perssg ; ! for the regular obl sg
+
+:нам WordEnd ;
+:нам GEN_лӧн-THEN-K ;
++Ins:намӧн WordEnd ;
++Com:намкӧт WordEnd ;
+:нам CAR_тӧг-THEN-K ;
++Inе:намын WordEnd ;
+:нам ELA_ісь-THEN-K ;
++Ill:намӧ WordEnd ;
+:нам APR_сянь-THEN-K ;
++Ter:намӧдз WordEnd ;
+: perssg ; ! for the regular obl sg
 
 LEXICON perspl1decl    !!≈ * __@CODE@__
 +Nom: WordEnd ;
-+Der/йӧ+Nom:йӧ WordEnd ;
-+GenStem:ян WordEnd ;
++Nom:йӧ WordEnd ;
+:ян WordEnd ;
 +Acc:янӧс WordEnd ;
-+GenStem:ян persplobl ;
+:ян persplobl ;
 !!Extras form 2000 Grammar: 163
-+GenStem:ян GEN_лӧн-THEN-K ; !Synomymous with: миян
-+GenStem+PxPl1+Acc:яннымӧс WordEnd ; !Synomymous with: миянӧс
-+GenStem+Ela+PxPl1:янсьыным WordEnd ; !Synomymous with:миянлысь
+:ян GEN_лӧн-THEN-K ; !Synomymous with: миян
++PxPl1+Acc:яннымӧс WordEnd ; !Synomymous with: миянӧс
++Ela+PxPl1:янсьыным WordEnd ; !Synomymous with:миянлысь
 +Com:кӧт WordEnd ; !Synomymous with: миянкӧт
-+GenStem+PxPl1+Com:яннымкӧт WordEnd ; !Synomymous with: миянкӧт
-CAR_тӧг-THEN-K ; !Synomymous with: миянтӧг
-+GenStem+Car+PxPl1:янтӧгным WordEnd ; !Synomymous with: миянтӧг
-+GenStem+PxPl1+Cns:яннымла WordEnd ; !Synomymous with: миянла
-ELA_ісь-THEN-K ; !Synomymous with: миянысь
++PxPl1+Com:яннымкӧт WordEnd ; !Synomymous with: миянкӧт
+: CAR_тӧг-THEN-K ; !Synomymous with: миянтӧг
++Car+PxPl1:янтӧгным WordEnd ; !Synomymous with: миянтӧг
++PxPl1+Cns:яннымла WordEnd ; !Synomymous with: миянла
+: ELA_ісь-THEN-K ; !Synomymous with: миянысь
 +Ill:ӧ WordEnd ; !Synomymous with: миянӧ
-+GenStem+Apr+PxPl1:янланьным WordEnd ; !Synomymous with: миянлань
++Apr+PxPl1:янланьным WordEnd ; !Synomymous with: миянлань
 +Apr+PxPl1:ланьным WordEnd ; !Synomymous with: миянлань
-+GenStem+Egr+PxPl1:янсяньным WordEnd ; !Synomymous with: миянсянь
-+Tra:ті WordEnd ; !Synomymous with: миянӧд
-+Ter:ӧдз WordEnd ; !Synomymous with: миянӧдз
++Egr+PxPl1:янсяньным WordEnd ; !Synomymous with: миянсянь
++TerI:ӧдзз WordEnd ; !Synomymous with: миянӧдз
 
 LEXICON perssg2decl     !!≈ * __@CODE@__
 +Nom: WordEnd ;
 +Gen:нат WordEnd ;
 +Dat:ныт WordEnd ;
-
-+Cmpl: WordEnd ;
-+Cmpl: GEN_лӧн-THEN-K ;
-+GenStem:нат WordEnd ;
-+GenStem:нат GEN_лӧн-THEN-K ;
+ GEN_лӧн-THEN-K ;
 +Ela+PxSg2:нсьыт WordEnd ;
 +Dat:н WordEnd ;
 +Dat:т WordEnd ;
@@ -89,52 +91,53 @@ LEXICON perssg2decl     !!≈ * __@CODE@__
 :н DAT_лӧ-THEN-K ;
 :ныт DAT_лӧ-THEN-K ;
 +Acc:нӧ WordEnd ;
-+GenStem+Ins:натӧн WordEnd ;
-+GenStem+Com:накӧт WordEnd ;
-+GenStem:на CAR_тӧг-THEN-K ;
-+GenStem+Ine:натын WordEnd ;
-+GenStem:нат ELA_ісь-THEN-K ;
-+GenStem+Ill:натӧ WordEnd ;
-+GenStem+Egr:натсянь WordEnd ;
-+GenStem+Ter:натӧдз WordEnd ;
-+Cmpl: perssg ;  ! for the regular obl sg
+:нат WordEnd ;
+:нат GEN_лӧн-THEN-K ;
++Ins:натӧн WordEnd ;
++Com:накӧт WordEnd ;
+:на CAR_тӧг-THEN-K ;
++Ine:натын WordEnd ;
+:нат ELA_ісь-THEN-K ;
++Ill:натӧ WordEnd ;
++Egr:натсянь WordEnd ;
++Ter:натӧдз WordEnd ;
+: perssg ;  ! for the regular obl sg
 
 LEXICON perspl2decl !!≈ * __@CODE@__ 
 +Nom: WordEnd ;
-+Cmpl: WordEnd ;
 +Der/йӧ+Nom:йӧ WordEnd ; !We need a special tag for discerning +Nom forms
-+GenStem:ян DAT_лӧ-THEN-K ;
+:ян DAT_лӧ-THEN-K ;
 
-+GenStem:ян WordEnd ;
-+GenStem:ян GEN_лӧн-THEN-K ;
+:ян WordEnd ;
+:ян GEN_лӧн-THEN-K ;
 +Acc:янӧс WordEnd ;
-+GenStem:ян persplobl ;
+:ян persplobl ;
 
 !More forms from Ӧнія коми кыв 2000: 163
-+GenStem+Abl+PxPl2:янлысьныд WordEnd ;
-+GenStem+PxPl2+PxSg2+Acc2:янныдтӧ WordEnd ;
 +Ins:ӧн WordEnd ;
-+GenStem+PxPl2+Car:янныдтӧг WordEnd ;
 CAR_тӧг-THEN-K ;
-+GenStemPxPl2+Cns:янныдла WordEnd ;
 ELA_ісь-THEN-K ;
 +Ill:ӧ WordEnd ;
-+GenStem+Apr+PxPl2:янланьныд WordEnd ;
-+GenStem+Apr+PxSg2:янланьыд WordEnd ;
-+GenStem+Egr+PxPl2:янсяньныд WordEnd ;
++Abl+PxPl2:янлысьныд WordEnd ;
++PxPl2+PxSg2+Acc2:янныдтӧ WordEnd ;
++PxPl2+Car:янныдтӧг WordEnd ;
++PxPl2+Cns:янныдла WordEnd ;
++Apr+PxPl2:янланьныд WordEnd ;
++Apr+PxSg2:янланьыд WordEnd ;
++Egr+PxPl2:янсяньныд WordEnd ;
 +Ter:ӧдз WordEnd ;
 
 LEXICON perssg3decl  !!≈ * __@CODE@__ 
 +Nom:ія WordEnd ;
 +Der/йӧ+Acc:ійӧ WordEnd ;
 
-+Cmpl:ы GEN_лӧн-THEN-K ;
-+Cmpl+Abl:ылісь WordEnd ;
-+Cmpl:ы ELA_ісь-THEN-K ;
-+Cmpl:ы DAT_лӧ-THEN-K ;
+:ы GEN_лӧн-THEN-K ;
++Abl:ылісь WordEnd ;
+:ы ELA_ісь-THEN-K ;
+:ы DAT_лӧ-THEN-K ;
 +Der/йӧ+Ins:ійӧн WordEnd ;
-+Cmpl:ы perssg ;  ! for the regular obl sg
-+Cmpl:ы WordEnd ;
+:ы perssg ;  ! for the regular obl sg
+:ы WordEnd ;
 !More form ӧния коми кыв 163
 +Der/йӧ:ійӧ GEN_лӧн-THEN-K ;
 +Der/йӧ+Abl:ійӧлісь WordEnd ;
@@ -146,7 +149,7 @@ LEXICON perssg3decl  !!≈ * __@CODE@__
 +Der/йӧ+Egr+PxSg3:ійӧсяньыс WordEnd ;
 +Der/йӧ+Ter:ійӧӧдз WordEnd ;
 ! Special expressions
-+Cmpl+Com+Ins:ыкӧтӧн WordEnd ; ! Ен сыкӧтӧн!
++Com+Ins:ыкӧтӧн WordEnd ; ! Ен сыкӧтӧн!
 
 !! ми мийӧ The 1st and 2nd persons have Oblique case stem strategies
 !! that differ from the 3rd person: 
@@ -157,27 +160,27 @@ LEXICON perspl3decl !!≈ * __@CODE@__
 +Nom:ія WordEnd ;
 +Der/йӧ+Acc:ійӧ WordEnd ;
 
-+Der/йӧ+Acc:найӧс WordEnd ;
-+Cmpl:на GEN_лӧн-THEN-K ;
-+Cmpl:ы persplobl ; !This might be one solution for the different stem types
-+Cmpl:ы WordEnd ;
++Der/йӧ+Acc:айӧс WordEnd ;
+:на GEN_лӧн-THEN-K ;
+:ы persplobl ; !This might be one solution for the different stem types
+:ы WordEnd ;
 !
 +Der/йӧ:найӧ GEN_лӧн-THEN-K ;
 +Der/йӧ+Abl:найӧлісь WordEnd ;
 +Der/йӧ:найӧ DAT_лӧ-THEN-K ;
 +Der/йӧ+Ins:найӧӧн WordEnd ;
 +Der/йӧ+Com:найӧкӧт WordEnd ;
-+Cmpl+Com:накӧтыс WordEnd ;
++Com:накӧтыс WordEnd ;
 +Der/йӧ:найӧ CAR_тӧг-THEN-K ;
-+Cmpl+Car+PxSg3:натӧгыс WordEnd ;
-+Cmpl+PxSg3+Cns:наысла WordEnd ;
-+Cmpl+Ela+PxSg3:насьыс WordEnd ;
-+Cmpl+PxSg3+Apr:наыслань WordEnd ;
-+Cmpl+Apr+PxSg3:наланьыс WordEnd ;
-+Cmpl+PxSg3+Egr:наыссянь WordEnd ;
-+Cmpl+Egr+PxSg3:насяньыс WordEnd ;
-+Cmpl+Tra+PxSg3:натіыс WordEnd ;
-+Cmpl+Ter+PxSg3:наӧдзыс WordEnd ;
++Car+PxSg3:натӧгыс WordEnd ;
++PxSg3+Cns:наысла WordEnd ;
++Ela+PxSg3:насьыс WordEnd ;
++PxSg3+Apr:наыслань WordEnd ;
++Apr+PxSg3:наланьыс WordEnd ;
++PxSg3+Egr:наыссянь WordEnd ;
++Egr+PxSg3:насяньыс WordEnd ;
++Tra+PxSg3:натіыс WordEnd ;
++Ter+PxSg3:наӧдзыс WordEnd ;
 
 
 LEXICON perssg !!≈ * __@CODE@__
@@ -190,9 +193,8 @@ CAR_тӧг-THEN-K ;
 ELA_ісь-THEN-K ;
 APR_сянь-THEN-K ;
 +Egr:сянь WordEnd ;
-+Prl:ӧд WordEnd ;
-+Tra:ті WordEnd ;
-+Ter:ӧдз WordEnd ;
++Prl:ӧт WordEnd ;
++TerI:ӧдзз WordEnd ;
 +Abl:лісь WordEnd ; !This is not attested for Sg1 and Sg2 in the 2000 Grammar
 
 

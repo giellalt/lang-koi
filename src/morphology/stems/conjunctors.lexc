@@ -5,6 +5,7 @@ LEXICON Conjunctors
 кӧ+CS:кӧ CS_  "jos" ;
 медбы+CC:медбы CC_ ;
 мый+CS:мый CS_  "että" ;
+не+CC:не CC_  "" ;
 но+CC:но CC_  "mutta (kuitenkin)" ;
 что+CS:что CS_  "että" ;
 

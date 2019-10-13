@@ -3,13 +3,6 @@
 !! Pronouns in KOMI PERMYAK language are references to things.
 
 LEXICON Pronouns
-pronoun    Cases   ;
-ме:ме PERS-SG1_  "(kpv)..ме:ме.." ;
-тэ:тэ PERS-SG2_  "(kpv)..тэ:тэ.." ;
-сія:с PERS-SG3_  "(kpv)..сійӧ:сы PRONDEMTAG.." ;
-ми:ми PERS-PL1_  "(kpv)..ми:ми.." ; 
-ті:ті PERS-PL2_  "(kpv)..ті:ті.." ;
-нія:н PERS-PL3_  "(kpv)..найӧ:на.." ;
 кинкӧ:кин PRONINDEFTAG-KO  "(kpv)..кодкӧ:код PRONINDEFTAG-KO.." ;
 
 
