@@ -3249,7 +3249,7 @@ LEXICON verbs
 лойсьыны+V:лойсьы V_LYDDJYNY  "" ;
 лойсьыны+V:войсьы V_LYDDJYNY  "" ;
 локлыллыны+V:локлыллы V_LYDDJYNY  "" ;
-локны+V:локт V_AMNY  "" ;
+локны+V:локт V_LOKNY  "" ;
 локны+V:вок V_KUTNY  "" ;
 локтыштны+V:локтышт V_KUTNY  "" ;
 локтыштны+V:воктыш V_JUAYSHNY  "" ;

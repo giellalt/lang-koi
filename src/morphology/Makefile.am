@@ -74,7 +74,7 @@ GT_LEXC_L2_SRCS=\
 
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
-                generated_files/urj-Cyrl-propernouns.lexc \
+		generated_files/urj-Cyrl-propernouns.lexc \
 		$(srcdir)/stems/verbs.lexc \
 		generated_files/punctuation.lexc \
 		generated_files/symbols.lexc
@@ -101,6 +101,11 @@ GT_DISTRO_SRCS=
 ### gle/ for an example of how this is used.
 
 GIELLA_LOCAL_TARGETS=
+
+generated_files/urj-Cyrl-propernouns.lexc: \
+	$(GIELLA_SHARED)/urj-Cyrl/src/morphology/stems/urj-Cyrl-propernouns.lexc
+	$(AM_V_at)$(MKDIR_P) generated_files
+	$(AM_V_GEN)cp -f $< $@
 
 ### END: Local processing: ###
 

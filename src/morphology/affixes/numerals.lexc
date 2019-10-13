@@ -240,30 +240,30 @@ DAT_лӧ-THEN-K ;
 !! !!Arabic numerals
 ! ===============
 
-LEXICON NUM-PREFIXES     !!= * __@CODE@__  
-        ARABIC ;
-§       ARABIC ;      ! §24                     !^C^                               
-§§      ARABIC ;     ! §§24                     !^C^                               
-§%      ARABIC ;    ! § 24                      !^C^                               
-§§%     ARABIC ;   ! §§ 24                      !^C^                               
-%-      ARABIC ;     ! -24                      !^C^                               
-%‒      ARABIC ;     ! -24 U+2012 Figure line   !^C^                               
-%–      ARABIC ;     ! -24 U+2013 en dash       !^C^                               
-%—      ARABIC ;     ! -24 U+2014 em dash       !^C^                               
-%―      ARABIC ;     ! -24 U+2015 horizontal l  !^C^                               
-%+      ARABIC ;     ! +24                      !^C^                               
-%-%     ARABIC ;        ! - 24                  !^C^                               
-%‒%     ARABIC ;        ! - 24 2012             !^C^                               
-%–%     ARABIC ;        ! - 24 2013             !^C^                               
-%—%     ARABIC ;        ! - 24 2014             !^C^                               
-%―%     ARABIC ;        ! - 24 2015             !^C^                               
-%+%     ARABIC ;        ! + 24                  !^C^                               
-%*      ARABIC ;     ! *24                      !^C^                               
-%$      ARABIC ;     ! $24  ! And the Euro?     !^C^                               
-%<      ARABIC ;     ! <24                      !^C^                               
-!%>     ARABIC ;     ! >24                      !^C^                               
-s%.     ARABIC ;     ! s.24                     !^C^                               
-
+!LEXICON NUM-PREFIXES     !!= * __@CODE@__  
+!        ARABIC ;
+!§       ARABIC ;      ! §24                     !^C^                               
+!§§      ARABIC ;     ! §§24                     !^C^                               
+!§%      ARABIC ;    ! § 24                      !^C^                               
+!§§%     ARABIC ;   ! §§ 24                      !^C^                               
+!%-      ARABIC ;     ! -24                      !^C^                               
+!%‒      ARABIC ;     ! -24 U+2012 Figure line   !^C^                               
+!%–      ARABIC ;     ! -24 U+2013 en dash       !^C^                               
+!%—      ARABIC ;     ! -24 U+2014 em dash       !^C^                               
+!%―      ARABIC ;     ! -24 U+2015 horizontal l  !^C^                               
+!%+      ARABIC ;     ! +24                      !^C^                               
+!%-%     ARABIC ;        ! - 24                  !^C^                               
+!%‒%     ARABIC ;        ! - 24 2012             !^C^                               
+!%–%     ARABIC ;        ! - 24 2013             !^C^                               
+!%—%     ARABIC ;        ! - 24 2014             !^C^                               
+!%―%     ARABIC ;        ! - 24 2015             !^C^                               
+!%+%     ARABIC ;        ! + 24                  !^C^                               
+!%*      ARABIC ;     ! *24                      !^C^                               
+!%$      ARABIC ;     ! $24  ! And the Euro?     !^C^                               
+!%<      ARABIC ;     ! <24                      !^C^                               
+!!%>     ARABIC ;     ! >24                      !^C^                               
+!s%.     ARABIC ;     ! s.24                     !^C^                               
+!
 
 
 LEXICON ARABIC          !!= * __@CODE@__ 

@@ -726,6 +726,7 @@ VERBNEGATIVE ;
  PROPERNOUNS-TOPONYMS-KOMI_NEWWORDS ;
  V_NEWWORDS ;
 
+urj-Cyrl-ProperNouns ;
 PRONOUN-TYPES ;
 
 ! ======================================================= !
@@ -755,8 +756,8 @@ LEXICON ABBR-IS_N
 LEXICON EndNeg
 +CC+Neg: WordEnd ; ! ни
 
-LEXICON EndQST
-+Qst: WordEnd ;
+!LEXICON EndQST
+!+Qst: WordEnd ;
 
 
 
@@ -800,8 +801,8 @@ LEXICON COMPARATIVE
 
 ! TODO: Integrate this in xml-files in working…
 
-LEXICON SUBSTANDARDS
-коръя+Err/Orth:корья Noun1 ;
+!LEXICON SUBSTANDARDS
+!коръя+Err/Orth:корья Noun1 ;
 
 
 

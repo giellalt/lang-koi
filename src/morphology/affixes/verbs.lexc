@@ -88,12 +88,12 @@ LEXICON V_SHUNY !!≈ * __@CODE@__ шуны:шу янӧдны, контроли�
 
 LEXICON V_JUAYSHNY !!≈ * __@CODE@__ is there ш : шт gradation
  V_AMNY ; 
-LEXICON VR_AMNY !!≈ * __@CODE@__
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ Verb-nyDer ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer-V ; !
-+Refl: VerbConj_AMNY ; !а
-+Refl: VerbConj-V ; !б
+!LEXICON VR_AMNY !!≈ * __@CODE@__
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ Verb-nyDer ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer-V ; !
+!+Refl: VerbConj_AMNY ; !а
+!+Refl: VerbConj-V ; !б
 
 LEXICON V_AMNY !!≈ * __@CODE@__ амны:ам Ending in -мны, -жны, -дзны,
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Verb-nyDer ; !
@@ -102,14 +102,14 @@ LEXICON V_AMNY !!≈ * __@CODE@__ амны:ам Ending in -мны, -жны, -д�
 : VerbConj_AMNY ; !а
 : VerbConj-V ; !б
 
-LEXICON VR_KYJNY !!≈ * __@CODE@__ 
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@й Verb-nyDer-ONSET-CONS ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@й Verb-nyDer-ONSET-Y ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ Verb-nyDer-ONSET-JA ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer_KYJNY ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer-V ; !
-+Refl: VerbConj_KYJNY ; !а
-+Refl:й VerbConj-V ; !б
+!LEXICON VR_KYJNY !!≈ * __@CODE@__ 
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@й Verb-nyDer-ONSET-CONS ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@й Verb-nyDer-ONSET-Y ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ Verb-nyDer-ONSET-JA ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer_KYJNY ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer-V ; !
+!+Refl: VerbConj_KYJNY ; !а
+!+Refl:й VerbConj-V ; !б
 
 LEXICON V_KYJNY !!≈ * __@CODE@__ кыйны:кы Ending in -йны, 
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@й Verb-nyDer-ONSET-CONS ; !
@@ -123,12 +123,12 @@ LEXICON V_KYJNY !!≈ * __@CODE@__ кыйны:кы Ending in -йны,
 LEXICON V_CHILOESNY !!≈ * __@CODE@__ is there s : st alternation 2018-09-01
  V_KUTNY ;
 
-LEXICON VR_KUTNY !!≈ * __@CODE@__
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ Verb-nyDer ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer-V ; !
-+Refl: VerbConj_KUTNY ; !а
-+Refl: VerbConj-V ; !б
+!LEXICON VR_KUTNY !!≈ * __@CODE@__
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ Verb-nyDer ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer-V ; !
+!+Refl: VerbConj_KUTNY ; !а
+!+Refl: VerbConj-V ; !б
 
 LEXICON V_KUTNY !!≈ * __@CODE@__ шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Verb-nyDer ; !
@@ -137,13 +137,13 @@ LEXICON V_KUTNY !!≈ * __@CODE@__ шуны:шу янӧдны, контроли�
 : VerbConj_KUTNY ; !а
 : VerbConj-V ; !б
 
-LEXICON VR_NUAVNY !!≈ * __@CODE@__ нуавны:нуа
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@в Verb-nyDer-ONSET-CONS ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@л Verb-nyDer-ONSET-VOW ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@л VerbDer_KUTNY ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@в VerbDer-V ; !
-+Refl:л VerbConj_KUTNY ; !а
-+Refl:в VerbConj-V ; !б
+!LEXICON VR_NUAVNY !!≈ * __@CODE@__ нуавны:нуа
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@в Verb-nyDer-ONSET-CONS ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@л Verb-nyDer-ONSET-VOW ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@л VerbDer_KUTNY ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@в VerbDer-V ; !
+!+Refl:л VerbConj_KUTNY ; !а
+!+Refl:в VerbConj-V ; !б
 
 LEXICON V_NUAVNY !!≈ * __@CODE@__ нуавны:нуа
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@в Verb-nyDer-ONSET-CONS ; !
@@ -153,14 +153,14 @@ LEXICON V_NUAVNY !!≈ * __@CODE@__ нуавны:нуа
 :л VerbConj_KUTNY ; !а
 :в VerbConj-V ; !! Consonant-onset
 
-LEXICON VR_ARTASJNY !!≈ * __@CODE@__
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ь Verb-nyDer-ONSET-CONS ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ь Verb-nyDer-ONSET-Y ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ Verb-nyDer-ONSET-JA ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer_ARTASJNY ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ь VerbDer-V ; !
-+Refl: VerbConj ; !а
-+Refl: VerbConj-V ; !б
+!LEXICON VR_ARTASJNY !!≈ * __@CODE@__
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ь Verb-nyDer-ONSET-CONS ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ь Verb-nyDer-ONSET-Y ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ Verb-nyDer-ONSET-JA ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer_ARTASJNY ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ь VerbDer-V ; !
+!+Refl: VerbConj ; !а
+!+Refl: VerbConj-V ; !б
 
 LEXICON V_ARTASJNY !!≈ * __@CODE@__ артасьны:артас -Cны.
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@ь Verb-nyDer ; !
@@ -183,12 +183,12 @@ LEXICON V_LYDDJYNY !!≈ * __@CODE@__ лыддьыны:лыддь ! ярмыны
 : VerbConj ; ! check this!!!
 :ы VerbConj-V ; ! check this!!!
 
-LEXICON VR_VOLYNY !!≈ * __@CODE@__ 
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ Verb-ynyDer ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
-@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ы VerbDer-V ; !
-+Refl: VerbConj_KUTNY ; ! check this!!!
-+Refl:ы VerbConj-V ; ! check this!!!
+!LEXICON VR_VOLYNY !!≈ * __@CODE@__ 
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ Verb-ynyDer ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
+!@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ы VerbDer-V ; !
+!+Refl: VerbConj_KUTNY ; ! check this!!!
+!+Refl:ы VerbConj-V ; ! check this!!!
 
 LEXICON V_VOLYNY !!≈ * __@CODE@__ волыны:лыддь ! ярмыны. Multiple-syllable verb ending in -ыны.
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Verb-ynyDer ; !
@@ -664,10 +664,10 @@ LEXICON VerbDer-V
 
 
 ! 2012-02-11 This is a problem; олан-вӧлан, овны-вӧвны
-LEXICON VerbPRT ! one verb, вӧвны 
-: preterite ;
-@U.CONJ-CONNEG.YES@@U.CONJ-NX.PL@@U.CONJ-PX.3@+ConNeg+Pl3:@U.CONJ-CONNEG.YES@@U.CONJ-NX.PL@@U.CONJ-PX.3@%>ны WordEnd ;
-@U.CONJ-CONNEG.YES@+ConNeg:@U.CONJ-CONNEG.YES@ WordEnd ;
+!LEXICON VerbPRT ! one verb, вӧвны 
+!: preterite ;
+!@U.CONJ-CONNEG.YES@@U.CONJ-NX.PL@@U.CONJ-PX.3@+ConNeg+Pl3:@U.CONJ-CONNEG.YES@@U.CONJ-NX.PL@@U.CONJ-PX.3@%>ны WordEnd ;
+!@U.CONJ-CONNEG.YES@+ConNeg:@U.CONJ-CONNEG.YES@ WordEnd ;
 
 LEXICON EMYSHT ! эмышт "is a little / are a few"
 @U.CONJ-MX.IND@+Ind+Prs+Sg3:@U.CONJ-MX.IND@ WordEnd ;
