@@ -14,8 +14,8 @@ LEXICON GER_
 LEXICON ADV-IS_GER-IGON ! these are checked as gerunds in +Der/иг
 +V+Der/иг+Ins: ADV_ ;
 
-LEXICON ADV-IS_GER-IGTYRJI ! these are checked as gerunds in +Der/иг
-+V+Der/иг+Der/тырйи: ADV_ ;
+!LEXICON ADV-IS_GER-IGTYRJI ! these are checked as gerunds in +Der/иг
+!+V+Der/иг+Der/тырйи: ADV_ ;
 
 LEXICON ADV-IS_GER-MON ! these are checked as gerunds in +Der/мӧн
 +V+Der/мӧн: ADV_ ;
@@ -62,17 +62,18 @@ LEXICON ADV-TEMP_
 LEXICON ADV-SPAT  !!= * __@CODE@__
       !! these are adverbs in spatial cases
       !! and they probably are equivalent in morphology to postpositions
- ADV-SPAT-APR ;
- ADV-SPAT-APRILL ;
- ADV-SPAT-APRINE ;
- ADV-SPAT-APRELA ;
- ADV-SPAT-EGR ;
- ADV-SPAT-ELA ;
- ADV-SPAT-ILL ;
- ADV-SPAT-INE ;
- ADV-SPAT-PRL ;
- ADV-SPAT-TER ;
- ADV-SPAT-TRA ;
+ ADV-SPAT-APR ; !
+ ADV-SPAT-APRILL ; !
+ ADV-SPAT-APRINE ; !
+ ADV-SPAT-APRELA ; !
+ ADV-SPAT-EGR ;	 !
+ ADV-SPAT-ELA ;	 !
+ ADV-SPAT-ILL ;	 !
+ ADV-SPAT-INE ;	 !
+ ADV-SPAT-PRL ;	 !
+ ADV-SPAT-TERI ;	 !
+ ADV-SPAT-TERII ;	 !
+ ADV-SPAT-TRA ;	 !
 
 LEXICON ADV-SPAT-LA ! These adverbs have a formative in ла
 +Der/ла: ADV-SPAT ;
@@ -102,20 +103,23 @@ LEXICON ADV-SPAT-INE
 +Spat+Ine:%>ын SPAT-COMPARATIVE ;
 
 LEXICON ADV-SPAT-PRL
-+Spat+Prl:%>ӧд K ;
++Spat+Prl:%>ӧт K ;
 
 LEXICON ADV-SPAT-TRA
 +Spat+Tra:%>ті COMPARATIVE ;
 
-LEXICON ADV-SPAT-TER
-+Spat+Ter:%>ӧдз COMPARATIVE ;
+LEXICON ADV-SPAT-TERI
++Spat+TerI:%>ӧдзз COMPARATIVE ;
 
-LEXICON ADV-VTER
-+V+Der/тӧдз+Adv+Temp+Ter:%>тӧдз K ;
+LEXICON ADV-SPAT-TERII
++Spat+TerII:%>ви COMPARATIVE ;
+
+LEXICON ADV-VTERI
++V+Der/тӧдз+Adv+Temp+TerI:%>тӧдзз K ;
 
 ! Adverbs with ready morphology
-LEXICON ADV-IS_APRELA
-+Apr+Ela: SPAT-COMPARATIVE ;
+!LEXICON ADV-IS_APRELA
+!+Apr+Ela: SPAT-COMPARATIVE ;
 
 LEXICON ADV-IS_APRILL
 +Apr+Ill: SPAT-COMPARATIVE ;
@@ -141,8 +145,11 @@ LEXICON ADV-IS_INE
 LEXICON ADV-IS_PROL
 +Prol: K ;
 
-LEXICON ADV-IS_TER
-+Ter: K ;
+LEXICON ADV-IS_TERI
++TerI: K ;
+
+!LEXICON ADV-IS_TERII
+!+TerII: K ;
 
 LEXICON ADV-IS_TRA
 +Tra: K ;

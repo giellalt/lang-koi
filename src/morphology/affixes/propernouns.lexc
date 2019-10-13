@@ -24,29 +24,29 @@ LEXICON Prop-R-RY
 
 !! Preparing for the template urj-Cyrl
 !! Beginning 2012-11-15
-LEXICON CYRL-CONS_SUR
- PropSur-kal ;
+!LEXICON CYRL-CONS_SUR
+! PropSur-kal ;
 
-LEXICON CYRL-SIBILANT_SUR
- PropSur-osh ;
+!LEXICON CYRL-SIBILANT_SUR
+! PropSur-osh ;
 
-LEXICON CYRL-VOW_SUR
- PropSur-kudo ;
+!LEXICON CYRL-VOW_SUR
+! PropSur-kudo ;
 
-LEXICON CYRL-A_SUR
- PropSur-kudo ;
+!LEXICON CYRL-A_SUR
+! PropSur-kudo ;
 
-LEXICON CYRL-K_SUR 
- PropSur-lak ;
+!LEXICON CYRL-K_SUR 
+! PropSur-lak ;
 
-LEXICON CYRL-L_SUR 
-:2 PropSur-kal ; !!= * @CODE@ These are foreign Л words
+!LEXICON CYRL-L_SUR 
+!:2 PropSur-kal ; !!= * @CODE@ These are foreign Л words
 
-LEXICON CYRL-T_SUR
- PropSur-kit ;
+!LEXICON CYRL-T_SUR
+! PropSur-kit ;
 
-LEXICON Deriv-RUS-AN_SURMAL
- Deriv-RUS-V_SURMAL ;
+!LEXICON Deriv-RUS-AN_SURMAL
+! Deriv-RUS-V_SURMAL ;
 
 !! Абдеев:Абдеев
 LEXICON Deriv-RUS-V_SURMAL
@@ -112,26 +112,26 @@ LEXICON PROP_KIT_SUR
 +Prop+Sem/Sur+Sg: CASEPOSSLEX ;
 
 
-LEXICON PROP_KUDO_FEM
-+Prop+Sem/Fem+Sg: CASEPOSSLEX ;
-LEXICON PROP_KUDO_MAL
-+Prop+Sem/Mal+Sg: CASEPOSSLEX ;
+!LEXICON PROP_KUDO_FEM
+!+Prop+Sem/Fem+Sg: CASEPOSSLEX ;
+!LEXICON PROP_KUDO_MAL
+!+Prop+Sem/Mal+Sg: CASEPOSSLEX ;
 
 LEXICON PROP_KUDO_PATRFEM
 +Sem/Patr+Sem/Fem+Prop+Sg: CASEPOSSLEX ; 
 
-LEXICON PROP_KUDO_PATRMAL
-+Sem/Patr+Sem/Mal+Prop+Sg: CASEPOSSLEX ; 
-LEXICON PROP_LAK_MAL
-+Prop+Sem/Mal+Sg: CASEPOSSLEX ;
-LEXICON PROP_OSH_FEM
-+Prop+Sem/Fem+Sg: CASEPOSSLEX ;
-LEXICON PROP_OSH_MAL
-+Prop+Sem/Mal+Sg: CASEPOSSLEX ;
-LEXICON PROP_OSH_PATRMAL
-+Prop+Sem/Patr+Sg: CASEPOSSLEX ;
-LEXICON PROP_OSH_SUR
-+Prop+Sem/Sur+Sg: CASEPOSSLEX ;
+!LEXICON PROP_KUDO_PATRMAL
+!+Sem/Patr+Sem/Mal+Prop+Sg: CASEPOSSLEX ; 
+!LEXICON PROP_LAK_MAL
+!+Prop+Sem/Mal+Sg: CASEPOSSLEX ;
+!LEXICON PROP_OSH_FEM
+!+Prop+Sem/Fem+Sg: CASEPOSSLEX ;
+!LEXICON PROP_OSH_MAL
+!+Prop+Sem/Mal+Sg: CASEPOSSLEX ;
+!LEXICON PROP_OSH_PATRMAL
+!+Prop+Sem/Patr+Sg: CASEPOSSLEX ;
+!LEXICON PROP_OSH_SUR
+!+Prop+Sem/Sur+Sg: CASEPOSSLEX ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!! Male given name for deriving patronyms 
@@ -281,8 +281,8 @@ LEXICON PROP-MAL ! Male given names
 LEXICON Prop-Sur-Fem ! Basic nouns.
 +Prop+Sem/Sur+Sem/Fem+Sg: CASEPOSSLEX ;
 
-LEXICON PROP-FEM ! Female given names
-+Prop+Sem/Fem+Sg: CASEPOSSLEX ;
+!LEXICON PROP-FEM ! Female given names
+!+Prop+Sem/Fem+Sg: CASEPOSSLEX ;
 
 
 

@@ -538,8 +538,8 @@ LEXICON APR_сянь-THEN-K
 
 LEXICON CAR_тӧг-THEN-K
 +Car:%>тӧг K ;
-LEXICON COM_кӧт-THEN-K
-+Com:%>кӧт K ;
+!LEXICON COM_кӧт-THEN-K
+!+Com:%>кӧт K ;
 
 LEXICON DAT_лӧ-THEN-K
 +Dat:%>лӧ K ;
