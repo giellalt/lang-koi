@@ -6,7 +6,7 @@
 ! ------------------------------
 LEXICON PRONOUN-TYPES
  PERS ;
-! INTERR ;
+ INTERR ;
 ! INDEFINITE-PRON ;
 ! NEG-PRON ;
 ! COLL-PRON ;
@@ -20,19 +20,19 @@ LEXICON PERS                        !!≈ * __@CODE@__
 тэ+Pron+Pers+Pl2:ті perspl2decl ; 
 сія+Pron+Pers+Pl3:н perspl3decl ;
 
-LEXICON PERS-SG1_
-+Pron+Pers+Sg1: perssg1decl ;
-LEXICON PERS-SG2_
-+Pron+Pers+Sg2: perssg2decl ;
-LEXICON PERS-SG3_
-+Pron+Pers+Sg3: perssg3decl ;
+!LEXICON PERS-SG1_
+!+Pron+Pers+Sg1: perssg1decl ;
+!LEXICON PERS-SG2_
+!+Pron+Pers+Sg2: perssg2decl ;
+!LEXICON PERS-SG3_
+!+Pron+Pers+Sg3: perssg3decl ;
 
-LEXICON PERS-PL1_
-+Pron+Pers+Pl1: perspl1decl ;
-LEXICON PERS-PL2_
-+Pron+Pers+Pl2: perspl2decl ;
-LEXICON PERS-PL3_
-+Pron+Pers+Pl3: perspl3decl ;
+!LEXICON PERS-PL1_
+!+Pron+Pers+Pl1: perspl1decl ;
+!LEXICON PERS-PL2_
+!+Pron+Pers+Pl2: perspl2decl ;
+!LEXICON PERS-PL3_
+!+Pron+Pers+Pl3: perspl3decl ;
 
 LEXICON perssg1decl   !!≈ * __@CODE@__ 
 +Nom: WordEnd ;
@@ -513,8 +513,8 @@ LEXICON IS_PRON-INTERR
 !+Acc:%>ӧс PRONINDEF-PERS-KO-END ;
 
 
-LEXICON PRON-SPAT
-+Pron+Spat: COMPARATIVE ;
+!LEXICON PRON-SPAT
+!+Pron+Spat: COMPARATIVE ;
 
 LEXICON PRON-RECIPR
 +Pron+Recipr: PRON-RECIPR-CASE ;
@@ -838,25 +838,25 @@ LEXICON PRON-DEM-IS_ILL
 
 
 
-LEXICON PRON-INTER-NONHUM
-+Pron+Interr+Nom: WordEnd ;
-+Pron+Interr: GEN_лӧн-THEN-K ;
-+Pron+Interr+Abl:лісь K ; !
-+Pron+Interr: DAT_лӧ-THEN-K ;
-+Pron+Interr+ZeroAcc: WordEnd ;
-+Pron+Interr+Acc3:сӧ WordEnd ;
-+Pron+Interr+Ins:ӧн K ;
-+Pron+Interr+Com:кӧт K ;
-+Pron+Interr: CAR_тӧг-THEN-K ;
-+Pron+Interr+Cns:ла K ;
-+Pron+Interr+Ine:ын K ;
-+Pron+Interr: ELA_ісь-THEN-K ; 
-+Pron+Interr+Ill:ӧ K ; !
-+Pron+Interr: APR_сянь-THEN-K ;
-+Pron+Interr+Egr:сянь K ;
-+Pron+Interr+Prl:ӧд K ;
-+Pron+Interr+Tra:ті K ;
-+Pron+Interr+Ter:ӧдз K ;
+!LEXICON PRON-INTER-NONHUM
+!+Pron+Interr+Nom: WordEnd ;
+!+Pron+Interr: GEN_лӧн-THEN-K ;
+!+Pron+Interr+Abl:лісь K ; !
+!+Pron+Interr: DAT_лӧ-THEN-K ;
+!+Pron+Interr+ZeroAcc: WordEnd ;
+!+Pron+Interr+Acc3:сӧ WordEnd ;
+!+Pron+Interr+Ins:ӧн K ;
+!+Pron+Interr+Com:кӧт K ;
+!+Pron+Interr: CAR_тӧг-THEN-K ;
+!+Pron+Interr+Cns:ла K ;
+!+Pron+Interr+Ine:ын K ;
+!+Pron+Interr: ELA_ісь-THEN-K ; 
+!+Pron+Interr+Ill:ӧ K ; !
+!+Pron+Interr: APR_сянь-THEN-K ;
+!+Pron+Interr+Egr:сянь K ;
+!+Pron+Interr+Prl:ӧд K ;
+!+Pron+Interr+Tra:ті K ;
+!+Pron+Interr+Ter:ӧдз K ;
 
 LEXICON PRON-NEG-HUM
 +Pron+Neg+Sg+Nom: WordEnd ;
@@ -1079,8 +1079,8 @@ LEXICON PRONQ-ATAG
 LEXICON PRON-QNT_
 +Pron+Qnt: COMPARATIVE ; ! sg/pl?
 
-LEXICON PRON-QNT_-PL
-+Pron+Qnt+Pl: WordEnd ;
+!LEXICON PRON-QNT_-PL
+!+Pron+Qnt+Pl: WordEnd ;
 
 LEXICON PRON-QNT-IS_ILL
 +Pron+Qnt+Ill: K ;
