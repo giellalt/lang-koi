@@ -1,6 +1,7 @@
 
 LEXICON Adpositions
 
-вылын:выл PO-SPAT_  "(kpv)..вылын:выл.." ;
-дынӧ:дын PO-SPAT-ILL  "(kpv)..дінӧ:дін.." ;
-одзын:одз PO-SPAT-INE  "KPV:водзын:водз" ;
+вылын+Adp:выл PO-SPAT-INE "(kpv)..вылын+Adp:выл.." ;
+
+дынӧ+Adp:дын PO-SPAT-ILL  "(kpv)..дінӧ+Adp:дін.." ;
+одзын+Adp:одз PO-SPAT-INE  "KPV+Adp:водзын+Adp:водз" ;
