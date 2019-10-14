@@ -13,6 +13,8 @@ LEXICON V_
 
 !! !!Closed class verbs
 ! ------------------
+LEXICON AUXILIARIES
+бы+Aux+Cond:бы WordEnd ;
 
 LEXICON VERBNEGATIVE
 !Present Neg

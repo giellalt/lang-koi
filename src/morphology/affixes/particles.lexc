@@ -4,10 +4,10 @@
 
 
 LEXICON PCLE_
-+Pcle: WordEnd ;
+: WordEnd ;
 
 LEXICON PcleIntens
-+Pcle+Intens: WordEnd ;
++Intens: WordEnd ;
 
 LEXICON ONOM_
 +Onom: WordEnd ;

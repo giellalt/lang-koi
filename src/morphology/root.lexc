@@ -157,7 +157,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Prt1 !!≈ ;@CODE@: preterite 1 -ис
  +Prt2 !!≈ ;@CODE@: preterite 2 -ӧма
  +Fut  !!≈ ;@CODE@: future      -ас
-!!!!! +Pot +Cond
+!!!!! +Pot 
++Cond
 !! Verb personal forms are:
  +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
 !! Other verb forms are
@@ -728,6 +729,7 @@ VERBNEGATIVE ;
 
 urj-Cyrl-ProperNouns ;
 PRONOUN-TYPES ;
+AUXILIARIES ;
 
 ! ======================================================= !
 ! These lexica are for parts of speech without morphology !

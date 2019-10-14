@@ -47,8 +47,7 @@ PO-ILL ;
 PO-INE ;
 PO-INSTR ;
 PO-PROL ;
-PO-TRA ;
-PO-TER ;
+PO-TERI ;
 !! these are: 
 
 !! аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
@@ -140,8 +139,8 @@ LEXICON PO-TRA
 +Po+Sg+Tra+PxSg3:%>тіыс K ;
 +Po+Sg+Tra+PxPl3:%>тіныс K ;
 
-LEXICON PO-TER
-+Po+Sg+Term:%>ӧдз PO-PX ;
+LEXICON PO-TERI
++Po+Sg+Term:%>ӧдзз PO-PX ;
 
 !!
 LEXICON PO-SPAT_  !!= * __@CODE@__
@@ -156,7 +155,7 @@ PO-SPAT-INE ;
 PO-SPAT-INSTR ;
 PO-SPAT-PROL ;
 PO-SPAT-TRA ;
-PO-SPAT-TER ;
+PO-SPAT-TERI ;
 !! these are: 
 
 !! аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
@@ -248,8 +247,8 @@ LEXICON PO-SPAT-TRA
 +Po+Spat+Sg+Tra+PxSg3:%>тіыс K ;
 +Po+Spat+Sg+Tra+PxPl3:%>тіныс K ;
 
-LEXICON PO-SPAT-TER
-+Po+Spat+Sg+Term:%>ӧдз PO-PX ;
+LEXICON PO-SPAT-TERI
++Po+Spat+Sg+Term:%>ӧдзз PO-PX ;
 
 !!
 

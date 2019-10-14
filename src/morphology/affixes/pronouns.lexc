@@ -14,7 +14,7 @@ LEXICON PRONOUN-TYPES
 
 LEXICON PERS                        !!≈ * __@CODE@__ 
 ме+Pron+Pers+Sg1:ме perssg1decl ;    !!≈ * __@CODE@__ ...
-тэ+Pron+Pers+Sg2:ті perssg2decl ; 
+тэ+Pron+Pers+Sg2:тэ perssg2decl ; 
 сія+Pron+Pers+Sg3:с perssg3decl ;
 ме+Pron+Pers+Pl1:ми perspl1decl ;
 тэ+Pron+Pers+Pl2:ті perspl2decl ; 
@@ -119,7 +119,7 @@ CAR_тӧг-THEN-K ;
 ELA_ісь-THEN-K ;
 +Ill:ӧ WordEnd ;
 +Abl+PxPl2:янлысьныд WordEnd ;
-+PxPl2+PxSg2+Acc2:янныдтӧ WordEnd ;
++Acc+PxPl2:янныдтӧ WordEnd ;
 +PxPl2+Car:янныдтӧг WordEnd ;
 +PxPl2+Cns:янныдла WordEnd ;
 +Apr+PxPl2:янланьныд WordEnd ;
@@ -377,8 +377,8 @@ LEXICON PRON-HUM-OBL
 +Gen:лӧн INTERR-REL-INDEF ;
 +Abl:лісь INTERR-REL-INDEF ; !
 +Dat:лӧ INTERR-REL-INDEF ;
-+Acc:ӧс INTERR-REL-INDEF ;
-+Acc3:сӧ INTERR-REL-INDEF ;
++Acc+PxSg1:ӧс INTERR-REL-INDEF ;
++Acc+PxSg3:сӧ INTERR-REL-INDEF ;
 +Ins:ӧн INTERR-REL-INDEF ;
 +Com:кӧт INTERR-REL-INDEF ;
 +Car:тӧг INTERR-REL-INDEF ;
@@ -395,17 +395,17 @@ LEXICON PRON-HUM-COLL
 +Coll:нан PRON-HUM-COLL-PERS ;
 +ZeroColl: PRON-HUM-COLL-PERS ;
 !
-+ZeroColl+PxPl2+Acc2:ныдтӧ INTERR-REL-INDEF ;
-+Coll+PxPl2+Acc2:наннытӧ INTERR-REL-INDEF ;
++ZeroColl+Acc+PxPl2:ныдтӧ INTERR-REL-INDEF ;
++Coll+Acc+PxPl2:наннытӧ INTERR-REL-INDEF ;
 
 LEXICON PRON-HUM-COLL-PERS
 +PxPl1:ным PRON-HUM-COLL-CASES ;
 +PxPl2:ныд PRON-HUM-COLL-CASES ;
 +PxPl3:ныс PRON-HUM-COLL-CASES ;
 !
-+PxPl1+Acc:нымӧс INTERR-REL-INDEF ;
-+PxPl2+Acc2:нытӧ INTERR-REL-INDEF ;
-+PxPl3+Acc3:ныссӧ INTERR-REL-INDEF ;
++Acc+PxPl1:нымӧс INTERR-REL-INDEF ;
++Acc+PxPl2:нытӧ INTERR-REL-INDEF ;
++Acc+PxPl3:ныссӧ INTERR-REL-INDEF ;
 
 LEXICON PRON-HUM-COLL-CASES
 +Nom: INTERR-REL-INDEF ;
@@ -416,8 +416,7 @@ LEXICON PRON-NONHUM
 +Gen:лӧн INTERR-REL-INDEF ; !
 +Abl:лісь INTERR-REL-INDEF ; !
 +Dat:лӧ INTERR-REL-INDEF ; !
-+ZeroAcc: INTERR-REL-INDEF ;
-+Acc3:сӧ INTERR-REL-INDEF ;
++Acc+PxSg3:сӧ INTERR-REL-INDEF ;
 +Ins:ӧн INTERR-REL-INDEF ;
 +Com:кӧт INTERR-REL-INDEF ;
 +Car:тӧг INTERR-REL-INDEF ;
@@ -532,11 +531,11 @@ GEN_лӧн-THEN-K ;
 DAT_лӧ-THEN-K ;
 +PxSg3+Dat:ыслӧ K ;
 +PxPl3+Dat:ныслӧ K ;
-+Acc:ӧс K ;
-+PxPl1+Acc:нымӧс K ;
-+PxPl2+Acc2:нытӧ K ;
-+PxPl3+Acc3:ныссӧ K ;
-+Acc3:сӧ K ;
++Acc+PxSg1:ӧс K ;
++Acc+PxPl1:нымӧс K ;
++Acc+PxPl2:нытӧ K ;
++Acc+PxPl3:ныссӧ K ;
++Acc+PxSg3:сӧ K ;
 +PxSg3+Com:ыскӧт K ;
 +PxPl2+Com:ныдкӧт K ;
 +PxPl3+Com:ныскӧт K ;
@@ -646,89 +645,89 @@ LEXICON PRON-REFL-OBL-CASES
 
 
 LEXICON PRON-REFL-SG1-NOM
-+Pron+Refl+Sg1+PxSg1+Nom: WordEnd ;
-+Pron+Refl+Sg1+PxSg1+Acc:ӧс WordEnd ;
-+Pron+Refl+Sg1+PxSg1+Ins:ӧн WordEnd ;
-+Pron+Refl+Sg1+PxSg1+Com:кӧт WordEnd ;
-+Pron+Refl+Sg1+PxSg1+Car:тӧг WordEnd ;
-+Pron+Refl+Sg1+PxSg1+Ine:ын WordEnd ;
-+Pron+Refl+Sg1+PxSg1+Ela:ысь WordEnd ;
-+Pron+Refl+Sg1+PxSg1+Ill:ӧ WordEnd ;
++Pron+Refl+Sg1+Nom: WordEnd ;
++Pron+Refl+Sg1+Acc:ӧс WordEnd ;
++Pron+Refl+Sg1+Ins:ӧн WordEnd ;
++Pron+Refl+Sg1+Com:кӧт WordEnd ;
++Pron+Refl+Sg1+Car:тӧг WordEnd ;
++Pron+Refl+Sg1+Ine:ын WordEnd ;
++Pron+Refl+Sg1+Ela:ысь WordEnd ;
++Pron+Refl+Sg1+Ill:ӧ WordEnd ;
 
 
 LEXICON PRON-REFL-SG1-GEN
-+Pron+Refl+Gen+PxSg1: WordEnd ;
-+Pron+Refl+Gen+PxSg1+Com:кӧт WordEnd ;
-+Pron+Refl+Gen+PxSg1+Egr:сянь WordEnd ;
++Pron+Refl+Sg1+Gen: WordEnd ;
++Pron+Refl+Sg1+Com:кӧт WordEnd ;
++Pron+Refl+Sg1+Egr:сянь WordEnd ;
 
 LEXICON PRON-REFL-SG2-NOM
-+Pron+Refl+Nom+PxSg2: WordEnd ;
-+Pron+Refl+Nom+PxSg2+Car:тӧг WordEnd ;
-+Pron+Refl+Nom+PxSg2+Ela:ысь WordEnd ;
++Pron+Refl+Sg2+Nom: WordEnd ;
++Pron+Refl+Sg2+Car:тӧг WordEnd ;
++Pron+Refl+Sg2+Ela:ысь WordEnd ;
 
 LEXICON PRON-REFL-SG2-GEN
-+Pron+Refl+Gen+PxSg2: WordEnd ;
-+Pron+Refl+Gen+PxSg2+Erg:сянь WordEnd ;
++Pron+Refl+Sg2+Gen: WordEnd ;
++Pron+Refl+Sg2+Erg:сянь WordEnd ;
 
 LEXICON PRON-REFL-SG2-ACC
-+Pron+Refl+Sg2+Acc2: WordEnd ;
++Pron+Refl+Sg2+Acc: WordEnd ;
 
 LEXICON PRON-REFL-SG3-NOM
 +Pron+Refl+Sg3+Nom: WordEnd ;
-+Pron+Refl+Sg2+PxSg2+Ins:ӧн WordEnd ;
-+Pron+Refl+Sg2+PxSg2+Com:кӧт WordEnd ;
-+Pron+Refl+Sg2+PxSg2+Car:тӧг WordEnd ;
-+Pron+Refl+Sg1+PxSg2+Ela:ысь WordEnd ;
++Pron+Refl+Sg3+Ins:ӧн WordEnd ;
++Pron+Refl+Sg3+Com:кӧт WordEnd ;
++Pron+Refl+Sg3+Car:тӧг WordEnd ;
++Pron+Refl+Sg3+Ela:ысь WordEnd ;
 
 LEXICON PRON-REFL-SG3-GEN
-+Pron+Refl+Gen+PxSg3: WordEnd ;
-+Pron+Refl+Gen+PxSg3+Gen:лӧн WordEnd ;
-+Pron+Refl+Gen+PxSg3+Ine:ӧ WordEnd ;
++Pron+Refl+Sg3+Gen: WordEnd ;
++Pron+Refl+Sg3+Gen:лӧн WordEnd ;
++Pron+Refl+Sg3+Ine:ӧ WordEnd ;
 
 LEXICON PRON-REFL-SG3-ACC
-+Pron+Refl+Sg3+Acc3: WordEnd ;
++Pron+Refl+Sg3+Acc: WordEnd ;
 
 LEXICON PRON-REFL-PL1-NOM
-+Pron+Refl+Nom+PxPl1: WordEnd ;
-+Pron+Refl+PxPl1+Acc:ӧс WordEnd ;
-+Pron+Refl+PxPl1+Com:кӧт WordEnd ;
-+Pron+Refl+PxPl1+Car:тӧг WordEnd ;
-+Pron+Refl+PxPl1+Ela:ысь WordEnd ;
-+Pron+Refl+PxPl1+Ter:ӧдз WordEnd ;
++Pron+Refl+Pl1+Nom: WordEnd ;
++Pron+Refl+Pl1+Acc:ӧс WordEnd ;
++Pron+Refl+Pl1+Com:кӧт WordEnd ;
++Pron+Refl+Pl1+Car:тӧг WordEnd ;
++Pron+Refl+Pl1+Ela:ысь WordEnd ;
++Pron+Refl+Pl1+Ter:ӧдз WordEnd ;
 
 LEXICON PRON-REFL-PL1-GEN
-+Pron+Refl+Gen+PxPl1: WordEnd ;
-+Pron+Refl+Gen+PxPl1+Abl:лісь WordEnd ;
-+Pron+Refl+Gen+PxPl1+Der/ладор:%>ладор Noun1 ;
++Pron+Refl+Pl1+Gen: WordEnd ;
++Pron+Refl+Pl1+Abl:лісь WordEnd ;
++Pron+Refl+Pl1+Der/ладор:%>ладор Noun1 ;
 
 LEXICON PRON-REFL-PL2-NOM
-+Pron+Refl+Nom+PxPl2: WordEnd ;
-+Pron+Refl+Nom+PxPl2+Acc2:тӧ WordEnd ;
-+Pron+Refl+Nom+PxPl2+Cns:ла WordEnd ;
-+Pron+Refl+Nom+PxPl2+Car:тӧг WordEnd ;
-+Pron+Refl+Nom+PxPl2+Ela:ысь WordEnd ;
++Pron+Refl+Pl2+Nom: WordEnd ;
++Pron+Refl+Pl2+Acc:тӧ WordEnd ;
++Pron+Refl+Pl2+Cns:ла WordEnd ;
++Pron+Refl+Pl2+Car:тӧг WordEnd ;
++Pron+Refl+Pl2+Ela:ысь WordEnd ;
 
 LEXICON PRON-REFL-PL2-GEN
-+Pron+Refl+Gen+PxPl2: WordEnd ;
-+Pron+Refl+Gen+PxPl2+Gen: WordEnd ;
-+Pron+Refl+Gen+PxPl2+Der/ладор:%>ладор Noun1 ;
++Pron+Refl+Pl2+Gen: WordEnd ;
++Pron+Refl+Pl2+Gen: WordEnd ;
++Pron+Refl+Pl2+Der/ладор:%>ладор Noun1 ;
 
 
 LEXICON PRON-REFL-PL2-ACC
-+Pron+Refl+Pl2+Acc2: WordEnd ;
++Pron+Refl+Pl2+Acc: WordEnd ;
 
 LEXICON PRON-REFL-PL3-NOM
-+Pron+Refl+Nom+PxPl3: WordEnd ;
-+Pron+Refl+Nom+PxPl3+Cns:ла WordEnd ;
++Pron+Refl+Pl3+Nom: WordEnd ;
++Pron+Refl+Pl3+Cns:ла WordEnd ;
 
 LEXICON PRON-REFL-PL3-GEN
-+Pron+Refl+Gen+PxPl3: WordEnd ;
-+Pron+Refl+Gen+PxPl3+Gen:лӧн WordEnd ;
-+Pron+Refl+Gen+PxPl3+Prl:ӧд WordEnd ;
-+Pron+Refl+Gen+PxPl3+Der/ладор:%>ладор Noun1 ;
++Pron+Refl+Pl3+Gen: WordEnd ;
++Pron+Refl+Pl3+Gen:лӧн WordEnd ;
++Pron+Refl+Pl3+Prl:ӧд WordEnd ;
++Pron+Refl+Pl3+Der/ладор:%>ладор Noun1 ;
 
 LEXICON PRON-REFL-PL3-ACC
-+Pron+Refl+Pl3+Acc3: WordEnd ;
++Pron+Refl+Pl3+Acc: WordEnd ;
 
 
 LEXICON PRONDEMTAG
@@ -843,7 +842,6 @@ LEXICON PRON-DEM-IS_ILL
 !+Pron+Interr: GEN_лӧн-THEN-K ;
 !+Pron+Interr+Abl:лісь K ; !
 !+Pron+Interr: DAT_лӧ-THEN-K ;
-!+Pron+Interr+ZeroAcc: WordEnd ;
 !+Pron+Interr+Acc3:сӧ WordEnd ;
 !+Pron+Interr+Ins:ӧн K ;
 !+Pron+Interr+Com:кӧт K ;
@@ -910,7 +908,7 @@ LEXICON PRONQ-MUKOD
 LEXICON PRONQ-STAV
 +Pron+Qnt+Abs: WordEnd ;
 +Pron+Qnt+Sg+Nom: K ;
-+Pron+Qnt+Sg+ZeroAcc: K ;
+!+Pron+Qnt+Sg+ZeroAcc: K ;
 +Pron+Qnt+Sg: PRONQ-STAV-CASES ;
 
 LEXICON PRONQ-STAV-CASES
@@ -1112,17 +1110,17 @@ LEXICON PRON-NEG-COLL
 +Coll:нан PRON-NEG-COLL-PERS ;
 +ZeroColl: PRON-NEG-COLL-PERS ;
 !
-+ZeroColl+PxPl2+Acc2:ныдтӧ K ;
-+Coll+PxPl2+Acc2:наннытӧ K ;
++ZeroColl+Acc+PxPl2:ныдтӧ K ;
++Coll+Acc+PxPl2:наннытӧ K ;
 
 LEXICON PRON-NEG-COLL-PERS
 +PxPl1:ным PRON-NEG-COLL-CASES ;
 +PxPl2:ныд PRON-NEG-COLL-CASES ;
 +PxPl3:ныс PRON-NEG-COLL-CASES ;
 !
-+PxPl1+Acc:нымӧс K ;
-+PxPl2+Acc2:нытӧ K ;
-+PxPl3+Acc3:ныссӧ K ;
++Acc+PxPl1:нымӧс K ;
++Acc+PxPl2:нытӧ K ;
++Acc+PxPl3:ныссӧ K ;
 
 LEXICON PRON-NEG-COLL-CASES
 +Nom: K ;
@@ -1135,8 +1133,8 @@ LEXICON PRON-NEG-OBL
 GEN_лӧн-THEN-K ;
 +Abl:лісь K ; !
 DAT_лӧ-THEN-K ;
-+Acc:ӧс WordEnd ;
-+Acc3:сӧ WordEnd ;
++Acc+PxSg1:ӧс WordEnd ;
++Acc+PxSg3:сӧ WordEnd ;
 +Ins:ӧн K ;
 +Com:кӧт K ;
 CAR_тӧг-THEN-K ;
