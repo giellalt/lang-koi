@@ -11,353 +11,353 @@ Tests:
 # The were proofread for golden standard by Larisa Ponomareva 2019-10-10
   
   Noun - му: # Nouns in vowels, inanimate noun, full paradigm 'soil, country / multa, maa / земля, страна'
-     му+N+Sg+Nom: му
-     му+N+Sg+Acc: му
-     му+N+Sg+Gen: мулӧн
-     му+N+Sg+Abl: мулісь
-     му+N+Sg+Dat: мулӧ
-     му+N+Sg+Ins: муӧн
-     му+N+Sg+Com: мукӧт
-     му+N+Sg+Car: мутӧг
-     му+N+Sg+Cns: мула
-     му+N+Sg+Cmpr: муся
-     му+N+Sg+Ine: муын
-     му+N+Sg+Ela: муись
-     му+N+Sg+Ill: муӧ
-     му+N+Sg+Apr: мулань
-     му+N+Sg+Egr: мусянь
-     му+N+Sg+Prl: муӧт
-     му+N+Sg+TerI: муӧдз
-     му+N+Sg+TerII: муви
-     му+N+Sg+AprIne: муланьын
-     му+N+Sg+AprEla: муланись
-     му+N+Sg+AprIll: муланьӧ
-     му+N+Sg+AprEgr: муланьсянь
-     му+N+Sg+AprPrl: муланьӧт
-     му+N+Sg+AprTerI: муланьӧдз
-     му+N+Sg+AprTerII: муланьви
-     му+N+Sg+Nom+PxSg1: муӧ
-     му+N+Sg+Gen+PxSg1: муӧлӧн
-     му+N+Sg+Abl+PxSg1: муӧлісь
-     му+N+Sg+Dat+PxSg1: муӧлӧ
-     му+N+Sg+Acc+PxSg1: муӧс
-     му+N+Sg+Ins+PxSg1: мунам
-     му+N+Sg+Com+PxSg1: муӧкӧт
-     му+N+Sg+Car+PxSg1: [муӧтӧг, мутӧгьям]
-     му+N+Sg+Cns+PxSg1: муӧла
-     му+N+Sg+Cmpr+PxSg1: муӧся
-     му+N+Sg+Ine+PxSg1: муам
-     му+N+Sg+Ela+PxSg1: мусим
-     му+N+Sg+Ill+PxSg1: муам
-     му+N+Sg+Apr+PxSg1: [муӧлань, муланям]
-     му+N+Sg+Egr+PxSg1: [муӧсянь, мусяням]
-     му+N+Sg+Prl+PxSg1: [муӧттям, муӧттим]
-     му+N+Sg+TerI+PxSg1: [муӧдззам, муӧдззим]
-     му+N+Sg+TerII+PxSg1: муӧви
-     му+N+Sg+AprIne+PxSg1: муланям
-     му+N+Sg+AprEla+PxSg1: муланьсим
-     му+N+Sg+AprIll+PxSg1: муланям
-     му+N+Sg+AprEgr+PxSg1: [муланьсяням, муӧланьсянь]
-     му+N+Sg+AprPrl+PxSg1: [муланьӧттям, муланьӧттим, муӧланьӧт]
-     му+N+Sg+AprTerI+PxSg1: [муланьӧдззам, муланьӧдззим, муӧланьӧдз]
-     му+N+Sg+AprTerII+PxSg1: муӧланьви
-     му+N+Sg+Nom+PxSg2: муыт
-     му+N+Sg+Gen+PxSg2: муытлӧн
-     му+N+Sg+Abl+PxSg2: муытлісь
-     му+N+Sg+Dat+PxSg2: муытлӧ
-     му+N+Sg+Acc+PxSg2: мутӧ
-     му+N+Sg+Ins+PxSg2: мунат
-     му+N+Sg+Com+PxSg2: муыткӧт
-     му+N+Sg+Car+PxSg2: [муыттӧг, мутӧгьят]
-     му+N+Sg+Cns+PxSg2: муытла
-     му+N+Sg+Cmpr+PxSg2: муытся
-     му+N+Sg+Ine+PxSg2: муат
-     му+N+Sg+Ela+PxSg2: мусит
-     му+N+Sg+Ill+PxSg2: муат
-     му+N+Sg+Apr+PxSg2: [муытлань, муланят]
-     му+N+Sg+Egr+PxSg2: [муытсянь, мусянят]
-     му+N+Sg+Prl+PxSg2: [муӧттят, муӧттит]
-     му+N+Sg+TerI+PxSg2: [муӧдззат, муӧдззит]
-     му+N+Sg+TerII+PxSg2: муытви
-     му+N+Sg+AprIne+PxSg2: муланят
-     му+N+Sg+AprEla+PxSg2: муланьсит
-     му+N+Sg+AprIll+PxSg2: муланят
-     му+N+Sg+AprEgr+PxSg2: [муланьсянят, муытланьсянь]
-     му+N+Sg+AprPrl+PxSg2: [муланьӧттят, муланьӧттит, муытланьӧт]
-     му+N+Sg+AprTerI+PxSg2: [муланьӧдззат, муланьӧдззит, муытланьӧдз]
-     му+N+Sg+AprTerII+PxSg2: муытланьви
-     му+N+Sg+Nom+PxSg3: муыс
-     му+N+Sg+Gen+PxSg3: муыслӧн
-     му+N+Sg+Abl+PxSg3: муыслісь
-     му+N+Sg+Dat+PxSg3: муыслӧ
-     му+N+Sg+Acc+PxSg3: мусӧ
-     му+N+Sg+Ins+PxSg3: мунас
-     му+N+Sg+Com+PxSg3: муыскӧт
-     му+N+Sg+Car+PxSg3: [муыстӧг, мутӧгьяс]
-     му+N+Sg+Cns+PxSg3: муысла
-     му+N+Sg+Cmpr+PxSg3: муысся
-     му+N+Sg+Ine+PxSg3: муас
-     му+N+Sg+Ela+PxSg3: мусис
-     му+N+Sg+Ill+PxSg3: муас
-     му+N+Sg+Apr+PxSg3: [муыслань, муланяс]
-     му+N+Sg+Egr+PxSg3: [муыссянь, мусяняс]
-     му+N+Sg+Prl+PxSg3: [муӧттяс, муӧттис]
-     му+N+Sg+TerI+PxSg3: [муӧдззас, муӧдззис]
-     му+N+Sg+TerII+PxSg3: муысви
-     му+N+Sg+AprIne+PxSg3: муланяс
-     му+N+Sg+AprEla+PxSg3: муланьсис
-     му+N+Sg+AprIll+PxSg3: муланяс
-     му+N+Sg+AprEgr+PxSg3: [муланьсяняс, муысланьсянь]
-     му+N+Sg+AprPrl+PxSg3: [муланьӧттяc, муланьӧттиc, муысланьӧт]
-     му+N+Sg+AprTerI+PxSg3: [муланьӧдззаc, муланьӧдззиc, муысланьӧдз]
-     му+N+Sg+AprTerII+PxSg3: муысланьви
-     му+N+Sg+Nom+PxPl1: муным
-     му+N+Sg+Gen+PxPl1: мунымлӧн
-     му+N+Sg+Abl+PxPl1: мунымлісь
-     му+N+Sg+Dat+PxPl1: мунымлӧ
-     му+N+Sg+Acc+PxPl1: мунымӧс
-     му+N+Sg+Ins+PxPl1: мунаным
-     му+N+Sg+Com+PxPl1: мунымкӧт
-     му+N+Sg+Car+PxPl1: [мунымтӧг, мутӧгьяным]
-     му+N+Sg+Cns+PxPl1: мунымла
-     му+N+Sg+Cmpr+PxPl1: мунымся
-     му+N+Sg+Ine+PxPl1: муаным
-     му+N+Sg+Ela+PxPl1: мусиным
-     му+N+Sg+Ill+PxPl1: муаным
-     му+N+Sg+Apr+PxPl1: [мунымлань, муланяным]
-     му+N+Sg+Egr+PxPl1: [мунымсянь, мусяняным]
-     му+N+Sg+Prl+PxPl1: [муӧттяным, муӧттиным]
-     му+N+Sg+TerI+PxPl1: [муӧдззаным, муӧдззиным]
-     му+N+Sg+TerII+PxPl1: мунымви
-     му+N+Sg+AprIne+PxPl1: муланяным
-     му+N+Sg+AprEla+PxPl1: муланьсиным
-     му+N+Sg+AprIll+PxPl1: муланяным
-     му+N+Sg+AprEgr+PxPl1: [муланьсяняным, мунымланьсянь]
-     му+N+Sg+AprPrl+PxPl1: [муланьӧттяным, муланьӧттиным, мунымланьӧт]
-     му+N+Sg+AprTerI+PxPl1: [муланьӧдззаным, муланьӧдззиным,  мунымланьӧдз]
-     му+N+Sg+AprTerII+PxPl1: мунымланьви
-     му+N+Sg+Nom+PxPl2: муныт
-     му+N+Sg+Gen+PxPl2: мунытлӧн
-     му+N+Sg+Abl+PxPl2: мунытлісь
-     му+N+Sg+Dat+PxPl2: мунытлӧ
-     му+N+Sg+Acc+PxPl2: мунытӧ
-     му+N+Sg+Ins+PxPl2: мунаныт
-     му+N+Sg+Com+PxPl2: муныткӧт
-     му+N+Sg+Car+PxPl2: [муныттӧг, мутӧгьяныт]
-     му+N+Sg+Cns+PxPl2: мунытла
-     му+N+Sg+Cmpr+PxPl2: мунытся
-     му+N+Sg+Ine+PxPl2: муаныт
-     му+N+Sg+Ela+PxPl2: мусиныт
-     му+N+Sg+Ill+PxPl2: муаныт
-     му+N+Sg+Apr+PxPl2: [мунытлань, муланяныт]
-     му+N+Sg+Egr+PxPl2: [мунытсянь, мусяняныт]
-     му+N+Sg+Prl+PxPl2: [муӧттяныт, муӧттиныт]
-     му+N+Sg+TerI+PxPl2: [муӧдззаныт, муӧдззиныт]
-     му+N+Sg+TerII+PxPl2: мунытви
-     му+N+Sg+AprIne+PxPl2: муланяныт
-     му+N+Sg+AprEla+PxPl2: муланьсиныт
-     му+N+Sg+AprIll+PxPl2: муланяныт
-     му+N+Sg+AprEgr+PxPl2: [муланьсяняныт, мунытланьсянь]
-     му+N+Sg+AprPrl+PxPl2: [муланьӧттяныт, муланьӧттиныт, мунытланьӧт]
-     му+N+Sg+AprTerI+PxPl2: [муланьӧдззаныт, муланьӧдззиныт, мунытланьӧдз]
-     му+N+Sg+AprTerII+PxPl2: мунытланьви
-     му+N+Sg+Nom+PxPl3: муныс
-     му+N+Sg+Gen+PxPl3: муныслӧн
-     му+N+Sg+Abl+PxPl3: муныслісь
-     му+N+Sg+Dat+PxPl3: муныслӧ
-     му+N+Sg+Acc+PxPl3: мунысӧ
-     му+N+Sg+Ins+PxPl3: мунаныс
-     му+N+Sg+Com+PxPl3: муныскӧт
-     му+N+Sg+Car+PxPl3: [муныстӧг, мутӧгьяныс]
-     му+N+Sg+Cns+PxPl3: мунысла
-     му+N+Sg+Cmpr+PxPl3: мунысся
-     му+N+Sg+Ine+PxPl3: муаныс
-     му+N+Sg+Ela+PxPl3: мусиныс
-     му+N+Sg+Ill+PxPl3: муаныс
-     му+N+Sg+Apr+PxPl3: [муныслань, муланяныс]
-     му+N+Sg+Egr+PxPl3: [муныссянь, мусяняныс]
-     му+N+Sg+Prl+PxPl3: [муӧттяныс, муӧттиныс]
-     му+N+Sg+TerI+PxPl3: [муӧдззаныс, муӧдззиныс]
-     му+N+Sg+TerII+PxPl3: мунысви
-     му+N+Sg+AprIne+PxPl3: муланяныс
-     му+N+Sg+AprEla+PxPl3: муланьсиныс
-     му+N+Sg+AprIll+PxPl3: муланяныс
-     му+N+Sg+AprEgr+PxPl3: [муланьсяняныс, мунысланьсянь]
-     му+N+Sg+AprPrl+PxPl3: [муланьӧттяныс, муланьӧттиныс, мунысланьӧт]
-     му+N+Sg+AprTerI+PxPl3: [муланьӧдззаныс, муланьӧдззиныс, мунысланьӧдз]
-     му+N+Sg+AprTerII+PxPl3: мунысланьви
-     му+N+Pl+Nom: муэз
-     му+N+Pl+Acc: муэз
-     му+N+Pl+Gen: муэзлӧн
-     му+N+Pl+Abl: муэзлісь
-     му+N+Pl+Dat: муэзлӧ
-     му+N+Pl+Ins: муэзӧн
-     му+N+Pl+Com: муэзкӧт
-     му+N+Pl+Car: муэзтӧг
-     му+N+Pl+Cns: муэзла
-     му+N+Pl+Cmpr: муэзся
-     му+N+Pl+Ine: муэзын
-     му+N+Pl+Ela: муэзісь
-     му+N+Pl+Ill: муэзӧ
-     му+N+Pl+Apr: муэзлань
-     му+N+Pl+Egr: муэзсянь
-     му+N+Pl+Prl: муэзӧт
-     му+N+Pl+TerI: муэзӧдз
-     му+N+Pl+TerII: муэзви
-     му+N+Pl+AprIne: муэзланьын
-     му+N+Pl+AprEla: муэзланись
-     му+N+Pl+AprIll: муэзланьӧ
-     му+N+Pl+AprEgr: муэзланьсянь
-     му+N+Pl+AprPrl: муэзланьӧт
-     му+N+Pl+AprTerI: муэзланьӧдз
-     му+N+Pl+AprTerII: муэзланьви
-     му+N+Pl+Nom+PxSg1: муэзӧ
-     му+N+Pl+Gen+PxSg1: муэзӧлӧн
-     му+N+Pl+Abl+PxSg1: муэзӧлісь
-     му+N+Pl+Dat+PxSg1: муэзӧлӧ
-     му+N+Pl+Acc+PxSg1: муэзӧс
-     му+N+Pl+Ins+PxSg1: муэзнам
-     му+N+Pl+Com+PxSg1: муэзӧкӧт
-     му+N+Pl+Car+PxSg1: [муэзӧтӧг, муэзтӧгьям]
-     му+N+Pl+Cns+PxSg1: муэзӧла
-     му+N+Pl+Cmpr+PxSg1: муэзӧся
-     му+N+Pl+Ine+PxSg1: муэзам
-     му+N+Pl+Ela+PxSg1: [муэзсим, муэсим]
-     му+N+Pl+Ill+PxSg1: муэзам
-     му+N+Pl+Apr+PxSg1: [муэзӧлань, муэзланям]
-     му+N+Pl+Egr+PxSg1: [муэзӧсянь, муэзсяням]
-     му+N+Pl+Prl+PxSg1: [муэзӧттям, муэзӧттим]
-     му+N+Pl+TerI+PxSg1: [муэзӧдззам, муэзӧдззим]
-     му+N+Pl+TerII+PxSg1: муэзӧви
-     му+N+Pl+AprIne+PxSg1: муэзланям
-     му+N+Pl+AprEla+PxSg1: муэзланьсим
-     му+N+Pl+AprIll+PxSg1: муэзланям
-     му+N+Pl+AprEgr+PxSg1: [муэзланьсяням, муэзӧланьсянь]
-     му+N+Pl+AprPrl+PxSg1: [муэзланьӧттям, муэзланьӧттим, муэзӧланьӧт]
-     му+N+Pl+AprTerI+PxSg1: [муэзланьӧдззам, муэзланьӧдззим, муэзӧланьӧдз]
-     му+N+Pl+AprTerII+PxSg1: муэзӧланьви
-     му+N+Pl+Nom+PxSg2: [муэт, муэзыт]
-     му+N+Pl+Gen+PxSg2: [муэтлӧн, муэзытлӧн]
-     му+N+Pl+Abl+PxSg2: [муэтлісь, муэзытлісь]
-     му+N+Pl+Dat+PxSg2: [муэтлӧ, муэзытлӧ]
-     му+N+Pl+Acc+PxSg2: [муэтӧ, муэзтӧ]
-     му+N+Pl+Ins+PxSg2: муэзнат
-     му+N+Pl+Com+PxSg2: [муэткӧт, муэзыткӧт]
-     му+N+Pl+Car+PxSg2: [муэттӧг, муэзыттӧг, муэзтӧгьят]
-     му+N+Pl+Cns+PxSg2: [муэтла, муэзытла]
-     му+N+Pl+Cmpr+PxSg2: [муэтся, муэзытся]
-     му+N+Pl+Ine+PxSg2: муэзат
-     му+N+Pl+Ela+PxSg2: [муэзсит, муэсит]
-     му+N+Pl+Ill+PxSg2: муэзат
-     му+N+Pl+Apr+PxSg2: [муэтлань, муэзытлань, муэзланят]
-     му+N+Pl+Egr+PxSg2: [муэтсянь, муэзытсянь, муэзсянят]
-     му+N+Pl+Prl+PxSg2: [муэзӧттят, муэзӧттит]
-     му+N+Pl+TerI+PxSg2: [муэзӧдззат, муэзӧдззит]
-     му+N+Pl+TerII+PxSg2: [муэтви, муэзытви]
-     му+N+Pl+AprIne+PxSg2: муэзланят
-     му+N+Pl+AprEla+PxSg2: муэзланьсит
-     му+N+Pl+AprIll+PxSg2: муэзланят
-     му+N+Pl+AprEgr+PxSg2: [муэзланьсянят, муэтланьсянь, муэзытланьсянь]
-     му+N+Pl+AprPrl+PxSg2: [муэзланьӧттят, муэзланьӧттит, муэтланьӧт, муэзытланьӧт]
-     му+N+Pl+AprTerI+PxSg2: [муэзланьӧдззат, муэзланьӧдззит, муэтланьӧдз, муэзытланьӧдз]
-     му+N+Pl+AprTerII+PxSg2: [муэтланьви, муэзытланьви]
-     му+N+Pl+Nom+PxSg3: [муэс, муэзыс]
-     му+N+Pl+Gen+PxSg3: [муэслӧн, муэзыслӧн]
-     му+N+Pl+Abl+PxSg3: [муэслісь, муэзыслісь]
-     му+N+Pl+Dat+PxSg3: [муэслӧ, муэзыслӧ]
-     му+N+Pl+Acc+PxSg3: [муэсӧ, муэзсӧ]
-     му+N+Pl+Ins+PxSg3: муэзнас
-     му+N+Pl+Com+PxSg3: [муэскӧт, муэзыскӧт]
-     му+N+Pl+Car+PxSg3: [муэстӧг, муэзыстӧг, муэзтӧгьяс]
-     му+N+Pl+Cns+PxSg3: [муэсла, муэзысла]
-     му+N+Pl+Cmpr+PxSg3: [муэсся, муэзысся]
-     му+N+Pl+Ine+PxSg3: муэзас
-     му+N+Pl+Ela+PxSg3: [муэзсис, муэсис]
-     му+N+Pl+Ill+PxSg3: муэзас
-     му+N+Pl+Apr+PxSg3: [муэслань, муэзыслань, муэзланяс]
-     му+N+Pl+Egr+PxSg3: [муэссянь, муэзыссянь, муэзсяняс]
-     му+N+Pl+Prl+PxSg3: [муэзӧттяс, муэзӧттис]
-     му+N+Pl+TerI+PxSg3: [муэзӧдззас, муэзӧдззис]
-     му+N+Pl+TerII+PxSg3: муэсви
-     му+N+Pl+AprIne+PxSg3: муэзланяс
-     му+N+Pl+AprEla+PxSg3: муэзланьсис
-     му+N+Pl+AprIll+PxSg3: муэзланяс
-     му+N+Pl+AprEgr+PxSg3: [муэзланьсяняс, муэсланьсянь, муэзысланьсянь]
-     му+N+Pl+AprPrl+PxSg3: [муэзланьӧттяс, муэзланьӧттис, муэсланьӧт, муэзысланьӧт]
-     му+N+Pl+AprTerI+PxSg3: [муэзланьӧдззаc, муэзланьӧдззиc, муэсланьӧдз, муэзысланьӧдз]
-     му+N+Pl+AprTerII+PxSg3: муэсланьви
-     му+N+Pl+Nom+PxPl1: муэзным
-     му+N+Pl+Gen+PxPl1: муэзнымлӧн
-     му+N+Pl+Abl+PxPl1: муэзнымлісь
-     му+N+Pl+Dat+PxPl1: муэзнымлӧ
-     му+N+Pl+Acc+PxPl1: муэзнымӧс
-     му+N+Pl+Ins+PxPl1: муэзнаным
-     му+N+Pl+Com+PxPl1: муэзнымкӧт
-     му+N+Pl+Car+PxPl1: [муэзнымтӧг, муэзтӧгьяным]
-     му+N+Pl+Cns+PxPl1: муэзнымла
-     му+N+Pl+Cmpr+PxPl1: муэзнымся
-     му+N+Pl+Ine+PxPl1: муэзаным
-     му+N+Pl+Ela+PxPl1: [муэзсиным, муэсиным]
-     му+N+Pl+Ill+PxPl1: муэзаным
-     му+N+Pl+Apr+PxPl1: [муэзнымлань, муэзланяным]
-     му+N+Pl+Egr+PxPl1: [муэзнымсянь, муэзсяняным]
-     му+N+Pl+Prl+PxPl1: [муэзӧттяным, муэзӧттиным]
-     му+N+Pl+TerI+PxPl1: [муэзӧдззаным, муэзӧдззиным]
-     му+N+Pl+TerII+PxPl1: муэзнымви
-     му+N+Pl+AprIne+PxPl1: муэзланяным
-     му+N+Pl+AprEla+PxPl1: муэзланьсиным
-     му+N+Pl+AprIll+PxPl1: муэзланяным
-     му+N+Pl+AprEgr+PxPl1: [муэзланьсяняным, муэзнымланьсянь]
-     му+N+Pl+AprPrl+PxPl1: [муэзланьӧттяным, муэзланьӧттиным, муэзнымланьӧт]
-     му+N+Pl+AprTerI+PxPl1: [муэзланьӧдззаным, муэзланьӧдззиным, муэзнымланьӧдз]
-     му+N+Pl+AprTerII+PxPl1: муэзнымланьви
-     му+N+Pl+Nom+PxPl2: муэзныт
-     му+N+Pl+Gen+PxPl2: муэзнытлӧн
-     му+N+Pl+Abl+PxPl2: муэзнытлісь
-     му+N+Pl+Dat+PxPl2: муэзнытлӧ
-     му+N+Pl+Acc+PxPl2: муэзнытӧ
-     му+N+Pl+Ins+PxPl2: муэзнаныт
-     му+N+Pl+Com+PxPl2: муэзныткӧт
-     му+N+Pl+Car+PxPl2: [муэзныттӧг, муэзтӧгьяныт]
-     му+N+Pl+Cns+PxPl2: муэзнытла
-     му+N+Pl+Cmpr+PxPl2: муэзнытся
-     му+N+Pl+Ine+PxPl2: муэзаныт
-     му+N+Pl+Ela+PxPl2: [муэзсиныт, муэсиныт]
-     му+N+Pl+Ill+PxPl2: муэзаныт
-     му+N+Pl+Apr+PxPl2: [муэзнытлань, муэзланяныт]
-     му+N+Pl+Egr+PxPl2: [муэзнытсянь, муэзсяняныт]
-     му+N+Pl+Prl+PxPl2: [муэзӧттяныт, муэзӧттиныт]
-     му+N+Pl+TerI+PxPl2: [муэзӧдззаныт, муэзӧдззиныт]
-     му+N+Pl+TerII+PxPl2: муэзнытви
-     му+N+Pl+AprIne+PxPl2: муэзланяныт
-     му+N+Pl+AprEla+PxPl2: муэзланьсиныт
-     му+N+Pl+AprIll+PxPl2: муэзланяныт
-     му+N+Pl+AprEgr+PxPl2: [муэзланьсяняныт, муэзнытланьсянь]
-     му+N+Pl+AprPrl+PxPl2: [муэзланьӧттяныт, муэзланьӧттиныт, муэзнытланьӧт]
-     му+N+Pl+AprTerI+PxPl2: [муэзланьӧдззаныт, муэзланьӧдззиныт, муэзнытланьӧдз]
-     му+N+Pl+AprTerII+PxPl2: муэзнытланьви
-     му+N+Pl+Nom+PxPl3: муэзныс
-     му+N+Pl+Gen+PxPl3: муэзныслӧн
-     му+N+Pl+Abl+PxPl3: муэзныслісь
-     му+N+Pl+Dat+PxPl3: муэзныслӧ
-     му+N+Pl+Acc+PxPl3: муэзнысӧ
-     му+N+Pl+Ins+PxPl3: муэзнаныс
-     му+N+Pl+Com+PxPl3: муэзныскӧт
-     му+N+Pl+Car+PxPl3: [муэзныстӧг, муэзтӧгьяныс]
-     му+N+Pl+Cns+PxPl3: муэзнысла
-     му+N+Pl+Cmpr+PxPl3: муэзнысся
-     му+N+Pl+Ine+PxPl3: муэзаныс
-     му+N+Pl+Ela+PxPl3: [муэзсиныс, муэсиныс]
-     му+N+Pl+Ill+PxPl3: муэзаныс
-     му+N+Pl+Apr+PxPl3: [муэзныслань, муэзланяныс]
-     му+N+Pl+Egr+PxPl3: [муэзныссянь, муэзсяняныс]
-     му+N+Pl+Prl+PxPl3: [муэзӧттяныс, муэзӧттиныс]
-     му+N+Pl+TerI+PxPl3: [муэзӧдззаныс, муэзӧдззиныс]
-     му+N+Pl+TerII+PxPl3: муэзнысви
-     му+N+Pl+AprIne+PxPl3: муэзланяныс
-     му+N+Pl+AprEla+PxPl3: муэзланьсиныс
-     му+N+Pl+AprIll+PxPl3: муэзланяныс
-     му+N+Pl+AprEgr+PxPl3: [муэзланьсяняныс, муэзнысланьсянь]
-     му+N+Pl+AprPrl+PxPl3: [муэзланьӧттяныс, муэзланьӧттиныс, муэзнысланьӧт]
-     му+N+Pl+AprTerI+PxPl3: [муэзланьӧдззаныс, муэзланьӧдззиныс, муэзнысланьӧдз]
-     му+N+Pl+AprTerII+PxPl3: муэзнысланьви
+     му+N+Inan+Sg+Nom: му
+     му+N+Inan+Sg+Acc: му
+     му+N+Inan+Sg+Gen: мулӧн
+     му+N+Inan+Sg+Abl: мулісь
+     му+N+Inan+Sg+Dat: мулӧ
+     му+N+Inan+Sg+Ins: муӧн
+     му+N+Inan+Sg+Com: мукӧт
+     му+N+Inan+Sg+Car: мутӧг
+     му+N+Inan+Sg+Cns: мула
+     му+N+Inan+Sg+Cmpr: муся
+     му+N+Inan+Sg+Ine: муын
+     му+N+Inan+Sg+Ela: муись
+     му+N+Inan+Sg+Ill: муӧ
+     му+N+Inan+Sg+Apr: мулань
+     му+N+Inan+Sg+Egr: мусянь
+     му+N+Inan+Sg+Prl: муӧт
+     му+N+Inan+Sg+TerI: муӧдз
+     му+N+Inan+Sg+TerII: муви
+     му+N+Inan+Sg+AprIne: муланьын
+     му+N+Inan+Sg+AprEla: муланись
+     му+N+Inan+Sg+AprIll: муланьӧ
+     му+N+Inan+Sg+AprEgr: муланьсянь
+     му+N+Inan+Sg+AprPrl: муланьӧт
+     му+N+Inan+Sg+AprTerI: муланьӧдз
+     му+N+Inan+Sg+AprTerII: муланьви
+     му+N+Inan+Sg+Nom+PxSg1: муӧ
+     му+N+Inan+Sg+Gen+PxSg1: муӧлӧн
+     му+N+Inan+Sg+Abl+PxSg1: муӧлісь
+     му+N+Inan+Sg+Dat+PxSg1: муӧлӧ
+     му+N+Inan+Sg+Acc+PxSg1: муӧс
+     му+N+Inan+Sg+Ins+PxSg1: мунам
+     му+N+Inan+Sg+Com+PxSg1: муӧкӧт
+     му+N+Inan+Sg+Car+PxSg1: [муӧтӧг, мутӧгьям]
+     му+N+Inan+Sg+Cns+PxSg1: муӧла
+     му+N+Inan+Sg+Cmpr+PxSg1: муӧся
+     му+N+Inan+Sg+Ine+PxSg1: муам
+     му+N+Inan+Sg+Ela+PxSg1: мусим
+     му+N+Inan+Sg+Ill+PxSg1: муам
+     му+N+Inan+Sg+Apr+PxSg1: [муӧлань, муланям]
+     му+N+Inan+Sg+Egr+PxSg1: [муӧсянь, мусяням]
+     му+N+Inan+Sg+Prl+PxSg1: [муӧттям, муӧттим]
+     му+N+Inan+Sg+TerI+PxSg1: [муӧдззам, муӧдззим]
+     му+N+Inan+Sg+TerII+PxSg1: муӧви
+     му+N+Inan+Sg+AprIne+PxSg1: муланям
+     му+N+Inan+Sg+AprEla+PxSg1: муланьсим
+     му+N+Inan+Sg+AprIll+PxSg1: муланям
+     му+N+Inan+Sg+AprEgr+PxSg1: [муланьсяням, муӧланьсянь]
+     му+N+Inan+Sg+AprPrl+PxSg1: [муланьӧттям, муланьӧттим, муӧланьӧт]
+     му+N+Inan+Sg+AprTerI+PxSg1: [муланьӧдззам, муланьӧдззим, муӧланьӧдз]
+     му+N+Inan+Sg+AprTerII+PxSg1: муӧланьви
+     му+N+Inan+Sg+Nom+PxSg2: муыт
+     му+N+Inan+Sg+Gen+PxSg2: муытлӧн
+     му+N+Inan+Sg+Abl+PxSg2: муытлісь
+     му+N+Inan+Sg+Dat+PxSg2: муытлӧ
+     му+N+Inan+Sg+Acc+PxSg2: мутӧ
+     му+N+Inan+Sg+Ins+PxSg2: мунат
+     му+N+Inan+Sg+Com+PxSg2: муыткӧт
+     му+N+Inan+Sg+Car+PxSg2: [муыттӧг, мутӧгьят]
+     му+N+Inan+Sg+Cns+PxSg2: муытла
+     му+N+Inan+Sg+Cmpr+PxSg2: муытся
+     му+N+Inan+Sg+Ine+PxSg2: муат
+     му+N+Inan+Sg+Ela+PxSg2: мусит
+     му+N+Inan+Sg+Ill+PxSg2: муат
+     му+N+Inan+Sg+Apr+PxSg2: [муытлань, муланят]
+     му+N+Inan+Sg+Egr+PxSg2: [муытсянь, мусянят]
+     му+N+Inan+Sg+Prl+PxSg2: [муӧттят, муӧттит]
+     му+N+Inan+Sg+TerI+PxSg2: [муӧдззат, муӧдззит]
+     му+N+Inan+Sg+TerII+PxSg2: муытви
+     му+N+Inan+Sg+AprIne+PxSg2: муланят
+     му+N+Inan+Sg+AprEla+PxSg2: муланьсит
+     му+N+Inan+Sg+AprIll+PxSg2: муланят
+     му+N+Inan+Sg+AprEgr+PxSg2: [муланьсянят, муытланьсянь]
+     му+N+Inan+Sg+AprPrl+PxSg2: [муланьӧттят, муланьӧттит, муытланьӧт]
+     му+N+Inan+Sg+AprTerI+PxSg2: [муланьӧдззат, муланьӧдззит, муытланьӧдз]
+     му+N+Inan+Sg+AprTerII+PxSg2: муытланьви
+     му+N+Inan+Sg+Nom+PxSg3: муыс
+     му+N+Inan+Sg+Gen+PxSg3: муыслӧн
+     му+N+Inan+Sg+Abl+PxSg3: муыслісь
+     му+N+Inan+Sg+Dat+PxSg3: муыслӧ
+     му+N+Inan+Sg+Acc+PxSg3: мусӧ
+     му+N+Inan+Sg+Ins+PxSg3: мунас
+     му+N+Inan+Sg+Com+PxSg3: муыскӧт
+     му+N+Inan+Sg+Car+PxSg3: [муыстӧг, мутӧгьяс]
+     му+N+Inan+Sg+Cns+PxSg3: муысла
+     му+N+Inan+Sg+Cmpr+PxSg3: муысся
+     му+N+Inan+Sg+Ine+PxSg3: муас
+     му+N+Inan+Sg+Ela+PxSg3: мусис
+     му+N+Inan+Sg+Ill+PxSg3: муас
+     му+N+Inan+Sg+Apr+PxSg3: [муыслань, муланяс]
+     му+N+Inan+Sg+Egr+PxSg3: [муыссянь, мусяняс]
+     му+N+Inan+Sg+Prl+PxSg3: [муӧттяс, муӧттис]
+     му+N+Inan+Sg+TerI+PxSg3: [муӧдззас, муӧдззис]
+     му+N+Inan+Sg+TerII+PxSg3: муысви
+     му+N+Inan+Sg+AprIne+PxSg3: муланяс
+     му+N+Inan+Sg+AprEla+PxSg3: муланьсис
+     му+N+Inan+Sg+AprIll+PxSg3: муланяс
+     му+N+Inan+Sg+AprEgr+PxSg3: [муланьсяняс, муысланьсянь]
+     му+N+Inan+Sg+AprPrl+PxSg3: [муланьӧттяc, муланьӧттиc, муысланьӧт]
+     му+N+Inan+Sg+AprTerI+PxSg3: [муланьӧдззаc, муланьӧдззиc, муысланьӧдз]
+     му+N+Inan+Sg+AprTerII+PxSg3: муысланьви
+     му+N+Inan+Sg+Nom+PxPl1: муным
+     му+N+Inan+Sg+Gen+PxPl1: мунымлӧн
+     му+N+Inan+Sg+Abl+PxPl1: мунымлісь
+     му+N+Inan+Sg+Dat+PxPl1: мунымлӧ
+     му+N+Inan+Sg+Acc+PxPl1: мунымӧс
+     му+N+Inan+Sg+Ins+PxPl1: мунаным
+     му+N+Inan+Sg+Com+PxPl1: мунымкӧт
+     му+N+Inan+Sg+Car+PxPl1: [мунымтӧг, мутӧгьяным]
+     му+N+Inan+Sg+Cns+PxPl1: мунымла
+     му+N+Inan+Sg+Cmpr+PxPl1: мунымся
+     му+N+Inan+Sg+Ine+PxPl1: муаным
+     му+N+Inan+Sg+Ela+PxPl1: мусиным
+     му+N+Inan+Sg+Ill+PxPl1: муаным
+     му+N+Inan+Sg+Apr+PxPl1: [мунымлань, муланяным]
+     му+N+Inan+Sg+Egr+PxPl1: [мунымсянь, мусяняным]
+     му+N+Inan+Sg+Prl+PxPl1: [муӧттяным, муӧттиным]
+     му+N+Inan+Sg+TerI+PxPl1: [муӧдззаным, муӧдззиным]
+     му+N+Inan+Sg+TerII+PxPl1: мунымви
+     му+N+Inan+Sg+AprIne+PxPl1: муланяным
+     му+N+Inan+Sg+AprEla+PxPl1: муланьсиным
+     му+N+Inan+Sg+AprIll+PxPl1: муланяным
+     му+N+Inan+Sg+AprEgr+PxPl1: [муланьсяняным, мунымланьсянь]
+     му+N+Inan+Sg+AprPrl+PxPl1: [муланьӧттяным, муланьӧттиным, мунымланьӧт]
+     му+N+Inan+Sg+AprTerI+PxPl1: [муланьӧдззаным, муланьӧдззиным,  мунымланьӧдз]
+     му+N+Inan+Sg+AprTerII+PxPl1: мунымланьви
+     му+N+Inan+Sg+Nom+PxPl2: муныт
+     му+N+Inan+Sg+Gen+PxPl2: мунытлӧн
+     му+N+Inan+Sg+Abl+PxPl2: мунытлісь
+     му+N+Inan+Sg+Dat+PxPl2: мунытлӧ
+     му+N+Inan+Sg+Acc+PxPl2: мунытӧ
+     му+N+Inan+Sg+Ins+PxPl2: мунаныт
+     му+N+Inan+Sg+Com+PxPl2: муныткӧт
+     му+N+Inan+Sg+Car+PxPl2: [муныттӧг, мутӧгьяныт]
+     му+N+Inan+Sg+Cns+PxPl2: мунытла
+     му+N+Inan+Sg+Cmpr+PxPl2: мунытся
+     му+N+Inan+Sg+Ine+PxPl2: муаныт
+     му+N+Inan+Sg+Ela+PxPl2: мусиныт
+     му+N+Inan+Sg+Ill+PxPl2: муаныт
+     му+N+Inan+Sg+Apr+PxPl2: [мунытлань, муланяныт]
+     му+N+Inan+Sg+Egr+PxPl2: [мунытсянь, мусяняныт]
+     му+N+Inan+Sg+Prl+PxPl2: [муӧттяныт, муӧттиныт]
+     му+N+Inan+Sg+TerI+PxPl2: [муӧдззаныт, муӧдззиныт]
+     му+N+Inan+Sg+TerII+PxPl2: мунытви
+     му+N+Inan+Sg+AprIne+PxPl2: муланяныт
+     му+N+Inan+Sg+AprEla+PxPl2: муланьсиныт
+     му+N+Inan+Sg+AprIll+PxPl2: муланяныт
+     му+N+Inan+Sg+AprEgr+PxPl2: [муланьсяняныт, мунытланьсянь]
+     му+N+Inan+Sg+AprPrl+PxPl2: [муланьӧттяныт, муланьӧттиныт, мунытланьӧт]
+     му+N+Inan+Sg+AprTerI+PxPl2: [муланьӧдззаныт, муланьӧдззиныт, мунытланьӧдз]
+     му+N+Inan+Sg+AprTerII+PxPl2: мунытланьви
+     му+N+Inan+Sg+Nom+PxPl3: муныс
+     му+N+Inan+Sg+Gen+PxPl3: муныслӧн
+     му+N+Inan+Sg+Abl+PxPl3: муныслісь
+     му+N+Inan+Sg+Dat+PxPl3: муныслӧ
+     му+N+Inan+Sg+Acc+PxPl3: мунысӧ
+     му+N+Inan+Sg+Ins+PxPl3: мунаныс
+     му+N+Inan+Sg+Com+PxPl3: муныскӧт
+     му+N+Inan+Sg+Car+PxPl3: [муныстӧг, мутӧгьяныс]
+     му+N+Inan+Sg+Cns+PxPl3: мунысла
+     му+N+Inan+Sg+Cmpr+PxPl3: мунысся
+     му+N+Inan+Sg+Ine+PxPl3: муаныс
+     му+N+Inan+Sg+Ela+PxPl3: мусиныс
+     му+N+Inan+Sg+Ill+PxPl3: муаныс
+     му+N+Inan+Sg+Apr+PxPl3: [муныслань, муланяныс]
+     му+N+Inan+Sg+Egr+PxPl3: [муныссянь, мусяняныс]
+     му+N+Inan+Sg+Prl+PxPl3: [муӧттяныс, муӧттиныс]
+     му+N+Inan+Sg+TerI+PxPl3: [муӧдззаныс, муӧдззиныс]
+     му+N+Inan+Sg+TerII+PxPl3: мунысви
+     му+N+Inan+Sg+AprIne+PxPl3: муланяныс
+     му+N+Inan+Sg+AprEla+PxPl3: муланьсиныс
+     му+N+Inan+Sg+AprIll+PxPl3: муланяныс
+     му+N+Inan+Sg+AprEgr+PxPl3: [муланьсяняныс, мунысланьсянь]
+     му+N+Inan+Sg+AprPrl+PxPl3: [муланьӧттяныс, муланьӧттиныс, мунысланьӧт]
+     му+N+Inan+Sg+AprTerI+PxPl3: [муланьӧдззаныс, муланьӧдззиныс, мунысланьӧдз]
+     му+N+Inan+Sg+AprTerII+PxPl3: мунысланьви
+     му+N+Inan+Pl+Nom: муэз
+     му+N+Inan+Pl+Acc: муэз
+     му+N+Inan+Pl+Gen: муэзлӧн
+     му+N+Inan+Pl+Abl: муэзлісь
+     му+N+Inan+Pl+Dat: муэзлӧ
+     му+N+Inan+Pl+Ins: муэзӧн
+     му+N+Inan+Pl+Com: муэзкӧт
+     му+N+Inan+Pl+Car: муэзтӧг
+     му+N+Inan+Pl+Cns: муэзла
+     му+N+Inan+Pl+Cmpr: муэзся
+     му+N+Inan+Pl+Ine: муэзын
+     му+N+Inan+Pl+Ela: муэзісь
+     му+N+Inan+Pl+Ill: муэзӧ
+     му+N+Inan+Pl+Apr: муэзлань
+     му+N+Inan+Pl+Egr: муэзсянь
+     му+N+Inan+Pl+Prl: муэзӧт
+     му+N+Inan+Pl+TerI: муэзӧдз
+     му+N+Inan+Pl+TerII: муэзви
+     му+N+Inan+Pl+AprIne: муэзланьын
+     му+N+Inan+Pl+AprEla: муэзланись
+     му+N+Inan+Pl+AprIll: муэзланьӧ
+     му+N+Inan+Pl+AprEgr: муэзланьсянь
+     му+N+Inan+Pl+AprPrl: муэзланьӧт
+     му+N+Inan+Pl+AprTerI: муэзланьӧдз
+     му+N+Inan+Pl+AprTerII: муэзланьви
+     му+N+Inan+Pl+Nom+PxSg1: муэзӧ
+     му+N+Inan+Pl+Gen+PxSg1: муэзӧлӧн
+     му+N+Inan+Pl+Abl+PxSg1: муэзӧлісь
+     му+N+Inan+Pl+Dat+PxSg1: муэзӧлӧ
+     му+N+Inan+Pl+Acc+PxSg1: муэзӧс
+     му+N+Inan+Pl+Ins+PxSg1: муэзнам
+     му+N+Inan+Pl+Com+PxSg1: муэзӧкӧт
+     му+N+Inan+Pl+Car+PxSg1: [муэзӧтӧг, муэзтӧгьям]
+     му+N+Inan+Pl+Cns+PxSg1: муэзӧла
+     му+N+Inan+Pl+Cmpr+PxSg1: муэзӧся
+     му+N+Inan+Pl+Ine+PxSg1: муэзам
+     му+N+Inan+Pl+Ela+PxSg1: [муэзсим, муэсим]
+     му+N+Inan+Pl+Ill+PxSg1: муэзам
+     му+N+Inan+Pl+Apr+PxSg1: [муэзӧлань, муэзланям]
+     му+N+Inan+Pl+Egr+PxSg1: [муэзӧсянь, муэзсяням]
+     му+N+Inan+Pl+Prl+PxSg1: [муэзӧттям, муэзӧттим]
+     му+N+Inan+Pl+TerI+PxSg1: [муэзӧдззам, муэзӧдззим]
+     му+N+Inan+Pl+TerII+PxSg1: муэзӧви
+     му+N+Inan+Pl+AprIne+PxSg1: муэзланям
+     му+N+Inan+Pl+AprEla+PxSg1: муэзланьсим
+     му+N+Inan+Pl+AprIll+PxSg1: муэзланям
+     му+N+Inan+Pl+AprEgr+PxSg1: [муэзланьсяням, муэзӧланьсянь]
+     му+N+Inan+Pl+AprPrl+PxSg1: [муэзланьӧттям, муэзланьӧттим, муэзӧланьӧт]
+     му+N+Inan+Pl+AprTerI+PxSg1: [муэзланьӧдззам, муэзланьӧдззим, муэзӧланьӧдз]
+     му+N+Inan+Pl+AprTerII+PxSg1: муэзӧланьви
+     му+N+Inan+Pl+Nom+PxSg2: [муэт, муэзыт]
+     му+N+Inan+Pl+Gen+PxSg2: [муэтлӧн, муэзытлӧн]
+     му+N+Inan+Pl+Abl+PxSg2: [муэтлісь, муэзытлісь]
+     му+N+Inan+Pl+Dat+PxSg2: [муэтлӧ, муэзытлӧ]
+     му+N+Inan+Pl+Acc+PxSg2: [муэтӧ, муэзтӧ]
+     му+N+Inan+Pl+Ins+PxSg2: муэзнат
+     му+N+Inan+Pl+Com+PxSg2: [муэткӧт, муэзыткӧт]
+     му+N+Inan+Pl+Car+PxSg2: [муэттӧг, муэзыттӧг, муэзтӧгьят]
+     му+N+Inan+Pl+Cns+PxSg2: [муэтла, муэзытла]
+     му+N+Inan+Pl+Cmpr+PxSg2: [муэтся, муэзытся]
+     му+N+Inan+Pl+Ine+PxSg2: муэзат
+     му+N+Inan+Pl+Ela+PxSg2: [муэзсит, муэсит]
+     му+N+Inan+Pl+Ill+PxSg2: муэзат
+     му+N+Inan+Pl+Apr+PxSg2: [муэтлань, муэзытлань, муэзланят]
+     му+N+Inan+Pl+Egr+PxSg2: [муэтсянь, муэзытсянь, муэзсянят]
+     му+N+Inan+Pl+Prl+PxSg2: [муэзӧттят, муэзӧттит]
+     му+N+Inan+Pl+TerI+PxSg2: [муэзӧдззат, муэзӧдззит]
+     му+N+Inan+Pl+TerII+PxSg2: [муэтви, муэзытви]
+     му+N+Inan+Pl+AprIne+PxSg2: муэзланят
+     му+N+Inan+Pl+AprEla+PxSg2: муэзланьсит
+     му+N+Inan+Pl+AprIll+PxSg2: муэзланят
+     му+N+Inan+Pl+AprEgr+PxSg2: [муэзланьсянят, муэтланьсянь, муэзытланьсянь]
+     му+N+Inan+Pl+AprPrl+PxSg2: [муэзланьӧттят, муэзланьӧттит, муэтланьӧт, муэзытланьӧт]
+     му+N+Inan+Pl+AprTerI+PxSg2: [муэзланьӧдззат, муэзланьӧдззит, муэтланьӧдз, муэзытланьӧдз]
+     му+N+Inan+Pl+AprTerII+PxSg2: [муэтланьви, муэзытланьви]
+     му+N+Inan+Pl+Nom+PxSg3: [муэс, муэзыс]
+     му+N+Inan+Pl+Gen+PxSg3: [муэслӧн, муэзыслӧн]
+     му+N+Inan+Pl+Abl+PxSg3: [муэслісь, муэзыслісь]
+     му+N+Inan+Pl+Dat+PxSg3: [муэслӧ, муэзыслӧ]
+     му+N+Inan+Pl+Acc+PxSg3: [муэсӧ, муэзсӧ]
+     му+N+Inan+Pl+Ins+PxSg3: муэзнас
+     му+N+Inan+Pl+Com+PxSg3: [муэскӧт, муэзыскӧт]
+     му+N+Inan+Pl+Car+PxSg3: [муэстӧг, муэзыстӧг, муэзтӧгьяс]
+     му+N+Inan+Pl+Cns+PxSg3: [муэсла, муэзысла]
+     му+N+Inan+Pl+Cmpr+PxSg3: [муэсся, муэзысся]
+     му+N+Inan+Pl+Ine+PxSg3: муэзас
+     му+N+Inan+Pl+Ela+PxSg3: [муэзсис, муэсис]
+     му+N+Inan+Pl+Ill+PxSg3: муэзас
+     му+N+Inan+Pl+Apr+PxSg3: [муэслань, муэзыслань, муэзланяс]
+     му+N+Inan+Pl+Egr+PxSg3: [муэссянь, муэзыссянь, муэзсяняс]
+     му+N+Inan+Pl+Prl+PxSg3: [муэзӧттяс, муэзӧттис]
+     му+N+Inan+Pl+TerI+PxSg3: [муэзӧдззас, муэзӧдззис]
+     му+N+Inan+Pl+TerII+PxSg3: муэсви
+     му+N+Inan+Pl+AprIne+PxSg3: муэзланяс
+     му+N+Inan+Pl+AprEla+PxSg3: муэзланьсис
+     му+N+Inan+Pl+AprIll+PxSg3: муэзланяс
+     му+N+Inan+Pl+AprEgr+PxSg3: [муэзланьсяняс, муэсланьсянь, муэзысланьсянь]
+     му+N+Inan+Pl+AprPrl+PxSg3: [муэзланьӧттяс, муэзланьӧттис, муэсланьӧт, муэзысланьӧт]
+     му+N+Inan+Pl+AprTerI+PxSg3: [муэзланьӧдззаc, муэзланьӧдззиc, муэсланьӧдз, муэзысланьӧдз]
+     му+N+Inan+Pl+AprTerII+PxSg3: муэсланьви
+     му+N+Inan+Pl+Nom+PxPl1: муэзным
+     му+N+Inan+Pl+Gen+PxPl1: муэзнымлӧн
+     му+N+Inan+Pl+Abl+PxPl1: муэзнымлісь
+     му+N+Inan+Pl+Dat+PxPl1: муэзнымлӧ
+     му+N+Inan+Pl+Acc+PxPl1: муэзнымӧс
+     му+N+Inan+Pl+Ins+PxPl1: муэзнаным
+     му+N+Inan+Pl+Com+PxPl1: муэзнымкӧт
+     му+N+Inan+Pl+Car+PxPl1: [муэзнымтӧг, муэзтӧгьяным]
+     му+N+Inan+Pl+Cns+PxPl1: муэзнымла
+     му+N+Inan+Pl+Cmpr+PxPl1: муэзнымся
+     му+N+Inan+Pl+Ine+PxPl1: муэзаным
+     му+N+Inan+Pl+Ela+PxPl1: [муэзсиным, муэсиным]
+     му+N+Inan+Pl+Ill+PxPl1: муэзаным
+     му+N+Inan+Pl+Apr+PxPl1: [муэзнымлань, муэзланяным]
+     му+N+Inan+Pl+Egr+PxPl1: [муэзнымсянь, муэзсяняным]
+     му+N+Inan+Pl+Prl+PxPl1: [муэзӧттяным, муэзӧттиным]
+     му+N+Inan+Pl+TerI+PxPl1: [муэзӧдззаным, муэзӧдззиным]
+     му+N+Inan+Pl+TerII+PxPl1: муэзнымви
+     му+N+Inan+Pl+AprIne+PxPl1: муэзланяным
+     му+N+Inan+Pl+AprEla+PxPl1: муэзланьсиным
+     му+N+Inan+Pl+AprIll+PxPl1: муэзланяным
+     му+N+Inan+Pl+AprEgr+PxPl1: [муэзланьсяняным, муэзнымланьсянь]
+     му+N+Inan+Pl+AprPrl+PxPl1: [муэзланьӧттяным, муэзланьӧттиным, муэзнымланьӧт]
+     му+N+Inan+Pl+AprTerI+PxPl1: [муэзланьӧдззаным, муэзланьӧдззиным, муэзнымланьӧдз]
+     му+N+Inan+Pl+AprTerII+PxPl1: муэзнымланьви
+     му+N+Inan+Pl+Nom+PxPl2: муэзныт
+     му+N+Inan+Pl+Gen+PxPl2: муэзнытлӧн
+     му+N+Inan+Pl+Abl+PxPl2: муэзнытлісь
+     му+N+Inan+Pl+Dat+PxPl2: муэзнытлӧ
+     му+N+Inan+Pl+Acc+PxPl2: муэзнытӧ
+     му+N+Inan+Pl+Ins+PxPl2: муэзнаныт
+     му+N+Inan+Pl+Com+PxPl2: муэзныткӧт
+     му+N+Inan+Pl+Car+PxPl2: [муэзныттӧг, муэзтӧгьяныт]
+     му+N+Inan+Pl+Cns+PxPl2: муэзнытла
+     му+N+Inan+Pl+Cmpr+PxPl2: муэзнытся
+     му+N+Inan+Pl+Ine+PxPl2: муэзаныт
+     му+N+Inan+Pl+Ela+PxPl2: [муэзсиныт, муэсиныт]
+     му+N+Inan+Pl+Ill+PxPl2: муэзаныт
+     му+N+Inan+Pl+Apr+PxPl2: [муэзнытлань, муэзланяныт]
+     му+N+Inan+Pl+Egr+PxPl2: [муэзнытсянь, муэзсяняныт]
+     му+N+Inan+Pl+Prl+PxPl2: [муэзӧттяныт, муэзӧттиныт]
+     му+N+Inan+Pl+TerI+PxPl2: [муэзӧдззаныт, муэзӧдззиныт]
+     му+N+Inan+Pl+TerII+PxPl2: муэзнытви
+     му+N+Inan+Pl+AprIne+PxPl2: муэзланяныт
+     му+N+Inan+Pl+AprEla+PxPl2: муэзланьсиныт
+     му+N+Inan+Pl+AprIll+PxPl2: муэзланяныт
+     му+N+Inan+Pl+AprEgr+PxPl2: [муэзланьсяняныт, муэзнытланьсянь]
+     му+N+Inan+Pl+AprPrl+PxPl2: [муэзланьӧттяныт, муэзланьӧттиныт, муэзнытланьӧт]
+     му+N+Inan+Pl+AprTerI+PxPl2: [муэзланьӧдззаныт, муэзланьӧдззиныт, муэзнытланьӧдз]
+     му+N+Inan+Pl+AprTerII+PxPl2: муэзнытланьви
+     му+N+Inan+Pl+Nom+PxPl3: муэзныс
+     му+N+Inan+Pl+Gen+PxPl3: муэзныслӧн
+     му+N+Inan+Pl+Abl+PxPl3: муэзныслісь
+     му+N+Inan+Pl+Dat+PxPl3: муэзныслӧ
+     му+N+Inan+Pl+Acc+PxPl3: муэзнысӧ
+     му+N+Inan+Pl+Ins+PxPl3: муэзнаныс
+     му+N+Inan+Pl+Com+PxPl3: муэзныскӧт
+     му+N+Inan+Pl+Car+PxPl3: [муэзныстӧг, муэзтӧгьяныс]
+     му+N+Inan+Pl+Cns+PxPl3: муэзнысла
+     му+N+Inan+Pl+Cmpr+PxPl3: муэзнысся
+     му+N+Inan+Pl+Ine+PxPl3: муэзаныс
+     му+N+Inan+Pl+Ela+PxPl3: [муэзсиныс, муэсиныс]
+     му+N+Inan+Pl+Ill+PxPl3: муэзаныс
+     му+N+Inan+Pl+Apr+PxPl3: [муэзныслань, муэзланяныс]
+     му+N+Inan+Pl+Egr+PxPl3: [муэзныссянь, муэзсяняныс]
+     му+N+Inan+Pl+Prl+PxPl3: [муэзӧттяныс, муэзӧттиныс]
+     му+N+Inan+Pl+TerI+PxPl3: [муэзӧдззаныс, муэзӧдззиныс]
+     му+N+Inan+Pl+TerII+PxPl3: муэзнысви
+     му+N+Inan+Pl+AprIne+PxPl3: муэзланяныс
+     му+N+Inan+Pl+AprEla+PxPl3: муэзланьсиныс
+     му+N+Inan+Pl+AprIll+PxPl3: муэзланяныс
+     му+N+Inan+Pl+AprEgr+PxPl3: [муэзланьсяняныс, муэзнысланьсянь]
+     му+N+Inan+Pl+AprPrl+PxPl3: [муэзланьӧттяныс, муэзланьӧттиныс, муэзнысланьӧт]
+     му+N+Inan+Pl+AprTerI+PxPl3: [муэзланьӧдззаныс, муэзланьӧдззиныс, муэзнысланьӧдз]
+     му+N+Inan+Pl+AprTerII+PxPl3: муэзнысланьви
