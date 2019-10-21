@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<e order="2">
+   <lg>
+     <l pos="Num">дас</l>
+     <stg>
+       <st Contlex="NUM_">дас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>десять</t>
+     </tg>
+     <xg>
+       <x>дас керку</x>
+       <xt xml:lang="rus">десять домов</xt>
+     </xg>
+     <xg>
+       <x>дас мымда</x>
+       <xt xml:lang="rus">около десяти</xt>
+     </xg>
+     <xg>
+       <x>дас рубӧн</x>
+       <xt xml:lang="rus">по десять рублей</xt>
+     </xg>
+     <xg>
+       <x>дас тысяча</x>
+       <xt xml:lang="rus">десять тысяч</xt>
+     </xg>
+     <xg>
+       <x>дасся унажык</x>
+       <xt xml:lang="rus">больше десяти</xt>
+     </xg>
+     <xg>
+       <x>дас годӧн нылочка</x>
+       <xt xml:lang="rus">десятилетняя девочка</xt>
+     </xg>
+     <xg>
+       <x>дас ісь дас - сто</x>
+       <xt xml:lang="rus">десятью десять - сто</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасвит</l>
+     <stg>
+       <st Contlex="NUM_">дасвит</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>пятнадцать</t>
+     </tg>
+     <xg>
+       <x>дасвит морт</x>
+       <xt xml:lang="rus">пятнадцать человек</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">дасвитӧдз</l>
+     <stg>
+       <st Contlex="NUM_">дасвитӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">дасвитӧт</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">дасвитӧт</l>
+     <stg>
+       <st Contlex="NUM_">дасвитӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>пятнадцатый</t>
+     </tg>
+     <xg>
+       <x>меным муніс дасвитӧт год</x>
+       <xt xml:lang="rus">мне пошёл пятнадцатый год</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасдас</l>
+     <stg>
+       <st Contlex="NUM_">дасдас</st>
+     </stg>
+   </lg>
+   <mg relId="0"><geo>сев.</geo>
+     <tg xml:lang="rus">
+       <t>сто</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасквать</l>
+     <stg>
+       <st Contlex="NUM_">дасквать</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>шестнадцать</t>
+     </tg>
+     <xg>
+       <x>дасквать годся</x>
+       <xt xml:lang="rus">шестнадцатилетний</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">даскватьӧдз</l>
+     <stg>
+       <st Contlex="DET-ORD_">даскватьӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">даскватьӧт</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">даскватьӧт</l>
+     <stg>
+       <st Contlex="DET-ORD_">даскватьӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>шестнадцатый</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даскуим</l>
+     <stg>
+       <st Contlex="NUM_">даскуим</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>тринадцать</t>
+     </tg>
+     <xg>
+       <x>даскуим книга</x>
+       <xt xml:lang="rus">тринадцать книг</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">даскуимӧдз</l>
+     <stg>
+       <st Contlex="DET-ORD_">даскуимӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">даскуимӧт</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">даскуимӧт</l>
+     <stg>
+       <st Contlex="DET-ORD_">даскуимӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>тринадцатый</t>
+     </tg>
+     <xg>
+       <x>даскуимӧт лун</x>
+       <xt xml:lang="rus">тринадцатый день</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даскык</l>
+     <stg>
+       <st Contlex="NUM_">даскык</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>двенадцать</t>
+     </tg>
+     <xg>
+       <x>даскык кольть</x>
+       <xt xml:lang="rus">двенадцать яиц</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даскыкьямыс</l>
+     <stg>
+       <st Contlex="NUM_">даскыкьямыс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>восемнадцать</t>
+     </tg>
+     <xg>
+       <x>ведраам уялісӧ даскыкьямыс чериок</x>
+       <xt xml:lang="rus">в моём ведре плавали восемнадцать рыбёшек</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">даскыкьямысӧдз</l>
+     <stg>
+       <st Contlex="DET-ORD_">даскыкьямысӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">даскыкьямысӧт</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">даскыкьямысӧт</l>
+     <stg>
+       <st Contlex="DET-ORD_">даскыкьямысӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>восемнадцатый</t>
+     </tg>
+     <xg>
+       <x>сылӧ мунісдаскыкьямысӧт год</x>
+       <xt xml:lang="rus">ему пошёл восемнадцатый год</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">даскыкӧдз</l>
+     <stg>
+       <st Contlex="DET-ORD_">даскыкӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">даскыкӧт</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">даскыкӧт</l>
+     <stg>
+       <st Contlex="DET-ORD_">даскыкӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>двенадцатый</t>
+     </tg>
+     <xg>
+       <x>даскыкӧт лун</x>
+       <xt xml:lang="rus">двенадцатый день</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">даснан</l>
+     <stg>
+       <st Contlex="DET-COLL_">даснан</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>все десять</t>
+     </tg>
+     <xg>
+       <x>даснан керкуын вӧлісӧ телевизоррез</x>
+       <xt xml:lang="rus">во всех десяти домах были телевизоры</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>{с притяж. суф.}:</t>
+     </tg>
+     <xg>
+       <x>даснанным</x>
+       <xt xml:lang="rus">мы [все] десятеро; мы [все] вдесятером</xt>
+     </xg>
+     <xg>
+       <x>даснанныс</x>
+       <xt xml:lang="rus">они [все] десятеро; они [все] вдесятером</xt>
+     </xg>
+     <xg>
+       <x>даснанныт</x>
+       <xt xml:lang="rus">вы [все] десятеро; вы [все] вдесятером</xt>
+     </xg>
+     <xg>
+       <x>даснанныслӧ локтісӧ поздравительнӧй открыткаэз</x>
+       <xt xml:lang="rus">всем им десятерым пришли поздравительные открытки</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даснёль</l>
+     <stg>
+       <st Contlex="NUM_">даснёль</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>четырнадцать</t>
+     </tg>
+     <xg>
+       <x>тасянь городӧдзис даснёль верста</x>
+       <xt xml:lang="rus">отсюда до города четырнадцать вёрст</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">даснёльӧдз</l>
+     <stg>
+       <st Contlex="DET-ORD_">даснёльӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">даснёльӧт</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">даснёльӧт</l>
+     <stg>
+       <st Contlex="DET-ORD_">даснёльӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>четырнадцатый</t>
+     </tg>
+     <xg>
+       <x>чулаліс даснёльӧт лун</x>
+       <xt xml:lang="rus">прошёл четырнадцатый день</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасотік</l>
+     <stg>
+       <st Contlex="NUM_">дасотік</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>одиннадцать</t>
+     </tg>
+     <xg>
+       <x>дасотік лун мийӧ шоччисим</x>
+       <xt xml:lang="rus">одиннадцать дней мы отдыхали</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дассизим</l>
+     <stg>
+       <st Contlex="NUM_">дассизим</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>семнадцать</t>
+     </tg>
+     <xg>
+       <x>дассизим лун колисӧ эг и казялӧ</x>
+       <xt xml:lang="rus">незаметно прошли семнадцать дней</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">дассизимӧдз</l>
+     <stg>
+       <st Contlex="DET-ORD_">дассизимӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="Num" s_type="seeAlso">дассизимӧт</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">дассизимӧт</l>
+     <stg>
+       <st Contlex="DET-ORD_">дассизимӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>семнадцатый</t>
+     </tg>
+     <xg>
+       <x>вонӧлӧ мунӧ дассизимӧт год</x>
+       <xt xml:lang="rus">моему брату идёт семнадцатый год</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дассэсдас</l>
+     <stg>
+       <st Contlex="NUM_">дассэсдас</st>
+     </stg>
+   </lg>
+   <mg relId="0"><geo>Рог.</geo>
+     <tg xml:lang="rus">
+       <t>сто</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">дассэсдасӧт</l>
+     <stg>
+       <st Contlex="DET-ORD_">дассэсдасӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0"><geo>Рог.</geo>
+     <tg xml:lang="rus">
+       <t>сотый</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">дасӧдз</l>
+     <stg>
+       <st Contlex="DET-ORD_">дасӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">дасӧт</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасӧкмыс</l>
+     <stg>
+       <st Contlex="NUM_">дасӧкмыс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>девятнадцать</t>
+     </tg>
+     <xg>
+       <x>дасӧкмыс лун мийӧ олім вӧрын</x>
+       <xt xml:lang="rus">девятнадцать дней мы жили в лесу</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">дасӧкмысӧдз</l>
+     <stg>
+       <st Contlex="DET-ORD_">дасӧкмысӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">дасӧкмысӧт</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">дасӧкмысӧт</l>
+     <stg>
+       <st Contlex="DET-ORD_">дасӧкмысӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>девятнадцатый</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">дасӧт</l>
+     <stg>
+       <st Contlex="NUM_">дасӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>десятый</t>
+     </tg>
+     <xg>
+       <x>дасӧт лун ни кисьтӧ-зэрӧ</x>
+       <xt xml:lang="rus">уже десятый день идёт проливной дождь</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">дасӧтікӧдз</l>
+     <stg>
+       <st Contlex="DET-ORD_">дасӧтікӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">дасӧтікӧт</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">дасӧтікӧт</l>
+     <stg>
+       <st Contlex="DET-ORD_">дасӧтікӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Num" type="Ord">одиннадцатый</t>
+     </tg>
+     <xg>
+       <x>сойӧлӧ тырис дасӧтікӧт год</x>
+       <xt xml:lang="rus">моей сестре исполнилось одиннадцать лет</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ӧкмыс</l>
+     <stg>
+       <st Contlex="NUM_">ӧкмыс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Num">девять</t>
+     </tg>
+     <xg>
+       <x>ӧкмыс вӧв</x>
+       <xt xml:lang="rus">девять лошадей</xt>
+     </xg>
+     <xg>
+       <x>ӧкмыс годся</x>
+       <xt xml:lang="rus">девятилетний</xt>
+     </xg>
+     <xg>
+       <x>ӧкмыс руб</x>
+       <xt xml:lang="rus">девять рублей</xt>
+     </xg>
+     <xg>
+       <x>ӧкмыс тысяча</x>
+       <xt xml:lang="rus">девять тысяч</xt>
+     </xg>
+     <xg>
+       <x>ӧкмыс миллион</x>
+       <xt xml:lang="rus">девять миллионов</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ӧкмысдас</l>
+     <stg>
+       <st Contlex="NUM_">ӧкмысдас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Num">девяносто</t>
+     </tg>
+     <xg>
+       <x>ӧкмысдас кык</x>
+       <xt xml:lang="rus">девяносто два</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">ӧкмысдасӧт</l>
+     <stg>
+       <st Contlex="DET-ORD_">ӧкмысдасӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Num">девяностый</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ӧкмыссё</l>
+     <stg>
+       <st Contlex="NUM_">ӧкмыссё</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>уст.</range>
+     <tg xml:lang="rus">
+       <t pos="Num">девятьсот</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">ӧкмысӧдз</l>
+     <stg>
+       <st Contlex="DET-ORD_">ӧкмысӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Num">девятый</t>
+     </tg>
+     <xg>
+       <x>зоныс ӧкмысӧдзвас</x>
+       <xt xml:lang="rus">его сыну пошёл девятый [год]</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Det">ӧкмысӧт</l>
+     <stg>
+       <st Contlex="DET-ORD_">ӧкмысӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Num" type="Ord">девятый</t>
+     </tg>
+     <xg>
+       <x>январь ӧкмысӧт лунӧ</x>
+       <xt xml:lang="rus">девятого января</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">ӧт</l>
+     <stg>
+       <st Contlex="NUM_">ӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Num">ӧти</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">один</t>
+     </tg>
+     <xg>
+       <x>ӧт киын</x>
+       <xt xml:lang="kpv">ӧти киын</xt>
+       <xt xml:lang="rus">в одной руке</xt>
+     </xg>
+     <xg>
+       <x>ӧт киӧ тыра</x>
+       <xt xml:lang="rus">одна рука занята</xt>
+     </xg>
+     <xg>
+       <x>ӧт ладорыс сьӧд, а мӧд ӧт чочком</x>
+       <xt xml:lang="rus">одна сторона чёрная, а другая - белая</xt>
+     </xg>
+     <xg>
+       <x>ӧт ладора</x>
+       <xt xml:lang="rus">односторонний (о движении и т. п.);</xt>
+     </xg>
+     <xg>
+       <x>ме тэнӧ видзчиси от ладорсянь, а тэ мыччисин мӧдӧрсянь</x>
+       <xt xml:lang="rus">я тебя ждал с одной стороны, а ты появился с другой</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ӧті</l>
+     <stg>
+       <st Contlex="NUM_">ӧті</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>редко</range>
+     <tg xml:lang="rus">
+       <t pos="Num"/>
+     </tg><sg><s s_type="see">ӧтік</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ӧтік</l>
+     <stg>
+       <st Contlex="NUM_">ӧтік</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>один</t>
+     </tg>
+     <xg>
+       <x>ӧтік морт</x>
+       <xt xml:lang="rus">один человек</xt>
+     </xg>
+     <xg>
+       <x>ӧтік морт эз лок</x>
+       <xt xml:lang="rus">ни один человек не пришёл</xt>
+     </xg>
+     <xg>
+       <x>нія олӧны ӧтік керкуын</x>
+       <xt xml:lang="rus">они живут в одном доме.</xt>
+     </xg>
+     <xg>
+       <x>ӧтік абу</x>
+       <xt xml:lang="rus">нет нисколько</xt>
+     </xg>
+     <xg>
+       <x>ӧтік кадӧ</x>
+       <xt xml:lang="rus">однажды</xt>
+       <xt xml:lang="rus">в однои то же время, одновременно</xt>
+     </xg>
+     <xg>
+       <x>ӧтік кисьӧн кыйны</x>
+       <xt xml:lang="rus">действовать заодно (<range>букв.</range> одним бёрдом ткать)</xt>
+     </xg>
+     <xg>
+       <x>ӧтік кылӧн оз сетчы</x>
+       <xt xml:lang="rus">его не переспоришь; его не переговоришь</xt>
+     </xg>
+     <xg>
+       <x>ӧтікӧ модьны</x>
+       <xt xml:lang="rus">твердить одно и то же</xt>
+     </xg>
+     <xg>
+       <x>ӧтікӧ лёбны</x>
+       <xt xml:lang="rus">твердить одно и то же</xt>
+     </xg>
+     <xg>
+       <x>ӧтік юрӧн думайтны</x>
+       <xt xml:lang="rus">быть единодушным</xt>
+     </xg>
+     <xg>
+       <x>ӧтікӧс сизимӧн оз видзчисьӧ</x>
+       <xt xml:lang="rus"><src_type>погов.</src_type> семеро одного не ждут</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ӧтік-кык</l>
+     <stg>
+       <st Contlex="NUM_">ӧтік-кык</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>один-два</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ӧтік-мӧдік</l>
+     <stg>
+       <st Contlex="NUM_">ӧтік-мӧдік</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>кое-кто; кое-что; одно-другое; то да сё</t>
+     </tg>
+     <xg>
+       <x>ӧтікӧ-мӧдікӧ керыштны</x>
+       <xt xml:lang="rus">кое-что поделать</xt>
+     </xg>
+     <xg>
+       <x>ӧтік-мӧдік йылісь баитыштны</x>
+       <xt xml:lang="rus">поговорить о том о сём</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">ӧччыд</l>
+     <stg>
+       <st Contlex="ADV_">ӧччыд</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="V">{чур.}</t>
+     </tg><sg><s s_type="see">ӧтчид</s></sg>
+   </mg>
+</e>
+</r> 

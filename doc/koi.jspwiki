@@ -193,6 +193,7 @@ Where do these come from source
  * __+Sem/Group__ Animal or Human Group
  * __+Sem/Hum__ Human
  * __+Sem/Hum-abstr__ Human abstract
+ * __+Sem/Hum-prof__ Human professional
  * __+Sem/Ideol__ Ideology
  * __+Sem/Lang__ Language
  * __+Sem/Mal__ Male name
@@ -343,9 +344,10 @@ The word forms in the KOMI-PERMYAK language start from the lexeme roots of basic
 
 word classes, or optionally from prefixes:
 
+Incoming from akusanat
+
 
 Incoming for conversion from kpv
-
 
 
 

@@ -44,6 +44,13 @@ LEXICON Noun1-SYT-STY !
 
 !! The lexicon for basic nouns is N_ 
 
+
+LEXICON N-ANIM_   
++Anim: N_ ;
+
+LEXICON N-INAN_   
++Inan N_ ;
+
 LEXICON N_   
 +Der/Ок+Der/Dimin+N:%>ок NMN_ ;
 : NMN_ ;
@@ -100,45 +107,50 @@ LEXICON NMN_
 
 
 
-LEXICON Noun1-JM ! понйыс, понмыс 
-+Cmp:м R ;
-+Sg:м CASEPOSSLEX ;
-+Cmp:й R ;
-+Sg:й CASEPOSSLEX ;
-+Pl:%>%^1Cnsэз CASEPOSSLEX ;
+!LEXICON Noun1-JM ! понйыс, понмыс 
+!+Cmp:м R ;
+!+Sg:м CASEPOSSLEX ;
+!+Cmp:й R ;
+!+Sg:й CASEPOSSLEX ;
+!+Pl:%>%^1Cnsэз CASEPOSSLEX ;
 
 !! subsequent Cns vs Vow
-LEXICON N_PARAGOGIC-В/Л !!= * @CODE@ ныв:ны нылыс
+LEXICON N_PARAGOGIC-V/L !!= * @CODE@ ныв:ны нылыс
 +Cmp:в R ;
 +Sg:в CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg:л CASEPOSSLEX-AFTERDERIVATION_VOW ;
 +Pl:в%>%^1Cnsэз CASEPOSSLEX ;
 
-LEXICON N_PARAGOGIC-Й !!= * @CODE@ ав:ав авйыс
+LEXICON N-INAN_PARAGOGIC-J 
++Inan:  N_PARAGOGIC-J ;
+
+LEXICON N_PARAGOGIC-J !!= * @CODE@ ав:ав авйыс
 +Cmp: R ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg:й CASEPOSSLEX-AFTERDERIVATION_VOW ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ;
 
-LEXICON N_PARAGOGIC-К !!= * @CODE@ кытш:кытш кытшкыс
+LEXICON N-INAN_PARAGOGIC-K
++Inan:	N_PARAGOGIC-K ;
+LEXICON N_PARAGOGIC-K !!= * @CODE@ кытш:кытш кытшкыс
 +Cmp: R ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg:к CASEPOSSLEX-AFTERDERIVATION_VOW ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ;
 
-LEXICON N_PARAGOGIC-М !!= * @CODE@ зон:зон зонмыс
+LEXICON N_PARAGOGIC-M !!= * @CODE@ зон:зон зонмыс
 +Cmp: R ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg:м CASEPOSSLEX-AFTERDERIVATION_VOW ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ;
 
-LEXICON N_PARAGOGIC-Т !!= * @CODE@ зеп:зеп зептыс
+LEXICON N_PARAGOGIC-T !!= * @CODE@ зеп:зеп зептыс
 +Cmp: R ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg:т CASEPOSSLEX-AFTERDERIVATION_VOW ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ;
 
-LEXICON N_END-IN-Й !!= * @CODE@ абай:аба абайыс
+LEXICON N_END-IN-J !!= * @CODE@ абай:аба абайыс
 +Cmp:й R ;
 +Sg:й CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_Я ;
