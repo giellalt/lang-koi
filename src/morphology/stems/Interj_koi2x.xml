@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<e>
+   <lg>
+     <l pos="Interj">а</l>
+     <stg>
+       <st Contlex="INTERJ_">а</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">а</t>
+       <t pos="Interj">а-а</t>
+     </tg>
+     <xg>
+       <x>а-а, локтін ачыт!</x>
+       <xt xml:lang="rus">а-а, пришёл сам!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">адззан</l>
+     <stg>
+       <st Contlex="INTERJ_">адззан</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>вишь</t>
+       <t>смотри</t>
+     </tg>
+     <xg>
+       <x>адззан, ме кынми ни</x>
+       <xt xml:lang="rus">вишь, я уже замёрз</xt>
+     </xg>
+     <xg>
+       <x>адззан, кыдз сія вежсис!</x>
+       <xt xml:lang="rus">смотри, как он изменился!</xt>
+     </xg>
+     <xg>
+       <x>адззан, кыдз керис!</x>
+       <xt xml:lang="rus">вишь, что сделал!, вишь, как поступил!</xt>
+     </xg>
+     <xg>
+       <x>адззан кытшӧм!</x>
+       <xt xml:lang="rus">вишь, какой!</xt>
+     </xg>
+     <xg>
+       <x>адззан мымда!</x>
+       <xt xml:lang="rus">вишь, сколько!</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Interj">аньӧ</l>
+     <stg>
+       <st Contlex="INTERJ_">аньӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg><sg><s pos="Interj" s_type="see">аня</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">аня</l>
+     <stg>
+       <st Contlex="INTERJ_">аня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">оз позь</t>
+       <t pos="Interj">эн (челядь сёрниын)</t>
+     </tg>
+     <xg>
+       <x>этӧ, кага, аня.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Interj">аня</l>
+     <stg>
+       <st Contlex="INTERJ_">аня</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>дет.</range>
+     <tg xml:lang="rus">
+       <t>нельзя, не смей, не трогай</t>
+     </tg>
+     <xg>
+       <x>этӧ, кага, аня!</x>
+       <xt xml:lang="rus">это, детка, нельзя!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ась</l>
+     <stg>
+       <st Contlex="INTERJ_">ась</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>пусть</t>
+       <t>пускай</t>
+     </tg>
+     <xg>
+       <x>ась локтӧ</x>
+       <xt xml:lang="rus">пусть придёт</xt>
+     </xg>
+     <xg>
+       <x>ась буржыка велӧтчӧ</x>
+       <xt xml:lang="rus">пусть лучше учится</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">батя</l>
+     <stg>
+       <st Contlex="INTERJ_">батя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">зонмӧ</t>
+       <t pos="Interj">другӧ (сёрнитігӧн тшӧкыда вӧдитчан кыв)</t>
+     </tg>
+     <xg>
+       <x src="Ф.Истомин">эх, надя, бӧбӧтін менӧ сё жӧ, батя</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">бе</l>
+     <stg>
+       <st Contlex="INTERJ_">бе</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">тьфу, фу (выражает пренебрежение, отвращение)</t>
+     </tg>
+     <xg>
+       <x>бе, кытшӧм нятьӧсь!</x>
+       <xt xml:lang="rus">тьфу, какой грязный!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">бе-е</l>
+     <stg>
+       <st Contlex="INTERJ_">бе-е</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj" type="descr">бе-е (подражание блеянию овцы)</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Interj">беленько</l>
+     <stg>
+       <st Contlex="INTERJ_">беленько</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>пожелание тому, кто стирает или моет пол</t>
+     </tg>
+     <xg>
+       <x>беленько тэныт!</x>
+       <xt xml:lang="rus">бог в помощь [тебе]!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">бытшӧм асылӧн</l>
+     <stg>
+       <st Contlex="INTERJ_">бытшӧм асылӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">бур асыв.</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">волькыт туй</l>
+     <stg>
+       <st Contlex="INTERJ_">волькыт туй</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">бур туй</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l hid="Hom2" pos="Interj">вон</l>
+     <stg>
+       <st Contlex="INTERJ_">вон</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>вон</t>
+     </tg>
+     <xg>
+       <x>вон сэтчин</x>
+       <xt xml:lang="rus">вон там</xt>
+     </xg>
+     <xg>
+       <x>сія вон мый ыжда ни!</x>
+       <xt xml:lang="rus">он вон какой большой уже!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">вот</l>
+     <stg>
+       <st Contlex="INTERJ_">вот</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>вот</t>
+     </tg>
+     <xg>
+       <x>вот мымда</x>
+       <xt xml:lang="rus">вот сколько</xt>
+     </xg>
+     <xg>
+       <x>вот сымда</x>
+       <xt xml:lang="rus">вот столько</xt>
+     </xg>
+     <xg>
+       <x>вот татӧн</x>
+       <xt xml:lang="rus">вот здесь</xt>
+     </xg>
+     <xg>
+       <x>вот татісь</x>
+       <xt xml:lang="rus">вот отсюда</xt>
+     </xg>
+     <xg>
+       <x>вот сэтісь</x>
+       <xt xml:lang="rus">вот оттуда</xt>
+     </xg>
+     <xg>
+       <x>вот сія</x>
+       <xt xml:lang="rus">вот он</xt>
+     </xg>
+     <xg>
+       <x>вот и бур</x>
+       <xt xml:lang="rus">вот и хорошо</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">гыд-гыд</l>
+     <stg>
+       <st Contlex="INTERJ_">гыд-гыд</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой-ой (выражает удивление)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">жысь</l>
+     <stg>
+       <st Contlex="INTERJ_">жысь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ах (выражает удивление)</t>
+     </tg>
+     <xg>
+       <x>жысь кытшӧм удав!</x>
+       <xt xml:lang="rus">ах какой быстрый!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">и-ик!</l>
+     <stg>
+       <st Contlex="INTERJ_">и-ик!</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">гей!, эх! (возглас радости)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">кытчӧдз быдӧс</l>
+     <stg>
+       <st Contlex="INTERJ_">кытчӧдз быдӧс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">ӧні кежлӧ ставыс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">локтан здорово.</l>
+     <stg>
+       <st Contlex="INTERJ_">локтан здорово.</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">видзаалӧм вылӧ воча кыв</t>
+       <t pos="Interj">пырысьлы воча кыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom2" pos="Interj">мак</l>
+     <stg>
+       <st Contlex="INTERJ_">мак</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой (выражает удивление)</t>
+     </tg>
+     <xg>
+       <x>мак-мак мымда йӧзыс!</x>
+       <xt xml:lang="rus">ой-ой-ой, сколько людей!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">маччик</l>
+     <stg>
+       <st Contlex="INTERJ_">маччик</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой-ой-ой (выражает удивление)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">маччика</l>
+     <stg>
+       <st Contlex="INTERJ_">маччика</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой-ой-ой (выражает удивление)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">маччикана</l>
+     <stg>
+       <st Contlex="INTERJ_">маччикана</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой-ой-ой (выражает удивление)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom1" pos="Interj">маш</l>
+     <stg>
+       <st Contlex="INTERJ_">маш</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой</t>
+       <t pos="Interj">ну (выражает удивление, тревогу, досаду)</t>
+     </tg>
+     <xg>
+       <x>маш тэнӧ!</x>
+       <xt xml:lang="rus">ну тебя!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">маш-маш</l>
+     <stg>
+       <st Contlex="INTERJ_">маш-маш</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой-ой (выражает удивление, тревогу, досаду)</t>
+     </tg>
+     <xg>
+       <x>маш-маш усяс кагаыс!</x>
+       <xt xml:lang="rus">ой-ой, упадёт ведь ребёнок!</xt>
+     </xg>
+     <xg>
+       <x>маш-маш коколь</x>
+       <xt xml:lang="rus">(</xt>
+     </xg>
+     <xg>
+       <x>кочень</x>
+       <xt xml:lang="rus">)</xt>
+     </xg>
+     <xg>
+       <x>!</x>
+       <xt xml:lang="rus">ой ты, беда!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">но</l>
+     <stg>
+       <st Contlex="INTERJ_">но</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">но, ну (понукание)</t>
+     </tg>
+     <xg>
+       <x>но-о! сіявашӧтіс вӧвсӧ</x>
+       <xt xml:lang="rus">"но-о!" погонял он лошадей</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ну</l>
+     <stg>
+       <st Contlex="INTERJ_">ну</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ну (выражает побуждение к действию)</t>
+     </tg>
+     <xg>
+       <x>ну пондам сьывны!</x>
+       <xt xml:lang="rus">ну, давайте петь!</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>{в сочет. с} "и" передаёт восхищение или недовольство</t>
+     </tg>
+     <xg>
+       <x>ну и нывкаок!</x>
+       <xt xml:lang="rus">ну и девочка!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">нянь-сов тіянлӧ.</l>
+     <stg>
+       <st Contlex="INTERJ_">нянь-сов тіянлӧ.</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">нянь-сов тіянлы.</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">о</l>
+     <stg>
+       <st Contlex="INTERJ_">о</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">о</t>
+     </tg>
+     <xg>
+       <x>о, кытшӧм басӧк!</x>
+       <xt xml:lang="rus">о, как красиво!</xt>
+     </xg>
+     <xg>
+       <x>о Кама, кытшӧм тэ паськыт!</x>
+       <xt xml:lang="rus">о, Кама, как ты широка!</xt>
+     </xg>
+     <xg>
+       <x>о, кытшӧм зубыт киӧ!</x>
+       <xt xml:lang="rus">о, как болит рука!</xt>
+     </xg>
+     <xg>
+       <x>оа-оа</x>
+       <xt xml:lang="rus"><pos>межд.</pos> баю-бай</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ой</l>
+     <stg>
+       <st Contlex="INTERJ_">ой</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой</t>
+     </tg>
+     <xg>
+       <x>ой, кытшӧм зубыт!</x>
+       <xt xml:lang="rus">ой, как больно!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ой-ей</l>
+     <stg>
+       <st Contlex="INTERJ_">ой-ей</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой</t>
+     </tg>
+     <xg>
+       <x>ой-ей, мый ыждышта!</x>
+       <xt xml:lang="rus">ой, какой маленький!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ой-йой-ой</l>
+     <stg>
+       <st Contlex="INTERJ_">ой-йой-ой</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой-ой-ой</t>
+     </tg>
+     <xg>
+       <x>ой-йой-ой, мымда!</x>
+       <xt xml:lang="rus">ой-ой-ой, как много!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ок</l>
+     <stg>
+       <st Contlex="INTERJ_">ок</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ах</t>
+       <t pos="Interj">ох</t>
+       <t pos="Interj">ой</t>
+     </tg>
+     <xg>
+       <x>ок, кытшӧм басӧк гӧгӧр!</x>
+       <xt xml:lang="rus">ах, как красиво кругом!</xt>
+     </xg>
+     <xg>
+       <x>ок, лич лэдзис</x>
+       <xt xml:lang="rus">ох, легче стало</xt>
+     </xg>
+     <xg>
+       <x>ок, кытшӧм тэ бӧб!</x>
+       <xt xml:lang="rus">ах, какой ты шалун!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">сыть</l>
+     <stg>
+       <st Contlex="INTERJ_">сыть</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">цыц</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">тартарӧ тарӧвтчы.</l>
+     <stg>
+       <st Contlex="INTERJ_">тартарӧ тарӧвтчы.</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">мун чорту</t>
+       <t pos="Interj">весась татысь.</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">тинь-тинь</l>
+     <stg>
+       <st Contlex="INTERJ_">тинь-тинь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">динь-динь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom2" pos="Interj">ток</l>
+     <stg>
+       <st Contlex="INTERJ_">ток</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">тук</t>
+       <t pos="Interj">тук-тук</t>
+     </tg>
+     <xg>
+       <x>ток да ток ёткӧптӧ сьӧлӧм</x>
+       <xt xml:lang="rus">тук-тук - бьётся сердце</xt>
+     </xg>
+     <xg>
+       <x>ток муніс сьӧлӧмӧ</x>
+       <xt xml:lang="rus">моё сердце ёкнуло</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">тыр доз тэныт</l>
+     <stg>
+       <st Contlex="INTERJ_">тыр доз тэныт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">мед удайтчас</t>
+       <t pos="Interj">вӧрӧ</t>
+       <t pos="Interj">ва вылӧ мунысьлы кыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ук</l>
+     <stg>
+       <st Contlex="INTERJ_">ук</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ух</t>
+     </tg>
+     <xg>
+       <x>ук керны</x>
+       <xt xml:lang="rus">ухнуть</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">уф</l>
+     <stg>
+       <st Contlex="INTERJ_">уф</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">уф</t>
+     </tg>
+     <xg>
+       <x>уф мыдзи!</x>
+       <xt xml:lang="rus">уф, я устал!</xt>
+     </xg>
+     <xg>
+       <x>уф, кытшӧм шоныт!</x>
+       <xt xml:lang="rus">уф, как жарко!</xt>
+     </xg>
+     <xg>
+       <x>уф да уф керны</x>
+       <xt xml:lang="rus">с трудом дышать □ {диал.}</xt>
+     </xg>
+     <xg>
+       <x>уп</x>
+       <xt xml:lang="rus"/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">чу</l>
+     <stg>
+       <st Contlex="INTERJ_">чу</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">чу</t>
+     </tg>
+     <xg>
+       <x>чу, кывзы!</x>
+       <xt xml:lang="rus">чу, слушай!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom1" pos="Interj">чур</l>
+     <stg>
+       <st Contlex="INTERJ_">чур</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">чур</t>
+     </tg>
+     <xg>
+       <x>чур! эта менам!</x>
+       <xt xml:lang="rus">чур! это моё!</xt>
+     </xg>
+     <xg>
+       <x>челядь орсӧны чурӧн</x>
+       <xt xml:lang="rus">дети играют в прятки</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ша</l>
+     <stg>
+       <st Contlex="INTERJ_">ша</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ша</t>
+       <t pos="Interj">хватит</t>
+     </tg>
+     <xg>
+       <x>челядь, ша!</x>
+       <xt xml:lang="rus">хватит, дети!</xt>
+     </xg>
+     <xg>
+       <x>шабаркнитны</x>
+       <xt xml:lang="rus">{изобр. -} 1) рубить, отрубить с размаху</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>ударить с размаху</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ыш</l>
+     <stg>
+       <st Contlex="INTERJ_">ыш</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ох</t>
+       <t pos="Interj">ух</t>
+     </tg>
+     <xg>
+       <x>ыш, кытшӧм кӧдзыт!</x>
+       <xt xml:lang="rus">ох, как холодно!</xt>
+     </xg>
+     <xg>
+       <x>ыш лолалӧм</x>
+       <xt xml:lang="rus">вздох, оханье</xt>
+     </xg>
+     <xg>
+       <x>ыш лолавны мыдзӧмсянь</x>
+       <xt xml:lang="rus">еле дышать от усталости</xt>
+     </xg>
+     <xg>
+       <x>ыш лолалӧмӧн пукавны дыр видзчисьӧмсянь</x>
+       <xt xml:lang="rus">сидеть тяжело вздыхая из-за долгого ожидания</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">э</l>
+     <stg>
+       <st Contlex="INTERJ_">э</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">э</t>
+       <t pos="Interj">эй</t>
+       <t pos="Interj">вот</t>
+     </tg>
+     <xg>
+       <x>э, кытшӧм!</x>
+       <xt xml:lang="rus">вот какой!</xt>
+     </xg>
+     <xg>
+       <x>э, эн вӧрӧт!</x>
+       <xt xml:lang="rus">эй, не трогай!</xt>
+     </xg>
+   </mg>
+   <mg> <range>дет.</range>
+     <tg xml:lang="rus">
+       <t> бяка</t>
+     </tg>
+     <xg>
+       <x>сія - э!</x>
+       <xt xml:lang="rus">это бяка! (не трогай!)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эк</l>
+     <stg>
+       <st Contlex="INTERJ_">эк</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой</t>
+       <t pos="Interj">больно</t>
+     </tg>
+     <xg>
+       <x>эк, кытшӧм зубыт!</x>
+       <xt xml:lang="rus">ой, как больно!</xt>
+     </xg>
+     <xg>
+       <x>эк, эн вӧрӧт!</x>
+       <xt xml:lang="rus">больно, не трогай!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">экка</l>
+     <stg>
+       <st Contlex="INTERJ_">экка</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ух</t>
+       <t pos="Interj">вот</t>
+     </tg>
+     <xg>
+       <x>экка тэ кытшӧмас!</x>
+       <xt xml:lang="rus">ух ты какой!</xt>
+     </xg>
+     <xg>
+       <x>экка, тэ тор!</x>
+       <xt xml:lang="rus">вот оно что!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">экма</l>
+     <stg>
+       <st Contlex="INTERJ_">экма</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">эхма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ӧввӧ-ӧввӧ</l>
+     <stg>
+       <st Contlex="INTERJ_">ӧввӧ-ӧввӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">бай-бай</t>
+       <t pos="Interj">баю-бай</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Interj">ӧджжӧ</l>
+     <stg>
+       <st Contlex="INTERJ_">ӧджжӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>прост.</range>
+     <tg xml:lang="rus">
+       <t>видишь</t>
+       <t>смотри</t>
+       <t>глянь</t>
+       <t>ишь</t>
+       <t>вишь</t>
+     </tg>
+     <xg>
+       <x>ӧджжӧ кытшӧм!</x>
+       <xt xml:lang="rus">ишь какой!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ӧткымын шуӧм здорово тіянлӧ.</l>
+     <stg>
+       <st Contlex="INTERJ_">ӧткымын шуӧм здорово тіянлӧ.</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">видза оланныд</t>
+     </tg>
+   </mg>
+</e>
+  <e order="2">
+   <lg><l pos="Interj">нянь-сов</l>
+     <stg>
+       <st Contlex="INTERJ_">нянь-сов</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>хлеб-соль</t>
+     </tg>
+     <xg>
+       <x>нянь-сов тіянлӧ!</x>
+       <xt xml:lang="rus">хлеб-соль вам!; приятного аппетита!</xt>
+     </xg>
+   </mg>
+</e>
+  <e order="2">
+   <lg><l pos="Interj">ӧтта</l>
+     <stg>
+       <st Contlex="INTERJ_">ӧтта</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>прост.</range>
+     <tg xml:lang="rus">
+       <t>ишь ты!</t>
+     </tg>
+   </mg>
+</e>
+</r> 

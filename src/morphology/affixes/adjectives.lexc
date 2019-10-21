@@ -4,6 +4,15 @@
 
 !! Continuation lexicon has been assigned according to <pos/> content
 
+LEXICON DET_
+: K ;
+LEXICON DET-COLL_
++Coll: K ;
+LEXICON DET-ORD_
++Ord: K ;
+
+LEXICON PRC_
+A_ ;
 
 !LEXICON A_INT-ӦЙ
 !+Use/SpellNoSugg:ӧй A_ ;
