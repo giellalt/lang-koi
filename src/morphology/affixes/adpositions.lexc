@@ -6,6 +6,9 @@
 ! ============ !
 !! Prep lexica
 ! ============ !
+LEXICON ADP_
++Po: K ;
+
 LEXICON PR_
 +Pr: WordEnd ; !! Russian на
 

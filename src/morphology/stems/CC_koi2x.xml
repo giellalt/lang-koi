@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<e>
+   <lg>
+     <l pos="CC">а</l>
+     <stg>
+       <st Contlex="CC_">а</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="CC">а</t>
+       <t pos="CC">но</t>
+     </tg>
+     <xg>
+       <x>тэ кольччы, а ме муна</x>
+       <xt xml:lang="rus">ты оставайся, а я пойду</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">али</l>
+     <stg>
+       <st Contlex="CC_">али</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="CC">или</t>
+       <t pos="CC">ли</t>
+     </tg>
+     <xg>
+       <x>тэ али ме этӧ долженӧсь керны</x>
+       <xt xml:lang="rus">ты или я должны это сделать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">да</l>
+     <stg>
+       <st Contlex="CC_">да</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="CC">да</t>
+       <t pos="CC">и</t>
+     </tg>
+     <xg>
+       <x>ме да тэ</x>
+       <xt xml:lang="rus">я и ты</xt>
+     </xg>
+     <xg>
+       <x>воныс да сойыс</x>
+       <xt xml:lang="rus">брат и сестра</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="CC">но</t>
+       <t pos="CC">а</t>
+     </tg>
+     <xg>
+       <x>тӧда, да ог висьтав</x>
+       <xt xml:lang="rus">знаю, но не скажу</xt>
+     </xg>
+     <xg>
+       <x>ме кори, да сія эз сет</x>
+       <xt xml:lang="rus">я просил, а она не дала</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">и</l>
+     <stg>
+       <st Contlex="CC_">и</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="CC">и</t>
+     </tg>
+     <xg>
+       <x>талун пӧрись и том ыб вылын</x>
+       <xt xml:lang="rus">сегодня старики и молодёжь на поле</xt>
+     </xg>
+     <xg>
+       <x>сылӧн кык сой и вон</x>
+       <xt xml:lang="rus">у него две сестры и брат</xt>
+     </xg>
+   </mg>
+</e>
+</r> 

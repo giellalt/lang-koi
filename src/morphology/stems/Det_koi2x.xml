@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<e>
+   <lg>
+     <l pos="Det">эта</l>
+     <stg>
+       <st Contlex="DET_">эта</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Det">тайӧ</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t>этот</t>
+       <t>эта</t>
+       <t>это</t>
+     </tg>
+     <xg>
+       <x>эта юын уна чери</x>
+       <xt>тайӧ юын уна чери</xt>
+       <xt xml:lang="rus">в этой реке много рыбы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">этна</l>
+     <stg>
+       <st Contlex="DET_">этна</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Det">тайӧ</t>
+       <t pos="Det">тайӧяс</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t>эти</t>
+     </tg>
+     <xg>
+       <x>вот этна керкуэс</x>
+       <xt>вот тайӧ керкаяс</xt>
+       <xt xml:lang="rus">вот эти дома</xt>
+     </xg>
+   </mg>
+</e>
+</r> 

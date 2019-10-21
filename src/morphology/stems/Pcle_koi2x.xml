@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<e>
+   <lg>
+     <l pos="Pcle">а</l>
+     <stg>
+       <st Contlex="PCLE_">а</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Pcle">{вопр.} а</t>
+     </tg>
+     <xg>
+       <x>мый чӧлан, а?</x>
+       <xt xml:lang="rus">почему молчишь, а?</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>{усил.} (в конце сложного предложения) а ведь</t>
+     </tg>
+     <xg>
+       <x>сія эз лок, мӧдіс а</x>
+       <xt xml:lang="rus">он не приехал, а обещал ведь</xt>
+     </xg>
+     <xg>
+       <x>сія эз мун удж вылӧ, тшӧктісӧ а</x>
+       <xt xml:lang="rus">он не пошел на работу, а ведь велели</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">абу</l>
+     <stg>
+       <st Contlex="PCLE_">абу</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>не</t>
+     </tg>
+     <xg>
+       <x>абу сідз</x>
+       <xt xml:lang="rus">не так</xt>
+     </xg>
+     <xg>
+       <x>абу ни сія морт, а зверь</x>
+       <xt xml:lang="rus">он не человек, а зверь</xt>
+     </xg>
+     <xg>
+       <x>сія кӧркӧ абу велӧтчылӧма</x>
+       <xt xml:lang="rus">он в своё время, оказывается, не учился</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>{с прил. и нареч.} не-</t>
+     </tg>
+     <xg>
+       <x>абу бур </x>
+       <xt xml:lang="rus">нехорошо</xt>
+     </xg>
+     <xg>
+       <x>абу дона</x>
+       <xt xml:lang="rus">недорогой</xt>
+     </xg>
+     <xg>
+       <x>абу ыджыт</x>
+       <xt xml:lang="rus">небольшой</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>нет</t>
+     </tg>
+     <xg>
+       <x>абу, абу сія талун гортас</x>
+       <xt xml:lang="rus">нет, нет его сегодня дома</xt>
+     </xg>
+     <xg>
+       <x>челядьыс сылӧн абуӧсь </x>
+       <xt xml:lang="rus">детей у него нет</xt>
+     </xg>
+     <xg>
+       <x>деньга немымда абу</x>
+       <xt xml:lang="rus">денег совсем нет.</xt>
+     </xg>
+     <xg>
+       <x>абуӧдз воштыны</x>
+       <xt xml:lang="rus">довести до нищеты</xt>
+     </xg>
+     <xg>
+       <x>абусис нем лӧгасьны</x>
+       <xt xml:lang="rus">из-за пустяка нечего сердиться</xt>
+     </xg>
+     <xg>
+       <x>абусӧ не тӧдны</x>
+       <xt xml:lang="rus">не знать нужды</xt>
+     </xg>
+     <xg>
+       <x>абусӧ эн модь </x>
+       <xt xml:lang="rus">(</xt>
+     </xg>
+     <xg>
+       <x>лёб</x>
+       <xt xml:lang="rus">) не болтай пустое, не говори чего не было</xt>
+     </xg>
+     <xg>
+       <x>абусӧ эн ышты</x>
+       <xt xml:lang="rus">не привирай, не строй из себя</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">да</l>
+     <stg>
+       <st Contlex="PCLE_">да</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pcle">да</t>
+     </tg>
+     <xg>
+       <x>да олас КПРФ!</x>
+       <xt xml:lang="rus">да здравствует КПРФ!</xt>
+     </xg>
+     <xg>
+       <x>да эд не ме это кери!</x>
+       <xt xml:lang="rus">да ведь не я это сделал!</xt>
+     </xg>
+     <xg>
+       <x>да мый да</x>
+       <xt xml:lang="rus">и прочее, и другое, и кое-что (кое-кто) ещё</xt>
+     </xg>
+     <xg>
+       <x>талун колӧ гряддэз весӧтны да мый да</x>
+       <xt xml:lang="rus">сегодня надо прополоть грядки и всё такое</xt>
+     </xg>
+     <xg>
+       <x>туй вылас ме панталі нывтӧ да мыйда</x>
+       <xt xml:lang="rus">по дороге я встретил твою дочь и ещё кого-то</xt>
+     </xg>
+     <xg>
+       <x>шогалісь да челядь</x>
+       <xt xml:lang="rus">больной что ребёнок</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">и</l>
+     <stg>
+       <st Contlex="PCLE_">и</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pcle">и</t>
+       <t pos="Pcle">даже</t>
+     </tg>
+     <xg>
+       <x>ог тӧд, мый и керны</x>
+       <xt xml:lang="rus">не знаю, что и делать</xt>
+     </xg>
+     <xg>
+       <x>сідз сылӧ и колӧ</x>
+       <xt xml:lang="rus">так ему и надо</xt>
+     </xg>
+     <xg>
+       <x>эта понда сія нем эз и босьт</x>
+       <xt xml:lang="rus">за это он даже не взял ничего</xt>
+     </xg>
+     <xg>
+       <x>и сія миянкӧт ӧтлаын вӧлі</x>
+       <xt xml:lang="rus">и он был с нами вместе</xt>
+     </xg>
+     <xg>
+       <x>ивзыны</x>
+       <xt xml:lang="rus">ржать, заржать (о лошади)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">но</l>
+     <stg>
+       <st Contlex="PCLE_">но</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pcle">1) ну</t>
+     </tg>
+     <xg>
+       <x>но, эн мешайт</x>
+       <xt xml:lang="rus">ну, не мешайся</xt>
+     </xg>
+     <xg>
+       <x>но и ась</x>
+       <xt xml:lang="rus">ну и пусть</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>ладно, хорошо (согласие)</t>
+     </tg>
+     <xg>
+       <x>книгасӧ меным сетан, но?</x>
+       <xt xml:lang="rus">книгу мне отдашь, хорошо?</xt>
+     </xg>
+     <xg>
+       <x>няньысла ветлан? - Но</x>
+       <xt xml:lang="rus">за хлебом сходишь? - Ладно [схожу] 3. <pos>союз</pos> но, а</xt>
+     </xg>
+     <xg>
+       <x>том, но пиня</x>
+       <xt xml:lang="rus">молод, а зубаст</xt>
+     </xg>
+     <xg>
+       <x>учӧт, но бура уджалӧ</x>
+       <xt xml:lang="rus">мал, а хорошо работает</xt>
+     </xg>
+     <xg>
+       <x>но тэ эд ачыт баитін</x>
+       <xt xml:lang="rus">но ты ведь сам говорил</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ну</l>
+     <stg>
+       <st Contlex="PCLE_">ну</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pcle">да</t>
+       <t pos="Pcle">хорошо</t>
+       <t pos="Pcle">ладно</t>
+     </tg>
+     <xg>
+       <x>ну, ветла магазинас</x>
+       <xt xml:lang="rus">хорошо, схожу в магазин</xt>
+     </xg>
+     <xg>
+       <x>хозяиныс гортын? - Ну, гортын</x>
+       <xt xml:lang="rus">хозяин дома? - Да, дома.</xt>
+     </xg>
+     <xg>
+       <x>ну да на только висьталіс</x>
+       <xt xml:lang="rus">ничего путного не сказал</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">разь</l>
+     <stg>
+       <st Contlex="PCLE_">разь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="V">{частица вопр.}</t>
+     </tg>
+     <xg>
+       <x>разве</x>
+       <xt xml:lang="rus"/>
+     </xg>
+     <xg>
+       <x>разь нія ӧшӧмась вӧрас?</x>
+       <xt xml:lang="rus">разве они потерялись в лесу?</xt>
+     </xg>
+     <xg>
+       <x>разь сія эз лок? </x>
+       <xt xml:lang="rus">разве он не пришёл?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">эд</l>
+     <stg>
+       <st Contlex="PCLE_">эд</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Pcle">ӧд</t>
+     </tg>
+     <xg>
+       <x src="И.Минин">онмӧссисӧ челядь, тыдалӧ, эд мыдзисӧ</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">я</l>
+     <stg>
+       <st Contlex="PCLE_">я</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Pcle">ли</t>
+       <t pos="Pcle">ӧмӧй</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Pcle">ли</t>
+     </tg>
+     <xg>
+       <x>важын я локтіс?</x>
+       <xt xml:lang="rus">давно ли он пришёл?</xt>
+     </xg>
+     <xg>
+       <x>мунан я он я эд</x>
+       <xt xml:lang="kpv">мунан ли он ӧд (ог тӧд)</xt>
+       <xt xml:lang="rus">[неизвестно] поедешь или нет</xt>
+     </xg>
+   </mg>
+</e>
+</r> 

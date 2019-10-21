@@ -237,6 +237,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Sem/Group       !!≈ * __@CODE@__ Animal or Human Group
  +Sem/Hum         !!≈ * __@CODE@__ Human
  +Sem/Hum-abstr   !!≈ * __@CODE@__ Human abstract
+ +Sem/Hum-prof    !!≈ * __@CODE@__ Human professional
  +Sem/Ideol       !!≈ * __@CODE@__ Ideology
  +Sem/Lang        !!≈ * __@CODE@__ Language
  +Sem/Mal         !!≈ * __@CODE@__ Male name
@@ -713,6 +714,20 @@ LEXICON Root
    Punctuation ;
    Symbols     ;
 
+!! Incoming from akusanat
+   A_koi2x ;
+   Adp_koi2x ;
+   Adv_koi2x ;
+   CC_koi2x ;
+   CS_koi2x ;
+   Det_koi2x ;
+   Interj_koi2x ;
+   N_koi2x ;
+   Num_koi2x ;
+   Pcle_koi2x ;
+   Pron_koi2x ;
+   V_koi2x ;
+
 VERBNEGATIVE ;
 
 !! Incoming for conversion from kpv
@@ -761,7 +776,8 @@ LEXICON EndNeg
 !LEXICON EndQST
 !+Qst: WordEnd ;
 
-
+LEXICON INTERJ_
++Interj: K ;
 
 ! ======= !
 ! Clitics !
