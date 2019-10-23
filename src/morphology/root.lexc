@@ -124,6 +124,9 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +Der/Ок
 +Der/Dimin
 
++Cmpl
++Abs	!! this will be used for marking Absolute forms such as кыкнан in collective numerals, which can only appear with a following NP. DO WE NEED THIS 2019-10-22? jaska Niko
+
 
         !! !!Symbols that need to be escaped on the lower side (towards twolc):
  »7     !!≈ ; @CODE@ : Literal »
@@ -431,7 +434,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 ! +Sem/Patr   	  !!≈ * __@CODE@__  Patronym
 ! +Sem/Rvr    !!≈ * __@CODE@__  name of river or water way, media of transportation,
 ! +Sem/Inanim !!≈ * __@CODE@__  Inanimate,
-! +Sem/NonHum !!≈ * __@CODE@__  Nonhuman,
+ +Sem/NonHum !!≈ * __@CODE@__  Nonhuman,
 
 
 !! Derivations are classified under the morphophonetic form of the suffix, the

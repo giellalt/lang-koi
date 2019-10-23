@@ -129,15 +129,15 @@ ELA_ісь-THEN-K ;
 
 LEXICON perssg3decl  !!≈ * __@CODE@__ 
 +Nom:ія WordEnd ;
-+Der/йӧ+Acc:ійӧ WordEnd ;
-
++Acc:ійӧ WordEnd ;
++Cmpl:ы WordEnd ;
 :ы GEN_лӧн-THEN-K ;
 +Abl:ылісь WordEnd ;
 :ы ELA_ісь-THEN-K ;
 :ы DAT_лӧ-THEN-K ;
 +Der/йӧ+Ins:ійӧн WordEnd ;
 :ы perssg ;  ! for the regular obl sg
-:ы WordEnd ;
+
 !More form ӧния коми кыв 163
 +Der/йӧ:ійӧ GEN_лӧн-THEN-K ;
 +Der/йӧ+Abl:ійӧлісь WordEnd ;
@@ -344,11 +344,11 @@ LEXICON INTERR
 кӧні+Pron+Adv+Spat+Ine+Pred+Sg:кӧні INTERR-REL-INDEF ;
 кӧні+Pron+Adv+Spat+Ine+Pred+Pl:кӧнӧсь INTERR-REL ;
 кӧні+Pron+Adv+Spat+Ine:кӧн PRON-INDEFTAG ;
-мый+Pron+NonHum:мый PRON-NONHUM ;
-мыйда+Pron+NonHum:мыйда INTERR-REL-INDEF ;
-мыйта+Pron+NonHum:мыйта INTERR-REL-INDEF ;
-мыйтӧм+Pron+NonHum:мыйтӧм INTERR-REL-INDEF ;
-мыйӧс+Pron+NonHum+Err/Orth:мыйӧс INTERR-REL-INDEF ;
+мый+Pron+Sem/NonHum:мый PRON-NONHUM ;
+мыйда+Pron+Sem/NonHum:мыйда INTERR-REL-INDEF ;
+мыйта+Pron+Sem/NonHum:мыйта INTERR-REL-INDEF ;
+мыйтӧм+Pron+Sem/NonHum:мыйтӧм INTERR-REL-INDEF ;
+мыйӧс+Pron+Sem/NonHum+Err/Orth:мыйӧс INTERR-REL-INDEF ;
 !Here are some negative pronouns out of place 2011-11-22
 некысь+Pron+Neg+Spat+Ela:некысь K ;
 некысянь+Pron+Neg+Spat+Egr:некысянь K ;
