@@ -152,6 +152,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Coll !Collective
  +Distr ! Distributive
  +Iter ! Iterative form expressing number of times
+ +Tot
 
 !! Verb moods are:
  +Imprt !!≈ ;@CODE@: imperative
@@ -555,6 +556,11 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 !! And following triggers to control variation
  {front} {back}
 %^1Cns   !!= * @CODE@ Plural-initial; it allows for doubling of consonant
+
+ »7     !! * »
+ «7     !! * «
+ %[%>%] !! * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
+ %[%<%] !! * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
 
 +Cmp
 !! !!Flag diacritics
