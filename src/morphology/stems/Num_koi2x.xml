@@ -3,10 +3,14 @@
    <lg>
      <l pos="Num">дас</l>
      <stg>
-       <st Contlex="NUM_">дас</st>
+       <st Contlex="NUM-CARD_">дас</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>десять</t>
      </tg>
@@ -44,10 +48,14 @@
    <lg>
      <l pos="Num">дасвит</l>
      <stg>
-       <st Contlex="NUM_">дасвит</st>
+       <st Contlex="NUM-CARD_">дасвит</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>пятнадцать</t>
      </tg>
@@ -59,24 +67,32 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">дасвитӧдз</l>
+     <l pos="Num">дасвитӧдз</l>
      <stg>
-       <st Contlex="NUM_">дасвитӧдз</st>
+       <st Contlex="NUM-ORD_">дасвитӧдз</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">дасвитӧт</s></sg>
+     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">дасвитӧт</l>
+     <l pos="Num">дасвитӧт</l>
      <stg>
-       <st Contlex="NUM_">дасвитӧт</st>
+       <st Contlex="NUM-ORD_">дасвитӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>пятнадцатый</t>
      </tg>
@@ -90,23 +106,31 @@
    <lg>
      <l pos="Num">дасдас</l>
      <stg>
-       <st Contlex="NUM_">дасдас</st>
+       <st Contlex="NUM-CARD_">дасдас</st>
      </stg>
    </lg>
-   <mg relId="0"><geo>сев.</geo>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>сто</t>
-     </tg>
+     </tg> <geo>сев.</geo>
    </mg>
 </e>
 <e order="2">
    <lg>
      <l pos="Num">дасквать</l>
      <stg>
-       <st Contlex="NUM_">дасквать</st>
+       <st Contlex="NUM-CARD_">дасквать</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>шестнадцать</t>
      </tg>
@@ -118,24 +142,32 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">даскватьӧдз</l>
+     <l pos="Num">даскватьӧдз</l>
      <stg>
-       <st Contlex="DET-ORD_">даскватьӧдз</st>
+       <st Contlex="NUM-ORD_">даскватьӧдз</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">даскватьӧт</s></sg>
+     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">даскватьӧт</l>
+     <l pos="Num">даскватьӧт</l>
      <stg>
-       <st Contlex="DET-ORD_">даскватьӧт</st>
+       <st Contlex="NUM-ORD_">даскватьӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>шестнадцатый</t>
      </tg>
@@ -145,10 +177,14 @@
    <lg>
      <l pos="Num">даскуим</l>
      <stg>
-       <st Contlex="NUM_">даскуим</st>
+       <st Contlex="NUM-CARD_">даскуим</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>тринадцать</t>
      </tg>
@@ -160,24 +196,32 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">даскуимӧдз</l>
+     <l pos="Num">даскуимӧдз</l>
      <stg>
-       <st Contlex="DET-ORD_">даскуимӧдз</st>
+       <st Contlex="NUM-ORD_">даскуимӧдз</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">даскуимӧт</s></sg>
+     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">даскуимӧт</l>
+     <l pos="Num">даскуимӧт</l>
      <stg>
-       <st Contlex="DET-ORD_">даскуимӧт</st>
+       <st Contlex="NUM-ORD_">даскуимӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>тринадцатый</t>
      </tg>
@@ -191,10 +235,14 @@
    <lg>
      <l pos="Num">даскык</l>
      <stg>
-       <st Contlex="NUM_">даскык</st>
+       <st Contlex="NUM-CARD_">даскык</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>двенадцать</t>
      </tg>
@@ -208,10 +256,14 @@
    <lg>
      <l pos="Num">даскыкьямыс</l>
      <stg>
-       <st Contlex="NUM_">даскыкьямыс</st>
+       <st Contlex="NUM-CARD_">даскыкьямыс</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>восемнадцать</t>
      </tg>
@@ -223,24 +275,32 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">даскыкьямысӧдз</l>
+     <l pos="Num">даскыкьямысӧдз</l>
      <stg>
-       <st Contlex="DET-ORD_">даскыкьямысӧдз</st>
+       <st Contlex="NUM-ORD_">даскыкьямысӧдз</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">даскыкьямысӧт</s></sg>
+     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">даскыкьямысӧт</l>
+     <l pos="Num">даскыкьямысӧт</l>
      <stg>
-       <st Contlex="DET-ORD_">даскыкьямысӧт</st>
+       <st Contlex="NUM-ORD_">даскыкьямысӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>восемнадцатый</t>
      </tg>
@@ -252,24 +312,32 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">даскыкӧдз</l>
+     <l pos="Num">даскыкӧдз</l>
      <stg>
-       <st Contlex="DET-ORD_">даскыкӧдз</st>
+       <st Contlex="NUM-ORD_">даскыкӧдз</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">даскыкӧт</s></sg>
+     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">даскыкӧт</l>
+     <l pos="Num">даскыкӧт</l>
      <stg>
-       <st Contlex="DET-ORD_">даскыкӧт</st>
+       <st Contlex="NUM-ORD_">даскыкӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>двенадцатый</t>
      </tg>
@@ -283,10 +351,14 @@
    <lg>
      <l pos="Det">даснан</l>
      <stg>
-       <st Contlex="DET-COLL_">даснан</st>
+       <st Contlex="NUM-TOT-CMPL_">даснан</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>все десять</t>
      </tg>
@@ -295,7 +367,9 @@
        <xt xml:lang="rus">во всех десяти домах были телевизоры</xt>
      </xg>
    </mg>
-   <mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>{с притяж. суф.}:</t>
      </tg>
@@ -321,10 +395,14 @@
    <lg>
      <l pos="Num">даснёль</l>
      <stg>
-       <st Contlex="NUM_">даснёль</st>
+       <st Contlex="NUM-CARD_">даснёль</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>четырнадцать</t>
      </tg>
@@ -336,24 +414,32 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">даснёльӧдз</l>
+     <l pos="Num">даснёльӧдз</l>
      <stg>
-       <st Contlex="DET-ORD_">даснёльӧдз</st>
+       <st Contlex="NUM-ORD_">даснёльӧдз</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">даснёльӧт</s></sg>
+     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">даснёльӧт</l>
+     <l pos="Num">даснёльӧт</l>
      <stg>
-       <st Contlex="DET-ORD_">даснёльӧт</st>
+       <st Contlex="NUM-ORD_">даснёльӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>четырнадцатый</t>
      </tg>
@@ -365,12 +451,16 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Num">дасотік</l>
+     <l pos="Num">дасӧтік</l>
      <stg>
-       <st Contlex="NUM_">дасотік</st>
+       <st Contlex="NUM-CARD_">дасӧтік</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>одиннадцать</t>
      </tg>
@@ -384,10 +474,14 @@
    <lg>
      <l pos="Num">дассизим</l>
      <stg>
-       <st Contlex="NUM_">дассизим</st>
+       <st Contlex="NUM-CARD_">дассизим</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>семнадцать</t>
      </tg>
@@ -399,24 +493,32 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">дассизимӧдз</l>
+     <l pos="Num">дассизимӧдз</l>
      <stg>
-       <st Contlex="DET-ORD_">дассизимӧдз</st>
+       <st Contlex="NUM-ORD_">дассизимӧдз</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="Num" s_type="seeAlso">дассизимӧт</s></sg>
+     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">дассизимӧт</l>
+     <l pos="Num">дассизимӧт</l>
      <stg>
-       <st Contlex="DET-ORD_">дассизимӧт</st>
+       <st Contlex="NUM-ORD_">дассизимӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>семнадцатый</t>
      </tg>
@@ -430,48 +532,64 @@
    <lg>
      <l pos="Num">дассэсдас</l>
      <stg>
-       <st Contlex="NUM_">дассэсдас</st>
+       <st Contlex="NUM-CARD_">дассэсдас</st>
      </stg>
    </lg>
-   <mg relId="0"><geo>Рог.</geo>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>сто</t>
-     </tg>
+     </tg> <geo>Рог.</geo>
    </mg>
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">дассэсдасӧт</l>
+     <l pos="Num">дассэсдасӧт</l>
      <stg>
-       <st Contlex="DET-ORD_">дассэсдасӧт</st>
+       <st Contlex="NUM-ORD_">дассэсдасӧт</st>
      </stg>
    </lg>
-   <mg relId="0"><geo>Рог.</geo>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>сотый</t>
-     </tg>
+     </tg> <geo>Рог.</geo>
    </mg>
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">дасӧдз</l>
+     <l pos="Num">дасӧдз</l>
      <stg>
-       <st Contlex="DET-ORD_">дасӧдз</st>
+       <st Contlex="NUM-ORD_">дасӧдз</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">дасӧт</s></sg>
+     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
    <lg>
      <l pos="Num">дасӧкмыс</l>
      <stg>
-       <st Contlex="NUM_">дасӧкмыс</st>
+       <st Contlex="NUM-CARD_">дасӧкмыс</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>девятнадцать</t>
      </tg>
@@ -483,24 +601,32 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">дасӧкмысӧдз</l>
+     <l pos="Num">дасӧкмысӧдз</l>
      <stg>
-       <st Contlex="DET-ORD_">дасӧкмысӧдз</st>
+       <st Contlex="NUM-ORD_">дасӧкмысӧдз</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">дасӧкмысӧт</s></sg>
+     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">дасӧкмысӧт</l>
+     <l pos="Num">дасӧкмысӧт</l>
      <stg>
-       <st Contlex="DET-ORD_">дасӧкмысӧт</st>
+       <st Contlex="NUM-ORD_">дасӧкмысӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>девятнадцатый</t>
      </tg>
@@ -508,12 +634,16 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">дасӧт</l>
+     <l pos="Num">дасӧт</l>
      <stg>
-       <st Contlex="NUM_">дасӧт</st>
+       <st Contlex="NUM-ORD_">дасӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>десятый</t>
      </tg>
@@ -525,24 +655,32 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">дасӧтікӧдз</l>
+     <l pos="Num">дасӧтікӧдз</l>
      <stg>
-       <st Contlex="DET-ORD_">дасӧтікӧдз</st>
+       <st Contlex="NUM-ORD_">дасӧтікӧдз</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">дасӧтікӧт</s></sg>
+     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">дасӧтікӧт</l>
+     <l pos="Num">дасӧтікӧт</l>
      <stg>
-       <st Contlex="DET-ORD_">дасӧтікӧт</st>
+       <st Contlex="NUM-ORD_">дасӧтікӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num" type="Ord">одиннадцатый</t>
      </tg>
@@ -556,10 +694,14 @@
    <lg>
      <l pos="Num">ӧкмыс</l>
      <stg>
-       <st Contlex="NUM_">ӧкмыс</st>
+       <st Contlex="NUM-CARD_">ӧкмыс</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">девять</t>
      </tg>
@@ -589,10 +731,14 @@
    <lg>
      <l pos="Num">ӧкмысдас</l>
      <stg>
-       <st Contlex="NUM_">ӧкмысдас</st>
+       <st Contlex="NUM-CARD_">ӧкмысдас</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">девяносто</t>
      </tg>
@@ -604,12 +750,16 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">ӧкмысдасӧт</l>
+     <l pos="Num">ӧкмысдасӧт</l>
      <stg>
-       <st Contlex="DET-ORD_">ӧкмысдасӧт</st>
+       <st Contlex="NUM-ORD_">ӧкмысдасӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">девяностый</t>
      </tg>
@@ -619,23 +769,31 @@
    <lg>
      <l pos="Num">ӧкмыссё</l>
      <stg>
-       <st Contlex="NUM_">ӧкмыссё</st>
+       <st Contlex="NUM-CARD_">ӧкмыссё</st>
      </stg>
    </lg>
-   <mg relId="0"><range>уст.</range>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">девятьсот</t>
-     </tg>
+     </tg> <range>уст.</range>
    </mg>
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">ӧкмысӧдз</l>
+     <l pos="Num">ӧкмысӧдз</l>
      <stg>
-       <st Contlex="DET-ORD_">ӧкмысӧдз</st>
+       <st Contlex="NUM-ORD_">ӧкмысӧдз</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num">девятый</t>
      </tg>
@@ -647,12 +805,16 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Det">ӧкмысӧт</l>
+     <l pos="Num">ӧкмысӧт</l>
      <stg>
-       <st Contlex="DET-ORD_">ӧкмысӧт</st>
+       <st Contlex="NUM-ORD_">ӧкмысӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num" type="Ord">девятый</t>
      </tg>
@@ -666,7 +828,7 @@
    <lg>
      <l pos="Num">ӧт</l>
      <stg>
-       <st Contlex="NUM_">ӧт</st>
+       <st Contlex="NUM-CARD_">ӧт</st>
      </stg>
    </lg>
      <sources>
@@ -707,23 +869,31 @@
    <lg>
      <l pos="Num">ӧті</l>
      <stg>
-       <st Contlex="NUM_">ӧті</st>
+       <st Contlex="NUM-CARD_">ӧті</st>
      </stg>
    </lg>
-   <mg relId="0"><range>редко</range>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Num"/>
-     </tg><sg><s s_type="see">ӧтік</s></sg>
+     </tg> <range>редко</range> <sg/>
    </mg>
 </e>
 <e order="2">
    <lg>
      <l pos="Num">ӧтік</l>
      <stg>
-       <st Contlex="NUM_">ӧтік</st>
+       <st Contlex="NUM-CARD_">ӧтік</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>один</t>
      </tg>
@@ -750,7 +920,7 @@
      </xg>
      <xg>
        <x>ӧтік кисьӧн кыйны</x>
-       <xt xml:lang="rus">действовать заодно (<range>букв.</range> одним бёрдом ткать)</xt>
+       <xt xml:lang="rus"> действовать заодно ( <range>букв.</range> одним бёрдом ткать) </xt>
      </xg>
      <xg>
        <x>ӧтік кылӧн оз сетчы</x>
@@ -770,7 +940,7 @@
      </xg>
      <xg>
        <x>ӧтікӧс сизимӧн оз видзчисьӧ</x>
-       <xt xml:lang="rus"><src_type>погов.</src_type> семеро одного не ждут</xt>
+       <xt xml:lang="rus"> <src_type>погов.</src_type> семеро одного не ждут </xt>
      </xg>
    </mg>
 </e>
@@ -781,7 +951,11 @@
        <st Contlex="NUM_">ӧтік-кык</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>один-два</t>
      </tg>
@@ -794,7 +968,11 @@
        <st Contlex="NUM_">ӧтік-мӧдік</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>кое-кто; кое-что; одно-другое; то да сё</t>
      </tg>
@@ -810,15 +988,585 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Adv">ӧччыд</l>
+     <l pos="Num">ӧччыд</l>
      <stg>
-       <st Contlex="ADV_">ӧччыд</st>
+       <st Contlex="ADV-MULT_">ӧччыд</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">{чур.}</t>
+     </tg> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">вит</l>
+     <stg>
+       <st Contlex="NUM-CARD_">вит</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="V">{чур.}</t>
-     </tg><sg><s s_type="see">ӧтчид</s></sg>
+       <t>пять</t>
+     </tg>
+     <xg>
+       <x>вит морт</x>
+       <xt xml:lang="rus">пять человек</xt>
+     </xg>
+     <xg>
+       <x>вит руб</x>
+       <xt xml:lang="rus">пять рублей</xt>
+     </xg>
+     <xg>
+       <x>вит сувда</x>
+       <xt xml:lang="rus">пятиэтажный:</xt>
+     </xg>
+     <xg>
+       <x>вит годся</x>
+       <xt xml:lang="rus">зоночка пятилетний мальчик</xt>
+     </xg>
+     <xg>
+       <x>витісь вит - кыкдас вит.</x>
+       <xt xml:lang="rus">пятью пять - двадцать пять.</xt>
+     </xg>
+     <xg>
+       <x>сылӧн сьӧлӧм вылас вит да квать</x>
+       <xt xml:lang="rus">у него на душе неспокойно</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">витдас</l>
+     <stg>
+       <st Contlex="NUM-CARD_">витдас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>пятьдесят</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">витсё</l>
+     <stg>
+       <st Contlex="NUM-CARD_">витсё</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>уст.</range>
+     <tg xml:lang="rus">
+       <t>пятьсот</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">квать</l>
+     <stg>
+       <st Contlex="NUM-CARD_">квать</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>шесть</t>
+     </tg>
+     <xg>
+       <x>квать морт</x>
+       <xt xml:lang="rus">шесть человек</xt>
+     </xg>
+     <xg>
+       <x>квать тысяча</x>
+       <xt xml:lang="rus">шесть тысяч</xt>
+     </xg>
+     <xg>
+       <x>квать руб</x>
+       <xt xml:lang="rus">шесть рублей</xt>
+     </xg>
+     <xg>
+       <x>кватись квать</x>
+       <xt xml:lang="rus">-</xt>
+     </xg>
+     <xg>
+       <x>куимдас квать</x>
+       <xt xml:lang="rus">шестью шесть - тридцать шесть</xt>
+     </xg>
+     <xg>
+       <x>квать годся нылочка</x>
+       <xt xml:lang="rus">шестилетняя девочка</xt>
+     </xg>
+     <xg>
+       <x>сылӧн квать да бӧж</x>
+       <xt xml:lang="rus"><src_type>погов.</src_type> у него семь пятниц на неделе (<range>букв.</range> у него шесть с хвостиком)</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кватьдас</l>
+     <stg>
+       <st Contlex="NUM-CARD_">кватьдас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>шестьдесят</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кватьсё</l>
+     <stg>
+       <st Contlex="NUM-CARD_">кватьсё</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>уст.</range>
+     <tg xml:lang="rus">
+       <t>шестьсот</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кватя</l>
+     <stg>
+       <st Contlex="NUM_">кватя</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>шестеро, [всего] шесть</t>
+     </tg>
+     <xg>
+       <x>коробкаас карандашшес кватя</x>
+       <xt xml:lang="rus">в коробке [всего] шесть карандашей</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">куим</l>
+     <stg>
+       <st Contlex="NUM-CARD_">куим</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>три</t>
+     </tg>
+     <xg>
+       <x>куим керку</x>
+       <xt xml:lang="rus">три дома</xt>
+     </xg>
+     <xg>
+       <x>куим копейка</x>
+       <xt xml:lang="rus">три копейки</xt>
+     </xg>
+     <xg>
+       <x>куим килограмм</x>
+       <xt xml:lang="rus">три килограмма</xt>
+     </xg>
+     <xg>
+       <x>куим ладорись</x>
+       <xt xml:lang="rus">с трёх сторон</xt>
+     </xg>
+     <xg>
+       <x>куим миллион</x>
+       <xt xml:lang="rus">три миллиона</xt>
+     </xg>
+     <xg>
+       <x>куим руб</x>
+       <xt xml:lang="rus">три рубля</xt>
+     </xg>
+     <xg>
+       <x>куим вожа вила</x>
+       <xt xml:lang="rus">трёхрожковые вилы</xt>
+     </xg>
+     <xg>
+       <x>куим годся кага</x>
+       <xt xml:lang="rus">трёхлетний ребёнок</xt>
+     </xg>
+     <xg>
+       <x>куимись чинтны кык</x>
+       <xt xml:lang="rus">из трёх вычесть два</xt>
+     </xg>
+     <xg>
+       <x>куим сувда</x>
+       <xt xml:lang="rus">трёхэтажный</xt>
+     </xg>
+     <xg>
+       <x>куим пӧвсӧн</x>
+       <xt xml:lang="rus">в три слоя</xt>
+     </xg>
+     <xg>
+       <x>куим торйӧн</x>
+       <xt xml:lang="rus">на три части</xt>
+     </xg>
+     <xg>
+       <x>куим торья</x>
+       <xt xml:lang="rus">состоящий из трёх частей</xt>
+     </xg>
+     <xg>
+       <x>куим тысяча</x>
+       <xt xml:lang="rus">три тысячи</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">куима</l>
+     <stg>
+       <st Contlex="NUM_">куима</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>трое, [всего] три</t>
+     </tg>
+     <xg>
+       <x>челяддес куима</x>
+       <xt xml:lang="rus">детей [всего] трое</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">куимдас</l>
+     <stg>
+       <st Contlex="NUM-CARD_">куимдас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>тридцать</t>
+     </tg>
+     <xg>
+       <x>куимдас кык</x>
+       <xt xml:lang="rus">тридцать два</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">куимсюрс</l>
+     <stg>
+       <st Contlex="NUM-CARD_">куимсюрс</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>уст.</range>
+     <tg xml:lang="rus">
+       <t>три тысячи</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">куимсё</l>
+     <stg>
+       <st Contlex="NUM-CARD_">куимсё</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>уст.</range>
+     <tg xml:lang="rus">
+       <t>триста</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кык</l>
+     <stg>
+       <st Contlex="NUM-CARD_">кык</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>два</t>
+     </tg>
+     <xg>
+       <x>кык да кык нёль</x>
+       <xt xml:lang="rus">два да два - четыре</xt>
+     </xg>
+     <xg>
+       <x>кык вон</x>
+       <xt xml:lang="rus">два брата</xt>
+     </xg>
+     <xg>
+       <x>кык керку</x>
+       <xt xml:lang="rus">два дома</xt>
+     </xg>
+     <xg>
+       <x>кык пиян</x>
+       <xt xml:lang="rus">два ребёнка, двое детей</xt>
+       <xt xml:lang="rus">близнецы; двойняшки</xt>
+     </xg>
+     <xg>
+       <x>кык сувда</x>
+       <xt xml:lang="rus">двухэтажный</xt>
+     </xg>
+     <xg>
+       <x>кык сюрс</x>
+       <xt xml:lang="rus"><range>уст.</range> две тысячи</xt>
+     </xg>
+     <xg>
+       <x>кык пӧвса</x>
+       <xt xml:lang="rus">двойной</xt>
+     </xg>
+     <xg>
+       <x>кык годся</x>
+       <xt xml:lang="rus">двухлетний</xt>
+     </xg>
+     <xg>
+       <x>кык иня</x>
+       <xt xml:lang="rus">двоежёнец</xt>
+     </xg>
+     <xg>
+       <x>кык кока</x>
+       <xt xml:lang="rus">двуногий</xt>
+       <xt xml:lang="rus"><range>перен.</range> человек</xt>
+     </xg>
+     <xg>
+       <x>кинкӧ кыккока вӧлӧма</x>
+       <xt xml:lang="rus">оказывается, [здесь] проходил человек</xt>
+     </xg>
+     <xg>
+       <x>кык торйӧн</x>
+       <xt xml:lang="rus">на две части</xt>
+     </xg>
+     <xg>
+       <x>кык торья</x>
+       <xt xml:lang="rus">состоящий из двух частей</xt>
+     </xg>
+     <xg>
+       <x>кык юра</x>
+       <xt xml:lang="rus">двуглавый</xt>
+     </xg>
+     <xg>
+       <x>кыкӧт тор</x>
+       <xt xml:lang="rus">половина, одна вторая</xt>
+     </xg>
+     <xg>
+       <x>торйӧтны кык тор вылӧ</x>
+       <xt xml:lang="rus">разделить на две части</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кыка</l>
+     <stg>
+       <st Contlex="NUM_">кыка</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>двое, [всего] два</t>
+     </tg>
+     <xg>
+       <x>кыка пырисӧ керкуӧ</x>
+       <xt xml:lang="rus">двое вошли в дом</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кыкдас</l>
+     <stg>
+       <st Contlex="NUM-CARD_">кыкдас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>двадцать</t>
+     </tg>
+     <xg>
+       <x>кыкдас ӧтік</x>
+       <xt xml:lang="rus">двадцать один</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кыкдаса</l>
+     <stg>
+       <st Contlex="NUM_">кыкдаса</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>[всего] двадцать</t>
+     </tg>
+     <xg>
+       <x>курӧггес кыкдаса</x>
+       <xt xml:lang="rus">кур [всего] двадцать</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кыксё</l>
+     <stg>
+       <st Contlex="NUM-CARD_">кыксё</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>уст.</range>
+     <tg xml:lang="rus">
+       <t>двести</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кыкьямыс</l>
+     <stg>
+       <st Contlex="NUM-CARD_">кыкьямыс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>восемь</t>
+     </tg>
+     <xg>
+       <x>кыкьямыс год</x>
+       <xt xml:lang="rus">восемь лет</xt>
+     </xg>
+     <xg>
+       <x>кыкьямыс годся нывкаок</x>
+       <xt xml:lang="rus">восьмилетняя девочка</xt>
+     </xg>
+     <xg>
+       <x>кыкьямыс копейка</x>
+       <xt xml:lang="rus">восемь копеек</xt>
+     </xg>
+     <xg>
+       <x>кыкьямыс килограмм</x>
+       <xt xml:lang="rus">восемь килограммов</xt>
+     </xg>
+     <xg>
+       <x>кыкьямыс тысяча</x>
+       <xt xml:lang="rus">восемь тысяч</xt>
+     </xg>
+     <xg>
+       <x>кыкьямысісьчинтны квать</x>
+       <xt xml:lang="rus">от восьми отнять шесть</xt>
+     </xg>
+     <xg>
+       <x>получитны кыкьямыс руб</x>
+       <xt xml:lang="rus">получить восемь рублей</xt>
+     </xg>
+     <xg>
+       <x>кыкьямыс сё</x>
+       <xt xml:lang="rus">восемьсот</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кыкьямыса</l>
+     <stg>
+       <st Contlex="NUM_">кыкьямыса</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>восьмеро, [всего] восемь</t>
+     </tg>
+     <xg>
+       <x>паннес кыкьямыса</x>
+       <xt xml:lang="rus">ложек [всего] восемь</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кыкьямысдас</l>
+     <stg>
+       <st Contlex="NUM-CARD_">кыкьямысдас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>восемьдесят</t>
+     </tg>
+     <xg>
+       <x>кыкьямысдас куим</x>
+       <xt xml:lang="rus">восемьдесят три</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кыкьямысдаса</l>
+     <stg>
+       <st Contlex="NUM_">кыкьямысдаса</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>[всего] восемьдесят</t>
+     </tg>
+     <xg>
+       <x>кольтаэс кыкьямысдаса</x>
+       <xt xml:lang="rus">снопов [всего] восемьдесят</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кыкьямысдасӧн</l>
+     <stg>
+       <st Contlex="NUM-DIST_">кыкьямысдасӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>[все] восемьдесят; в количестве восьмидесяти</t>
+     </tg>
+     <xg>
+       <x>деньгасӧ получитісӧ кыкьямысдасӧн</x>
+       <xt xml:lang="rus">денег они получили по восемьдесят [рублей]</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кыкьямысӧн</l>
+     <stg>
+       <st Contlex="NUM-DIST_">кыкьямысӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>в количестве восьми; ввосьмером</t>
+     </tg>
+     <xg>
+       <x>петны туйӧкыкьямысӧн</x>
+       <xt xml:lang="rus">отправиться в путь ввосьмером</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кыкӧн</l>
+     <stg>
+       <st Contlex="NUM-DIST_">кыкӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>вдвоём</t>
+     </tg>
+     <xg>
+       <x>жырас мийӧвӧлім кыкӧн</x>
+       <xt xml:lang="rus">в комнате мы были вдвоём</xt>
+     </xg>
    </mg>
 </e>
 </r> 

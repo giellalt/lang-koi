@@ -38,7 +38,6 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/abbreviations.lexc  \
 			 stems/adjectives.lexc    \
 			 stems/adjectives_newwords.lexc    \
-			 stems/adpositions.lexc    \
 			 stems/adpositions_newwords.lexc    \
 			 stems/adverbs.lexc    \
 			 stems/adverbs_newwords.lexc    \
@@ -57,6 +56,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/verbs.lexc	\
 			 stems/verbs_newwords.lexc
 
+#			 stems/adpositions.lexc    Removed 2019-10-26
 # If you are building an error-detecting L2 analyser, specify the lexc files
 # that differ between the regular L1 and the L2 analysers below, in L1 and
 # L2 respectively. L2 files must end in "*-L2.lexc". See SME for an example.

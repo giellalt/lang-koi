@@ -28,7 +28,11 @@
        <st Contlex="CS_">да</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>потому что, так как</t>
      </tg>
@@ -37,7 +41,9 @@
        <xt xml:lang="rus">в этом году урожай хороший, так как летом часто перепадали дожди</xt>
      </xg>
    </mg>
-   <mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>когда</t>
      </tg>
@@ -58,7 +64,11 @@
        <st Contlex="CS_">дак</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="CS">[если] так</t>
      </tg>
@@ -67,7 +77,9 @@
        <xt xml:lang="rus">[если] денег нет, так надо занять</xt>
      </xg>
    </mg>
-   <mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>так как, потому что</t>
      </tg>
@@ -84,7 +96,11 @@
        <st Contlex="CS_">коли</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>если</t>
        <t>поскольку</t>
@@ -103,7 +119,11 @@
        <st Contlex="CS_">раз</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>{союз и частица} раз, если</t>
      </tg>
@@ -121,7 +141,11 @@
        <st Contlex="CS_" geo="dial">што</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="CS">что</t>
      </tg>
@@ -138,7 +162,11 @@
        <st Contlex="CS_">чтобы</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="CS">чтобы</t>
      </tg>

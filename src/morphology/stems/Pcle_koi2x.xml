@@ -6,7 +6,11 @@
        <st Contlex="PCLE_">а</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pcle">{вопр.} а</t>
      </tg>
@@ -15,7 +19,9 @@
        <xt xml:lang="rus">почему молчишь, а?</xt>
      </xg>
    </mg>
-   <mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>{усил.} (в конце сложного предложения) а ведь</t>
      </tg>
@@ -36,7 +42,11 @@
        <st Contlex="PCLE_">абу</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>не</t>
      </tg>
@@ -53,7 +63,9 @@
        <xt xml:lang="rus">он в своё время, оказывается, не учился</xt>
      </xg>
    </mg>
-   <mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>{с прил. и нареч.} не-</t>
      </tg>
@@ -70,7 +82,9 @@
        <xt xml:lang="rus">небольшой</xt>
      </xg>
    </mg>
-   <mg>
+   <mg relId="2">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>нет</t>
      </tg>
@@ -119,7 +133,11 @@
        <st Contlex="PCLE_">да</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pcle">да</t>
      </tg>
@@ -156,7 +174,11 @@
        <st Contlex="PCLE_">и</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pcle">и</t>
        <t pos="Pcle">даже</t>
@@ -190,7 +212,11 @@
        <st Contlex="PCLE_">но</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pcle">1) ну</t>
      </tg>
@@ -203,7 +229,9 @@
        <xt xml:lang="rus">ну и пусть</xt>
      </xg>
    </mg>
-   <mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>ладно, хорошо (согласие)</t>
      </tg>
@@ -213,7 +241,7 @@
      </xg>
      <xg>
        <x>няньысла ветлан? - Но</x>
-       <xt xml:lang="rus">за хлебом сходишь? - Ладно [схожу] 3. <pos>союз</pos> но, а</xt>
+       <xt xml:lang="rus"> за хлебом сходишь? - Ладно [схожу] 3. <pos>союз</pos> но, а </xt>
      </xg>
      <xg>
        <x>том, но пиня</x>
@@ -236,7 +264,11 @@
        <st Contlex="PCLE_">ну</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pcle">да</t>
        <t pos="Pcle">хорошо</t>
@@ -263,7 +295,11 @@
        <st Contlex="PCLE_">разь</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="V">{частица вопр.}</t>
      </tg>
@@ -297,7 +333,7 @@
        <t pos="Pcle">ӧд</t>
      </tg>
      <xg>
-       <x src="И.Минин">онмӧссисӧ челядь, тыдалӧ, эд мыдзисӧ</x>
+       <x>онмӧссисӧ челядь, тыдалӧ, эд мыдзисӧ</x> <src>(И.Минин)</src>
        <xt/>
      </xg>
    </mg>
@@ -318,17 +354,9 @@
        <t pos="Pcle">ли</t>
        <t pos="Pcle">ӧмӧй</t>
      </tg>
-     <tg xml:lang="rus">
-       <t pos="Pcle">ли</t>
-     </tg>
      <xg>
-       <x>важын я локтіс?</x>
-       <xt xml:lang="rus">давно ли он пришёл?</xt>
-     </xg>
-     <xg>
-       <x>мунан я он я эд</x>
-       <xt xml:lang="kpv">мунан ли он ӧд (ог тӧд)</xt>
-       <xt xml:lang="rus">[неизвестно] поедешь или нет</xt>
+       <x>мунан я он я</x>
+       <xt>мунан ли он ӧд (ог тӧд)</xt>
      </xg>
    </mg>
 </e>

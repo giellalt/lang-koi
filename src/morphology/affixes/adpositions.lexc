@@ -41,7 +41,7 @@ LEXICON POSTP_
 
 LEXICON POSTP1  !!= * __@CODE@__
 PO-APR ;
-PO-APR-ILL ;
+PO-APRILL ;
 PO-APR-INE ;
 PO-COMP ;
 PO-EGR ;
@@ -61,7 +61,7 @@ PO-TERI ;
 LEXICON PO-APR
 +Po+Sg+Apr:%>лань PO-PX ;
 
-LEXICON PO-APR-ILL
+LEXICON PO-APRILL
 +Po+Sg+Apr+Ill:%>ланьӧ K ;
 +Po+Sg+Apr+Ill+PxSg1-ym:%>ланям K ;
 +Po+Sg+Apr+Ill+PxPl1:%>ланяным K ;
@@ -148,7 +148,7 @@ LEXICON PO-TERI
 !!
 LEXICON PO-SPAT_  !!= * __@CODE@__
 PO-SPAT-APR ;
-PO-SPAT-APR-ILL ;
+PO-SPAT-APRILL ;
 PO-SPAT-APR-INE ;
 PO-SPAT-COMP ;
 PO-SPAT-EGR ;
@@ -169,7 +169,7 @@ PO-SPAT-TERI ;
 LEXICON PO-SPAT-APR
 +Po+Spat+Sg+Apr:%>лань PO-PX ;
 
-LEXICON PO-SPAT-APR-ILL
+LEXICON PO-SPAT-APRILL
 +Po+Spat+Sg+Apr+Ill:%>ланьӧ K ;
 +Po+Spat+Sg+Apr+Ill+PxSg1-ym:%>ланям K ;
 +Po+Spat+Sg+Apr+Ill+PxPl1:%>ланяным K ;
@@ -251,7 +251,7 @@ LEXICON PO-SPAT-TRA
 +Po+Spat+Sg+Tra+PxPl3:%>тіныс K ;
 
 LEXICON PO-SPAT-TERI
-+Po+Spat+Sg+Term:%>ӧдзз PO-PX ;
++Po+Spat+Sg+TerI:%>ӧдзз PO-PX ;
 
 !!
 
@@ -268,13 +268,13 @@ LEXICON POSTP-NOUN
 ! гӧгӧр, 
 
 LEXICON PO-PX
-+Po: WordEnd ;
-+Po+PxSg1-oj:%>ӧй WordEnd ;
-+Po+PxSg2:%>ыд WordEnd ;
-+Po+PxSg3:%>ыс WordEnd ;
-+Po+PxPl1:%>ным WordEnd ;
-+Po+PxPl2:%>ныд WordEnd ;
-+Po+PxPl3:%>ныс WordEnd ;
+: WordEnd ;
++PxSg1-oj:%>ӧй WordEnd ;
++PxSg2:%>ыд WordEnd ;
++PxSg3:%>ыс WordEnd ;
++PxPl1:%>ным WordEnd ;
++PxPl2:%>ныд WordEnd ;
++PxPl3:%>ныс WordEnd ;
 ! вӧсна, кындзи, моз,  мында, мысьт, серти,
 
 LEXICON PO-TEMP-IS_TRA-INSTR-SG3

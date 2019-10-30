@@ -30,7 +30,7 @@ LEXICON ADP_NEWWORDS
 бӧрвылысь+Adp:бӧрвыл PO-SPAT-ELA  "" ;
 бӧрвылӧ+Adp:бӧрвыл PO-SPAT-ILL  "" ;
 бӧрланьын+Adp:бӧр PO-SPAT-APR-INE  "" ;
-бӧрланьӧ+Adp:бӧр PO-SPAT-APR-ILL  "" ;
+бӧрланьӧ+Adp:бӧр PO-SPAT-APRILL  "" ;
 бӧрся+Adp:бӧр PO-SPAT-COMP  "jälkeen" ;
 бӧрсянь+Adp:бӧр PO-SPAT-EGR  "" ;
 бӧрти+Adp:бӧрти PO-PX  "" ;
