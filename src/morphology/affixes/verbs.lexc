@@ -11,10 +11,13 @@ verbs ;
 LEXICON V_
 +WORK: # ;
 
+
 !! !!Closed class verbs
 ! ------------------
 LEXICON AUXILIARIES
-бы+Aux+Cond:бы WordEnd ;
+бы+Pcle+Aux+Cond:бы WordEnd ;
+вай+Pcle+Aux+Imprt:вай WordEnd ;
+вайко+Pcle+Aux+Imprt:вайко WordEnd ;
 
 LEXICON VERBNEGATIVE
 !Present Neg

@@ -713,7 +713,6 @@ LEXICON Root
    Nouns       ;
    Verbs       ;
    Adjectives  ;
-   Adpositions  ;
    Adverbs  ;
    Conjunctors	;
    Particles	;
@@ -723,6 +722,7 @@ LEXICON Root
    Punctuation ;
    Symbols     ;
 
+!   Adpositions  ; Removed 2019-10-26
 !! Incoming from akusanat
    A_koi2x ;
    Adp_koi2x ;

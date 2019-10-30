@@ -6,7 +6,11 @@
        <st Contlex="PRON_">ас</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">свой</t>
      </tg>
@@ -84,9 +88,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачым</comp>
-       <comp ord="E2" pos="Suf" type="соед."/></compg>
+       <comp ord="E2" pos="Suf" type="соед."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -103,9 +111,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыс</comp>
-       <comp ord="E2" pos="Suf" type="соед."/></compg>
+       <comp ord="E2" pos="Suf" type="соед."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -126,9 +138,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыт</comp>
-       <comp ord="E2" pos="Suf" type="соед."/></compg>
+       <comp ord="E2" pos="Suf" type="соед."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -145,9 +161,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачым</comp>
-       <comp ord="E2" pos="Suf" type="род."/></compg>
+       <comp ord="E2" pos="Suf" type="род."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -168,7 +188,7 @@
      </xg>
      <xg>
        <x>ме баита аслам кыв вылын</x>
-       <xt xml:lang="rus">я говорю на своем [родном] языке □<geo>иньв.</geo> асвам</xt>
+       <xt xml:lang="rus"> я говорю на своем [родном] языке □ <geo>иньв.</geo> асвам </xt>
      </xg>
    </mg>
 </e>
@@ -181,9 +201,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьным</comp>
-       <comp ord="E2" pos="Suf" type="род."/></compg>
+       <comp ord="E2" pos="Suf" type="род."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -225,9 +249,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныс</comp>
-       <comp ord="E2" pos="Suf" type="род."/></compg>
+       <comp ord="E2" pos="Suf" type="род."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -245,9 +273,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныт</comp>
-       <comp ord="E2" pos="Suf" type="род."/></compg>
+       <comp ord="E2" pos="Suf" type="род."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -268,7 +300,11 @@
        <st Contlex="PRON_" geo="иньв.">асвань</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">в (на) свою сторону</t>
      </tg>
@@ -278,7 +314,7 @@
      </xg>
      <xg>
        <x>аслань кӧстыны</x>
-       <xt xml:lang="rus"><range>перен.</range> настаивать на своём, гнуть в свою сторону</xt>
+       <xt xml:lang="rus"> <range>перен.</range> настаивать на своём, гнуть в свою сторону </xt>
      </xg>
    </mg>
 </e>
@@ -290,7 +326,11 @@
        <st Contlex="PRON_" geo="иньв.">асваньӧ</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">в (на) свою сторону</t>
      </tg>
@@ -300,7 +340,7 @@
      </xg>
      <xg>
        <x>асланьӧ кӧстыны</x>
-       <xt xml:lang="rus"><range>перен.</range> настаивать на своём, гнуть в свою сторону</xt>
+       <xt xml:lang="rus"> <range>перен.</range> настаивать на своём, гнуть в свою сторону </xt>
      </xg>
    </mg>
 </e>
@@ -313,9 +353,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачым</comp>
-       <comp ord="E2" pos="Suf" type="прибл."/></compg>
+       <comp ord="E2" pos="Suf" type="прибл."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -333,9 +377,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыс</comp>
-       <comp ord="E2" pos="Suf" type="прибл."/></compg>
+       <comp ord="E2" pos="Suf" type="прибл."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -353,9 +401,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыт</comp>
-       <comp ord="E2" pos="Suf" type="прибл."/></compg>
+       <comp ord="E2" pos="Suf" type="прибл."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -373,9 +425,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыс</comp>
-       <comp ord="E2" pos="Suf" type="род."/></compg>
+       <comp ord="E2" pos="Suf" type="род."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -401,9 +457,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыт</comp>
-       <comp ord="E2" pos="Suf" type="род."/></compg>
+       <comp ord="E2" pos="Suf" type="род."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -425,9 +485,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачым</comp>
-       <comp ord="E2" pos="Suf" type="дат."/></compg>
+       <comp ord="E2" pos="Suf" type="дат."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -452,9 +516,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьным</comp>
-       <comp ord="E2" pos="Suf" type="дат."/></compg>
+       <comp ord="E2" pos="Suf" type="дат."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -472,9 +540,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныс</comp>
-       <comp ord="E2" pos="Suf" type="дат."/></compg>
+       <comp ord="E2" pos="Suf" type="дат."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -495,9 +567,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныт</comp>
-       <comp ord="E2" pos="Suf" type="дат."/></compg>
+       <comp ord="E2" pos="Suf" type="дат."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -515,9 +591,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыс</comp>
-       <comp ord="E2" pos="Suf" type="дат."/></compg>
+       <comp ord="E2" pos="Suf" type="дат."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -548,9 +628,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыт</comp>
-       <comp ord="E2" pos="Suf" type="дат."/></compg>
+       <comp ord="E2" pos="Suf" type="дат."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -567,9 +651,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачым</comp>
-       <comp ord="E2" pos="Suf" type="притяж."/></compg>
+       <comp ord="E2" pos="Suf" type="притяж."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -586,9 +674,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьным</comp>
-       <comp ord="E2" pos="Suf" type="притяж."/></compg>
+       <comp ord="E2" pos="Suf" type="притяж."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -605,9 +697,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныс</comp>
-       <comp ord="E2" pos="Suf" type="притяж."/></compg>
+       <comp ord="E2" pos="Suf" type="притяж."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -628,9 +724,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныт</comp>
-       <comp ord="E2" pos="Suf" type="притяж."/></compg>
+       <comp ord="E2" pos="Suf" type="притяж."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -647,9 +747,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыс</comp>
-       <comp ord="E2" pos="Suf" type="притяж."/></compg>
+       <comp ord="E2" pos="Suf" type="притяж."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -666,9 +770,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыт</comp>
-       <comp ord="E2" pos="Suf" type="притяж."/></compg>
+       <comp ord="E2" pos="Suf" type="притяж."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -685,9 +793,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ас</comp>
-       <comp ord="E2" pos="Suf" type="сравн."/></compg>
+       <comp ord="E2" pos="Suf" type="сравн."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -704,9 +816,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачым</comp>
-       <comp ord="E2" pos="Suf" type="сравн."/></compg>
+       <comp ord="E2" pos="Suf" type="сравн."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -723,9 +839,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьным</comp>
-       <comp ord="E2" pos="Suf" type="сравн."/></compg>
+       <comp ord="E2" pos="Suf" type="сравн."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -742,9 +862,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныс</comp>
-       <comp ord="E2" pos="Suf" type="сравн."/></compg>
+       <comp ord="E2" pos="Suf" type="сравн."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -761,9 +885,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьным</comp>
-       <comp ord="E2" pos="Suf" type="сравн."/></compg>
+       <comp ord="E2" pos="Suf" type="сравн."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -780,9 +908,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ас</comp>
-       <comp ord="E2" pos="Suf" type="отдал."/></compg>
+       <comp ord="E2" pos="Suf" type="отдал."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -799,9 +931,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачым</comp>
-       <comp ord="E2" pos="Suf" type="отдал."/></compg>
+       <comp ord="E2" pos="Suf" type="отдал."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -818,9 +954,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьным</comp>
-       <comp ord="E2" pos="Suf" type="отдал."/></compg>
+       <comp ord="E2" pos="Suf" type="отдал."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -837,9 +977,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныс</comp>
-       <comp ord="E2" pos="Suf" type="отдал."/></compg>
+       <comp ord="E2" pos="Suf" type="отдал."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -856,9 +1000,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныт</comp>
-       <comp ord="E2" pos="Suf" type="отдал."/></compg>
+       <comp ord="E2" pos="Suf" type="отдал."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -875,9 +1023,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыс</comp>
-       <comp ord="E2" pos="Suf" type="отдал."/></compg>
+       <comp ord="E2" pos="Suf" type="отдал."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -894,9 +1046,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыт</comp>
-       <comp ord="E2" pos="Suf" type="отдал."/></compg>
+       <comp ord="E2" pos="Suf" type="отдал."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -913,9 +1069,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыс</comp>
-       <comp ord="E2" pos="Suf" type="сравн."/></compg>
+       <comp ord="E2" pos="Suf" type="сравн."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -932,9 +1092,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыт</comp>
-       <comp ord="E2" pos="Suf" type="сравн."/></compg>
+       <comp ord="E2" pos="Suf" type="сравн."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -951,9 +1115,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачым</comp>
-       <comp ord="E2" pos="Suf" type="лиш."/></compg>
+       <comp ord="E2" pos="Suf" type="лиш."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -970,9 +1138,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьным</comp>
-       <comp ord="E2" pos="Suf" type="лиш."/></compg>
+       <comp ord="E2" pos="Suf" type="лиш."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -989,9 +1161,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныс</comp>
-       <comp ord="E2" pos="Suf" type="лиш."/></compg>
+       <comp ord="E2" pos="Suf" type="лиш."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1008,9 +1184,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныт</comp>
-       <comp ord="E2" pos="Suf" type="лиш."/></compg>
+       <comp ord="E2" pos="Suf" type="лиш."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1027,9 +1207,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыс</comp>
-       <comp ord="E2" pos="Suf" type="лиш."/></compg>
+       <comp ord="E2" pos="Suf" type="лиш."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1046,9 +1230,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыт</comp>
-       <comp ord="E2" pos="Suf" type="лиш."/></compg>
+       <comp ord="E2" pos="Suf" type="лиш."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1064,7 +1252,11 @@
        <st Contlex="PRON_">асьным</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">мы сами</t>
      </tg>
@@ -1082,9 +1274,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьным</comp>
-       <comp ord="E2" pos="Suf" type="вин."/></compg>
+       <comp ord="E2" pos="Suf" type="вин."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1100,7 +1296,11 @@
        <st Contlex="PRON_">асьныс</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">они сами</t>
      </tg>
@@ -1118,9 +1318,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныс</comp>
-       <comp ord="E2" pos="Suf" type="вин."/></compg>
+       <comp ord="E2" pos="Suf" type="вин."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1136,7 +1340,11 @@
        <st Contlex="PRON_">асьныт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">вы сами</t>
      </tg>
@@ -1154,9 +1362,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">асьныт</comp>
-       <comp ord="E2" pos="Suf" type="вин."/></compg>
+       <comp ord="E2" pos="Suf" type="вин."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1173,9 +1385,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыс</comp>
-       <comp ord="E2" pos="Suf" type="вин."/></compg>
+       <comp ord="E2" pos="Suf" type="вин."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron"/>
      </tg>
@@ -1201,9 +1417,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачыт</comp>
-       <comp ord="E2" pos="Suf" type="вин."/></compg>
+       <comp ord="E2" pos="Suf" type="вин."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1223,7 +1443,11 @@
        <st Contlex="PRON_">ачым</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">я сам</t>
      </tg>
@@ -1249,9 +1473,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">ачым</comp>
-       <comp ord="E2" pos="Suf" type="вин."/></compg>
+       <comp ord="E2" pos="Suf" type="вин."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
@@ -1263,7 +1491,11 @@
        <st Contlex="PRON_">ачыс</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">он сам</t>
      </tg>
@@ -1284,7 +1516,11 @@
        <st Contlex="PRON_">ачыт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">ты сам</t>
      </tg>
@@ -1298,11 +1534,11 @@
      </xg>
      <xg>
        <x>ачыт панін, ачыт и кый</x>
-       <xt xml:lang="rus"><src_type>погов.</src_type> сама сновала, сама и тки; {соотв.} сама кашу заварила, сама и расхлёбывай</xt>
+       <xt xml:lang="rus"> <src_type>погов.</src_type> сама сновала, сама и тки; {соотв.} сама кашу заварила, сама и расхлёбывай </xt>
      </xg>
      <xg>
        <x>ачыт бур, дак и отирыс бурӧсь</x>
-       <xt xml:lang="rus"><src_type>посл.</src_type> [если] сам хорош, так и люди хороши</xt>
+       <xt xml:lang="rus"> <src_type>посл.</src_type> [если] сам хорош, так и люди хороши </xt>
      </xg>
    </mg>
 </e>
@@ -1357,7 +1593,11 @@
        <st Contlex="PRON_">нем</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">ничто</t>
      </tg>
@@ -1394,7 +1634,9 @@
        <xt xml:lang="rus">ничего не делать</xt>
      </xg>
    </mg>
-   <mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">нечего</t>
      </tg>
@@ -1456,9 +1698,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
-       <comp ord="E2" pos="Suf" type="исходн."/></compg>
+       <comp ord="E2" pos="Suf" type="исходн."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1474,7 +1720,11 @@
        <st Contlex="PRON_">ныкӧт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">{соед. п. от} нія</t>
      </tg>
@@ -1496,14 +1746,18 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
-       <comp ord="E2" pos="Suf" type="прибл."/></compg>
+       <comp ord="E2" pos="Suf" type="прибл."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
        <x>менӧ кыскӧ нылань</x>
-       <xt xml:lang="rus">меня тянет к ним ↔<geo>иньв.</geo></xt>
+       <xt xml:lang="rus"> меня тянет к ним ↔ <geo>иньв.</geo> </xt>
      </xg>
      <xg>
        <x>нывань</x>
@@ -1519,9 +1773,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
-       <comp ord="E2" pos="Suf" type="притяж."/></compg>
+       <comp ord="E2" pos="Suf" type="притяж."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1530,8 +1788,8 @@
      </xg>
      <xg>
        <x>нылісь нем он босьт</x>
-       <xt xml:lang="rus"><src_type>погов.</src_type> с них взятки гладки</xt>
-     </xg><b>нылісь повны няньсӧне сёйны нылісь</b><src_type>погов.</src_type> их бояться - хлеба не есть; {соотв.} волков бояться - в лес не ходить ↔<geo>иньв.</geo>
+       <xt xml:lang="rus"> <src_type>погов.</src_type> с них взятки гладки </xt>
+     </xg> <b>нылісь повны няньсӧне сёйны нылісь</b> <src_type>погов.</src_type> <geo>иньв.</geo>
      <xg>
        <x>нывись, ныись</x>
        <xt xml:lang="rus"/>
@@ -1546,15 +1804,19 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
-       <comp ord="E2" pos="Suf" type="дат."/></compg>
+       <comp ord="E2" pos="Suf" type="дат."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
        <x>быдӧс колӧсетны нылӧ</x>
        <xt xml:lang="rus">всё надо отдать им</xt>
-     </xg><b>нылӧ нем абу</b> им море по колено (<range>букв.</range> для них ничего нет) ↔<geo>иньв.</geo>
+     </xg> <b>нылӧ нем абу</b> <range>букв.</range> <geo>иньв.</geo>
      <xg>
        <x>нывӧ, ныӧ</x>
        <xt xml:lang="rus"/>
@@ -1569,9 +1831,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
-       <comp ord="E2" pos="Suf" type="род."/></compg>
+       <comp ord="E2" pos="Suf" type="род."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1580,27 +1846,12 @@
      </xg>
      <xg>
        <x>эта делоыс нылӧн</x>
-       <xt xml:lang="rus">это дело их рук ↔<geo>иньв.</geo></xt>
+       <xt xml:lang="rus"> это дело их рук ↔ <geo>иньв.</geo> </xt>
      </xg>
      <xg>
        <x>нывӧн, ныӧн</x>
        <xt xml:lang="rus"/>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">нысся</l>
-     <stg>
-       <st Contlex="PRON_">нысся</st>
-     </stg>
-     <compg drv="Pron:Suf" type="Infl">
-       <comp ord="E1" pos="Pron">нія</comp>
-       <comp ord="E2" pos="Suf" type="сравн."/></compg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -1611,9 +1862,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
-       <comp ord="E2" pos="Suf" type="отдал."/></compg>
+       <comp ord="E2" pos="Suf" type="отдал."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1630,9 +1885,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
-       <comp ord="E2" pos="Suf" type="лиш."/></compg>
+       <comp ord="E2" pos="Suf" type="лиш."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1653,9 +1912,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
-       <comp ord="E2" pos="Suf" type="местн."/></compg>
+       <comp ord="E2" pos="Suf" type="местн."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1676,9 +1939,13 @@
      </stg>
      <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
-       <comp ord="E2" pos="Suf" type="вин."/></compg>
+       <comp ord="E2" pos="Suf" type="вин."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
      </tg>
      <xg>
@@ -1687,16 +1954,26 @@
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
+   <map/>
    <lg>
      <l pos="Pron">нія</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="PRON_">нія</st>
        <st Contlex="PRON_" geo="чур.">на</st>
        <st Contlex="PRON_" geo="н.-иньв.">ная</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Pron">найӧ</t>
+     </tg>
      <tg xml:lang="rus">
        <t pos="Pron">они</t>
      </tg>
@@ -1713,9 +1990,11 @@
        <xt xml:lang="rus">все они учатся</xt>
      </xg>
    </mg>
-   <mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
-       <t pos="V">те</t>
+       <t pos="Det">тот</t>
      </tg>
      <xg>
        <x>нія керкуэзын олӧны колхозниккез</x>
@@ -1734,10 +2013,14 @@
        <st Contlex="PRON_">став</st>
      </stg>
    </lg>
-   <mg relId="0"> <sg><s pos="Pron" s_type="see">ставень</s></sg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron"/>
-     </tg>
+     </tg> <sg/>
    </mg>
 </e>
 <e>
@@ -1747,10 +2030,14 @@
        <st Contlex="PRON_">став</st>
      </stg>
    </lg>
-   <mg relId="0"> <geo>сев.</geo>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="Pron">весь, вся, всё</t>
-     </tg>
+     </tg> <geo>сев.</geo>
      <xg>
        <x>ставсӧ сія тӧдӧ</x>
        <xt xml:lang="rus">! всё-то он знает!</xt>
@@ -1762,6 +2049,599 @@
      <xg>
        <x>сійӧстав деревняӧн панталӧмась</x>
        <xt xml:lang="rus">его встретили всей деревней</xt>
+     </xg>
+   </mg>
+</e>
+<e exclude="fst">
+   <map/>
+   <lg>
+     <l pos="Pron">сія</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="PRON_">сӧ</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Pron">сійӧ</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Pron">он</t>
+       <t pos="Pron">она</t>
+       <t pos="Pron">оно</t>
+     </tg>
+     <xg>
+       <x>ыджыджык туяс татӧн сія</x>
+       <xt xml:lang="rus">он здесь за старшего</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быдӧнным</l>
+     <stg>
+       <st Contlex="PRON_">быдӧнным</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>все мы</t>
+     </tg>
+     <xg>
+       <x>быдӧнным мунам походӧ</x>
+       <xt xml:lang="rus">все мы идём в поход</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быдӧнныс</l>
+     <stg>
+       <st Contlex="PRON_">быдӧнныс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>все они</t>
+     </tg>
+     <xg>
+       <x>быдӧнныс нія уджалӧны</x>
+       <xt xml:lang="rus">все они работают</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быдӧнныт</l>
+     <stg>
+       <st Contlex="PRON_">быдӧнныт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>все вы</t>
+     </tg>
+     <xg>
+       <x>быдӧнныт тійӧ велӧтчатӧ</x>
+       <xt xml:lang="rus">все вы учитесь</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быдӧс</l>
+     <stg>
+       <st Contlex="PRON_">быдӧс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>всё, весь</t>
+     </tg>
+     <xg>
+       <x>видзыштны быдӧс деньга</x>
+       <xt xml:lang="rus">израсходовать все деньги</xt>
+     </xg>
+     <xg>
+       <x>керны быдӧс заданнёэз</x>
+       <xt xml:lang="rus">выполнить все задания</xt>
+     </xg>
+     <xg>
+       <x>быдӧс кольччас быдса</x>
+       <xt xml:lang="rus">всё останется целым</xt>
+     </xg>
+     <xg>
+       <x>быдӧс Россия пасьтся</x>
+       <xt xml:lang="rus">всероссийский</xt>
+     </xg>
+     <xg>
+       <x>быдӧс Союз пасьтся</x>
+       <xt xml:lang="rus">всесоюзный.</xt>
+     </xg>
+     <xg>
+       <x>меным быдӧс ӧткодь</x>
+       <xt xml:lang="rus">мне всё равно</xt>
+     </xg>
+     <xg>
+       <x>сы киись быдӧс петӧ</x>
+       <xt xml:lang="rus">он мастер на все руки</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быдӧссӧ</l>
+     <stg>
+       <st Contlex="PRON_">быдӧссӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>всего, итого</t>
+     </tg>
+     <xg>
+       <x>неделяын быдӧссӧ сизим лун</x>
+       <xt xml:lang="rus">в неделе всего семь дней</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быдӧсыс</l>
+     <stg>
+       <st Contlex="PRON_">быдӧсыс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">быдӧссӧ</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быйкӧб</l>
+     <stg>
+       <st Contlex="PRON_">быйкӧб</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="V"><range>уст.</range></t>
+     </tg><sg><s s_type="see">быдӧс</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">кин-ненабудь</l>
+     <stg>
+       <st Contlex="PRON_">кин-ненабудь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">кин-нибудь</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">кин-нибудь</l>
+     <stg>
+       <st Contlex="PRON_">кин-нибудь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>кто-нибудь</t>
+     </tg>
+     <xg>
+       <x>кин-нибудь отсалас миянлӧ</x>
+       <xt xml:lang="rus">кто-нибудь поможет нам</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">ӧтнаным</l>
+     <stg>
+       <st Contlex="PRON_">ӧтнаным</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>мы одни</t>
+     </tg>
+     <xg>
+       <x>правленнёын мийӧ вӧлімӧтнаным</x>
+       <xt xml:lang="rus">в правлении мы были одни</xt>
+     </xg>
+     <xg>
+       <x>ошкисӧмиянӧс ӧтнанымӧс</x>
+       <xt xml:lang="rus">хвалили нас одних</xt>
+     </xg>
+     <xg>
+       <x>премия сетісӧ ӧтнанымлӧ</x>
+       <xt xml:lang="rus">премию присудили нам одним</xt>
+     </xg>
+     <xg>
+       <x>миянсянь ӧтнанымсянь сія получайтӧ письмоэсӧ</x>
+       <xt xml:lang="rus">от нас одних она получает письма</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">ӧтнаныс</l>
+     <stg>
+       <st Contlex="PRON_">ӧтнаныс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>они одни</t>
+     </tg>
+     <xg>
+       <x>кабинетын нія пукалісӧӧтнаныс</x>
+       <xt xml:lang="rus">в кабинете они сидели одни</xt>
+     </xg>
+     <xg>
+       <x>директор дынӧ корисӧ нійӧӧтнанысӧ</x>
+       <xt xml:lang="rus">к директору пригласили их одних</xt>
+     </xg>
+     <xg>
+       <x>эта йылісь висьталісӧ ӧтнаныслӧ</x>
+       <xt xml:lang="rus">об этом рассказали им одним</xt>
+     </xg>
+     <xg>
+       <x>ответ корисӧ ӧтнаныслісь</x>
+       <xt xml:lang="rus">ответ требовали только у них одних</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">ӧтнаныт</l>
+     <stg>
+       <st Contlex="PRON_">ӧтнаныт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>вы одни</t>
+     </tg>
+     <xg>
+       <x>эта йылісь тӧдатӧтнаныт</x>
+       <xt xml:lang="rus">об этом знаете вы одни</xt>
+     </xg>
+     <xg>
+       <x>этӧ колӧкерны ӧтнанытлӧ</x>
+       <xt xml:lang="rus">это надо сделать вам одним</xt>
+     </xg>
+     <xg>
+       <x>договор керисӧ ӧтнаныткӧт</x>
+       <xt xml:lang="rus">договор заключили только с вами</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">кин</l>
+     <stg>
+       <st Contlex="PRON_">кин</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>кто</t>
+     </tg>
+     <xg>
+       <x>киннэз</x>
+       <xt xml:lang="rus">{мн.} кто</xt>
+     </xg>
+     <xg>
+       <x>кин локтӧ?</x>
+       <xt xml:lang="rus">кто идёт?</xt>
+     </xg>
+     <xg>
+       <x>кинлӧ эта колӧ?</x>
+       <xt xml:lang="rus">кому это нужно?</xt>
+     </xg>
+     <xg>
+       <x>кинӧс кошшӧны?</x>
+       <xt xml:lang="rus">кого ищут?</xt>
+     </xg>
+     <xg>
+       <x>кинкӧт пантасит?</x>
+       <xt xml:lang="rus">с кем вы встретились?</xt>
+     </xg>
+     <xg>
+       <x>кин вылӧ надейтчат?</x>
+       <xt xml:lang="rus">на кого надеетесь?</xt>
+     </xg>
+     <xg>
+       <x>кин ордӧ мунны?</x>
+       <xt xml:lang="rus">к кому (в чей дом) идти?</xt>
+     </xg>
+     <xg>
+       <x>кин сьӧрӧ тэ мунӧмыт?</x>
+       <xt xml:lang="rus">в кого ты пошёл?; на кого ты похож?</xt>
+     </xg>
+     <xg>
+       <x>кин оз лыддьӧт газетаэз, сія оз тӧд, мый керсьӧ мирас</x>
+       <xt xml:lang="rus">кто не читает газеты, тот не знает, что происходит в мире</xt>
+     </xg>
+     <xg>
+       <x>кин оз уджав, сія оз сёй</x>
+       <xt xml:lang="rus">кто не работает, тот не ест</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>чей</t>
+     </tg>
+     <xg>
+       <x>кин увтыр тэ?</x>
+       <xt xml:lang="rus">какого ты рода?</xt>
+     </xg>
+     <xg>
+       <x>кин керкуын олат?</x>
+       <xt xml:lang="rus">в чьём доме вы живёте?</xt>
+     </xg>
+     <xg>
+       <x>кин пальтоӧн ветлӧтан?</x>
+       <xt xml:lang="rus">в чьём пальто ты ходишь?</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">месся</l>
+     <stg>
+       <st Contlex="PRON_">месся</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>{сравн. п. от} ме</t>
+     </tg>
+     <xg>
+       <x>месся татӧн сія некинӧс оз тӧд</x>
+       <xt xml:lang="rus">кроме меня, он здесь никого не знает</xt>
+     </xg>
+     <xg>
+       <x>тэ месся ыджытжык</x>
+       <xt xml:lang="rus">ты старше меня</xt>
+     </xg>
+     <xg>
+       <x>татӧн месся некин абу</x>
+       <xt xml:lang="rus">здесь, кроме меня, никого нет</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">метӧг</l>
+     <stg>
+       <st Contlex="PRON_">метӧг</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>{лиш. п. от} ме</t>
+     </tg>
+     <xg>
+       <x>басниыс вӧлӧм метӧг</x>
+       <xt xml:lang="rus">[этот] разговор был без меня</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">миянтӧг</l>
+     <stg>
+       <st Contlex="PRON_">миянтӧг</st>
+     </stg>
+     <compg drv="Pron:Suf" type="Іnfl">
+       <comp ord="E1" pos="Pron">мийӧ</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/></compg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg>
+     <xg>
+       <x>эта быдӧс аркмӧм миянтӧг</x>
+       <xt xml:lang="rus">всё это случилось без нас</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">некин</l>
+     <stg>
+       <st Contlex="PRON_">некин</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>никто</t>
+     </tg>
+     <xg>
+       <x>татӧн менӧ некин оз тӧд</x>
+       <xt xml:lang="rus">здесь меня никто не знает</xt>
+     </xg>
+     <xg>
+       <x>сія некин сьӧрись оз кольччы</x>
+       <xt xml:lang="rus">он ни от кого не отстаёт</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>некого</t>
+     </tg>
+     <xg>
+       <x>некинӧс винитны</x>
+       <xt xml:lang="rus">некого винить</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">сытӧг</l>
+     <stg>
+       <st Contlex="PRON_">сытӧг</st>
+     </stg>
+     <compg drv="Pron:Suf" type="Іnfl">
+       <comp ord="E1" pos="Pron">сія</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/></compg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg>
+     <xg>
+       <x>сытӧгнекыдз оз позь</x>
+       <xt xml:lang="rus">без него никак нельзя</xt>
+     </xg>
+     <xg>
+       <x>сытӧг ми ог адззӧ туйсӧ</x>
+       <xt xml:lang="rus">без него мы не найдём дороги</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">тэтӧг</l>
+     <stg>
+       <st Contlex="PRON_">тэтӧг</st>
+     </stg>
+     <compg drv="Pron:Suf" type="Іnfl">
+       <comp ord="E1" pos="Pron">тэ</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/></compg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg>
+     <xg>
+       <x>тэтӧг татӧн гажтӧм</x>
+       <xt xml:lang="rus">без тебя здесь грустно</xt>
+     </xg>
+     <xg>
+       <x>уджыс тэтӧг керсяс</x>
+       <xt xml:lang="rus">работа будет выполнена и без тебя</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">ті</l>
+     <stg>
+       <st Contlex="PRON_">тій</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>вы</t>
+     </tg>
+     <xg>
+       <x>ті асьныт вежӧртат</x>
+       <xt xml:lang="rus">вы сами понимаете</xt>
+     </xg>
+     <xg>
+       <x>ті кысянь локтіт?</x>
+       <xt xml:lang="rus">вы откуда прибыли?</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">тійӧ</l>
+     <stg>
+       <st Contlex="PRON_">тійӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">ті</s></sg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">тіянтӧг</l>
+     <stg>
+       <st Contlex="PRON_">тіянтӧг</st>
+     </stg>
+     <compg drv="Pron:Suf" type="Іnfl">
+       <comp ord="E1" pos="Pron">ті</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/></compg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg>
+     <xg>
+       <x>тіянтӧг татӧн лоас сьӧкыт</x>
+       <xt xml:lang="rus">без вас здесь трудно будет</xt>
+     </xg>
+     <xg>
+       <x>этӧ ыбсӧ тіянтӧг вундам</x>
+       <xt xml:lang="rus">это поле уберём без вас</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">эна</l>
+     <stg>
+       <st Contlex="PRON_">эна</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>эти</t>
+     </tg>
+     <xg>
+       <x>эна луннэзӧ</x>
+       <xt xml:lang="rus">в эти дни</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">эсія</l>
+     <stg>
+       <st Contlex="PRON_">эсія</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><geo>Чеч.</geo>, {усол.} этот, эта, это</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">ӧті-мӧді</l>
+     <stg>
+       <st Contlex="PRON_">ӧті-мӧді</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>один-другой; кое-какой; одно-другое</t>
+     </tg>
+     <xg>
+       <x>ӧті-мӧді уна ӧксис</x>
+       <xt xml:lang="rus">много кое-чего собралось</xt>
+     </xg>
+     <xg>
+       <x>ӧті-мӧді йылісь баитны</x>
+       <xt xml:lang="rus">говорить о том о сём</xt>
+     </xg>
+     <xg>
+       <x>ӧті-мӧді петалӧма анькытшыс</x>
+       <xt xml:lang="rus">горох взошёл очень редко</xt>
      </xg>
    </mg>
 </e>

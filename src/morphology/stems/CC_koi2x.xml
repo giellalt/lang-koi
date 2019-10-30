@@ -6,7 +6,11 @@
        <st Contlex="CC_">а</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="CC">а</t>
        <t pos="CC">но</t>
@@ -24,7 +28,11 @@
        <st Contlex="CC_">али</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="CC">или</t>
        <t pos="CC">ли</t>
@@ -42,7 +50,11 @@
        <st Contlex="CC_">да</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="CC">да</t>
        <t pos="CC">и</t>
@@ -56,7 +68,9 @@
        <xt xml:lang="rus">брат и сестра</xt>
      </xg>
    </mg>
-   <mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="CC">но</t>
        <t pos="CC">а</t>
@@ -78,7 +92,11 @@
        <st Contlex="CC_">и</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t pos="CC">и</t>
      </tg>

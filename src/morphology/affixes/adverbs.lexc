@@ -11,6 +11,14 @@ ADV-ADA_ ;
 !LEXICON GER_
 !+V+Ger: ADV_ ;
 
+LEXICON ADV-MULT_
++Mult: K ;
+LEXICON ADV-MULT-DIST_
++Mult+Dist: K ;
+LEXICON ADV-ORD-MULT_
++Ord+Mult: K ;
+
+
 LEXICON ADV-IS_GER-IGON ! these are checked as gerunds in +Der/иг
 +V+Der/иг+Ins: ADV_ ;
 

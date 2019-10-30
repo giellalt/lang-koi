@@ -281,6 +281,11 @@ symbols in the lexicon files:
 And following triggers to control variation
  * %^1Cns    Plural-initial; it allows for doubling of consonant
 
+* »
+* «
+* > (escaped with square brackets, to avoid collision with > as morpheme boundary)
+* < (escaped with square brackets, to avoid collision with < as morpheme boundary)
+
 !!Flag diacritics
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
