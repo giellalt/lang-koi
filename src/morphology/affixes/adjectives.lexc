@@ -6,10 +6,15 @@
 
 LEXICON DET_
 : K ;
-LEXICON DET-COLL_
-+Coll: K ;
-LEXICON DET-ORD_
+!LEXICON DET-COLL_
+!+Coll: K ;
+!LEXICON DET-CMPL_
+!+Cmpl: K ;
+LEXICON NUM-ORD_
 +Ord: K ;
+LEXICON NUM-TOT-CMPL_
++Tot+Cmpl: K ;
+
 
 LEXICON PRC_
 A_ ;

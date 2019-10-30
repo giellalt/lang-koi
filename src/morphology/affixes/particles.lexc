@@ -6,6 +6,11 @@
 LEXICON PCLE_
 : WordEnd ;
 
+!LEXICON PCLE-AUX-IMP_
+!+Aux+Imprt: WordEnd ;
+!LEXICON PCLE-AUX_
+!+Aux: WordEnd ;
+
 LEXICON PcleIntens
 +Intens: WordEnd ;
 
