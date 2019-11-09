@@ -81,7 +81,7 @@ LEXICON ADV-SPAT  !!= * __@CODE@__
  ADV-SPAT-PRL ;	 !
  ADV-SPAT-TERI ;	 !
  ADV-SPAT-TERII ;	 !
- ADV-SPAT-TRA ;	 !
+! ADV-SPAT-TRA ;	 !
 
 LEXICON ADV-SPAT-LA ! These adverbs have a formative in ла
 +Der/ла: ADV-SPAT ;
@@ -113,8 +113,8 @@ LEXICON ADV-SPAT-INE
 LEXICON ADV-SPAT-PRL
 +Spat+Prl:%>ӧт K ;
 
-LEXICON ADV-SPAT-TRA
-+Spat+Tra:%>ті COMPARATIVE ;
+!LEXICON ADV-SPAT-TRA
+!+Spat+Tra:%>ті COMPARATIVE ;
 
 LEXICON ADV-SPAT-TERI
 +Spat+TerI:%>ӧдзз COMPARATIVE ;
@@ -159,8 +159,8 @@ LEXICON ADV-IS_TERI
 !LEXICON ADV-IS_TERII
 !+TerII: K ;
 
-LEXICON ADV-IS_TRA
-+Tra: K ;
+!LEXICON ADV-IS_TRA
+!+Tra: K ;
 
 
 

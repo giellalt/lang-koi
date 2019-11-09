@@ -46,10 +46,10 @@ LEXICON Noun1-SYT-STY !
 
 
 LEXICON N-ANIM_   
-+Anim: N_ ;
++Sem/Ani: N_ ;
 
 LEXICON N-INAN_   
-+Inan N_ ;
++Sem/Inanim: N_ ;
 
 LEXICON N_   
 +Der/Ок+Der/Dimin+N:%>ок NMN_ ;
@@ -62,7 +62,8 @@ LEXICON NMN_
 +Cmp: R ;
 +Sg: CASEPOSSLEX ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ;
-
+   PL-CASE-PX ;
+LEXICON PL-CASE-PX
 +Pl+Nom+PxSg2:%>%^1Cnsэт K ;
 +Pl+Gen+PxSg2:%>%^1Cnsэтлӧн K ;
 +Pl+Abl+PxSg2:%>%^1Cnsэтлісь K ;
@@ -116,39 +117,44 @@ LEXICON NMN_
 
 !! subsequent Cns vs Vow
 LEXICON N_PARAGOGIC-V/L !!= * @CODE@ ныв:ны нылыс
-+Cmp:в R ;
-+Sg:в CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
-+Sg:л CASEPOSSLEX-AFTERDERIVATION_VOW ;
-+Pl:в%>%^1Cnsэз CASEPOSSLEX ;
++Cmp:%^LVBound R ;
++Sg:%^LVBound CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
++Sg: CASEPOSSLEX-AFTERDERIVATION_VOW ;
++Pl:%^LVBound%>%^1Cnsэз CASEPOSSLEX ;
+:%^LVBound PL-CASE-PX ;
 
 LEXICON N-INAN_PARAGOGIC-J 
-+Inan:  N_PARAGOGIC-J ;
++Sem/Inanim:  N_PARAGOGIC-J ;
 
 LEXICON N_PARAGOGIC-J !!= * @CODE@ ав:ав авйыс
 +Cmp: R ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg:й CASEPOSSLEX-AFTERDERIVATION_VOW ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ;
+PL-CASE-PX ;
 
 LEXICON N-INAN_PARAGOGIC-K
-+Inan:	N_PARAGOGIC-K ;
++Sem/Inanim:	N_PARAGOGIC-K ;
 LEXICON N_PARAGOGIC-K !!= * @CODE@ кытш:кытш кытшкыс
 +Cmp: R ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg:к CASEPOSSLEX-AFTERDERIVATION_VOW ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ;
+PL-CASE-PX ;
 
 LEXICON N_PARAGOGIC-M !!= * @CODE@ зон:зон зонмыс
 +Cmp: R ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg:м CASEPOSSLEX-AFTERDERIVATION_VOW ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ;
+PL-CASE-PX ;
 
 LEXICON N_PARAGOGIC-T !!= * @CODE@ зеп:зеп зептыс
 +Cmp: R ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg:т CASEPOSSLEX-AFTERDERIVATION_VOW ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ;
+PL-CASE-PX ;
 
 LEXICON N_END-IN-J !!= * @CODE@ абай:аба абайыс
 +Cmp:й R ;
@@ -156,6 +162,7 @@ LEXICON N_END-IN-J !!= * @CODE@ абай:аба абайыс
 +Sg: CASEPOSSLEX-AFTERDERIVATION_Я ;
 +Sg:й CASEPOSSLEX-AFTERDERIVATION_Ӧ ;
 +Pl:й%>%^1Cnsэз CASEPOSSLEX ;
+:й PL-CASE-PX ;
 
 LEXICON N_END-IN-ДДЬ !!= * @CODE@ автомобиль:автомобил автомобильыс
 +Cmp:ь R ;
@@ -163,12 +170,14 @@ LEXICON N_END-IN-ДДЬ !!= * @CODE@ автомобиль:автомобил а�
 +Sg:д CASEPOSSLEX-AFTERDERIVATION_Я ;
 +Sg:дь CASEPOSSLEX-AFTERDERIVATION_Ӧ ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ; !!= * @CODE@ 2015-09-04 change to ь%>яс after xfst rules are removed
+PL-CASE-PX ;
 
 LEXICON N_END-IN-ДДЗ !!= * @CODE@ автомобиль:автомобил автомобильыс
 +Cmp:з R ;
 +Sg:з CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg:дз CASEPOSSLEX-AFTERDERIVATION_VOW ;
 +Pl:з%>%^1Cnsэз CASEPOSSLEX ;
+:з PL-CASE-PX ;
 
 LEXICON N_END-IN-ЛЛЬ !!= * @CODE@ моль:мол молльӧ
 +Cmp:ь R ;
@@ -176,6 +185,7 @@ LEXICON N_END-IN-ЛЛЬ !!= * @CODE@ моль:мол молльӧ
 +Sg:л CASEPOSSLEX-AFTERDERIVATION_Я ;
 +Sg:ль CASEPOSSLEX-AFTERDERIVATION_Ӧ ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ; !! 2015-09-04 change to ь%>яс after xfst rules are removed
+PL-CASE-PX ;
 
 LEXICON N_END-IN-Ч/ДЗ !!= * @CODE@ автомобиль:автомобил автомобильыс
 : NMN_END-IN-Ч/ДЗ ;
@@ -184,6 +194,7 @@ LEXICON NMN_END-IN-Ч/ДЗ !!= * @CODE@ автомобиль:автомобил 
 +Sg: CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_VOW ;
 +Pl:%>%^1Cnsэз CASEPOSSLEX ;
+PL-CASE-PX ;
 
 !LEXICON N_END-IN-Ь !!= * @CODE@ автомобиль:автомобил автомобильыс
 !+Cmp:ь R ;
@@ -264,16 +275,17 @@ ELA_ісь-THEN-K ;
 +Cmpr:%>ся K ;
 +Apr:%>лань SPAT-COMPARATIVE ;
 +Egr:%>сянь SPAT-COMPARATIVE ;
-+Tra:%>ті K ;
+!+Tra:%>ті K ;
++TerII:%>ви K ;
 +AprIne:%>ланин SPAT-COMPARATIVE ;  ! New cases in last grammar
 +AprEla:%>ланись SPAT-COMPARATIVE ;  !
 +AprIll:%>ланьӧ IllCompar ; !
 +AprEgr:%>ланьсянь SPAT-COMPARATIVE ; !
-+AprTer:%>ланьӧдз K ; ! Tähän asti
++AprTerI:%>ланьӧдз K ; ! Tähän asti
 !! SG1
 +Ins+PxSg1:%>нам K ;
 +Ela+PxSg1:%>сим SPAT-COMPARATIVE ;
-+Tra+PxSg1:%>тіым K ;
+!+Tra+PxSg1:%>тіым K ;
 +Car+PxSg1+So/CP:%>тӧгьям K ;
 +Egr+PxSg1+So/CP:%>сяням SPAT-COMPARATIVE ;
 +AprIne+PxSg1:%>ланям SPAT-COMPARATIVE ;
@@ -459,10 +471,10 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 +Acc:%>ӧс K ;
 +Ins:%>ӧн K ;
 +Ine:%>ын SPAT-COMPARATIVE ;
-+Ela:%>ысь SPAT-COMPARATIVE ;
++Ela:%>%{иі%}сь SPAT-COMPARATIVE ;
 +Ill:%>ӧ IllCompar ;
 +Prl:%>ӧт K ;
-+Ter:%>ӧдз K ;
++TerI:%>ӧдз K ;
 
 !! SG1
 +Nom+PxSg1:%>ӧ K ;
@@ -574,32 +586,32 @@ LEXICON GEN_лӧн-THEN-K
 !+Ins:%>ӧн K ;
 
 !LEXICON TER_ӧдз-THEN-K
-!+Ter:%>ӧдз K ;
+!+TerI:%>ӧдз K ;
 
 
 LEXICON Noun1-IS_INE
 +N+Ine: SPAT-COMPARATIVE ;
 
 LEXICON DERIVEDADJ
-+Der/са+IneMod:%>са A_ ;     
-+Der/тӧм+AbeMod:%>тӧм A_ ;
-+Der/а+HabObjMod:%>а A_ ;
-+Der/ся+TempMod:%>ся A_ ; 
++Der+Der/LocMod+A:%>са A_ ;     
++Der+Der/PrivMod+A:%>тӧм A_ ;
++Der+Der/ProprietiveMod+A:%>а A_ ;
++Der+Der/TempMod+A:%>ся A_ ; 
 
 
     
 
 LEXICON AdjCompar
-+Der/жык+Comp:%>жык PredMonLex ;
-+Der/жык+Comp+Der/а:%>жыка ADV_ ;
-+Der/жык+Comp+Der/MWN+N+Sg:%>жык CASEPOSSLEX-afterDerivation ;
-+Der/жык+Comp+Der/MWN+N+Pl:%>жыккез CASEPOSSLEX-afterDerivation ;
-+Der/MWN+N+Sg: CASEPOSSLEX-afterDerivation ; !This is for adjectives without nouns
-+Der/MWN+N+Pl:%>%^1Cnsэз CASEPOSSLEX-afterDerivation ; !This is for adjectives without nouns
++Comp:%>жык PredMonLex ;
++Comp+Der/а:%>жыка ADV_ ;
++Comp+Der/MWN+N+Sg:%>жык CASEPOSSLEX-afterDerivation ;
++Comp+Der/MWN+N+Pl:%>жыккез CASEPOSSLEX-afterDerivation ;
++Der+Der/MWN+N+Sg: CASEPOSSLEX-afterDerivation ; !This is for adjectives without nouns
++Der+Der/MWN+N+Pl:%>%^1Cnsэз CASEPOSSLEX-afterDerivation ; !This is for adjectives without nouns
 
 LEXICON IllCompar
  K ;
-+Der/жык+Comp:%>жык K ;
++Comp:%>жык K ;
 
 !LEXICON PredMonLex-Spat
 ! K ;      ! Singular predicative
@@ -608,8 +620,9 @@ LEXICON IllCompar
 LEXICON PredMonLex-Spat-Add-Morphology ! This allows consistency 
                                        ! with SPAT elsewhere
 +Pred+Pl:ӧсь K ; ! Plural predicative.
-+Der/жык+Comp:%>жык K ; !ывлаынжык
-+Der/жык+Comp+Pred+Pl:%>жыкӧсь K ; !ывлаынжыкӧсь
++Comp:%>жык K ; !ывлаынжык
++Comp+Pred+Pl:%>жыкӧсь K ; !ывлаынжыкӧсь
++Comp+Pred+Pl:%>ӧсьжык K ; !ывлаынжыкӧсь
 
 
 LEXICON PredMonLex

@@ -43,3 +43,6 @@ LEXICON CONJ_NEWWORDS
 то+CS:то CONJ_  "" ;
 ыштӧ+CS:ыштӧ CONJ_  "" ;
 ыштӧкӧ+CS:ыштӧкӧ CONJ_  "" ;
+
+или+CC:или CC_ ;
+либо+CC:либо CC_ ;

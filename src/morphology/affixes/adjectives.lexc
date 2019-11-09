@@ -6,6 +6,7 @@
 
 LEXICON DET_
 : K ;
+
 !LEXICON DET-COLL_
 !+Coll: K ;
 !LEXICON DET-CMPL_
@@ -56,19 +57,19 @@ LEXICON Adj
  A_ ;
 
 !LEXICON A-IS_INE-MOD-СА
-!+Der/са+IneMod: A_ ;
+!+Der/LocMod: A_ ;
 !LEXICON A-IS_COMP-MOD-КОДЬ
-!+Der/кодь+CompMod: A_ ;
+!+Der+Der/CompMod: A_ ;
 !LEXICON A-IS_ABE-MOD-ТӦМ
-!+Der/тӧм+AbeMod: A_ ;
+!+Der/PrivMod: A_ ;
 
 !LEXICON A-IS_HAB-OBJ-MOD-А
-!+Der/а+HabObjMod: A_ ;
+!+Der+Der/ProprietiveMod: A_ ;
 !LEXICON A-IS_TEMP-MOD-СЯ
-!+Der/ся+TempMod: A_ ;
+!+Der+Der/TempMod: A_ ;
 
 LEXICON Adj-IS_PTC-TOM ! 2011-11-15 participle = derivation type; 
-+V+Der/тӧм: A_ ;
++V+Der+Der/PrivMod+A: A_ ;
 
 LEXICON Adj-IS_PTC-YSJ
 +V+Der/ысь: A_ ;
@@ -82,7 +83,7 @@ LEXICON Adj-IS_PTC-ANA !
 !LEXICON Adj-IS_TOM
 ! A-IS_TOM ;
 LEXICON A-IS_TOM
-+N+Der/тӧм: A_ ;
++Der+Der/тӧм+A: A_ ;
 
 LEXICON Adj-IS_SUPERL !
 +Superl: A_ ;
@@ -97,14 +98,14 @@ LEXICON A-PRED ! ӧбиднӧ
 LEXICON A_
 : PredMonLex ;
 : AdjCompar ;
-+Der/лун:%>лун N_ ; !Derivational suffix for A-N
-+Der/а:%>а ADV_ ; ! Derivation for adjective-to-adverb
++Der+Der/лун+N:%>лун N_ ; !Derivational suffix for A-N
++Der+Der/а+Adv:%>а ADV_ ; ! Derivation for adjective-to-adverb
 
 LEXICON A_PARAGOGIC-В/Л !!= * @CODE@ юмов:юмо юмолӧсь
-:в K ; !! Singular predicative 
-+Pred+Pl:л%>ӧсь K ; ! Plural predicative.
-:в AdjCompar ;
-+Der/лун:в%>лун N_ ; !Derivational suffix for A-N
+:%^LVBound K ; !! Singular predicative 
++Pred+Pl:%>ӧсь K ; ! Plural predicative.
+:%^LVBound AdjCompar ;
++Der+Der/лун+N:%^LVBound%>лун N_ ; !Derivational suffix for A-N
 
 
 
