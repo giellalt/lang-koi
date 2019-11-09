@@ -13,10 +13,10 @@
 
 ! Basic proper nouns.
 LEXICON PROP_
-+Prop+Sg: CASEPOSSLEX ;
++Sg: CASEPOSSLEX ;
 
 LEXICON Prop-R-RY
-+Prop: Noun1-R-RY ; ! This will bring about problems with ordering 2012-02-07
+: Noun1-R-RY ; ! This will bring about problems with ordering 2012-02-07
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! Russian type Surnames 
@@ -78,66 +78,66 @@ LEXICON Deriv-RUS-YJ_SURMAL
 !! PLACE NAMES FROM TEMPLATES !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON PROP-PLC_KAL
-+Prop+Sem/Plc+Sg: CASEPOSSLEX ;
++Sem/Plc+Sg: CASEPOSSLEX ;
 
 LEXICON PROP-PLC_KIT
-+Prop+Sem/Plc+Sg: CASEPOSSLEX ;
++Sem/Plc+Sg: CASEPOSSLEX ;
 
 LEXICON PROP-PLC_KUDO
-+Prop+Sem/Plc+Sg: CASEPOSSLEX ;
++Sem/Plc+Sg: CASEPOSSLEX ;
 
 !LEXICON PROP-PLC_OSH
-!+Prop+Sem/Plc+Sg: CASEPOSSLEX ;
+!+Sem/Plc+Sg: CASEPOSSLEX ;
 
 !! These are vowel-final stems
 !! They have previously received +Sem/Fem tags
 
 !LEXICON PROP_MA !!= * @CODE@ Ага+Sem/Fem:Аг 
-!+Prop+Sg:а  CASEPOSSLEX ;
+!+Sg:а  CASEPOSSLEX ;
 !LEXICON PROP_NA	!!= * @CODE@ Ада+Sem/Fem:Ад
-!+Prop+Sg:а  CASEPOSSLEX ;
+!+Sg:а  CASEPOSSLEX ;
 !LEXICON PROP_NIA	!!= * @CODE@ Аня+Sem/Fem:Ан
-!+Prop+Sg:я  CASEPOSSLEX ;
+!+Sg:я  CASEPOSSLEX ;
 
 !!
 LEXICON PROP_KAL_FEM
-+Prop+Sem/Fem+Sg: CASEPOSSLEX ;
++Sem/Ant-Fem+Sg: CASEPOSSLEX ;
 LEXICON PROP_KAL_MAL
-+Prop+Sem/Mal+Sg: CASEPOSSLEX ;
++Sem/Ant-Mal+Sg: CASEPOSSLEX ;
 LEXICON PROP_KIT_FEM
-+Prop+Sem/Fem+Sg: CASEPOSSLEX ;
++Sem/Ant-Fem+Sg: CASEPOSSLEX ;
 LEXICON PROP_KIT_MAL
-+Prop+Sem/Mal+Sg: CASEPOSSLEX ;
++Sem/Ant-Mal+Sg: CASEPOSSLEX ;
 LEXICON PROP_KIT_SUR
-+Prop+Sem/Sur+Sg: CASEPOSSLEX ;
++Sem/Sur+Sg: CASEPOSSLEX ;
 
 
 LEXICON PROP_KUDO_FEM
-+Prop+Sem/Fem+Sg: CASEPOSSLEX ;
++Sem/Ant-Fem+Sg: CASEPOSSLEX ;
 LEXICON PROP_KUDO_MAL
-+Prop+Sem/Mal+Sg: CASEPOSSLEX ;
++Sem/Ant-Mal+Sg: CASEPOSSLEX ;
 
 LEXICON PROP_KUDO_PATRFEM
-+Sem/Patr+Sem/Fem+Prop+Sg: CASEPOSSLEX ; 
++Sem/Patr-Fem+Sg: CASEPOSSLEX ; 
 
 !LEXICON PROP_KUDO_PATRMAL
-!+Sem/Patr+Sem/Mal+Prop+Sg: CASEPOSSLEX ; 
+!+Sem/Patr-Mal+Sg: CASEPOSSLEX ; 
 LEXICON PROP_LAK_MAL
-+Prop+Sem/Mal+Sg: CASEPOSSLEX ;
++Sem/Mal+Sg: CASEPOSSLEX ;
 LEXICON PROP_OSH_FEM
-+Prop+Sem/Fem+Sg: CASEPOSSLEX ;
++Sem/Fem+Sg: CASEPOSSLEX ;
 LEXICON PROP_OSH_MAL
-+Prop+Sem/Mal+Sg: CASEPOSSLEX ;
++Sem/Mal+Sg: CASEPOSSLEX ;
 LEXICON PROP_OSH_PATRMAL
-+Prop+Sem/Patr+Sg: CASEPOSSLEX ;
++Sem/Patr+Sg: CASEPOSSLEX ;
 LEXICON PROP_OSH_SUR
-+Prop+Sem/Sur+Sg: CASEPOSSLEX ;
++Sem/Sur+Sg: CASEPOSSLEX ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!! Male given name for deriving patronyms 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON PROP-PATR-MAL_END-IN-CH/DZ
-+Sem/Patr+Sem/Mal+Prop: NMN_END-IN-Ч/ДЗ ; !! Should this be limited to +Sg? 2015-09-06
++Sem/Patr-Mal: NMN_END-IN-Ч/ДЗ ; !! Should this be limited to +Sg? 2015-09-06
 
 LEXICON PropNameMaleDer-I-YEvich
 !! Вили:Вил
@@ -186,13 +186,13 @@ LEXICON PropNameMaleDer-Ovich
 !!
 
 LEXICON PropSurMal-kal
-+Prop+Sem/Sur+Sem/Mal+Sg: CASEPOSSLEX ;
++Sem/Sur-Mal+Sg: CASEPOSSLEX ;
 
 LEXICON PropSurFem-kudo
-+Prop+Sem/Sur+Sem/Fem+Sg: CASEPOSSLEX ;
++Sem/Sur-Fem+Sg: CASEPOSSLEX ;
 
 LEXICON PropSur-kal
-+Prop+Sem/Sur+Sg: CASEPOSSLEX ;
++Sem/Sur+Sg: CASEPOSSLEX ;
 
 LEXICON PropSur-kit
  PropSur-kal ;
@@ -201,11 +201,11 @@ LEXICON PropSur-lak
  PropSur-kal ;
 
 LEXICON PropSur-osh
-+Prop+Sem/Sur+Sg: CASEPOSSLEX ;
++Sem/Sur+Sg: CASEPOSSLEX ;
 
 
 LEXICON PropSur-kudo
-+Prop+Sem/Sur+Sg: CASEPOSSLEX ;
++Sem/Sur+Sg: CASEPOSSLEX ;
 
 !! Ending 2012-11-15
 
@@ -215,8 +215,8 @@ LEXICON PropSur-kudo
 
 
 !LEXICON Prop-Derivable
-!+Prop+Sem/Sur+Sem/Mal+Sg: CASEPOSSLEX ; ! Владимиров
-!а+N+Prop+Sem/Sur+Sem/Fem+Sg:%^FEM%>а CASEPOSSLEX ; ! Владимирова
+!+Sem/Sur-Mal+Sg: CASEPOSSLEX ; ! Владимиров
+!а+N+Prop+Sem/Sur-Fem+Sg:%^FEM%>а CASEPOSSLEX ; ! Владимирова
 
 ! Prop-Derivable end  in: ев, ов, ёв, ий, ин
 ! Prop-Derivable for fem: ева, ова, ёва, ая, ина
@@ -224,8 +224,8 @@ LEXICON PropSur-kudo
 
 !This might need some working on 2012-01-23
 !LEXICON PROP-MAL-DERIVABLE !Patronyms
-!ович+N+Prop+Sem/Patr+Sem/Mal+Sg:%>ович CASEPOSSLEX ; ! Владимирович
-!овна+N+Prop+Sem/Patr+Sem/Fem+Sg:%>овна CASEPOSSLEX ; ! Владимировна
+!ович+N+Prop+Sem/Patr-Mal+Sg:%>ович CASEPOSSLEX ; ! Владимирович
+!овна+N+Prop+Sem/Patr-Fem+Sg:%>овна CASEPOSSLEX ; ! Владимировна
 ! PROP-MAL ; ! Владимир
 
 !! FEMALE NAMES FROM TEMPLATE
@@ -247,42 +247,42 @@ LEXICON PropSur-kudo
 
 !LEXICON PROP-PLC ! Inanimate proper nouns. Place names
 !+Prop+Sem/Plc+Sg: CASEPOSSLEX ;
-!@U.Cap.Opt@+Prop+Sem/Plc+Der/са:@U.Cap.Opt@0%>са A_ ; !!= * __@CODE@__ This requires down-casing
+!@U.Cap.Opt@+Prop+Sem/Plc+Der+Der/LocMod:@U.Cap.Opt@0%>са A_ ; !!= * __@CODE@__ This requires down-casing
 
 LEXICON PROP-PLC-KPV ! Inanimate proper nouns. Place names
-+Prop+Sem/Plc+EOLang/KPV+Sg: CASEPOSSLEX ;
-@U.Cap.Opt@+Prop+Sem/Plc+EOLang/KPV+Der/са:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
++Sem/Plc+EOLang/KPV+Sg: CASEPOSSLEX ;
+@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
 
 !LEXICON PROP-PLC-RUS ! Inanimate proper nouns. Place names
-!+Prop+Sem/Plc+Src/F+Sg: CASEPOSSLEX ;
-!@U.Cap.Opt@+Prop+Sem/Plc+Src/F+Der/са:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
+!+Sem/Plc+Src/F+Sg: CASEPOSSLEX ;
+!@U.Cap.Opt@+Sem/Plc+Src/F+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
 
 !LEXICON PROP-KPV ! Inanimate proper nouns. Place names
-!+Prop+EOLang/KPV+Sg: CASEPOSSLEX ;
-!@U.Cap.Opt@+Prop+EOLang/KPV+Der/са:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
+!+EOLang/KPV+Sg: CASEPOSSLEX ;
+!@U.Cap.Opt@+EOLang/KPV+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
 
 !LEXICON PROP-RUS ! Inanimate proper nouns. Place names
-!+Prop+EOLang/RUS+Sg: CASEPOSSLEX ;
-!@U.Cap.Opt@+Prop+EOLang/RUS+Der/са:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
+!+EOLang/RUS+Sg: CASEPOSSLEX ;
+!@U.Cap.Opt@+EOLang/RUS+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
 
 !LEXICON PROP-PLC_SUB ! Inanimate proper nouns. Place names
-!+Prop+Sem/Plc+Err/Orth+Sg: CASEPOSSLEX ;
-!@U.Cap.Opt@+Prop+Sem/Plc+Err/Orth+Der/са:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
+!+Sem/Plc+Err/Orth+Sg: CASEPOSSLEX ;
+!@U.Cap.Opt@+Sem/Plc+Err/Orth+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
 
 !LEXICON PROP-ORG ! Inanimate proper nouns. Name of organization
-!+Prop+Sem/Org+Sg: CASEPOSSLEX ;
+!+Sem/Org+Sg: CASEPOSSLEX ;
 
 !LEXICON Prop-Sur-Mal ! Basic nouns.
-!+Prop+Sem/Sur+Sem/Mal+Sg: CASEPOSSLEX ;
+!+Sem/Sur-Mal+Sg: CASEPOSSLEX ;
 
 !LEXICON PROP-MAL ! Male given names
-!+Prop+Sem/Mal+Sg: CASEPOSSLEX ;
+!+Sem/Mal+Sg: CASEPOSSLEX ;
 
 !LEXICON Prop-Sur-Fem ! Basic nouns.
-!+Prop+Sem/Sur+Sem/Fem+Sg: CASEPOSSLEX ;
+!+Sem/Sur-Fem+Sg: CASEPOSSLEX ;
 
 !LEXICON PROP-FEM ! Female given names
-!+Prop+Sem/Fem+Sg: CASEPOSSLEX ;
+!+Sem/Fem+Sg: CASEPOSSLEX ;
 
 
 

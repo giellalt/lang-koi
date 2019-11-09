@@ -109,11 +109,14 @@ Terminative -ви
 Terminative -ӧдз
 Vocative
 
+
+transitive THIS should be removed 2019-11-01
+
 used when possessive marking occurs before case
 used when case occurs before possessive marking
 
 
-this will be used for marking Absolute forms such as кыкнан in collective numerals, which can only appear with a following NP. DO WE NEED THIS 2019-10-22? jaska Niko
+this will be used for marking complement forms such as кыкнан in collective numerals, сы , which can only appear with a following NP. DO WE NEED THIS 2019-10-22? jaska Niko
 
 
 !!Symbols that need to be escaped on the lower side (towards twolc):
@@ -159,10 +162,14 @@ Where do these come from source
  * __+Src/F__ foreign source apparently 2015-09-08
  * __+Dim__ diminutive
 
+
  * __+Sem/Act__ Activity
  * __+Sem/Amount__ Amount
  * __+Sem/Ani__ Animate
  * __+Sem/Aniprod__ Animal Product
+ * __+Sem/Ant	__ Antroponym
+ * __+Sem/Ant-Fem	__ Female Antroponym
+ * __+Sem/Ant-Mal	__ Male Antroponym
  * __+Sem/Body__ Bodypart
  * __+Sem/Body-abstr__ siellu, vuoig?a, jierbmi
  * __+Sem/Build__ Building
@@ -211,6 +218,9 @@ Where do these come from source
  * __+Sem/Obj-surfc__ Surface object
  * __+Sem/Org__ Organisation
  * __+Sem/Part__ Feature, oassi, bealli
+ * __+Sem/Patr	__ Patronymic
+ * __+Sem/Patr-Fem	__ Female Patronymic
+ * __+Sem/Patr-Mal	__ Male Patronymic
  * __+Sem/Perc-cogn__ Cognative perception
  * __+Sem/Perc-emo__ Emotional perception
  * __+Sem/Perc-phys__ Physical perception
@@ -239,6 +249,8 @@ Where do these come from source
  * __+Sem/State-sick__ Illness
  * __+Sem/Substnc__ Substance, like Air and Water
  * __+Sem/Sur__ Surname
+ * __+Sem/Sur-Fem__ Surname
+ * __+Sem/Sur-Mal__ Surname
  * __+Sem/Symbol__ Symbol
  * __+Sem/Time__ Time
  * __+Sem/Tool__ Prototypical tool for repairing things
@@ -258,6 +270,7 @@ Where do these come from source
 
 
 Semantics are classified with
+ * __+Sem/Inanim__  Inanimate,
  * __+Sem/NonHum__  Nonhuman,
 
 
@@ -272,6 +285,14 @@ source and target part-of-speech.
 
 
 
+
+
+ *  __+Der/AdvCompMod	__ Adverbial comparative modifier in моз Der/моз +MOZ  diminishing, kind of, sort of
+ *  __+Der/CompMod	__ comparative modifier in кодь Der/кодь ! diminishing, kind of, sort of
+ *  __+Der/PrivMod__ privative or abessive modifier -тӧм AbeMod
+ *  __+Der/LocMod__ locative modifier са - IneMod
+ *  __+Der/ProprietiveMod__ habeo modifier HabObjMod Der/а
+ *  __+Der/TempMod__ temporal modifier ся -
 
 
 2012-09-11 Perhaps this is only syntactic
@@ -289,8 +310,11 @@ Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
 
+
 And following triggers to control variation
  * %^1Cns    Plural-initial; it allows for doubling of consonant
+ * %^LVBound     boundary for LV change instead of Consonant or end of word
+ * %^VowRM       vowel syncope
 
 * »
 * «
@@ -351,6 +375,7 @@ Removal
 The word forms in the KOMI-PERMYAK language start from the lexeme roots of basic
 
 word classes, or optionally from prefixes:
+
 
 Incoming from akusanat
 

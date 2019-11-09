@@ -118,14 +118,22 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +TerI !! Terminative -ӧдз
  +Voc !! Vocative
 
+! compounding
+ +SerialVerb
+
+! For deletion
+ +Tra !! transitive THIS should be removed 2019-11-01
+ +Adn
+
+!
 +So/PC !! used when possessive marking occurs before case
 +So/CP !! used when case occurs before possessive marking
 
++Der
 +Der/Ок
 +Der/Dimin
 
-+Cmpl
-+Abs	!! this will be used for marking Absolute forms such as кыкнан in collective numerals, which can only appear with a following NP. DO WE NEED THIS 2019-10-22? jaska Niko
++Cmpl !! this will be used for marking complement forms such as кыкнан in collective numerals, сы , which can only appear with a following NP. DO WE NEED THIS 2019-10-22? jaska Niko
 
 
         !! !!Symbols that need to be escaped on the lower side (towards twolc):
@@ -141,6 +149,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
+ +NoPoss
 !! ODD
  +Px1 +Px2 +Px3
  
@@ -153,7 +162,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Distr ! Distributive
  +Iter ! Iterative form expressing number of times
  +Tot
-
+ 
 !! Verb moods are:
  +Imprt !!≈ ;@CODE@: imperative
  +Ind !!≈ ;@CODE@: indicative
@@ -168,9 +177,11 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 !! Other verb forms are
  +Inf
  +Ger !! Gerund This is used with derivations
+ +Pred
 
 +ConNeg +Neg
-! +ConNegII +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
++PrsPrc +PrfPrc +Prc
+! +ConNegII +ImprtII +Sup +VGen +VAbess
 +Final ! мог, мон, моз 'so that I won't'
 
 ! Abbreviated words are classified with:
@@ -203,12 +214,16 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +Src/F         !!≈ * __@CODE@__ foreign source apparently 2015-09-08
 +Dim         !!≈ * __@CODE@__ diminutive
 
+
 ! Semantic tags to help disambiguation & synt. analysis: (before POS)
 ! Borrowed from main/langs/sme/src/morphology/root.lexc
  +Sem/Act         !!≈ * __@CODE@__ Activity
  +Sem/Amount      !!≈ * __@CODE@__ Amount
  +Sem/Ani         !!≈ * __@CODE@__ Animate
  +Sem/Aniprod     !!≈ * __@CODE@__ Animal Product
+ +Sem/Ant	  !!≈ * __@CODE@__ Antroponym
+ +Sem/Ant-Fem	  !!≈ * __@CODE@__ Female Antroponym
+ +Sem/Ant-Mal	  !!≈ * __@CODE@__ Male Antroponym
  +Sem/Body        !!≈ * __@CODE@__ Bodypart
  +Sem/Body-abstr  !!≈ * __@CODE@__ siellu, vuoig?a, jierbmi
  +Sem/Build       !!≈ * __@CODE@__ Building
@@ -257,6 +272,9 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Sem/Obj-surfc       !!≈ * __@CODE@__ Surface object
  +Sem/Org         !!≈ * __@CODE@__ Organisation
  +Sem/Part        !!≈ * __@CODE@__ Feature, oassi, bealli
+ +Sem/Patr	  !!≈ * __@CODE@__ Patronymic
+ +Sem/Patr-Fem	  !!≈ * __@CODE@__ Female Patronymic
+ +Sem/Patr-Mal	  !!≈ * __@CODE@__ Male Patronymic
  +Sem/Perc-cogn       !!≈ * __@CODE@__ Cognative perception
  +Sem/Perc-emo        !!≈ * __@CODE@__ Emotional perception
  +Sem/Perc-phys       !!≈ * __@CODE@__ Physical perception
@@ -285,6 +303,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Sem/State-sick      !!≈ * __@CODE@__ Illness
  +Sem/Substnc     !!≈ * __@CODE@__ Substance, like Air and Water
  +Sem/Sur         !!≈ * __@CODE@__ Surname
+ +Sem/Sur-Fem         !!≈ * __@CODE@__ Surname
+ +Sem/Sur-Mal         !!≈ * __@CODE@__ Surname
  +Sem/Symbol      !!≈ * __@CODE@__ Symbol
  +Sem/Time        !!≈ * __@CODE@__ Time
  +Sem/Tool        !!≈ * __@CODE@__ Prototypical tool for repairing things
@@ -434,7 +454,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 ! +Sem/Kin	  !!≈ * __@CODE@__ Kin term
 ! +Sem/Patr   	  !!≈ * __@CODE@__  Patronym
 ! +Sem/Rvr    !!≈ * __@CODE@__  name of river or water way, media of transportation,
-! +Sem/Inanim !!≈ * __@CODE@__  Inanimate,
+ +Sem/Inanim !!≈ * __@CODE@__  Inanimate,
  +Sem/NonHum !!≈ * __@CODE@__  Nonhuman,
 
 
@@ -490,9 +510,16 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 
 
 ! Declaring adjectival derivations
-+Der/а +Der/са +Der/ся +Der/кодь +Der/Иник
++Der/а +Der/Иник
 
-+IneMod +CompMod +AbeMod +HabObjMod +TempMod
+
+ +Der/AdvCompMod	 !!≈ *  __@CODE@__ Adverbial comparative modifier in моз Der/моз +MOZ  diminishing, kind of, sort of
+ +Der/CompMod	 !!≈ *  __@CODE@__ comparative modifier in кодь Der/кодь ! diminishing, kind of, sort of
+ +Der/PrivMod    !!≈ *  __@CODE@__ privative or abessive modifier -тӧм AbeMod
+ +Der/LocMod    !!≈ *  __@CODE@__ locative modifier са - IneMod
+ +Der/ProprietiveMod    !!≈ *  __@CODE@__ habeo modifier HabObjMod Der/а
+ +Der/TempMod    !!≈ *  __@CODE@__ temporal modifier ся -
+
 ! Declaring spatial adverb derivations; see also spatial postpositions
 +Der/ла
 +Der/ладор
@@ -509,8 +536,6 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 
 !Declaring Comparison particles
 +Der/жык ! Comparitive 2016-07-14
-+Der/моз !+MOZ ! diminishing, kind of, sort of
-+Der/кодь ! diminishing, kind of, sort of
 
 !Declaring Noun derivations
 +Der/лун ! adjective-to-noun
@@ -552,10 +577,14 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 !! symbols in the lexicon files:
 к2 л2 м2 т2 ь2 К2 Л2 М2 Т2 Ь2 И2 %>
 %{иі%} 
+%{ая%}
+
 
 !! And following triggers to control variation
  {front} {back}
 %^1Cns   !!= * @CODE@ Plural-initial; it allows for doubling of consonant
+%^LVBound    !!= * @CODE@ boundary for LV change instead of Consonant or end of word
+%^VowRM      !!= * @CODE@ vowel syncope
 
  »7     !! * »
  «7     !! * «
@@ -711,7 +740,6 @@ LEXICON Root
 !! word classes, or optionally from prefixes:
    Abbreviation       ;
    Nouns       ;
-   Verbs       ;
    Adjectives  ;
    Adverbs  ;
    Conjunctors	;
@@ -721,6 +749,8 @@ LEXICON Root
    Prefixes    ;
    Punctuation ;
    Symbols     ;
+
+   Verbs       ; !check this
 
 !   Adpositions  ; Removed 2019-10-26
 !! Incoming from akusanat
@@ -735,7 +765,7 @@ LEXICON Root
    Num_koi2x ;
    Pcle_koi2x ;
    Pron_koi2x ;
-   V_koi2x ;
+!   V_koi2x ;
 
 VERBNEGATIVE ;
 
@@ -748,6 +778,7 @@ VERBNEGATIVE ;
  NUM_NEWWORDS ;
  PCLE_NEWWORDS ;
  PRON_NEWWORDS ;
+ KOM-RUS-PROP_NEWWORDS ;
  PROPERNOUNS-TOPONYMS-KOMI_NEWWORDS ;
  V_NEWWORDS ;
 
@@ -786,7 +817,7 @@ LEXICON EndNeg
 !+Qst: WordEnd ;
 
 LEXICON INTERJ_
-+Interj: K ;
+: K ;
 
 ! ======= !
 ! Clitics !
@@ -824,7 +855,7 @@ LEXICON COMPARATIVE
                         K ;
 +Der/жык+Compar:%>жык K ;
 +Der/моз:%>моз K ;
-+Der/кодь:%>кодь K ;
++Der+Der/CompMod:%>кодь K ;
 
 ! TODO: Integrate this in xml-files in working…
 

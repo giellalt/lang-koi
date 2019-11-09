@@ -43,6 +43,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/adverbs_newwords.lexc    \
 			 stems/conjunctors.lexc         \
 			 stems/conjunctors_newwords.lexc         \
+			 stems/kom-rus-propernouns_newwords.lexc         \
 			 stems/nouns.lexc         \
 			 stems/nouns_newwords.lexc         \
 			 stems/numerals.lexc      \
@@ -53,9 +54,10 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/pronouns.lexc      \
 			 stems/pronouns_newwords.lexc      \
 			 stems/propernouns-toponyms-Komi_newwords.lexc      \
-			 stems/verbs.lexc	\
 			 stems/verbs_newwords.lexc
 
+
+#			 stems/verbs.lexc	
 #			 stems/adpositions.lexc    Removed 2019-10-26
 # If you are building an error-detecting L2 analyser, specify the lexc files
 # that differ between the regular L1 and the L2 analysers below, in L1 and
@@ -87,7 +89,6 @@ GENERATED_LEXC_SRCS=\
 		$(srcdir)/stems/Pcle_koi2x.lexc \
 		$(srcdir)/stems/Pron_koi2x.lexc \
 		$(srcdir)/stems/V_koi2x.lexc \
-		$(srcdir)/stems/verbs.lexc \
 		generated_files/punctuation.lexc \
 		generated_files/symbols.lexc
 
@@ -104,8 +105,7 @@ GT_XML_SRCS=\
 		stems/Num_koi2x.xml \
 		stems/Pcle_koi2x.xml \
 		stems/Pron_koi2x.xml \
-		stems/V_koi2x.xml \
-		stems/verbs.xml      
+		stems/V_koi2x.xml 
 
 # Define any additional lexc sources here (compiled on their own):
 GT_LOCAL_SRCS=
