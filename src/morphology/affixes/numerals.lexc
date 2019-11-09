@@ -20,41 +20,41 @@ LEXICON QNT-CARD_
 :%>нан COLL ;
 
 LEXICON CARD
-+Num+Card: NumCASEPOSSLEX ;
-+Num+Card+Der/кӧ+Presentational:%>%-кӧ WordEnd ;
-!+Num+Ord:%>ӧд NumCASEPOSSLEX ;
-+Qnt+Card+Iter:%>ысь K ;
-+Qnt+Card+Iter+Ins:%>ысьӧн K ;
-+Qnt+Card+Distr:%>ӧн K ;
++Card: NumCASEPOSSLEX ;
++Card+Der/кӧ+Presentational:%>%-кӧ WordEnd ;
+!+Ord:%>ӧд NumCASEPOSSLEX ;
++Card+Iter:%>%{иі%}сь K ;
++Card+Iter+Distr:%>%{иі%}сьӧн K ;
++Card+Distr:%>ӧн K ;
 
 LEXICON COLL
-+Num+Coll: NumCASEPOSSLEX ; ! _нан_ is already part of the stem
-+Num+Coll+Iter:%>ысь K ;
-+Num+Coll+Iter+Ins:%>ысьӧн K ;
++Coll: NumCASEPOSSLEX ; ! _нан_ is already part of the stem
++Coll+Iter:%>%{иі%}сь K ;
++Coll+Iter+Distr:%>%{иі%}сьӧн K ;
 
 LEXICON ORD
-+Num+Ord: NumCASEPOSSLEX ; ! ӧд part of the stem
-+Num+Ord+Iter:%>ысь K ;
-+Num+Ord+Iter+Ins:%>ысьӧн K ;
++Ord: NumCASEPOSSLEX ; ! ӧд part of the stem
++Ord+Iter:%>%{иі%}сь K ;
++Ord+Iter+Distr:%>%{иі%}сьӧн K ;!CHECKME 2019-11-04
 
 LEXICON NUM-IS_DISTR
-+Num+Distr: K ;
++Distr: K ;
 
 LEXICON QNT_
-+Qnt: NumCASEPOSSLEX ;
-+Qnt+Card+Iter:%>ысь K ;
-+Qnt+Card+Iter+Ins:%>ысьӧн K ;
-+Qnt+Card+Distr:%>ӧн K ;
+: NumCASEPOSSLEX ;
++Card+Iter:%>%{иі%}сь K ;
++Card+Iter+Distr:%>%{иі%}сьӧн K ;
++Card+Distr:%>ӧн K ;
 
 LEXICON ITER_
-+Qnt+Iter: K ;
++Iter: K ;
 
 !! LEXICON NUM-APPR ! 2011-11-03 This will need work
 LEXICON CARD-APPR
-+Num+Card+Appr: K ;
++Card+Appr: K ;
 
 LEXICON CARD-ITER-APPR
-+Num+Card+Iter+Appr: K ;
++Card+Iter+Appr: K ;
 
 
 ! =================== !
@@ -83,7 +83,7 @@ LEXICON NumMWN
 +Gen:%>лӧн K ;
 +Abl:%>лысь K ;
 DAT_лӧ-THEN-K ;
-+Acc:%>сӧ K ;
++Acc+PxSg3:%>сӧ K ;
 +Ins:%>ӧн K ;
 +Com:%>кӧд K ;
 +Car:%>тӧг K ;
@@ -95,152 +95,153 @@ DAT_лӧ-THEN-K ;
 +Apr:%>лань K ;
 +Egr:%>сянь K ;
 +Prl:%>ӧд K ;
-+Prl+Tra:%>ӧдті K ;
-+Ter:%>ӧдз K ;
+!+Prl+Tra:%>ӧдті K ;
++TerI:%>ӧдз K ;
++TerII:%>ви K ;
 !149
 
 !1SG
-+PxSg1+Nom:%>ӧй K ;
-+PxSg1+Gen:%>ӧйлӧн K ;
-+PxSg1+Abl:%>ӧйлысь K ;
-+PxSg1+Dat:%>ӧйлы K ;
-+PxSg1+Acc:%>ӧс K ; !Zero marking on the possessive suffix, as it were.
++Nom+PxSg1:%>ӧй K ;
++Gen+PxSg1+So/PC:%>ӧйлӧн K ;
++Abl+PxSg1+So/PC:%>ӧйлісь K ;
++Dat+PxSg1+So/PC:%>ӧйлӧ K ;
++Acc+PxSg1:%>ӧс K ; !Zero marking on the possessive suffix, as it were.
 
-+Ins+PxSg1:%>нам K ;
++Ins+PxSg1+So/CP:%>нам K ;
 
-+PxSg1+Com:%>ӧйкӧд K ;
-+PxSg1+Car:%>ӧйтӧг K ;
-+PxSg1+Cns:%>ӧйла K ;
++Com+PxSg1+So/PC:%>ӧйкӧд K ;
++Car+PxSg1+So/PC:%>ӧйтӧг K ;
++Cns+PxSg1+So/PC:%>ӧйла K ;
 
-+Ine+PxSg1:%>ам K ;
-+Ela+PxSg1:%>сьым K ;
-+Ill+PxSg1:%>ам K ;
++Ine+PxSg1+So/CP:%>ам K ;
++Ela+PxSg1+So/CP:%>сьым K ;
++Ill+PxSg1+So/CP:%>ам K ;
 
-+PxSg1+Apr:%>ӧйлань K ;
-+PxSg1+Egr:%>ӧйсянь K ;
++Apr+PxSg1+So/PC:%>ӧйлань K ;
++Egr+PxSg1+So/PC:%>ӧйсянь K ;
 
-+Prl+PxSg1:%>ӧдым K ;
-+Ter+PxSg1:%>ӧдзым K ;
++Prl+PxSg1+So/CP:%>ӧдым K ;
++TerI+PxSg1+So/CP:%>ӧдзым K ; !CHECKME 2019-11-04
 
 !2SG
-+PxSg2+Nom:%>ыд K ;
-+PxSg2+Gen:%>ыдлӧн K ;
-+PxSg2+Abl:%>ыдлысь K ;
-+PxSg2+Dat:%>ыдлы K ;
-+PxSg2+Acc:%>тӧ K ;
++Nom+PxSg2:%>ыт K ;
++Gen+PxSg2+So/PC:%>ытлӧн K ;
++Abl+PxSg2+So/PC:%>ытлісь K ;
++Dat+PxSg2+So/PC:%>ытлӧ K ;
++Acc+PxSg2:%>тӧ K ;
 
-+Ins+PxSg2:%>над K ;
++Ins+PxSg2+So/CP:%>нат K ;
 
-+PxSg2+Com:%>ыдкӧд K ;
++Com+PxSg2+So/PC:%>ыткӧд K ;
 
-+PxSg2+Car:%>ыдтӧг K ;
++Car+PxSg2+So/PC:%>ыттӧг K ;
 
-+PxSg2+Cns:%>ыдла K ;
++Cns+PxSg2+So/PC:%>ыдла K ;
 
-+Ine+PxSg2:%>ад K ;
-+Ela+PxSg2:%>сьыд K ;
-+Ill+PxSg2:%>ад K ;
-+PxSg2+Apr:%>ыдлань K ;
-+PxSg2+Egr:%>ыдсянь K ;
-+Prl+PxSg2:%>ӧдыд K ;
-+Ter+PxSg2:%>ӧдзыд K ;
++Ine+PxSg2+So/CP:%>ат K ;
++Ela+PxSg2+So/CP:%>сьыт K ;
++Ill+PxSg2+So/CP:%>ат K ;
++Apr+PxSg2+So/PC:%>ытлань K ;
++Egr+PxSg2+So/PC:%>ытсянь K ;
++Prl+PxSg2+So/CP:%>ӧдыт K ;
++TerI+PxSg2+So/CP:%>ӧдзыт K ;
 
 
 !3SG
-+PxSg3+Nom:%>ыс K ;
-+PxSg3+Gen:%>ыслӧн K ;
-+PxSg3+Abl:%>ыслысь K ;
-+PxSg3+Dat:%>ыслы K ;
-+PxSg3+Acc:%>сӧ K ;
++Nom+PxSg3:%>ыс K ;
++Gen+PxSg3+So/PC:%>ыслӧн K ;
++Abl+PxSg3+So/PC:%>ыслісь K ;
++Dat+PxSg3+So/PC:%>ыслӧ K ;
++Acc+PxSg3:%>сӧ K ;
 
-+Ins+PxSg3:%>нас K ;
++Ins+PxSg3+So/CP:%>нас K ;
 
-+PxSg3+Com:%>ыскӧд K ;
++Com+PxSg3+So/PC:%>ыскӧд K ;
 
-+PxSg3+Car:%>ыстӧг K ;
-+Car+PxSg3:%>тӧгыс K ;
++Car+PxSg3+So/PC:%>ыстӧг K ;
++Car+PxSg3+So/CP:%>тӧгыс K ;
 
-+PxSg3+Cns:%>ысла K ;
++Cns+PxSg3+So/PC:%>ысла K ;
 
-+Ine+PxSg3:%>ас K ;
-+Ela+PxSg3:%>сьыс K ;
-+Ill+PxSg3:%>ас K ;
-+PxSg3+Apr:%>ыслань K ;
-+PxSg3+Egr:%>ыссянь K ;
-+Prl+PxSg3:%>ӧдыс K ;
-+Ter+PxSg3:%>ӧдзыс K ;
++Ine+PxSg3+So/CP:%>ас K ;
++Ela+PxSg3+So/CP:%>сьыс K ;
++Ill+PxSg3+So/CP:%>ас K ;
++Apr+PxSg3+So/PC:%>ыслань K ;
++Egr+PxSg3+So/PC:%>ыссянь K ;
++Prl+PxSg3+So/CP:%>ӧдыс K ;
++TerI+PxSg3+So/CP:%>ӧдзыс K ;
 
 
 !1PL
-+PxPl1+Nom:%>ным K ;
-+PxPl1+Gen:%>нымлӧн K ;
-+PxPl1+Abl:%>нымлысь K ;
-+PxPl1+Dat:%>нымлы K ;
-+PxPl1+Acc:%>нымӧс K ;
++Nom+PxPl1:%>ным K ;
++Gen+PxPl1+So/PC:%>нымлӧн K ;
++Abl+PxPl1+So/PC:%>нымлісь K ;
++Dat+PxPl1+So/PC:%>нымлӧ K ;
++Acc+PxPl1:%>нымӧс K ;
 
-+Ins+PxPl1:%>наным K ;
++Ins+PxPl1+So/CP:%>наным K ;
 
-+PxPl1+Com:%>нымкӧд K ;
++Com+PxPl1+So/PC:%>нымкӧд K ;
 
-+PxPl1+Car:%>нымтӧг K ;
++Car+PxPl1+So/PC:%>нымтӧг K ;
 
-+PxPl1+Cns:%>нымла K ;
++Cns+PxPl1+So/PC:%>нымла K ;
 
-+Ine+PxPl1:%>аным K ;
-+Ela+PxPl1:%>сьыным K ;
-+Ill+PxPl1:%>аным K ;
-+PxPl1+Apr:%>нымлань K ;
-+PxPl1+Egr:%>нымсянь K ;
-+Prl+PxPl1:%>ӧдным K ;
-+Ter+PxPl1:%>ӧдзным K ;
++Ine+PxPl1+So/CP:%>аным K ;
++Ela+PxPl1+So/CP:%>сьыным K ;
++Ill+PxPl1+So/CP:%>аным K ;
++Apr+PxPl1+So/PC:%>нымлань K ;
++Egr+PxPl1+So/PC:%>нымсянь K ;
++Prl+PxPl1+So/CP:%>ӧдным K ;
++TerI+PxPl1+So/CP:%>ӧдзным K ;
 
 !2PL
-+PxPl2+Nom:%>ныд K ;
-+PxPl2+Gen:%>ныдлӧн K ;
-+PxPl2+Abl:%>ныдлысь K ;
-+PxPl2+Dat:%>ныдлы K ;
-+PxPl2+Acc:%>нытӧ K ;
++Nom+PxPl2:%>ныт K ;
++Gen+PxPl2+So/PC:%>ныдлӧн K ;
++Abl+PxPl2+So/PC:%>ныдлісь K ;
++Dat+PxPl2+So/PC:%>ныдлӧ K ;
++Acc+PxPl2:%>нытӧ K ;
 
-+Ins+PxPl2:%>наныд K ;
++Ins+PxPl2+So/CP:%>наныт K ;
 
-+PxPl2+Com:%>ныдкӧд K ;
++Com+PxPl2+So/PC:%>ныткӧд K ;
 
-+PxPl2+Car:%>ныдтӧг K ;
++Car+PxPl2+So/PC:%>ныттӧг K ;
 
-+PxPl2+Cns:%>ныдла K ;
++Cns+PxPl2+So/PC:%>нытла K ;
 
-+Ine+PxPl2:%>аныд K ;
-+Ela+PxPl2:%>сьыныд K ;
-+Ill+PxPl2:%>аныд K ;
-+PxPl2+Apr:%>ныдлань K ;
-+PxPl2+Egr:%>ныдсянь K ;
-+Prl+PxPl2:%>ӧдныд K ;
-+Ter+PxPl2:%>ӧдзныд K ;
++Ine+PxPl2+So/CP:%>аныт K ;
++Ela+PxPl2+So/CP:%>сьыныт K ;
++Ill+PxPl2+So/CP:%>аныт K ;
++Apr+PxPl2+So/PC:%>нытлань K ;
++Egr+PxPl2+So/PC:%>нытсянь K ;
++Prl+PxPl2+So/CP:%>ӧдныт K ;
++Ter+PxPl2+So/CP:%>ӧдзныт K ;
 
 
 !3PL
-+PxPl3+Nom:%>ныс K ;
-+PxPl3+Gen:%>ныслӧн K ;
-+PxPl3+Abl:%>ныслысь K ;
-+PxPl3+Dat:%>ныслы K ;
-+PxPl3+Acc:%>нысӧ K ;
++Nom+PxPl3:%>ныс K ;
++Gen+PxPl3+So/PC:%>ныслӧн K ;
++Abl+PxPl3+So/PC:%>ныслісь K ;
++Dat+PxPl3+So/PC:%>ныслӧ K ;
++Acc+PxPl3:%>нысӧ K ;
 
-!+Ins+PxPl3:%>наныс K ; ! ста
-!+Nom+PxPl3:%>нанныс K ; ! 2012-02-16 this should be removed
+!+Ins+PxPl3+So/CP:%>наныс K ; ! ста
+!+Nom+PxPl3+So/CP:%>нанныс K ; ! 2012-02-16 this should be removed
 
-+PxPl3+Com:%>ныскӧд K ;
++Com+PxPl3+So/PC:%>ныскӧд K ;
 
-+PxPl3+Car:%>ныстӧг K ;
++Car+PxPl3+So/PC:%>ныстӧг K ;
 
-+PxPl3+Cns:%>нысла K ;
++Cns+PxPl3+So/PC:%>нысла K ;
 
-+Ine+PxPl3:%>аныс K ;
-+Ela+PxPl3:%>сьыныс K ;
-+Ill+PxPl3:%>аныс K ;
-+PxPl3+Apr:%>ныслань K ;
-+PxPl3+Egr:%>ныссянь K ;
-+Prl+PxPl3:%>ӧдныс K ;
-+Ter+PxPl3:%>ӧдзныс K ;
++Ine+PxPl3+So/CP:%>аныс K ;
++Ela+PxPl3+So/CP:%>сьыныс K ;
++Ill+PxPl3+So/CP:%>аныс K ;
++Apr+PxPl3+So/PC:%>ныслань K ;
++Egr+PxPl3+So/PC:%>ныссянь K ;
++Prl+PxPl3+So/CP:%>ӧдныс K ;
++TerI+PxPl3+So/CP:%>ӧдзныс K ;
 
 
 
