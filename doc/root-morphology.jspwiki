@@ -105,6 +105,8 @@ used when possessive marking occurs before case
 used when case occurs before possessive marking
 
 
+
+
 this will be used for marking complement forms such as кыкнан in collective numerals, сы , which can only appear with a following NP. DO WE NEED THIS 2019-10-22? jaska Niko
 
 
@@ -299,6 +301,7 @@ source and target part-of-speech.
  *  __+Der/LocMod__ locative modifier са - IneMod
  *  __+Der/ProprietiveMod__ habeo modifier HabObjMod Der/а
  *  __+Der/TempMod__ temporal modifier ся -
+
 
 
 2012-09-11 Perhaps this is only syntactic
