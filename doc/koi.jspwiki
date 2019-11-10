@@ -156,6 +156,23 @@ Non-dictionary words can be recognised with:
 
 Question and Focus particles:
 
+!Tags distinguishing different versions of the same lemma (before POS)
+ * +v1
+ * +v2
+ * +v3
+ * +v4
+ * +v5
+ * +v6
+ * +v7
+ * +v8
+ * +v9
+ * +v10
+ * +v11
+ * +v12
+ * +v13
+ * +v14
+ * +v15
+
 The Usage extents are marked using following tags:
 
 Where do these come from source
