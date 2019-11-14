@@ -75,7 +75,7 @@ LEXICON Adj-IS_PTC-YSJ
 +V+Der/ысь: A_ ;
 
 LEXICON Adj-IS_PTC-ANA !
-+V+Der/ана: A_ ;
++V+Der/Ana: A_ ;
 
 !LEXICON A-IS_DIM-НИК
 !+Der/Иник: A_ ;
@@ -99,7 +99,7 @@ LEXICON A_
 : PredMonLex ;
 : AdjCompar ;
 +Der+Der/лун+N:%>лун N_ ; !Derivational suffix for A-N
-+Der+Der/а+Adv:%>а ADV_ ; ! Derivation for adjective-to-adverb
++Der+Der/A+Adv:%>а ADV_ ; ! Derivation for adjective-to-adverb
 
 LEXICON A_PARAGOGIC-В/Л !!= * @CODE@ юмов:юмо юмолӧсь
 :%^LVBound K ; !! Singular predicative 

@@ -23,6 +23,8 @@ The parts-of-speech tags are:
  ;+Qnt: Quantifier
  ;+V: verb
 
+
+
 The parts of speech are further split up into:
 Adjectives
 
@@ -33,6 +35,7 @@ Ad-adjective
 with reference to type of adverb
 spatial
 temporal
+multiplicative, i.e. iterations
 
 Interjections
   +Conative   Used for calling animals, for example

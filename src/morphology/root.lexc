@@ -41,6 +41,11 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Qnt    !!≈ ;@CODE@: Quantifier
  +V      !!≈ ;@CODE@: verb
  +Det
+ +Aux
+
++Conj !FIXME in 
+
++VAbe 
 
 !! The parts of speech are further split up into:
 !! Adjectives
@@ -52,6 +57,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Manner     !! with reference to type of adverb
  +Spat       !! spatial
  +Temp       !! temporal
+ +Mult	     !! multiplicative, i.e. iterations
 
 !! Interjections
  +Formulaic !!
@@ -488,6 +494,13 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +ANAA ! adverb derived from participle (+ANA)
 +Der/чӧж !+CHOZH
 
++Der/A ! а Derivation for adjective-to-adverb
++Der/An ! ан
++Der/Ana ! ана
++Der/Omon ! ӧмӧн
+! V›V
++Der/Al !+ Der/ ал
++Der/Asj !+Der/ась
 
 +Instr
 +Event
@@ -878,7 +891,7 @@ LEXICON SPAT-COMPARATIVE
 
 LEXICON COMPARATIVE
                         K ;
-+Der/жык+Compar:%>жык K ;
++Der/жык+Comp:%>жык K ;
 +Der/моз:%>моз K ;
 +Der+Der/CompMod:%>кодь K ;
 
