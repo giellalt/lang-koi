@@ -8,7 +8,7 @@ LEXICON PRONOUN-TYPES
  PERS ;
  INTERR ;
  INDEFINITE-PRON ;
-! NEG-PRON ;
+ NEG-PRON ;
 ! COLL-PRON ;
 мӧдік+Pron+Indef:мӧдік NMN_ ;
 ӧтик+Pron+Indef:ӧтик NMN_ ;
@@ -428,23 +428,210 @@ LEXICON INTERR
 кодар+Pron+A+Der/MWN:кодар PRON-HUM-OBL ;
 кодар+Pron+A+Der/ладор:кодарладор PRON-HUM-OBL ;
 
+кӧда+Pron+Interr+Sg+Nom:кӧда  WordEnd ;
+кӧда+Pron+Interr+Sg+Gen:кӧдалӧн  WordEnd ;
+кӧда+Pron+Interr+Sg+Abl:кӧдалісь  WordEnd ;
+кӧда+Pron+Interr+Sg+Dat:кӧдалӧ  WordEnd ;
+кӧда+Pron+Interr+Sg+Acc:кӧдӧ  WordEnd ;
+кӧда+Pron+Interr+Sg+Ins:кӧдӧн  WordEnd ;
+кӧда+Pron+Interr+Sg+Com:кӧдакӧт  WordEnd ;
+кӧда+Pron+Interr+Sg+Car:кӧдатӧг  WordEnd ;
+кӧда+Pron+Interr+Sg+Cns:кӧдала  WordEnd ;
+кӧда+Pron+Interr+Sg+Cmpr:кӧдася  WordEnd ;
+кӧда+Pron+Interr+Sg+Ine:кӧдаын  WordEnd ;
+кӧда+Pron+Interr+Sg+Ela:кӧдаись  WordEnd ;
+кӧда+Pron+Interr+Sg+Ill:кӧдаӧ  WordEnd ;
+кӧда+Pron+Interr+Sg+Apr:кӧдалань  WordEnd ;
+кӧда+Pron+Interr+Sg+Egr:кӧдасянь  WordEnd ;
+кӧда+Pron+Interr+Sg+Prl:кӧдаӧт  WordEnd ;
+кӧда+Pron+Interr+Sg+TerI:кӧдаӧдз  WordEnd ;
+
+кӧда+Pron+Interr+Pl+Nom:кӧдна  WordEnd ;
+кӧда+Pron+Interr+Pl+Gen:кӧдналӧн  WordEnd ;
+кӧда+Pron+Interr+Pl+Abl:кӧдналісь  WordEnd ;
+кӧда+Pron+Interr+Pl+Dat:кӧдналӧ  WordEnd ;
+кӧда+Pron+Interr+Pl+Acc:кӧднӧ  WordEnd ;
+кӧда+Pron+Interr+Pl+Ins:кӧднӧн  WordEnd ;
+кӧда+Pron+Interr+Pl+Com:кӧднакӧт  WordEnd ;
+кӧда+Pron+Interr+Pl+Car:кӧднатӧг  WordEnd ;
+кӧда+Pron+Interr+Pl+Cns:кӧднала  WordEnd ;
+кӧда+Pron+Interr+Pl+Cmpr:кӧднася  WordEnd ;
+кӧда+Pron+Interr+Pl+Ine:кӧднаын  WordEnd ;
+кӧда+Pron+Interr+Pl+Ela:кӧднаись  WordEnd ;
+кӧда+Pron+Interr+Pl+Ill:кӧднаӧ  WordEnd ;
+кӧда+Pron+Interr+Pl+Apr:кӧдналань  WordEnd ;
+кӧда+Pron+Interr+Pl+Egr:кӧднасянь  WordEnd ;
+кӧда+Pron+Interr+Pl+Prl:кӧднаӧт  WordEnd ;
+кӧда+Pron+Interr+Pl+TerI:кӧднаӧдз  WordEnd ;
+
+кӧда+Pron+Interr+Sg+Nom+PxPl1:кӧдным  WordEnd ;
+кӧда+Pron+Interr+Sg+Gen+PxPl1:кӧднымлӧн  WordEnd ;
+кӧда+Pron+Interr+Sg+Abl+PxPl1:кӧднымлісь  WordEnd ;
+кӧда+Pron+Interr+Sg+Dat+PxPl1:кӧднымлӧ  WordEnd ;
+кӧда+Pron+Interr+Sg+Acc+PxPl1:кӧднымӧ  WordEnd ;
+кӧда+Pron+Interr+Sg+Ins+PxPl1:кӧднымӧн  WordEnd ;
+кӧда+Pron+Interr+Sg+Ins+PxPl1:кӧднаным  WordEnd ;
+кӧда+Pron+Interr+Sg+Com+PxPl1:кӧднымкӧт  WordEnd ;
+кӧда+Pron+Interr+Sg+Car+PxPl1:кӧднымтӧг  WordEnd ;
+кӧда+Pron+Interr+Sg+Cns+PxPl1:кӧднымла  WordEnd ;
+кӧда+Pron+Interr+Sg+Cmpr+PxPl1:кӧднымся  WordEnd ;
+кӧда+Pron+Interr+Sg+Ine+PxPl1:кӧднымын  WordEnd ;
+кӧда+Pron+Interr+Sg+Ela+PxPl1:кӧднымись  WordEnd ;
+кӧда+Pron+Interr+Sg+Ill+PxPl1:кӧднымӧ  WordEnd ;
+кӧда+Pron+Interr+Sg+Apr+PxPl1:кӧднымлань  WordEnd ;
+кӧда+Pron+Interr+Sg+Egr+PxPl1:кӧднымсянь  WordEnd ;
+кӧда+Pron+Interr+Sg+Prl+PxPl1:кӧднымӧт  WordEnd ;
+кӧда+Pron+Interr+Sg+TerI+PxPl1:кӧднымӧдз  WordEnd ;
+
+кӧда+Pron+Interr+Sg+Nom+PxPl2:кӧдныт  WordEnd ;
+кӧда+Pron+Interr+Sg+Gen+PxPl2:кӧднытлӧн  WordEnd ;
+кӧда+Pron+Interr+Sg+Abl+PxPl2:кӧднытлісь  WordEnd ;
+кӧда+Pron+Interr+Sg+Dat+PxPl2:кӧднытлӧ  WordEnd ;
+кӧда+Pron+Interr+Sg+Acc+PxPl2:кӧднытӧ  WordEnd ;
+кӧда+Pron+Interr+Sg+Ins+PxPl2:кӧднытӧн  WordEnd ;
+кӧда+Pron+Interr+Sg+Ins+PxPl2:кӧднаныт  WordEnd ;
+кӧда+Pron+Interr+Sg+Com+PxPl2:кӧдныткӧт  WordEnd ;
+кӧда+Pron+Interr+Sg+Car+PxPl2:кӧдныттӧг  WordEnd ;
+кӧда+Pron+Interr+Sg+Cns+PxPl2:кӧднытла  WordEnd ;
+кӧда+Pron+Interr+Sg+Cmpr+PxPl2:кӧднытся  WordEnd ;
+кӧда+Pron+Interr+Sg+Ine+PxPl2:кӧднытын  WordEnd ;
+кӧда+Pron+Interr+Sg+Ela+PxPl2:кӧднытись  WordEnd ;
+кӧда+Pron+Interr+Sg+Ill+PxPl2:кӧднытӧ  WordEnd ;
+кӧда+Pron+Interr+Sg+Apr+PxPl2:кӧднытлань  WordEnd ;
+кӧда+Pron+Interr+Sg+Egr+PxPl2:кӧднытсянь  WordEnd ;
+кӧда+Pron+Interr+Sg+Prl+PxPl2:кӧднытӧт  WordEnd ;
+кӧда+Pron+Interr+Sg+TerI+PxPl2:кӧднытӧдз  WordEnd ;
+
+кӧда+Pron+Interr+Sg+Nom+PxPl3:кӧдныс  WordEnd ;
+кӧда+Pron+Interr+Sg+Gen+PxPl3:кӧдныслӧн  WordEnd ;
+кӧда+Pron+Interr+Sg+Abl+PxPl3:кӧдныслісь  WordEnd ;
+кӧда+Pron+Interr+Sg+Dat+PxPl3:кӧдныслӧ  WordEnd ;
+кӧда+Pron+Interr+Sg+Acc+PxPl3:кӧднысӧ  WordEnd ;
+кӧда+Pron+Interr+Sg+Ins+PxPl3:кӧднысӧн  WordEnd ;
+кӧда+Pron+Interr+Sg+Ins+PxPl3:кӧднаныс  WordEnd ;
+кӧда+Pron+Interr+Sg+Com+PxPl3:кӧдныскӧт  WordEnd ;
+кӧда+Pron+Interr+Sg+Car+PxPl3:кӧдныстӧг  WordEnd ;
+кӧда+Pron+Interr+Sg+Cns+PxPl3:кӧднысла  WordEnd ;
+кӧда+Pron+Interr+Sg+Cmpr+PxPl3:кӧднысся  WordEnd ;
+кӧда+Pron+Interr+Sg+Ine+PxPl3:кӧднысын  WordEnd ;
+кӧда+Pron+Interr+Sg+Ela+PxPl3:кӧднысись  WordEnd ;
+кӧда+Pron+Interr+Sg+Ill+PxPl3:кӧднысӧ  WordEnd ;
+кӧда+Pron+Interr+Sg+Apr+PxPl3:кӧдныслань  WordEnd ;
+кӧда+Pron+Interr+Sg+Egr+PxPl3:кӧдныссянь  WordEnd ;
+кӧда+Pron+Interr+Sg+Prl+PxPl3:кӧднысӧт  WordEnd ;
+кӧда+Pron+Interr+Sg+TerI+PxPl3:кӧднысӧдз  WordEnd ;
+
+кӧда+Pron+Rel+Sg+Nom:кӧда  WordEnd ;
+кӧда+Pron+Rel+Sg+Gen:кӧдалӧн  WordEnd ;
+кӧда+Pron+Rel+Sg+Abl:кӧдалісь  WordEnd ;
+кӧда+Pron+Rel+Sg+Dat:кӧдалӧ  WordEnd ;
+кӧда+Pron+Rel+Sg+Acc:кӧдӧ  WordEnd ;
+кӧда+Pron+Rel+Sg+Ins:кӧдӧн  WordEnd ;
+кӧда+Pron+Rel+Sg+Com:кӧдакӧт  WordEnd ;
+кӧда+Pron+Rel+Sg+Car:кӧдатӧг  WordEnd ;
+кӧда+Pron+Rel+Sg+Cns:кӧдала  WordEnd ;
+кӧда+Pron+Rel+Sg+Cmpr:кӧдася  WordEnd ;
+кӧда+Pron+Rel+Sg+Ine:кӧдаын  WordEnd ;
+кӧда+Pron+Rel+Sg+Ela:кӧдаись  WordEnd ;
+кӧда+Pron+Rel+Sg+Ill:кӧдаӧ  WordEnd ;
+кӧда+Pron+Rel+Sg+Apr:кӧдалань  WordEnd ;
+кӧда+Pron+Rel+Sg+Egr:кӧдасянь  WordEnd ;
+кӧда+Pron+Rel+Sg+Prl:кӧдаӧт  WordEnd ;
+кӧда+Pron+Rel+Sg+TerI:кӧдаӧдз  WordEnd ;
+
+кӧда+Pron+Rel+Pl+Nom:кӧдна  WordEnd ;
+кӧда+Pron+Rel+Pl+Gen:кӧдналӧн  WordEnd ;
+кӧда+Pron+Rel+Pl+Abl:кӧдналісь  WordEnd ;
+кӧда+Pron+Rel+Pl+Dat:кӧдналӧ  WordEnd ;
+кӧда+Pron+Rel+Pl+Acc:кӧднӧ  WordEnd ;
+кӧда+Pron+Rel+Pl+Ins:кӧднӧн  WordEnd ;
+кӧда+Pron+Rel+Pl+Com:кӧднакӧт  WordEnd ;
+кӧда+Pron+Rel+Pl+Car:кӧднатӧг  WordEnd ;
+кӧда+Pron+Rel+Pl+Cns:кӧднала  WordEnd ;
+кӧда+Pron+Rel+Pl+Cmpr:кӧднася  WordEnd ;
+кӧда+Pron+Rel+Pl+Ine:кӧднаын  WordEnd ;
+кӧда+Pron+Rel+Pl+Ela:кӧднаись  WordEnd ;
+кӧда+Pron+Rel+Pl+Ill:кӧднаӧ  WordEnd ;
+кӧда+Pron+Rel+Pl+Apr:кӧдналань  WordEnd ;
+кӧда+Pron+Rel+Pl+Egr:кӧднасянь  WordEnd ;
+кӧда+Pron+Rel+Pl+Prl:кӧднаӧт  WordEnd ;
+кӧда+Pron+Rel+Pl+TerI:кӧднаӧдз  WordEnd ;
+
+кӧда+Pron+Rel+Sg+Nom+PxPl1:кӧдным  WordEnd ;
+кӧда+Pron+Rel+Sg+Gen+PxPl1:кӧднымлӧн  WordEnd ;
+кӧда+Pron+Rel+Sg+Abl+PxPl1:кӧднымлісь  WordEnd ;
+кӧда+Pron+Rel+Sg+Dat+PxPl1:кӧднымлӧ  WordEnd ;
+кӧда+Pron+Rel+Sg+Acc+PxPl1:кӧднымӧ  WordEnd ;
+кӧда+Pron+Rel+Sg+Ins+PxPl1:кӧднымӧн  WordEnd ;
+кӧда+Pron+Rel+Sg+Ins+PxPl1:кӧднаным  WordEnd ;
+кӧда+Pron+Rel+Sg+Com+PxPl1:кӧднымкӧт  WordEnd ;
+кӧда+Pron+Rel+Sg+Car+PxPl1:кӧднымтӧг  WordEnd ;
+кӧда+Pron+Rel+Sg+Cns+PxPl1:кӧднымла  WordEnd ;
+кӧда+Pron+Rel+Sg+Cmpr+PxPl1:кӧднымся  WordEnd ;
+кӧда+Pron+Rel+Sg+Ine+PxPl1:кӧднымын  WordEnd ;
+кӧда+Pron+Rel+Sg+Ela+PxPl1:кӧднымись  WordEnd ;
+кӧда+Pron+Rel+Sg+Ill+PxPl1:кӧднымӧ  WordEnd ;
+кӧда+Pron+Rel+Sg+Apr+PxPl1:кӧднымлань  WordEnd ;
+кӧда+Pron+Rel+Sg+Egr+PxPl1:кӧднымсянь  WordEnd ;
+кӧда+Pron+Rel+Sg+Prl+PxPl1:кӧднымӧт  WordEnd ;
+кӧда+Pron+Rel+Sg+TerI+PxPl1:кӧднымӧдз  WordEnd ;
+
+кӧда+Pron+Rel+Sg+Nom+PxPl2:кӧдныт  WordEnd ;
+кӧда+Pron+Rel+Sg+Gen+PxPl2:кӧднытлӧн  WordEnd ;
+кӧда+Pron+Rel+Sg+Abl+PxPl2:кӧднытлісь  WordEnd ;
+кӧда+Pron+Rel+Sg+Dat+PxPl2:кӧднытлӧ  WordEnd ;
+кӧда+Pron+Rel+Sg+Acc+PxPl2:кӧднытӧ  WordEnd ;
+кӧда+Pron+Rel+Sg+Ins+PxPl2:кӧднытӧн  WordEnd ;
+кӧда+Pron+Rel+Sg+Ins+PxPl2:кӧднаныт  WordEnd ;
+кӧда+Pron+Rel+Sg+Com+PxPl2:кӧдныткӧт  WordEnd ;
+кӧда+Pron+Rel+Sg+Car+PxPl2:кӧдныттӧг  WordEnd ;
+кӧда+Pron+Rel+Sg+Cns+PxPl2:кӧднытла  WordEnd ;
+кӧда+Pron+Rel+Sg+Cmpr+PxPl2:кӧднытся  WordEnd ;
+кӧда+Pron+Rel+Sg+Ine+PxPl2:кӧднытын  WordEnd ;
+кӧда+Pron+Rel+Sg+Ela+PxPl2:кӧднытись  WordEnd ;
+кӧда+Pron+Rel+Sg+Ill+PxPl2:кӧднытӧ  WordEnd ;
+кӧда+Pron+Rel+Sg+Apr+PxPl2:кӧднытлань  WordEnd ;
+кӧда+Pron+Rel+Sg+Egr+PxPl2:кӧднытсянь  WordEnd ;
+кӧда+Pron+Rel+Sg+Prl+PxPl2:кӧднытӧт  WordEnd ;
+кӧда+Pron+Rel+Sg+TerI+PxPl2:кӧднытӧдз  WordEnd ;
+
+кӧда+Pron+Rel+Sg+Nom+PxPl3:кӧдныс  WordEnd ;
+кӧда+Pron+Rel+Sg+Gen+PxPl3:кӧдныслӧн  WordEnd ;
+кӧда+Pron+Rel+Sg+Abl+PxPl3:кӧдныслісь  WordEnd ;
+кӧда+Pron+Rel+Sg+Dat+PxPl3:кӧдныслӧ  WordEnd ;
+кӧда+Pron+Rel+Sg+Acc+PxPl3:кӧднысӧ  WordEnd ;
+кӧда+Pron+Rel+Sg+Ins+PxPl3:кӧднысӧн  WordEnd ;
+кӧда+Pron+Rel+Sg+Ins+PxPl3:кӧднаныс  WordEnd ;
+кӧда+Pron+Rel+Sg+Com+PxPl3:кӧдныскӧт  WordEnd ;
+кӧда+Pron+Rel+Sg+Car+PxPl3:кӧдныстӧг  WordEnd ;
+кӧда+Pron+Rel+Sg+Cns+PxPl3:кӧднысла  WordEnd ;
+кӧда+Pron+Rel+Sg+Cmpr+PxPl3:кӧднысся  WordEnd ;
+кӧда+Pron+Rel+Sg+Ine+PxPl3:кӧднысын  WordEnd ;
+кӧда+Pron+Rel+Sg+Ela+PxPl3:кӧднысись  WordEnd ;
+кӧда+Pron+Rel+Sg+Ill+PxPl3:кӧднысӧ  WordEnd ;
+кӧда+Pron+Rel+Sg+Apr+PxPl3:кӧдныслань  WordEnd ;
+кӧда+Pron+Rel+Sg+Egr+PxPl3:кӧдныссянь  WordEnd ;
+кӧда+Pron+Rel+Sg+Prl+PxPl3:кӧднысӧт  WordEnd ;
+кӧда+Pron+Rel+Sg+TerI+PxPl3:кӧднысӧдз  WordEnd ;
+
+
 коді:код PRON-HUM ;
 
-кодыр+Pron+Adv+Temp:кодыр INTERR-REL-INDEF ;
-кор+Pron+Adv+Temp:кор INTERR-REL-INDEF ;
-кор+Pron+Adv+Temp+Pl+Ill:коръясӧ INTERR-REL-INDEF ;
-коръя+Pron+Adv+Temp:коръя INTERR-REL-INDEF ;
-кудз+Pron+Adv+Manner+Err/Orth:кудз INTERR-REL-INDEF ;
-кутшӧм+Pron+A:кутшӧм INTERR-REL-INDEF ; ! This needs to be 
-кутшӧм+Pron+A+Pred+Pl:кутшӧмӧсь INTERR-REL-INDEF ; ! This needs to be 
-кутшӧма+Pron+Adv+Manner:кутшӧма INTERR-REL-INDEF ; ! This needs to be 
-кутшӧм+Pron+A+Der/MWN+N+Sg:кутшӧм PRON-NONHUM ;
-кутшӧм+Pron+A+Der/MWN+N+Pl:кутшӧмъяс PRON-NONHUM ;
-кутшӧми+Pron+A:кутшӧми INTERR-REL-INDEF ; ! This needs to be 
-кыдз+Pron+Adv+Manner:кыдз INTERR-REL-INDEF ;
-кыдзи+Pron+Adv+Manner:кыдзи INTERR-REL-INDEF ;
-кыдзик+Pron+Adv+Manner:кыдзик INTERR-REL-INDEF ;
-кыдзик+Pron+Adv+Manner+Ins:кыдзикӧн INTERR-REL-INDEF ;
+кодыр+Adv+Temp:кодыр INTERR-REL-INDEF ;
+кор+Adv+Temp:кор INTERR-REL-INDEF ;
+кор+Adv+Temp+Pl+Ill:коръясӧ INTERR-REL-INDEF ;
+коръя+Adv+Temp:коръя INTERR-REL-INDEF ;
+кудз+Adv+Manner+Err/Orth:кудз INTERR-REL-INDEF ;
+кытшӧм+Pron+A:кытшӧм INTERR-REL-INDEF ; ! This needs to be 
+кытшӧм+Pron+A+Pred+Pl:кытшӧмӧсь INTERR-REL-INDEF ; ! This needs to be 
+кытшӧма+Adv+Manner:кытшӧма INTERR-REL-INDEF ; ! This needs to be 
+кытшӧм+Pron+A+Der/MWN+N+Sg:кытшӧм PRON-NONHUM ;
+кытшӧм+Pron+A+Der/MWN+N+Pl:кытшӧмъяс PRON-NONHUM ;
+кытшӧми+Pron+A:кытшӧми INTERR-REL-INDEF ; ! This needs to be 
+кыдз+Adv+Manner:кыдз INTERR-REL-INDEF ;
+кыдзи+Adv+Manner:кыдзи INTERR-REL-INDEF ;
+кыдзик+Adv+Manner:кыдзик INTERR-REL-INDEF ;
+кыдзик+Adv+Manner+Ins:кыдзикӧн INTERR-REL-INDEF ;
 кымын+Pron+Qnt:кымын INTERR-REL-INDEF ; ! Quantifier info required
 кымын+Pron+Qnt+Iter:кымынысь INTERR-REL-INDEF ; ! Quantifier info required
 кымын+Pron+Qnt+Ord:кымынӧд INTERR-REL-INDEF ; ! Quantifier info required
@@ -459,9 +646,9 @@ LEXICON INTERR
 кытӧн+Pron+Spat+Ine:кытӧн INTERR-REL-INDEF ;
 кытӧні+Pron+Spat+Ine:кытӧні INTERR-REL ;
  
-кӧні+Pron+Adv+Spat+Ine+Pred+Sg:кӧні INTERR-REL-INDEF ;
-кӧні+Pron+Adv+Spat+Ine+Pred+Pl:кӧнӧсь INTERR-REL ;
-кӧні+Pron+Adv+Spat+Ine:кӧн PRON-INDEFTAG ;
+кӧні+Adv+Spat+Ine+Pred+Sg:кӧні INTERR-REL-INDEF ;
+кӧні+Adv+Spat+Ine+Pred+Pl:кӧнӧсь INTERR-REL ;
+кӧні+Adv+Spat+Ine:кӧн PRON-INDEFTAG ;
 мый+Pron+Sem/NonHum:мый PRON-NONHUM ;
 мый+Pron+Interr+Ela:мыйись K ;
 мыйда+Pron+Sem/NonHum:мыйда INTERR-REL-INDEF ;
@@ -674,7 +861,7 @@ LEXICON PRON-REFL-IN_LADOR
 +Pron+Refl+Der/ладор: Noun1 ; !2011-11-22
 
 LEXICON EndRefl
-+Pron+Refl+Abs: WordEnd ; !ас is an absolute-form modifer
++Pron+Refl+Cmpl: WordEnd ; !ас is an absolute-form modifer
  PRON-REFL-OBL-CASES ;
 
 LEXICON PRON-REFL-OBL-CASES
@@ -1018,14 +1205,14 @@ LEXICON PRON-DUAL
 
 !Actually there might be reason to consider +Der/MWN
 LEXICON PRONQ-MUKOD
-+Pron+Qnt+Abs: WordEnd ;
++Pron+Qnt+Cmpl: WordEnd ;
 +Pron+Qnt+Sg+Nom: K ;
 +Pron+Qnt+Sg: PRONQ-STAV-CASES ;
 +Pron+Qnt+Pl+Nom:ъяс K ;
 +Pron+Qnt+Pl:ъяс PRONQ-STAV-CASES ;
 
 LEXICON PRONQ-STAV
-+Pron+Qnt+Abs: WordEnd ;
++Pron+Qnt+Cmpl: WordEnd ;
 +Pron+Qnt+Sg+Nom: K ;
 !+Pron+Qnt+Sg+ZeroAcc: K ;
 +Pron+Qnt+Sg: PRONQ-STAV-CASES ;
@@ -1338,6 +1525,100 @@ LEXICON INDEFINITE-PRON-CASE-NIBUDJ
 +Nom:-нибудь # ;
 +Prl:ӧт-нибудь # ;
 +TerI:ӧдз-нибудь # ;
+
+LEXICON NEG-PRON
+некӧда+Pron+Neg+Sg+Nom:некӧда  WordEnd ;
+некӧда+Pron+Neg+Sg+Gen:некӧдалӧн  WordEnd ;
+некӧда+Pron+Neg+Sg+Abl:некӧдалісь  WordEnd ;
+некӧда+Pron+Neg+Sg+Dat:некӧдалӧ  WordEnd ;
+некӧда+Pron+Neg+Sg+Acc:некӧдӧ  WordEnd ;
+некӧда+Pron+Neg+Sg+Ins:некӧдӧн  WordEnd ;
+некӧда+Pron+Neg+Sg+Com:некӧдакӧт  WordEnd ;
+некӧда+Pron+Neg+Sg+Car:некӧдатӧг  WordEnd ;
+некӧда+Pron+Neg+Sg+Cns:некӧдала  WordEnd ;
+некӧда+Pron+Neg+Sg+Cmpr:некӧдася  WordEnd ;
+некӧда+Pron+Neg+Sg+Ine:некӧдаын  WordEnd ;
+некӧда+Pron+Neg+Sg+Ela:некӧдаись  WordEnd ;
+некӧда+Pron+Neg+Sg+Ill:некӧдаӧ  WordEnd ;
+некӧда+Pron+Neg+Sg+Apr:некӧдалань  WordEnd ;
+некӧда+Pron+Neg+Sg+Egr:некӧдасянь  WordEnd ;
+некӧда+Pron+Neg+Sg+Prl:некӧдаӧт  WordEnd ;
+некӧда+Pron+Neg+Sg+TerI:некӧдаӧдз  WordEnd ;
+
+некӧда+Pron+Neg+Pl+Nom:некӧдна  WordEnd ;
+некӧда+Pron+Neg+Pl+Gen:некӧдналӧн  WordEnd ;
+некӧда+Pron+Neg+Pl+Abl:некӧдналісь  WordEnd ;
+некӧда+Pron+Neg+Pl+Dat:некӧдналӧ  WordEnd ;
+некӧда+Pron+Neg+Pl+Acc:некӧднӧ  WordEnd ;
+некӧда+Pron+Neg+Pl+Ins:некӧднӧн  WordEnd ;
+некӧда+Pron+Neg+Pl+Com:некӧднакӧт  WordEnd ;
+некӧда+Pron+Neg+Pl+Car:некӧднатӧг  WordEnd ;
+некӧда+Pron+Neg+Pl+Cns:некӧднала  WordEnd ;
+некӧда+Pron+Neg+Pl+Cmpr:некӧднася  WordEnd ;
+некӧда+Pron+Neg+Pl+Ine:некӧднаын  WordEnd ;
+некӧда+Pron+Neg+Pl+Ela:некӧднаись  WordEnd ;
+некӧда+Pron+Neg+Pl+Ill:некӧднаӧ  WordEnd ;
+некӧда+Pron+Neg+Pl+Apr:некӧдналань  WordEnd ;
+некӧда+Pron+Neg+Pl+Egr:некӧднасянь  WordEnd ;
+некӧда+Pron+Neg+Pl+Prl:некӧднаӧт  WordEnd ;
+некӧда+Pron+Neg+Pl+TerI:некӧднаӧдз  WordEnd ;
+
+некӧда+Pron+Neg+Sg+Nom+PxPl1:некӧдным  WordEnd ;
+некӧда+Pron+Neg+Sg+Gen+PxPl1:некӧднымлӧн  WordEnd ;
+некӧда+Pron+Neg+Sg+Abl+PxPl1:некӧднымлісь  WordEnd ;
+некӧда+Pron+Neg+Sg+Dat+PxPl1:некӧднымлӧ  WordEnd ;
+некӧда+Pron+Neg+Sg+Acc+PxPl1:некӧднымӧ  WordEnd ;
+некӧда+Pron+Neg+Sg+Ins+PxPl1:некӧднымӧн  WordEnd ;
+некӧда+Pron+Neg+Sg+Ins+PxPl1:некӧднаным  WordEnd ;
+некӧда+Pron+Neg+Sg+Com+PxPl1:некӧднымкӧт  WordEnd ;
+некӧда+Pron+Neg+Sg+Car+PxPl1:некӧднымтӧг  WordEnd ;
+некӧда+Pron+Neg+Sg+Cns+PxPl1:некӧднымла  WordEnd ;
+некӧда+Pron+Neg+Sg+Cmpr+PxPl1:некӧднымся  WordEnd ;
+некӧда+Pron+Neg+Sg+Ine+PxPl1:некӧднымын  WordEnd ;
+некӧда+Pron+Neg+Sg+Ela+PxPl1:некӧднымись  WordEnd ;
+некӧда+Pron+Neg+Sg+Ill+PxPl1:некӧднымӧ  WordEnd ;
+некӧда+Pron+Neg+Sg+Apr+PxPl1:некӧднымлань  WordEnd ;
+некӧда+Pron+Neg+Sg+Egr+PxPl1:некӧднымсянь  WordEnd ;
+некӧда+Pron+Neg+Sg+Prl+PxPl1:некӧднымӧт  WordEnd ;
+некӧда+Pron+Neg+Sg+TerI+PxPl1:некӧднымӧдз  WordEnd ;
+
+некӧда+Pron+Neg+Sg+Nom+PxPl2:некӧдныт  WordEnd ;
+некӧда+Pron+Neg+Sg+Gen+PxPl2:некӧднытлӧн  WordEnd ;
+некӧда+Pron+Neg+Sg+Abl+PxPl2:некӧднытлісь  WordEnd ;
+некӧда+Pron+Neg+Sg+Dat+PxPl2:некӧднытлӧ  WordEnd ;
+некӧда+Pron+Neg+Sg+Acc+PxPl2:некӧднытӧ  WordEnd ;
+некӧда+Pron+Neg+Sg+Ins+PxPl2:некӧднытӧн  WordEnd ;
+некӧда+Pron+Neg+Sg+Ins+PxPl2:некӧднаныт  WordEnd ;
+некӧда+Pron+Neg+Sg+Com+PxPl2:некӧдныткӧт  WordEnd ;
+некӧда+Pron+Neg+Sg+Car+PxPl2:некӧдныттӧг  WordEnd ;
+некӧда+Pron+Neg+Sg+Cns+PxPl2:некӧднытла  WordEnd ;
+некӧда+Pron+Neg+Sg+Cmpr+PxPl2:некӧднытся  WordEnd ;
+некӧда+Pron+Neg+Sg+Ine+PxPl2:некӧднытын  WordEnd ;
+некӧда+Pron+Neg+Sg+Ela+PxPl2:некӧднытись  WordEnd ;
+некӧда+Pron+Neg+Sg+Ill+PxPl2:некӧднытӧ  WordEnd ;
+некӧда+Pron+Neg+Sg+Apr+PxPl2:некӧднытлань  WordEnd ;
+некӧда+Pron+Neg+Sg+Egr+PxPl2:некӧднытсянь  WordEnd ;
+некӧда+Pron+Neg+Sg+Prl+PxPl2:некӧднытӧт  WordEnd ;
+некӧда+Pron+Neg+Sg+TerI+PxPl2:некӧднытӧдз  WordEnd ;
+
+некӧда+Pron+Neg+Sg+Nom+PxPl3:некӧдныс  WordEnd ;
+некӧда+Pron+Neg+Sg+Gen+PxPl3:некӧдныслӧн  WordEnd ;
+некӧда+Pron+Neg+Sg+Abl+PxPl3:некӧдныслісь  WordEnd ;
+некӧда+Pron+Neg+Sg+Dat+PxPl3:некӧдныслӧ  WordEnd ;
+некӧда+Pron+Neg+Sg+Acc+PxPl3:некӧднысӧ  WordEnd ;
+некӧда+Pron+Neg+Sg+Ins+PxPl3:некӧднысӧн  WordEnd ;
+некӧда+Pron+Neg+Sg+Ins+PxPl3:некӧднаныс  WordEnd ;
+некӧда+Pron+Neg+Sg+Com+PxPl3:некӧдныскӧт  WordEnd ;
+некӧда+Pron+Neg+Sg+Car+PxPl3:некӧдныстӧг  WordEnd ;
+некӧда+Pron+Neg+Sg+Cns+PxPl3:некӧднысла  WordEnd ;
+некӧда+Pron+Neg+Sg+Cmpr+PxPl3:некӧднысся  WordEnd ;
+некӧда+Pron+Neg+Sg+Ine+PxPl3:некӧднысын  WordEnd ;
+некӧда+Pron+Neg+Sg+Ela+PxPl3:некӧднысись  WordEnd ;
+некӧда+Pron+Neg+Sg+Ill+PxPl3:некӧднысӧ  WordEnd ;
+некӧда+Pron+Neg+Sg+Apr+PxPl3:некӧдныслань  WordEnd ;
+некӧда+Pron+Neg+Sg+Egr+PxPl3:некӧдныссянь  WordEnd ;
+некӧда+Pron+Neg+Sg+Prl+PxPl3:некӧднысӧт  WordEnd ;
+некӧда+Pron+Neg+Sg+TerI+PxPl3:некӧднысӧдз  WordEnd ;
 
 
 
