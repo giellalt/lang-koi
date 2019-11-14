@@ -480,14 +480,14 @@ LEXICON Verb-nyDer-ONSET-Y !!≈ * __@CODE@__ Derivation onset	in vowel
 @C.CONJ-INF@@C.CONJ-POSS@+Der/ышт:@C.CONJ-INF@@C.CONJ-POSS@ышт V_SHUNY ; !!сёйыштны
 
 LEXICON Verb-nyDer-ONSET-A !!≈ * __@CODE@__ Derivation onset	in vowel
-@C.CONJ-INF@@C.CONJ-POSS@+Der/ал:@C.CONJ-INF@@C.CONJ-POSS@ал V_SHUNY ; !!сетавны
+@C.CONJ-INF@@C.CONJ-POSS@+Der/Al:@C.CONJ-INF@@C.CONJ-POSS@ал V_SHUNY ; !!сетавны
 @C.CONJ-INF@@C.CONJ-POSS@+Der/овт:@C.CONJ-INF@@C.CONJ-POSS@овт V_SHUNY ; !!пановтны
-@C.CONJ-INF@@C.CONJ-POSS@+Der/ась:@C.CONJ-INF@@C.CONJ-POSS@ась V_SHUNY ; !! босьтасьны
+@C.CONJ-INF@@C.CONJ-POSS@+Der/Asj:@C.CONJ-INF@@C.CONJ-POSS@ась V_SHUNY ; !! босьтасьны
 
 LEXICON Verb-nyDer-ONSET-JA !!≈ * __@CODE@__ Derivation onset	in vowel
-@C.CONJ-INF@@C.CONJ-POSS@+Der/ал:@C.CONJ-INF@@C.CONJ-POSS@ял V_SHUNY ; !!сетавны
+@C.CONJ-INF@@C.CONJ-POSS@+Der/Al:@C.CONJ-INF@@C.CONJ-POSS@ял V_SHUNY ; !!сетавны
 @C.CONJ-INF@@C.CONJ-POSS@+Der/овт:@C.CONJ-INF@@C.CONJ-POSS@ёвт V_SHUNY ; !!пановтны
-@C.CONJ-INF@@C.CONJ-POSS@+Der/ась:@C.CONJ-INF@@C.CONJ-POSS@ясь V_SHUNY ; !! босьтасьны
+@C.CONJ-INF@@C.CONJ-POSS@+Der/Asj:@C.CONJ-INF@@C.CONJ-POSS@ясь V_SHUNY ; !! босьтасьны
 
 
 !! verb-to-noun
@@ -513,8 +513,8 @@ LEXICON VerbDer_ARTASJNY !!≈ * __@CODE@__
 LEXICON VerbDer-ONSET_OE !!≈ * __@CODE@__ 
 +Der/ӧм+Event:%>ӧм Noun1 ;
 +Der/ӧм+Event+N+Ins:%>ӧмӧн K ;
-+Der/ӧмӧн+Ger:%>ӧмӧн K ;
-+Der/ӧмӧн+Ger+Comp:%>ӧмӧнжык K ;
++Der/Omon+Ger:%>ӧмӧн K ;
++Der/Omon+Ger+Comp:%>ӧмӧнжык K ;
 +Der/ісь+ActPrsPtc:%>%{иі%}сь N_ ; !!≈ * __@CODE@__ kpv ысь
 
 LEXICON VerbDer-ONSET_JI !!≈ * __@CODE@__ 
@@ -579,9 +579,9 @@ LEXICON Verb-ynyDer
 @C.CONJ-INF@@C.CONJ-POSS@+Der/сьы+Der/ышт+Der/лы:@C.CONJ-INF@@C.CONJ-POSS@ысьыштл V_VOLYNY ; !!лэптысьыштлыны
 @C.CONJ-INF@@C.CONJ-POSS@+Der/сь+Der/л:@C.CONJ-INF@@C.CONJ-POSS@ысьл V_VOLYNY ; !!кутчысьлыны
 
-@C.CONJ-INF@@C.CONJ-POSS@+Der/ал:@C.CONJ-INF@@C.CONJ-POSS@ал V_SHUNY ; !!бергӧдчавны
-@C.CONJ-INF@@C.CONJ-POSS@+Der/ал+Der/лы:@C.CONJ-INF@@C.CONJ-POSS@авл V_VOLYNY ; !!бергӧдчавлыны
-@C.CONJ-INF@@C.CONJ-POSS@+Der/ась:@C.CONJ-INF@@C.CONJ-POSS@ась V_SHUNY ; !! бертласьны
+@C.CONJ-INF@@C.CONJ-POSS@+Der/Al:@C.CONJ-INF@@C.CONJ-POSS@ал V_SHUNY ; !!бергӧдчавны
+@C.CONJ-INF@@C.CONJ-POSS@+Der/Al+Der/лы:@C.CONJ-INF@@C.CONJ-POSS@авл V_VOLYNY ; !!бергӧдчавлыны
+@C.CONJ-INF@@C.CONJ-POSS@+Der/Asj:@C.CONJ-INF@@C.CONJ-POSS@ась V_SHUNY ; !! бертласьны
 
 
 !<!-- This far 2012-01-19 -->

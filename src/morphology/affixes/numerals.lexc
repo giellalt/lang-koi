@@ -70,7 +70,7 @@ LEXICON CARD-ITER-APPR
 
 
 LEXICON NumCASEPOSSLEX
-+Abs: # ;
++Cmpl: # ;
 +Der/MWN+N+Sg: NumMWN ;
 +Der/MWN+N+Pl:%>ъяс NumMWN ;
 
