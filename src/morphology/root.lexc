@@ -126,7 +126,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Voc !! Vocative
 
 ! compounding
- +SerialVerb
++Cmp/Serial
 
 ! For deletion
  +Tra !! transitive THIS should be removed 2019-11-01
@@ -628,6 +628,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  «7     !! * «
  %[%>%] !! * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
  %[%<%] !! * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
+ %-
 
 +Cmp
 !! !!Flag diacritics

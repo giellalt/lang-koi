@@ -54,12 +54,9 @@ LEXICON VERBNEGATIVE
 !A tag is needed to indicate this clitic-like лы segment
 оз+V+Neg+Imprt+Sg2:энлы K ;
 
-!Final
-моз+V+Neg+Final+1:мог K ; ! мед ог _so that I/we won't_
-моз+V+Neg+Final+2:мон K ; ! мед он
-моз+V+Neg+Final+3:моз K ; ! мед оз
-
-
+! Negative copula supletive present forms
+абу+V+Neg+Cop+Ind+Sg:абу K ; ! Aux these are supletive. Past is эз вӧв
+абу+V+Neg+Cop+Ind+Pl:абуӧсь K ; ! Aux these are supletive. Past is эз вӧвны
 
 
 !! !!Open class verbs
@@ -359,7 +356,7 @@ LEXICON PossessiveSuffixes_NoSg1
 
 
 LEXICON PresPret1  ! First and second person
-@U.CONJ-NX.SG@@U.CONJ-PX.1@+Sg1:@U.CONJ-NX.SG@@U.CONJ-PX.1@ VerbEnd-Comparison ; 
+@U.CONJ-NX.SG@@U.CONJ-PX.1@+Sg1:@U.CONJ-NX.SG@@U.CONJ-PX.1@%>  VerbEnd-Comparison ; 
 @U.CONJ-NX.SG@@U.CONJ-PX.2@+Sg2:@U.CONJ-NX.SG@@U.CONJ-PX.2@%>н VerbEnd-Comparison ;
 @U.CONJ-NX.PL@@U.CONJ-PX.1@+Pl1:@U.CONJ-NX.PL@@U.CONJ-PX.1@%>м VerbEnd-Comparison ; 
 @U.CONJ-NX.PL@@U.CONJ-PX.1@+Pl1+Err/Orth:@U.CONJ-NX.PL@@U.CONJ-PX.1@%>мӧ VerbEnd-Comparison ; 
@@ -434,7 +431,8 @@ LEXICON VerbEnd
  WordEnd ;
 
 LEXICON Serial-Verbs
-+SerialVerb:- Verbs ;
++Cmp/Serial+Cmp#:%-# Verbs ;
++Cmp/Serial+Cmp#:%-# V_NEWWORDS ;
 
 
 !! !!Derivation
