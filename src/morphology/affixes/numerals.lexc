@@ -11,7 +11,7 @@ LEXICON NUM-CARD_
 CARD ;
 
 LEXICON NUM-DIST_
-+Dist: K ;
++Distr: K ;
 
 !This has to be worked on 2012-01-19
 LEXICON QNT-CARD_

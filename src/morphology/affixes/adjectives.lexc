@@ -92,7 +92,7 @@ LEXICON Adj-IS_SUPERL !
 !+Superl: A_ ;
 
 LEXICON A-PRED ! ӧбиднӧ
-+Pred: WordEnd ; !
++Cop: WordEnd ; !
 
 
 LEXICON A_
@@ -103,7 +103,7 @@ LEXICON A_
 
 LEXICON A_PARAGOGIC-В/Л !!= * @CODE@ юмов:юмо юмолӧсь
 :%^LVBound K ; !! Singular predicative 
-+Pred+Pl:%>ӧсь K ; ! Plural predicative.
++Cop+Pl:%>ӧсь K ; ! Plural predicative.
 :%^LVBound AdjCompar ;
 +Der+Der/лун+N:%^LVBound%>лун N_ ; !Derivational suffix for A-N
 
