@@ -623,7 +623,7 @@ LEXICON INTERR
 коръя+Adv+Temp:коръя INTERR-REL-INDEF ;
 кудз+Adv+Manner+Err/Orth:кудз INTERR-REL-INDEF ;
 кытшӧм+Pron+A:кытшӧм INTERR-REL-INDEF ; ! This needs to be 
-кытшӧм+Pron+A+Pred+Pl:кытшӧмӧсь INTERR-REL-INDEF ; ! This needs to be 
+кытшӧм+Pron+A+Cop+Pl:кытшӧмӧсь INTERR-REL-INDEF ; ! This needs to be 
 кытшӧма+Adv+Manner:кытшӧма INTERR-REL-INDEF ; ! This needs to be 
 кытшӧм+Pron+A+Der/MWN+N+Sg:кытшӧм PRON-NONHUM ;
 кытшӧм+Pron+A+Der/MWN+N+Pl:кытшӧмъяс PRON-NONHUM ;
@@ -646,8 +646,8 @@ LEXICON INTERR
 кытӧн+Pron+Spat+Ine:кытӧн INTERR-REL-INDEF ;
 кытӧні+Pron+Spat+Ine:кытӧні INTERR-REL ;
  
-кӧні+Adv+Spat+Ine+Pred+Sg:кӧні INTERR-REL-INDEF ;
-кӧні+Adv+Spat+Ine+Pred+Pl:кӧнӧсь INTERR-REL ;
+кӧні+Adv+Spat+Ine+Cop+Sg:кӧні INTERR-REL-INDEF ;
+кӧні+Adv+Spat+Ine+Cop+Pl:кӧнӧсь INTERR-REL ;
 кӧні+Adv+Spat+Ine:кӧн PRON-INDEFTAG ;
 мый+Pron+Sem/NonHum:мый PRON-NONHUM ;
 мый+Pron+Interr+Ela:мыйись K ;
@@ -1041,7 +1041,7 @@ LEXICON PRONDEMTAG
 
 LEXICON ADNDEMTAG
 +Adn+Dem: K ;
-+Adn+Dem+Pred+Pl:%>ӧсь K ;
++Adn+Dem+Cop+Pl:%>ӧсь K ;
 +Adn+Dem+Der/MWN: Noun1 ;
 
 LEXICON PRONDEMTAG-ES

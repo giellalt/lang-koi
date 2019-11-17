@@ -619,15 +619,15 @@ LEXICON IllCompar
 
 LEXICON PredMonLex-Spat-Add-Morphology ! This allows consistency 
                                        ! with SPAT elsewhere
-+Pred+Pl:ӧсь K ; ! Plural predicative.
++Cop+Pl:ӧсь K ; ! Plural predicative.
 +Comp:%>жык K ; !ывлаынжык
-+Comp+Pred+Pl:%>жыкӧсь K ; !ывлаынжыкӧсь
-+Comp+Pred+Pl:%>ӧсьжык K ; !ывлаынжыкӧсь
++Comp+Cop+Pl:%>жыкӧсь K ; !ывлаынжыкӧсь
++Comp+Cop+Pl:%>ӧсьжык K ; !ывлаынжыкӧсь
 
 
 LEXICON PredMonLex
  K ;      ! Singular predicative
-+Pred+Pl:ӧсь K ; ! Plural predicative.
++Cop+Pl:ӧсь K ; ! Plural predicative.
 !! 2012-02-07 !!+Der/A+Adv:%>а K ;
  
 

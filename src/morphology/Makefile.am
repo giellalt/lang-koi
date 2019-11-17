@@ -87,11 +87,11 @@ GENERATED_LEXC_SRCS=\
 		$(srcdir)/stems/N_koi2x.lexc \
 		$(srcdir)/stems/Num_koi2x.lexc \
 		$(srcdir)/stems/Pcle_koi2x.lexc \
-		$(srcdir)/stems/Pron_koi2x.lexc \
 		$(srcdir)/stems/V_koi2x.lexc \
 		generated_files/punctuation.lexc \
 		generated_files/symbols.lexc
 
+#		$(srcdir)/stems/Pron_koi2x.lexc 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
 		stems/A_koi2x.xml \
@@ -104,9 +104,9 @@ GT_XML_SRCS=\
 		stems/N_koi2x.xml \
 		stems/Num_koi2x.xml \
 		stems/Pcle_koi2x.xml \
-		stems/Pron_koi2x.xml \
 		stems/V_koi2x.xml 
 
+#		stems/Pron_koi2x.xml 
 # Define any additional lexc sources here (compiled on their own):
 GT_LOCAL_SRCS=
 
