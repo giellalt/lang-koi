@@ -42,11 +42,13 @@ Adjectives
 Adverbs
 These are ideophonic descriptors used to modify the verb
 вырк ливтясь "__flit__ and it flew off"
+ * __+Deg__ Degree depricate AdA
 Ad-adjective
 with reference to type of adverb
 spatial
 temporal
 multiplicative, i.e. iterations
+ * __+Parenthetic__ parenthetical phrase
 
 Interjections
   +Conative   Used for calling animals, for example
@@ -54,6 +56,7 @@ Interjections
 Nouns
 proper
 used with paired nouns __collective nouns__
+ * __+Relat__ relational noun: выв, ув
 
 Postpositions
 
@@ -78,6 +81,8 @@ Quantifiers and Numerals are classified under:
  ;+Distr: Distributive
  ;+Iter: Iterative form expressing number of times; kpv: {{кыкысь}}
  ;+Ord: ordinal + NOrd
+ ;+Coord	: Coordinates, i.e. 65˚36′8,30″ in numerals.lexc
+ ;+Cop	: this is for copula complement position with pl in -ӧсь Pred depricated
 
 
 !!Nominals are inflected for Number and Case
@@ -99,6 +104,7 @@ carative -тӧг
 consecultative -ла
 Comitative -кӧт
 Comparative case form -ся
+ *  __+Cmpl__  Postposition complement
 dative case -лӧ
 egressive -сянь
 elative -ысь
@@ -148,6 +154,7 @@ Verb moods are:
  ;+Prt1: preterite 1 -ис
  ;+Prt2: preterite 2 -ӧма
  ;+Fut: future      -ас
+ ;+Prec: Precative mood is a directive mood that signals that the utterance is a request. -ко on imperative forms equals Precative
 Verb personal forms are:
 Other verb forms are
 Gerund This is used with derivations
@@ -160,6 +167,7 @@ Special multiword units are analysed with:
 Non-dictionary words can be recognised with:
 
 Question and Focus particles:
+
 
 !Tags distinguishing different versions of the same lemma (before POS)
  * +v1
@@ -401,6 +409,7 @@ word classes, or optionally from prefixes:
 
 
 Incoming from akusanat
+  Pron_koi2x ;
 
 
 Incoming for conversion from kpv

@@ -265,10 +265,10 @@ LEXICON CASEPOSSLEX-afterDerivation
 LEXICON CASEPOSSLEX-AFTERDERIVATION_CNS/END
 +Nom: K ;
 !+ZeroAcc: K ;
-GEN_лӧн-THEN-K ;
+GEN_THEN-K ;
 +Abl:%>лісь K ;
-DAT_лӧ-THEN-K ;
-ELA_ісь-THEN-K ;
+DAT_THEN-K ;
+ELA_THEN-K ;
 +Com:%>кӧт K ;
 +Car:%>тӧг K ;
 +Cns:%>ла K ;
@@ -556,37 +556,146 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 +TerI+PxPl3:%>ӧдззиныс K ;
 
 
-!! !!Case
-LEXICON APR_сянь-THEN-K
-+Apr:%>сянь K ;
+!! !!Case followed by possible clitic
+LEXICON ABL_THEN-K
++Abl:%>лісь K ;
 
-LEXICON CAR_тӧг-THEN-K
+LEXICON APR_THEN-K
++Apr:%>лань K ;
+
+LEXICON APR-EGR_THEN-K
++AprEgr:ланьсянь K ;
+
+LEXICON APR-ELA_THEN-K
++AprEla:ланьысь K ;
+
+LEXICON APR-ILL_THEN-K
++AprIll:ланьӧ K ;
+
+LEXICON APR-INE_THEN-K
++AprIne:ланьын K ;
+
+LEXICON APR-PRL_THEN-K
++AprPrl:ланьӧт K ;
+
+LEXICON APR-TERI_THEN-K
++AprTerI:ланьӧдз K ;
+
+LEXICON APR-TERII_THEN-K
++AprTerII:ланьви K ;
+
+LEXICON CAR_THEN-K
 +Car:%>тӧг K ;
-!LEXICON COM_кӧт-THEN-K
-!+Com:%>кӧт K ;
 
-LEXICON DAT_лӧ-THEN-K
+LEXICON CNS_THEN-K
++Cns:%>ла K ;
+
+LEXICON COM_THEN-K
++Com:%>кӧт K ;
+
+LEXICON DAT_THEN-K
 +Dat:%>лӧ K ;
-!LEXICON DAT_ZERO-THEN-K
-!+Dat: K ;
 
-LEXICON ELA_ісь-THEN-K
+LEXICON EGR_THEN-K
++Egr:%>сянь K ;
+
+LEXICON ELA_THEN-K
 +Ela:%>%{иі%}сь K ;
 
-LEXICON GEN_лӧн-THEN-K
+LEXICON GEN_THEN-K
 +Gen:%>лӧн K ;
-!LEXICON GEN_ZERO-THEN-K
-!+Gen: K ;
 
-!LEXICON ILL_ӧ-THEN-K
-!+Ill:%>ӧ K ;
-!LEXICON INE_ын-THEN-K
-!+Inе:%>ын K ;
-!LEXICON INS_ӧн-THEN-K
-!+Ins:%>ӧн K ;
+LEXICON ILL_THEN-K
++Ill:%>ӧ K ;
 
-!LEXICON TER_ӧдз-THEN-K
-!+TerI:%>ӧдз K ;
+LEXICON INE_THEN-K
++Inе:%>ын K ;
+
+LEXICON INS_THEN-K
++Ins:%>ӧн K ;
+
+LEXICON PRL_THEN-K
++Prl:%>ӧт K ;
+
+LEXICON TERI_THEN-K
++TerI:%>ӧдз K ;
+
+!LEXICON TERII_THEN-K
+!+TerII:%>ви K ;
+
+!begin
+!! !!Case followed by word end
+LEXICON ABL_THEN-WORD-END
++Abl:%>лісь WordEnd ;
+
+!LEXICON APR_THEN-WORD-END
+!+Apr:%>лань WordEnd ;
+
+LEXICON APR-EGR_THEN-WORD-END
++AprEgr:ланьсянь K ;
+
+LEXICON APR-ELA_THEN-WORD-END
++AprEla:ланьысь K ;
+
+LEXICON APR-ILL_THEN-WORD-END
++AprIll:ланьӧ K ;
+
+LEXICON APR-INE_THEN-WORD-END
++AprIne:ланьын K ;
+
+LEXICON APR-PRL_THEN-WORD-END
++AprPrl:ланьӧт K ;
+
+LEXICON APR-TERI_THEN-WORD-END
++AprTerI:ланьӧдз K ;
+
+LEXICON APR-TERII_THEN-WORD-END
++AprTerII:ланьви K ;
+
+LEXICON CAR_THEN-WORD-END
++Car:%>тӧг WordEnd ;
+
+LEXICON CNS_THEN-WORD-END
++Cns:%>ла WordEnd ;
+
+LEXICON CMPR_THEN-WORD-END
++Cmpr:%>ся WordEnd ;
+
+LEXICON COM_THEN-WORD-END
++Com:%>кӧт WordEnd ;
+
+!LEXICON DAT_THEN-WORD-END
+!+Dat:%>лӧ WordEnd ;
+
+LEXICON EGR_THEN-WORD-END
++Egr:%>сянь WordEnd ;
+
+LEXICON ELA_THEN-WORD-END
++Ela:%>%{иі%}сь WordEnd ;
+
+LEXICON GEN_THEN-WORD-END
++Gen:%>лӧн WordEnd ;
+
+LEXICON ILL_THEN-WORD-END
++Ill:%>ӧ WordEnd ;
+
+LEXICON INE_THEN-WORD-END
++Inе:%>ын WordEnd ;
+
+LEXICON INS_THEN-WORD-END
++Ins:%>ӧн WordEnd ;
+
+LEXICON PRL_THEN-WORD-END
++Prl:%>ӧт WordEnd ;
+
+LEXICON TERI_THEN-WORD-END
++TerI:%>ӧдз WordEnd ;
+
+LEXICON TERII_THEN-WORD-END
++TerII:%>ви WordEnd ;
+
+
+!end
 
 
 LEXICON Noun1-IS_INE
