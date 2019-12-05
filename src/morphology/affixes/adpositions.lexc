@@ -63,7 +63,7 @@ LEXICON PO-APR
 
 LEXICON PO-APRILL
 +Po+Sg+Apr+Ill:%>ланьӧ K ;
-+Po+Sg+Apr+Ill+PxSg1-ym:%>ланям K ;
++Po+Sg+Apr+Ill+PxSg1:%>ланям K ;
 +Po+Sg+Apr+Ill+PxPl1:%>ланяным K ;
 +Po+Sg+Apr+Ill+PxSg2:%>ланяд K ;
 +Po+Sg+Apr+Ill+PxPl2:%>ланяныд K ;
@@ -72,7 +72,7 @@ LEXICON PO-APRILL
 
 LEXICON PO-APR-INE
 +Po+Sg+Apr+Ine:%>ланьын K ;
-+Po+Sg+Apr+Ine+PxSg1-ym:%>ланям K ;
++Po+Sg+Apr+Ine+PxSg1:%>ланям K ;
 +Po+Sg+Apr+Ine+PxPl1:%>ланяным K ;
 +Po+Sg+Apr+Ine+PxSg2:%>ланяд K ;
 +Po+Sg+Apr+Ine+PxPl2:%>ланяныд K ;
@@ -89,7 +89,7 @@ LEXICON PO-EGR
 
 LEXICON PO-ELA
 +Po+Sg+Ela:%>%{иі%}сь K ;
-+Po+Sg+Ela+PxSg1-ym:%>сьым K ;
++Po+Sg+Ela+PxSg1:%>сьым K ;
 +Po+Sg+Ela+PxPl1:%>сьыным K ;
 +Po+Sg+Ela+PxSg2:%>сьыд K ;
 +Po+Sg+Ela+PxPl2:%>сьыныд K ;
@@ -98,7 +98,7 @@ LEXICON PO-ELA
 
 LEXICON PO-ILL
 +Po+Sg+Ill:%>ӧ PO-PX ;
-+Po+Sg+Ill+PxSg1-ym:%>ам K ;
++Po+Sg+Ill+PxSg1:%>ам K ;
 +Po+Sg+Ill+PxPl1:%>аным K ;
 +Po+Sg+Ill+PxSg2:%>ад K ;
 +Po+Sg+Ill+PxPl2:%>аныд K ;
@@ -108,7 +108,7 @@ LEXICON PO-ILL
 
 LEXICON PO-INE
 +Po+Sg+Ine:%>ын K ;
-+Po+Sg+Ine+PxSg1-ym:%>ам K ;
++Po+Sg+Ine+PxSg1:%>ам K ;
 +Po+Sg+Ine+PxPl1:%>аным K ;
 +Po+Sg+Ine+PxSg2:%>ад K ;
 +Po+Sg+Ine+PxPl2:%>аныд K ;
@@ -117,7 +117,7 @@ LEXICON PO-INE
 
 LEXICON PO-INSTR
 +Po+Sg+Ins:%>ӧн K ;
-+Po+Sg+Ins+PxSg1-ym:%>нам K ;
++Po+Sg+Ins+PxSg1:%>нам K ;
 +Po+Sg+Ins+PxPl1:%>наным K ;
 +Po+Sg+Ins+PxSg2:%>над K ;
 +Po+Sg+Ins+PxPl2:%>наныд K ;
@@ -126,7 +126,7 @@ LEXICON PO-INSTR
 
 LEXICON PO-PROL
 +Po+Sg+Prl:%>ӧд K ;
-+Po+Sg+Prl+PxSg1-ym:%>ӧдым K ;
++Po+Sg+Prl+PxSg1:%>ӧдым K ;
 +Po+Sg+Prl+PxPl1:%>ӧдным K ;
 +Po+Sg+Prl+PxSg2:%>ӧдыд K ;
 +Po+Sg+Prl+PxPl2:%>ӧдныд K ;
@@ -135,7 +135,7 @@ LEXICON PO-PROL
 
 LEXICON PO-TRA
 +Po+Sg+Tra:%>ті K ;
-+Po+Sg+Tra+PxSg1-ym:%>тіым K ;
++Po+Sg+Tra+PxSg1:%>тіым K ;
 +Po+Sg+Tra+PxPl1:%>тіным K ;
 +Po+Sg+Tra+PxSg2:%>тіыд K ;
 +Po+Sg+Tra+PxPl2:%>тіныд K ;
@@ -171,7 +171,7 @@ LEXICON PO-SPAT-APR
 
 LEXICON PO-SPAT-APRILL
 +Po+Spat+Sg+Apr+Ill:%>ланьӧ K ;
-+Po+Spat+Sg+Apr+Ill+PxSg1-ym:%>ланям K ;
++Po+Spat+Sg+Apr+Ill+PxSg1:%>ланям K ;
 +Po+Spat+Sg+Apr+Ill+PxPl1:%>ланяным K ;
 +Po+Spat+Sg+Apr+Ill+PxSg2:%>ланяд K ;
 +Po+Spat+Sg+Apr+Ill+PxPl2:%>ланяныд K ;
@@ -180,7 +180,7 @@ LEXICON PO-SPAT-APRILL
 
 LEXICON PO-SPAT-APR-INE
 +Po+Spat+Sg+Apr+Ine:%>ланьын K ;
-+Po+Spat+Sg+Apr+Ine+PxSg1-ym:%>ланям K ;
++Po+Spat+Sg+Apr+Ine+PxSg1:%>ланям K ;
 +Po+Spat+Sg+Apr+Ine+PxPl1:%>ланяным K ;
 +Po+Spat+Sg+Apr+Ine+PxSg2:%>ланяд K ;
 +Po+Spat+Sg+Apr+Ine+PxPl2:%>ланяныд K ;
@@ -197,7 +197,7 @@ LEXICON PO-SPAT-EGR
 
 LEXICON PO-SPAT-ELA
 +Po+Spat+Sg+Ela:%>ысь K ;
-+Po+Spat+Sg+Ela+PxSg1-ym:%>сьым K ;
++Po+Spat+Sg+Ela+PxSg1:%>сьым K ;
 +Po+Spat+Sg+Ela+PxPl1:%>сьыным K ;
 +Po+Spat+Sg+Ela+PxSg2:%>сьыд K ;
 +Po+Spat+Sg+Ela+PxPl2:%>сьыныд K ;
@@ -206,7 +206,7 @@ LEXICON PO-SPAT-ELA
 
 LEXICON PO-SPAT-ILL
 +Po+Spat+Sg+Ill:%>ӧ PO-PX ;
-+Po+Spat+Sg+Ill+PxSg1-ym:%>ам K ;
++Po+Spat+Sg+Ill+PxSg1:%>ам K ;
 +Po+Spat+Sg+Ill+PxPl1:%>аным K ;
 +Po+Spat+Sg+Ill+PxSg2:%>ад K ;
 +Po+Spat+Sg+Ill+PxPl2:%>аныд K ;
@@ -216,7 +216,7 @@ LEXICON PO-SPAT-ILL
 
 LEXICON PO-SPAT-INE
 +Po+Spat+Sg+Ine:%>ын K ;
-+Po+Spat+Sg+Ine+PxSg1-ym:%>ам K ;
++Po+Spat+Sg+Ine+PxSg1:%>ам K ;
 +Po+Spat+Sg+Ine+PxPl1:%>аным K ;
 +Po+Spat+Sg+Ine+PxSg2:%>ад K ;
 +Po+Spat+Sg+Ine+PxPl2:%>аныд K ;
@@ -225,7 +225,7 @@ LEXICON PO-SPAT-INE
 
 LEXICON PO-SPAT-INSTR
 +Po+Spat+Sg+Ins:%>ӧн K ;
-+Po+Spat+Sg+Ins+PxSg1-ym:%>нам K ;
++Po+Spat+Sg+Ins+PxSg1:%>нам K ;
 +Po+Spat+Sg+Ins+PxPl1:%>наным K ;
 +Po+Spat+Sg+Ins+PxSg2:%>над K ;
 +Po+Spat+Sg+Ins+PxPl2:%>наныд K ;
@@ -233,22 +233,16 @@ LEXICON PO-SPAT-INSTR
 +Po+Spat+Sg+Ins+PxPl3:%>наныс K ;
 
 LEXICON PO-SPAT-PROL
-+Po+Spat+Sg+Prl:%>ӧд K ;
-+Po+Spat+Sg+Prl+PxSg1-ym:%>ӧдым K ;
-+Po+Spat+Sg+Prl+PxPl1:%>ӧдным K ;
-+Po+Spat+Sg+Prl+PxSg2:%>ӧдыд K ;
-+Po+Spat+Sg+Prl+PxPl2:%>ӧдныд K ;
-+Po+Spat+Sg+Prl+PxSg3:%>ӧдыс K ;
-+Po+Spat+Sg+Prl+PxPl3:%>ӧдныс K ;
++Po+Spat+Sg+Prl:%>ӧт K ;
++Po+Spat+Sg+Prl+PxSg1:%>ӧтым K ;
++Po+Spat+Sg+Prl+PxPl1:%>ӧтным K ;
++Po+Spat+Sg+Prl+PxSg2:%>ӧтыт K ;
++Po+Spat+Sg+Prl+PxPl2:%>ӧтныт K ;
++Po+Spat+Sg+Prl+PxSg3:%>ӧтыс K ;
++Po+Spat+Sg+Prl+PxPl3:%>ӧтныс K ;
 
-LEXICON PO-SPAT-TRA
+LEXICON PO-SPAT-TRA ! should be removed
 +Po+Spat+Sg+Tra:%>ті K ;
-+Po+Spat+Sg+Tra+PxSg1-ym:%>тіым K ;
-+Po+Spat+Sg+Tra+PxPl1:%>тіным K ;
-+Po+Spat+Sg+Tra+PxSg2:%>тіыд K ;
-+Po+Spat+Sg+Tra+PxPl2:%>тіныд K ;
-+Po+Spat+Sg+Tra+PxSg3:%>тіыс K ;
-+Po+Spat+Sg+Tra+PxPl3:%>тіныс K ;
 
 LEXICON PO-SPAT-TERI
 +Po+Spat+Sg+TerI:%>ӧдзз PO-PX ;
@@ -257,23 +251,23 @@ LEXICON PO-SPAT-TERI
 
 LEXICON POSTP-NOUN
 +Po+Sg+Nom: WordEnd ;
-+Po+Sg+Nom+PxSg1-oj:%>ӧй WordEnd ;
-+Po+Sg+Nom+PxSg2:%>ыд WordEnd ;
++Po+Sg+Nom+PxSg1:%>ӧй WordEnd ;
++Po+Sg+Nom+PxSg2:%>ыт WordEnd ;
 +Po+Sg+Nom+PxSg3:%>ыс WordEnd ;
 +Po+Sg+Nom+PxPl1:%>ным WordEnd ;
-+Po+Sg+Nom+PxPl2:%>ныд WordEnd ;
++Po+Sg+Nom+PxPl2:%>ныт WordEnd ;
 +Po+Sg+Nom+PxPl3:%>ныс WordEnd ;
  POSTP1 ;
-+Po+Pl+PRL:%>ъясӧд WordEnd ; 
++Po+Pl+Prl:%>ъясӧт WordEnd ; 
 ! гӧгӧр, 
 
 LEXICON PO-PX
 : WordEnd ;
-+PxSg1-oj:%>ӧй WordEnd ;
-+PxSg2:%>ыд WordEnd ;
++PxSg1:%>ӧй WordEnd ;
++PxSg2:%>ыт WordEnd ;
 +PxSg3:%>ыс WordEnd ;
 +PxPl1:%>ным WordEnd ;
-+PxPl2:%>ныд WordEnd ;
++PxPl2:%>ныт WordEnd ;
 +PxPl3:%>ныс WordEnd ;
 ! вӧсна, кындзи, моз,  мында, мысьт, серти,
 
