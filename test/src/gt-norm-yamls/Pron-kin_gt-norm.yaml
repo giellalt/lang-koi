@@ -14,7 +14,7 @@ Tests:
 # Then: run analyser, then correct. 
 
 
-   Pronoun – кин: # Interrogative Pronoun 'Kuka / Кто'
+Pronoun – кин: # Interrogative Pronoun 'Kuka / Кто'
     кин+Pron+Interr+Sg+Nom: кин
     кин+Pron+Interr+Sg+Acc: кинӧс
     кин+Pron+Interr+Sg+Gen: кинлӧн
@@ -571,4 +571,379 @@ Pronoun – мый: # Interrogative Pronoun 'Mikä / Что'
     мый+Pron+Rel+Pl+AprTerI+PxSg2+Comp: [мыйетланьӧдзжык, мыйезытланьжыкӧдз, мыйезытжыкланьӧдз, мыйезытланьӧдзжык, мыйезытланьжыкӧдз, мыйезытжыкланьӧдз]
     мый+Pron+Rel+Sg+AprTerII+PxSg2: [мыйетланьви, мыйезытланьви]
     мый+Pron+Rel+Sg+AprTerII+PxSg2+Comp: [мыйетланьвижык, мыйетланьжыкви, мыйетжыкланьви, мыйезытланьвижык, мыйезытланьжыкви, мыйезытжыкланьви]
+
+
+
+##Pronoun – кин-либо: # Indefinite Pronoun 'Joku / Кто-либо'
+    кин-либо+Pron+Indef+Sg+Nom: кин-либо
+    кин-либо+Pron+Indef+Sg+Acc: кинӧс-либо
+    кин-либо+Pron+Indef+Sg+Gen: кинлӧн-либо
+    кин-либо+Pron+Indef+Sg+Abl: кинлісь-либо
+    кин-либо+Pron+Indef+Sg+Dat: кинлӧ-либо
+    кин-либо+Pron+Indef+Sg+Ins: кинӧн-либо 
+    кин-либо+Pron+Indef+Sg+Com: кинкӧт-либо
+    кин-либо+Pron+Indef+Sg+Car: кинтӧг-либо
+    кин-либо+Pron+Indef+Sg+Cns: кинла-либо
+    кин-либо+Pron+Indef+Sg+Cmpr: кинся-либо
+    кин-либо+Pron+Indef+Sg+Ine: кинын-либо
+    кин-либо+Pron+Indef+Sg+Ela: кинісь-либо
+    кин-либо+Pron+Indef+Sg+Ill: кинӧ-либо
+    кин-либо+Pron+Indef+Sg+Apr: кинлань-либо
+    кин-либо+Pron+Indef+Sg+Egr: кинсянь-либо
+    кин-либо+Pron+Indef+Sg+Prl: кинӧт-либо
+    кин-либо+Pron+Indef+Sg+TerI: кинӧдз-либо
+    кин-либо+Pron+Indef+Sg+TerII: кинви-либо 
+    кин-либо+Pron+Indef+Sg+AprIne: кинланьын-либо
+    кин-либо+Pron+Indef+Sg+AprEla: кинланись-либо
+    кин-либо+Pron+Indef+Sg+AprIll: кинланьӧ-либо
+    кин-либо+Pron+Indef+Sg+AprEgr: кинланьсянь-либо
+    кин-либо+Pron+Indef+Sg+AprPrl: кинланьӧт-либо
+    кин-либо+Pron+Indef+Sg+AprTerI: кинланьӧдз-либо
+    кин-либо+Pron+Indef+Sg+AprTerII: кинланьви-либо
+
+    кин-либо+Pron+Indef+Pl+Nom: киннэз-либо
+    кин-либо+Pron+Indef+Pl+Acc: киннэзӧс-либо
+    кин-либо+Pron+Indef+Pl+Gen: киннэзлӧн-либо
+    кин-либо+Pron+Indef+Pl+Abl: киннэзлісь-либо
+    кин-либо+Pron+Indef+Pl+Dat: киннэзлӧ-либо
+    кин-либо+Pron+Indef+Pl+Ins: киннэзӧн-либо 
+    кин-либо+Pron+Indef+Pl+Com: киннэзкӧт-либо
+    кин-либо+Pron+Indef+Pl+Car: киннэзтӧг-либо
+    кин-либо+Pron+Indef+Pl+Cns: киннэзла-либо
+    кин-либо+Pron+Indef+Pl+Cmpr: киннэзся-либо
+    кин-либо+Pron+Indef+Pl+Ine: киннэзын-либо
+    кин-либо+Pron+Indef+Pl+Ela: киннэзісь-либо
+    кин-либо+Pron+Indef+Pl+Ill: киннэзӧ-либо
+    кин-либо+Pron+Indef+Pl+Apr: киннэзлань-либо
+    кин-либо+Pron+Indef+Pl+Egr: киннэзсянь-либо
+    кин-либо+Pron+Indef+Pl+Prl: киннэзӧт-либо
+    кин-либо+Pron+Indef+Pl+TerI: киннэзӧдз-либо
+    кин-либо+Pron+Indef+Pl+TerII: киннэзви-либо
+    кин-либо+Pron+Indef+Pl+AprIne: киннэзланьын-либо
+    кин-либо+Pron+Indef+Pl+AprEla: киннэзланись-либо
+    кин-либо+Pron+Indef+Pl+AprIll: киннэзланьӧ-либо
+    кин-либо+Pron+Indef+Pl+AprEgr: киннэзланьсянь-либо
+    кин-либо+Pron+Indef+Pl+AprPrl: киннэзланьӧт-либо
+    кин-либо+Pron+Indef+Pl+AprTerI: киннэзланьӧдз-либо
+    кин-либо+Pron+Indef+Pl+AprTerII: киннэзланьви-либо
+
+Pronoun – мый-либо: # Indefinite Pronoun 'Jokin / что-либо'
+    мый-либо+Pron+Indef+Sg+Nom: мый-либо
+    мый-либо+Pron+Indef+Sg+Acc: мый-либо
+    мый-либо+Pron+Indef+Sg+Gen: мыйлӧн-либо
+    мый-либо+Pron+Indef+Sg+Abl: мыйлісь-либо
+    мый-либо+Pron+Indef+Sg+Dat: мыйлӧ-либо
+    мый-либо+Pron+Indef+Sg+Ins: мыйӧн-либо 
+    мый-либо+Pron+Indef+Sg+Com: мыйкӧт-либо
+    мый-либо+Pron+Indef+Sg+Car: мыйтӧг-либо
+    мый-либо+Pron+Indef+Sg+Cns: мыйла-либо
+    мый-либо+Pron+Indef+Sg+Cmpr: мыйся-либо
+    мый-либо+Pron+Indef+Sg+Ine: мыйын-либо
+    мый-либо+Pron+Indef+Sg+Ela: мыйись-либо
+    мый-либо+Pron+Indef+Sg+Ill: мыйӧ-либо
+    мый-либо+Pron+Indef+Sg+Apr: мыйлань-либо
+    мый-либо+Pron+Indef+Sg+Egr: мыйсянь-либо
+    мый-либо+Pron+Indef+Sg+Prl: мыйӧт-либо
+    мый-либо+Pron+Indef+Sg+TerI: мыйӧдз-либо
+    мый-либо+Pron+Indef+Sg+TerII: мыйви-либо
+    мый-либо+Pron+Indef+Sg+AprIne: мыйланьын-либо
+    мый-либо+Pron+Indef+Sg+AprEla: мыйланись-либо
+    мый-либо+Pron+Indef+Sg+AprIll: мыйланьӧ-либо
+    мый-либо+Pron+Indef+Sg+AprEgr: мыйланьсянь-либо
+    мый-либо+Pron+Indef+Sg+AprPrl: мыйланьӧт-либо
+    мый-либо+Pron+Indef+Sg+AprTerI: мыйланьӧдз-либо
+    мый-либо+Pron+Indef+Sg+AprTerII: мыйланьви-либо
+
+    мый-либо+Pron+Indef+Pl+Nom: мыйез-либо
+    мый-либо+Pron+Indef+Pl+Acc: мыйез-либо
+    мый-либо+Pron+Indef+Pl+Gen: мыйезлӧн-либо
+    мый-либо+Pron+Indef+Pl+Abl: мыйезлісь-либо
+    мый-либо+Pron+Indef+Pl+Dat: мыйезлӧ-либо
+    мый-либо+Pron+Indef+Pl+Ins: мыйезӧн-либо 
+    мый-либо+Pron+Indef+Pl+Com: мыйезкӧт-либо
+    мый-либо+Pron+Indef+Pl+Car: мыйезтӧг-либо
+    мый-либо+Pron+Indef+Pl+Cns: мыйезла-либо
+    мый-либо+Pron+Indef+Pl+Cmpr: мыйезся-либо
+    мый-либо+Pron+Indef+Pl+Ine: мыйезын-либо
+    мый-либо+Pron+Indef+Pl+Ela: мыйезісь-либо
+    мый-либо+Pron+Indef+Pl+Ill: мыйезӧ-либо
+    мый-либо+Pron+Indef+Pl+Apr: мыйезлань-либо
+    мый-либо+Pron+Indef+Pl+Egr: мыйезсянь-либо
+    мый-либо+Pron+Indef+Pl+Prl: мыйезӧт-либо
+    мый-либо+Pron+Indef+Pl+TerI: мыйезӧдз-либо
+    мый-либо+Pron+Indef+Pl+TerII: мыйезви-либо
+    мый-либо+Pron+Indef+Pl+AprIne: мыйезланьын-либо
+    мый-либо+Pron+Indef+Pl+AprEla: мыйезланись-либо
+    мый-либо+Pron+Indef+Pl+AprIll: мыйезланьӧ-либо
+    мый-либо+Pron+Indef+Pl+AprEgr: мыйезланьсянь-либо
+    мый-либо+Pron+Indef+Pl+AprPrl: мыйезланьӧт-либо
+    мый-либо+Pron+Indef+Pl+AprTerI: мыйезланьӧдз-либо
+    мый-либо+Pron+Indef+Pl+AprTerII: мыйезланьви-либо
+
+##Pronoun – кин-нибудь: # Indefinite Pronoun 'Joku / Кто-нибудь'
+    кин-нибудь+Pron+Indef+Sg+Nom: кин-нибудь
+    кин-нибудь+Pron+Indef+Sg+Acc: кинӧс-нибудь
+    кин-нибудь+Pron+Indef+Sg+Gen: кинлӧн-нибудь
+    кин-нибудь+Pron+Indef+Sg+Abl: кинлісь-нибудь
+    кин-нибудь+Pron+Indef+Sg+Dat: кинлӧ-нибудь
+    кин-нибудь+Pron+Indef+Sg+Ins: кинӧн-нибудь 
+    кин-нибудь+Pron+Indef+Sg+Com: кинкӧт-нибудь
+    кин-нибудь+Pron+Indef+Sg+Car: кинтӧг-нибудь
+    кин-нибудь+Pron+Indef+Sg+Cns: кинла-нибудь
+    кин-нибудь+Pron+Indef+Sg+Cmpr: кинся-нибудь
+    кин-нибудь+Pron+Indef+Sg+Ine: кинын-нибудь
+    кин-нибудь+Pron+Indef+Sg+Ela: кинісь-нибудь
+    кин-нибудь+Pron+Indef+Sg+Ill: кинӧ-нибудь
+    кин-нибудь+Pron+Indef+Sg+Apr: кинлань-нибудь
+    кин-нибудь+Pron+Indef+Sg+Egr: кинсянь-нибудь
+    кин-нибудь+Pron+Indef+Sg+Prl: кинӧт-нибудь
+    кин-нибудь+Pron+Indef+Sg+TerI: кинӧдз-нибудь
+    кин-нибудь+Pron+Indef+Sg+TerII: кинви-нибудь 
+    кин-нибудь+Pron+Indef+Sg+AprIne: кинланьын-нибудь
+    кин-нибудь+Pron+Indef+Sg+AprEla: кинланись-нибудь
+    кин-нибудь+Pron+Indef+Sg+AprIll: кинланьӧ-нибудь
+    кин-нибудь+Pron+Indef+Sg+AprEgr: кинланьсянь-нибудь
+    кин-нибудь+Pron+Indef+Sg+AprPrl: кинланьӧт-нибудь
+    кин-нибудь+Pron+Indef+Sg+AprTerI: кинланьӧдз-нибудь
+    кин-нибудь+Pron+Indef+Sg+AprTerII: кинланьви-нибудь
+
+    кин-нибудь+Pron+Indef+Pl+Nom: киннэз-нибудь
+    кин-нибудь+Pron+Indef+Pl+Acc: киннэзӧс-нибудь
+    кин-нибудь+Pron+Indef+Pl+Gen: киннэзлӧн-нибудь
+    кин-нибудь+Pron+Indef+Pl+Abl: киннэзлісь-нибудь
+    кин-нибудь+Pron+Indef+Pl+Dat: киннэзлӧ-нибудь
+    кин-нибудь+Pron+Indef+Pl+Ins: киннэзӧн-нибудь 
+    кин-нибудь+Pron+Indef+Pl+Com: киннэзкӧт-нибудь
+    кин-нибудь+Pron+Indef+Pl+Car: киннэзтӧг-нибудь
+    кин-нибудь+Pron+Indef+Pl+Cns: киннэзла-нибудь
+    кин-нибудь+Pron+Indef+Pl+Cmpr: киннэзся-нибудь
+    кин-нибудь+Pron+Indef+Pl+Ine: киннэзын-нибудь
+    кин-нибудь+Pron+Indef+Pl+Ela: киннэзісь-нибудь
+    кин-нибудь+Pron+Indef+Pl+Ill: киннэзӧ-нибудь
+    кин-нибудь+Pron+Indef+Pl+Apr: киннэзлань-нибудь
+    кин-нибудь+Pron+Indef+Pl+Egr: киннэзсянь-нибудь
+    кин-нибудь+Pron+Indef+Pl+Prl: киннэзӧт-нибудь
+    кин-нибудь+Pron+Indef+Pl+TerI: киннэзӧдз-нибудь
+    кин-нибудь+Pron+Indef+Pl+TerII: киннэзви-нибудь
+    кин-нибудь+Pron+Indef+Pl+AprIne: киннэзланьын-нибудь
+    кин-нибудь+Pron+Indef+Pl+AprEla: киннэзланись-нибудь
+    кин-нибудь+Pron+Indef+Pl+AprIll: киннэзланьӧ-нибудь
+    кин-нибудь+Pron+Indef+Pl+AprEgr: киннэзланьсянь-нибудь
+    кин-нибудь+Pron+Indef+Pl+AprPrl: киннэзланьӧт-нибудь
+    кин-нибудь+Pron+Indef+Pl+AprTerI: киннэзланьӧдз-нибудь
+    кин-нибудь+Pron+Indef+Pl+AprTerII: киннэзланьви-нибудь
+
+Pronoun – мый-нибудь: # Indefinite Pronoun 'Jokin / что-нибудь'
+    мый-нибудь+Pron+Indef+Sg+Nom: мый-нибудь
+    мый-нибудь+Pron+Indef+Sg+Acc: мый-нибудь
+    мый-нибудь+Pron+Indef+Sg+Gen: мыйлӧн-нибудь
+    мый-нибудь+Pron+Indef+Sg+Abl: мыйлісь-нибудь
+    мый-нибудь+Pron+Indef+Sg+Dat: мыйлӧ-нибудь
+    мый-нибудь+Pron+Indef+Sg+Ins: мыйӧн-нибудь 
+    мый-нибудь+Pron+Indef+Sg+Com: мыйкӧт-нибудь
+    мый-нибудь+Pron+Indef+Sg+Car: мыйтӧг-нибудь
+    мый-нибудь+Pron+Indef+Sg+Cns: мыйла-нибудь
+    мый-нибудь+Pron+Indef+Sg+Cmpr: мыйся-нибудь
+    мый-нибудь+Pron+Indef+Sg+Ine: мыйын-нибудь
+    мый-нибудь+Pron+Indef+Sg+Ela: мыйись-нибудь
+    мый-нибудь+Pron+Indef+Sg+Ill: мыйӧ-нибудь
+    мый-нибудь+Pron+Indef+Sg+Apr: мыйлань-нибудь
+    мый-нибудь+Pron+Indef+Sg+Egr: мыйсянь-нибудь
+    мый-нибудь+Pron+Indef+Sg+Prl: мыйӧт-нибудь
+    мый-нибудь+Pron+Indef+Sg+TerI: мыйӧдз-нибудь
+    мый-нибудь+Pron+Indef+Sg+TerII: мыйви-нибудь
+    мый-нибудь+Pron+Indef+Sg+AprIne: мыйланьын-нибудь
+    мый-нибудь+Pron+Indef+Sg+AprEla: мыйланись-нибудь
+    мый-нибудь+Pron+Indef+Sg+AprIll: мыйланьӧ-нибудь
+    мый-нибудь+Pron+Indef+Sg+AprEgr: мыйланьсянь-нибудь
+    мый-нибудь+Pron+Indef+Sg+AprPrl: мыйланьӧт-нибудь
+    мый-нибудь+Pron+Indef+Sg+AprTerI: мыйланьӧдз-нибудь
+    мый-нибудь+Pron+Indef+Sg+AprTerII: мыйланьви-нибудь
+
+    мый-нибудь+Pron+Indef+Pl+Nom: мыйез-нибудь
+    мый-нибудь+Pron+Indef+Pl+Acc: мыйез-нибудь
+    мый-нибудь+Pron+Indef+Pl+Gen: мыйезлӧн-нибудь
+    мый-нибудь+Pron+Indef+Pl+Abl: мыйезлісь-нибудь
+    мый-нибудь+Pron+Indef+Pl+Dat: мыйезлӧ-нибудь
+    мый-нибудь+Pron+Indef+Pl+Ins: мыйезӧн-нибудь 
+    мый-нибудь+Pron+Indef+Pl+Com: мыйезкӧт-нибудь
+    мый-нибудь+Pron+Indef+Pl+Car: мыйезтӧг-нибудь
+    мый-нибудь+Pron+Indef+Pl+Cns: мыйезла-нибудь
+    мый-нибудь+Pron+Indef+Pl+Cmpr: мыйезся-нибудь
+    мый-нибудь+Pron+Indef+Pl+Ine: мыйезын-нибудь
+    мый-нибудь+Pron+Indef+Pl+Ela: мыйезісь-нибудь
+    мый-нибудь+Pron+Indef+Pl+Ill: мыйезӧ-нибудь
+    мый-нибудь+Pron+Indef+Pl+Apr: мыйезлань-нибудь
+    мый-нибудь+Pron+Indef+Pl+Egr: мыйезсянь-нибудь
+    мый-нибудь+Pron+Indef+Pl+Prl: мыйезӧт-нибудь
+    мый-нибудь+Pron+Indef+Pl+TerI: мыйезӧдз-нибудь
+    мый-нибудь+Pron+Indef+Pl+TerII: мыйезви-нибудь
+    мый-нибудь+Pron+Indef+Pl+AprIne: мыйезланьын-нибудь
+    мый-нибудь+Pron+Indef+Pl+AprEla: мыйезланись-нибудь
+    мый-нибудь+Pron+Indef+Pl+AprIll: мыйезланьӧ-нибудь
+    мый-нибудь+Pron+Indef+Pl+AprEgr: мыйезланьсянь-нибудь
+    мый-нибудь+Pron+Indef+Pl+AprPrl: мыйезланьӧт-нибудь
+    мый-нибудь+Pron+Indef+Pl+AprTerI: мыйезланьӧдз-нибудь
+    мый-нибудь+Pron+Indef+Pl+AprTerII: мыйезланьви-нибудь
+
+##Pronoun – некин: # Negative Pronoun 'Ei kukaan / Никто'
+    некин+Pron+Neg+Sg+Nom: некин
+    некин+Pron+Neg+Sg+Acc: некинӧс
+    некин+Pron+Neg+Sg+Gen: некинлӧн
+    некин+Pron+Neg+Sg+Abl: некинлісь
+    некин+Pron+Neg+Sg+Dat: некинлӧ
+    некин+Pron+Neg+Sg+Ins: некинӧн 
+    некин+Pron+Neg+Sg+Com: некинкӧт
+    некин+Pron+Neg+Sg+Car: некинтӧг
+    некин+Pron+Neg+Sg+Cns: некинла
+    некин+Pron+Neg+Sg+Cmpr: некинся
+    некин+Pron+Neg+Sg+Ine: некинын
+    некин+Pron+Neg+Sg+Ela: некинісь
+    некин+Pron+Neg+Sg+Ill: некинӧ
+    некин+Pron+Neg+Sg+Apr: некинлань
+    некин+Pron+Neg+Sg+Egr: некинсянь
+    некин+Pron+Neg+Sg+Prl: некинӧт
+    некин+Pron+Neg+Sg+TerI: некинӧдз
+    некин+Pron+Neg+Sg+TerII: некинви
+    некин+Pron+Neg+Sg+AprIne: некинланьын
+    некин+Pron+Neg+Sg+AprEla: некинланись
+    некин+Pron+Neg+Sg+AprIll: некинланьӧ
+    некин+Pron+Neg+Sg+AprEgr: некинланьсянь
+    некин+Pron+Neg+Sg+AprPrl: некинланьӧт
+    некин+Pron+Neg+Sg+AprTerI: некинланьӧдз
+    некин+Pron+Neg+Sg+AprTerII: некинланьви
+    
+Pronoun – нем: # Negative Pronoun 'Ei mikään / Ничто'
+    нем+Pron+Neg+Sg+Nom: нем
+    нем+Pron+Neg+Sg+Acc: нем
+    нем+Pron+Neg+Sg+Gen: немлӧн
+    нем+Pron+Neg+Sg+Abl: немлісь
+    нем+Pron+Neg+Sg+Dat: немлӧ
+    нем+Pron+Neg+Sg+Ins: немӧн 
+    нем+Pron+Neg+Sg+Com: немкӧт
+    нем+Pron+Neg+Sg+Car: немтӧг
+    нем+Pron+Neg+Sg+Cns: немла
+    нем+Pron+Neg+Sg+Cmpr: немся
+    нем+Pron+Neg+Sg+Ine: немын
+    нем+Pron+Neg+Sg+Ela: немись
+    нем+Pron+Neg+Sg+Ill: немӧ
+    нем+Pron+Neg+Sg+Apr: немлань
+    нем+Pron+Neg+Sg+Egr: немсянь
+    нем+Pron+Neg+Sg+Prl: немӧт
+    нем+Pron+Neg+Sg+TerI: немӧдз
+    нем+Pron+Neg+Sg+TerII: немви
+    нем+Pron+Neg+Sg+AprIne: немланьын
+    нем+Pron+Neg+Sg+AprEla: немланись
+    нем+Pron+Neg+Sg+AprIll: немланьӧ
+    нем+Pron+Neg+Sg+AprEgr: немланьсянь
+    нем+Pron+Neg+Sg+AprPrl: немланьӧт
+    нем+Pron+Neg+Sg+AprTerI: немланьӧдз
+    нем+Pron+Neg+Sg+AprTerII: немланьви
+
+##Pronoun – кинкӧ: # Indefinite Pronoun 'Joku / кто-то'
+    кинкӧ+Pron+Indef+Sg+Nom: кинкӧ
+    кинкӧ+Pron+Indef+Sg+Acc: кинӧскӧ
+    кинкӧ+Pron+Indef+Sg+Gen: кинлӧнкӧ
+    кинкӧ+Pron+Indef+Sg+Abl: кинліськӧ
+    кинкӧ+Pron+Indef+Sg+Dat: кинлӧкӧ
+    кинкӧ+Pron+Indef+Sg+Ins: кинӧнкӧ 
+    кинкӧ+Pron+Indef+Sg+Com: кинкӧткӧ
+    кинкӧ+Pron+Indef+Sg+Car: кинкӧтӧг
+    кинкӧ+Pron+Indef+Sg+Cns: кинлакӧ
+    кинкӧ+Pron+Indef+Sg+Cmpr: [кинсякӧ, кинкӧся]
+    кинкӧ+Pron+Indef+Sg+Ine: кинынкӧ
+    кинкӧ+Pron+Indef+Sg+Ela: киніськӧ
+    кинкӧ+Pron+Indef+Sg+Ill: кинӧкӧ
+    кинкӧ+Pron+Indef+Sg+Apr: [кинланькӧ, кинкӧлань]
+    кинкӧ+Pron+Indef+Sg+Egr: [кинсянькӧ, кинкӧсянь]
+    кинкӧ+Pron+Indef+Sg+Prl: кинӧткӧ
+    кинкӧ+Pron+Indef+Sg+TerI: кинӧдзкӧ
+    кинкӧ+Pron+Indef+Sg+TerII: [кинвикӧ, кинкӧви]
+    кинкӧ+Pron+Indef+Sg+AprIne: кинкӧланьын
+    кинкӧ+Pron+Indef+Sg+AprEla: кинкӧланись
+    кинкӧ+Pron+Indef+Sg+AprIll: кинкӧланьӧ
+    кинкӧ+Pron+Indef+Sg+AprEgr: кинкӧланьсянь
+    кинкӧ+Pron+Indef+Sg+AprPrl: кинкӧланьӧт
+    кинкӧ+Pron+Indef+Sg+AprTerI: кинкӧланьӧдз
+    кинкӧ+Pron+Indef+Sg+AprTerII: кинкӧланьви
+
+    кинкӧ+Pron+Indef+Pl+Nom: киннэзкӧ
+    кинкӧ+Pron+Indef+Pl+Acc: киннэзӧскӧ
+    кинкӧ+Pron+Indef+Pl+Gen: киннэзлӧнкӧ
+    кинкӧ+Pron+Indef+Pl+Abl: киннэзліськӧ
+    кинкӧ+Pron+Indef+Pl+Dat: киннэзлӧкӧ
+    кинкӧ+Pron+Indef+Pl+Ins: киннэзӧнкӧ 
+    кинкӧ+Pron+Indef+Pl+Com: киннэзкӧткӧ
+    кинкӧ+Pron+Indef+Pl+Car: киннэзкӧтӧг
+    кинкӧ+Pron+Indef+Pl+Cns: киннэзлакӧ
+    кинкӧ+Pron+Indef+Pl+Cmpr: [киннэзсякӧ, киннэзкӧся]
+    кинкӧ+Pron+Indef+Pl+Ine: киннэзынкӧ
+    кинкӧ+Pron+Indef+Pl+Ela: киннэзіськӧ
+    кинкӧ+Pron+Indef+Pl+Ill: киннэзӧкӧ
+    кинкӧ+Pron+Indef+Pl+Apr: [киннэзланькӧ, киннэзкӧлань]
+    кинкӧ+Pron+Indef+Pl+Egr: [киннэзсянькӧ, киннэзкӧсянь]
+    кинкӧ+Pron+Indef+Pl+Prl: киннэзӧткӧ
+    кинкӧ+Pron+Indef+Pl+TerI: киннэзӧдзкӧ
+    кинкӧ+Pron+Indef+Pl+TerII: [киннэзвикӧ, киннэзкӧви]
+    кинкӧ+Pron+Indef+Pl+AprIne: киннэзкӧланьын
+    кинкӧ+Pron+Indef+Pl+AprEla: киннэзкӧланись
+    кинкӧ+Pron+Indef+Pl+AprIll: киннэзкӧланьӧ
+    кинкӧ+Pron+Indef+Pl+AprEgr: киннэзкӧланьсянь
+    кинкӧ+Pron+Indef+Pl+AprPrl: киннэзкӧланьӧт
+    кинкӧ+Pron+Indef+Pl+AprTerI: киннэзкӧланьӧдз
+    кинкӧ+Pron+Indef+Pl+AprTerII: киннэзкӧланьви
+
+Pronoun – мыйкӧ: # Indefinite Pronoun 'Jokin / что-то'
+    мыйкӧ+Pron+Indef+Sg+Nom: мыйкӧ
+    мыйкӧ+Pron+Indef+Sg+Acc: мыйкӧ
+    мыйкӧ+Pron+Indef+Sg+Gen: мыйлӧнкӧ
+    мыйкӧ+Pron+Indef+Sg+Abl: мыйліськӧ
+    мыйкӧ+Pron+Indef+Sg+Dat: мыйлӧкӧ
+    мыйкӧ+Pron+Indef+Sg+Ins: мыйӧнкӧ 
+    мыйкӧ+Pron+Indef+Sg+Com: мыйкӧткӧ
+    мыйкӧ+Pron+Indef+Sg+Car: мыйкӧтӧг
+    мыйкӧ+Pron+Indef+Sg+Cns: мыйлакӧ
+    мыйкӧ+Pron+Indef+Sg+Cmpr: [мыйсякӧ, мыйкӧся]
+    мыйкӧ+Pron+Indef+Sg+Ine: мыйынкӧ
+    мыйкӧ+Pron+Indef+Sg+Ela: мыйиськӧ
+    мыйкӧ+Pron+Indef+Sg+Ill: мыйӧкӧ
+    мыйкӧ+Pron+Indef+Sg+Apr: [мыйланькӧ, мыйкӧлань]
+    мыйкӧ+Pron+Indef+Sg+Egr: [мыйсянькӧ, мыйкӧсянь]
+    мыйкӧ+Pron+Indef+Sg+Prl: мыйӧткӧ
+    мыйкӧ+Pron+Indef+Sg+TerI: мыйӧдзкӧ
+    мыйкӧ+Pron+Indef+Sg+TerII: [мыйвикӧ, мыйкӧви]
+    мыйкӧ+Pron+Indef+Sg+AprIne: мыйкӧланьын
+    мыйкӧ+Pron+Indef+Sg+AprEla: мыйкӧланись
+    мыйкӧ+Pron+Indef+Sg+AprIll: мыйкӧланьӧ
+    мыйкӧ+Pron+Indef+Sg+AprEgr: мыйкӧланьсянь
+    мыйкӧ+Pron+Indef+Sg+AprPrl: мыйкӧланьӧт
+    мыйкӧ+Pron+Indef+Sg+AprTerI: мыйкӧланьӧдз
+    мыйкӧ+Pron+Indef+Sg+AprTerII: мыйкӧланьви
+
+    мыйкӧ+Pron+Indef+Pl+Nom: мыйезкӧ
+    мыйкӧ+Pron+Indef+Pl+Acc: мыйезкӧ
+    мыйкӧ+Pron+Indef+Pl+Gen: мыйезлӧнкӧ
+    мыйкӧ+Pron+Indef+Pl+Abl: мыйезліськӧ
+    мыйкӧ+Pron+Indef+Pl+Dat: мыйезлӧкӧ
+    мыйкӧ+Pron+Indef+Pl+Ins: мыйезӧнкӧ 
+    мыйкӧ+Pron+Indef+Pl+Com: мыйезкӧткӧ
+    мыйкӧ+Pron+Indef+Pl+Car: мыйезкӧтӧг
+    мыйкӧ+Pron+Indef+Pl+Cns: мыйезлакӧ
+    мыйкӧ+Pron+Indef+Pl+Cmpr: [мыйезсякӧ, мыйезкӧся]
+    мыйкӧ+Pron+Indef+Pl+Ine: мыйезынкӧ
+    мыйкӧ+Pron+Indef+Pl+Ela: мыйезіськӧ
+    мыйкӧ+Pron+Indef+Pl+Ill: мыйезӧкӧ
+    мыйкӧ+Pron+Indef+Pl+Apr: [мыйезланькӧ, мыйезкӧлань]
+    мыйкӧ+Pron+Indef+Pl+Egr: [мыйезсянькӧ, мыйезкӧсянь]
+    мыйкӧ+Pron+Indef+Pl+Prl: мыйезӧткӧ
+    мыйкӧ+Pron+Indef+Pl+TerI: мыйезӧдзкӧ
+    мыйкӧ+Pron+Indef+Pl+TerII: [мыйезвикӧ, мыйезкӧви]
+    мыйкӧ+Pron+Indef+Pl+AprIne: мыйезкӧланьын
+    мыйкӧ+Pron+Indef+Pl+AprEla: мыйезкӧланись
+    мыйкӧ+Pron+Indef+Pl+AprIll: мыйезкӧланьӧ
+    мыйкӧ+Pron+Indef+Pl+AprEgr: мыйезкӧланьсянь
+    мыйкӧ+Pron+Indef+Pl+AprPrl: мыйезкӧланьӧт
+    мыйкӧ+Pron+Indef+Pl+AprTerI: мыйезкӧланьӧдз
+    мыйкӧ+Pron+Indef+Pl+AprTerII: мыйезкӧланьви
+
 
