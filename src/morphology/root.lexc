@@ -170,7 +170,13 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Px1 +Px2 +Px3
  
 !! The comparative forms are:
- +Comp +Superl
+ +Comp   !!≈ ; @CODE@ : comparative
+ +Superl   !!≈ ; @CODE@ : superlative
+ +Mdr   !!≈ ; @CODE@ : moderative -моз, -кодь  'kind of, -ish' with reference to quality ыджыткодь 'rather big'
+ +Aug   !!≈ ; @CODE@ : augmentative, intensive -ӧв 'too X' with reference to quality ыджытӧв 'too big'
+ +Der/AdvCompMod	 !!≈ *  __@CODE@__ Adverbial comparative modifier in моз Der/моз +MOZ  diminishing, kind of, sort of
+ +Der/CompMod	 !!≈ *  __@CODE@__ comparative modifier in кодь Der/кодь ! diminishing, kind of, sort of
+
 !! Numerals are classified under:
  +Attr +Card
  +Ord
@@ -557,8 +563,6 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +Der/а +Der/Иник
 
 
- +Der/AdvCompMod	 !!≈ *  __@CODE@__ Adverbial comparative modifier in моз Der/моз +MOZ  diminishing, kind of, sort of
- +Der/CompMod	 !!≈ *  __@CODE@__ comparative modifier in кодь Der/кодь ! diminishing, kind of, sort of
  +Der/PrivMod    !!≈ *  __@CODE@__ privative or abessive modifier -тӧм AbeMod
  +Der/LocMod    !!≈ *  __@CODE@__ locative modifier са - IneMod
  +Der/ProprietiveMod    !!≈ *  __@CODE@__ habeo modifier HabObjMod Der/а

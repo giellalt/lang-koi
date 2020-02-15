@@ -609,7 +609,7 @@ LEXICON ILL_THEN-K
 +Ill:%>ӧ K ;
 
 LEXICON INE_THEN-K
-+Inе:%>ын K ;
++Ine:%>ын K ;
 
 LEXICON INS_THEN-K
 +Ins:%>ӧн K ;
@@ -680,7 +680,7 @@ LEXICON ILL_THEN-WORD-END
 +Ill:%>ӧ WordEnd ;
 
 LEXICON INE_THEN-WORD-END
-+Inе:%>ын WordEnd ;
++Ine:%>ын WordEnd ;
 
 LEXICON INS_THEN-WORD-END
 +Ins:%>ӧн WordEnd ;

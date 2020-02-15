@@ -87,6 +87,7 @@ LIST Inf = Inf ;
 LIST Pos = Pos ; 
 LIST Neg = Neg neg ; 
 LIST ConNeg = ConNeg conneg; 
+LIST Ger = Ger ;
 
 LIST V-jylysj = "висьтавны" "гижны" "мойдны" "мӧвпавны" "пасйыны" "сёрнитны" "тӧдны" "шуны" ;
 
@@ -183,6 +184,7 @@ LIST Patronym = Sem/Patr ;
 LIST Clt/сӧ = Clt/сӧ ;
 LIST Der/MWN = Der/MWN ;
 LIST Der/са = Der/са ;
+LIST Der/тӧг = Der/тӧг ;
 
 LIST CASE = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Ela Car Egr Tra Apr Ter Abe Prl ;
 SET OBLCASE = CASE - Nom ;
@@ -253,6 +255,9 @@ REMOVE Nom IF (0 Nom + Clt + Clt/сӧ);
 REMOVE:ImprtCltso Imprt (0 Imprt + Sg2 + Clt + Clt/сӧ);
 
 REMOVE:notPrl Prl IF (0 NOT-PRL) ;
+
+# дугдывтӧг
+REMOVE:NoReadyDeverbalAdv Adv IF (0 V + Der/тӧг + Car + Ger) ;
 
 # CC or Pcle
 # ==========
