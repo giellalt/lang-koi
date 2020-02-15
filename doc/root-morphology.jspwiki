@@ -134,6 +134,13 @@ The possession is marked as such:
 ODD
 
 The comparative forms are:
+ ; +Comp : comparative
+ ; +Superl : superlative
+ ; +Mdr : moderative -моз, -кодь  'kind of, -ish' with reference to quality ыджыткодь 'rather big'
+ ; +Aug : augmentative, intensive -ӧв 'too X' with reference to quality ыджытӧв 'too big'
+ *  __+Der/AdvCompMod	__ Adverbial comparative modifier in моз Der/моз +MOZ  diminishing, kind of, sort of
+ *  __+Der/CompMod	__ comparative modifier in кодь Der/кодь ! diminishing, kind of, sort of
+
 Numerals are classified under:
 
 Verb moods are:
@@ -306,8 +313,6 @@ source and target part-of-speech.
 
 
 
- *  __+Der/AdvCompMod	__ Adverbial comparative modifier in моз Der/моз +MOZ  diminishing, kind of, sort of
- *  __+Der/CompMod	__ comparative modifier in кодь Der/кодь ! diminishing, kind of, sort of
  *  __+Der/PrivMod__ privative or abessive modifier -тӧм AbeMod
  *  __+Der/LocMod__ locative modifier са - IneMod
  *  __+Der/ProprietiveMod__ habeo modifier HabObjMod Der/а
