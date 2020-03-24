@@ -1,4 +1,3 @@
-
 #!! !!!Komi-Permyak disambiguator
 
 # ============== #
@@ -316,7 +315,7 @@ REMOVE Interr IF (-2 N)(-1 (","))(0 Rel);
 # ==========
 
 #SELECT:AN A + Abs IF (1 N) ;
-SELECT:AAN A + Abs IF (0 A)(1 CC)(2 A + Abs) ;
+SELECT:AAN (A Abs) IF (0 A)(1 CC)(2 A + Abs) ;
 
 # Прилагательное или существительное
 
