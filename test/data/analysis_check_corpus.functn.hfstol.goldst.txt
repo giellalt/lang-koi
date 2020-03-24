@@ -1,0 +1,11217 @@
+"<Ӧндриан>"
+	"Ӧндриан" ?
+"<.>"
+	"." CLB
+
+"<Ӧндриа́н>"
+	"Ӧндриа́н" ?
+"<—>"
+	"—" PUNCT
+"<учӧтик>"
+	"учӧтик" A
+"<грезд>"
+	"грезд" N Sg Nom
+"<(>"
+	"(" PUNCT LEFT
+"<деревня>"
+	"деревня" N Sg Nom
+"<)>"
+	")" PUNCT RIGHT
+"<Перем>"
+	"Перем" ?
+"<ладорись>"
+	"ладор" N Sg Ela @HNOUN
+"<Коми>"
+	"коми" N Sg Nom
+"<кытшын>"
+	"кытш" N Sg Ine @N<
+"<,>"
+	"," CLB
+"<Кудымкар>"
+	"Кудымкар" ?
+"<районас>"
+	"район" N Sg Ill PxSg3 @<ADVL
+	"район" N Sg Ine PxSg3
+"<.>"
+	"." CLB
+
+"<Грездыс>"
+	"Грезд" N Prop Sg Nom PxSg3 @SUBJ>
+	"грезд" N Sg Nom PxSg3 @SUBJ>
+"<сулалӧ>"
+	"сулавны" V Err/Orth Ind Prs Sg3
+	"сулавны" V Ind Prs Sg3
+	"сулыны" V Der/Al Ind Prs Sg3
+"<Кудымкарсянь>"
+	"Кудымкарсянь" ?
+"<рытвылӧ>"
+	"рытвыв" N Err/Orth Sem/Inanim Sg Ill @<ADVL
+	"рытвыв" N Err/Orth Sem/Inanim Sg Nom PxSg1 @<SUBJ
+	"рытвыв" N Sg Ill @<ADVL
+	"рытвыв" N Sg Nom PxSg1 @<SUBJ
+"<42>"
+	"42" ?
+"<км>"
+	"км" N ABBR
+"<ылынаын>"
+	"ылына" N Sg Ine
+"<,>"
+	"," CLB
+"<Вежайка>"
+	"Вежайка" N Prop Sg Nom @<SUBJ
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom @<SUBJ
+	"ю" N Sg Nom @<SUBJ
+"<дорын>"
+	"дор" Adp Po Spat Sg Ine
+	"дор" N Sg Ine
+	"дорын" Adp Po Spat Sg Ine
+"<.>"
+	"." CLB
+
+"<Ӧндрианыс>"
+	"Ӧндрианыс" ?
+"<ӧні>"
+	"ӧні" Adv @<ADVL
+"<пырӧ>"
+	"пырны" V Imprt Pl2
+	"пырны" V Ind Prs Sg3
+"<Иньвайыв>"
+	"Иньвайыв" ?
+"<посадмуӧ>"
+	"посадмуӧ" ?
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<2006>"
+	"2006" ?
+"<годӧдз>"
+	"год" N Sg TerI
+"<сія>"
+	"сія" Pron Pers Sg3 Nom
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<Москвина>"
+	"Москвин" N Prop Sem/Sur-Fem Sg Nom @<SUBJ
+	"Москвин" N Prop Sem/Sur-Mal Sg Der Der/ProprietiveMod A
+"<сельсоветын>"
+	"сельсоветын" ?
+"<.>"
+	"." CLB
+
+"<Ордча>"
+	"ордча" A
+	"ордчыны" V Ind Prs Sg1
+"<грезддэз>"
+	"грезд" N Pl Nom
+"<.>"
+	"." CLB
+
+"<Ӧндриансянь>"
+	"Ӧндриансянь" ?
+"<ойвылас>"
+	"ойвылас" ?
+"<,>"
+	"," CLB
+"<Вежайка>"
+	"Вежайка" N Prop Sg Nom @SUBJ>
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom @SUBJ>
+	"ю" N Sg Nom @SUBJ>
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po
+	"пӧлӧн" Adp Po Sg Nom @SUBJ>
+	"пӧлӧн" Adv @ADVL>
+"<кӧ>"
+	"кыны" V Ind Prs Sg3
+	"кӧ" Adv @ADVL>
+	"кӧ" CS
+"<кайны>"
+	"кайны" V Inf
+"<,>"
+	"," CLB
+"<петӧ>"
+	"петны" V Imprt Pl2
+	"петны" V Ind Prs Sg3
+"<Вежайка>"
+	"Вежайка" N Prop Sg Nom @<SUBJ
+"<грезд>"
+	"грезд" N Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<лунвылас>"
+	"лунвыв" N Sg Ill PxSg3 @<ADVL
+	"лунвыв" N Sg Ine PxSg3
+"<кӧ>"
+	"кӧ" Adv @ADVL>
+"<лэдзчыны>"
+	"лэдзчыны" V Inf
+"<—>"
+	"—" PUNCT
+"<Вальков>"
+	"Вальков" N Prop Sem/Sur-Mal Sg Nom @SUBJ>
+"<грезд>"
+	"грезд" N Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<сы>"
+	"сія" Pron Pers Sg3 Cmpl
+"<сайын>"
+	"сай" Adp Po Spat Sg Ine
+	"сай" N Sg Ine
+	"сайын" Adp Po Spat Sg Ine
+"<,>"
+	"," CLB
+"<нёль>"
+	"нёль" Card Cmpl
+"<километра>"
+	"километр" N Sg Der Der/ProprietiveMod A
+"<ылынаын>"
+	"ылына" N Sg Ine
+"<,>"
+	"," CLB
+"<куйлӧ>"
+	"куйлыны" V Imprt Pl2
+	"куйлыны" V Ind Prs Sg3
+"<Москвина>"
+	"Москвин" N Prop Sem/Sur-Mal Sg Der Der/ProprietiveMod A
+"<,>"
+	"," CLB
+"<кӧда>"
+	"кӧда" Adv @<ADVL
+	"кӧда" Pron Rel Sg Nom @<SUBJ
+"<Ӧндриан>"
+	"Ӧндриан" ?
+"<понда>"
+	"понда" Adp
+	"понда" Adp Po
+	"пондыны" V Ind Prs Sg1
+"<кольччӧ>"
+	"кольччыны" V Ind Prs Sg3
+"<шӧрин>"
+	"шӧрин" N Sg Nom @SUBJ>
+"<туйӧ>"
+	"туй морт" N Sg Ill @<ADVL
+	"туй морт" N Sg Nom PxSg1 @<SUBJ
+	"туй" N Sg Ill @<ADVL
+	"туй" N Sg Nom PxSg1 @<SUBJ
+	"туйны" V Ind Prs Sg3
+	"туйӧ" Adp Po Sg Ill
+	"туйӧ" Adp Po Spat Sg Ill
+"<.>"
+	"." CLB
+
+"<Отир>"
+	"отир" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Олӧны>"
+	"овны" V Ind Prs Pl3
+"<Ӧндрианас>"
+	"Ӧндрианас" ?
+"<ӧндриа>"
+	"ӧндриа" ?
+"<́новчи.>"
+	"́новчи." ?
+"<2009>"
+	"2009" ?
+"<во>"
+	"во" N Sem/Inanim Sg Nom @SUBJ>
+	"во" N Sg Nom @SUBJ>
+	"войны" V Imprt Sg2
+	"воны" Hom1 V Imprt Sg2
+	"воны" Hom2 V Imprt Sg2
+	"лоны" V Err/Orth Imprt Sg2
+"<пондӧтчикӧ>"
+	"пондӧтчикӧ" ?
+"<нія>"
+	"сія" Pron Pers Pl3 Nom @SUBJ>
+"<вӧлісӧ>"
+	"вӧвны" V Err/Orth Ind Prt1 Pl3
+	"вӧвны" V Ind Prt1 Pl3
+"<25>"
+	"25" ?
+"<морт>"
+	"морт" N Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<видзисӧ>"
+	"видзны" V Ind Prt1 Pl3
+"<13>"
+	"13" ?
+"<горт>"
+	"горт" Hom1 N Sg Nom
+	"горт" Hom2 N Sg Nom
+	"горт" N Sem/Inanim Sg Nom
+"<.>"
+	"." CLB
+
+"<Этӧ>"
+	"Этӧ" ?
+"<унапӧв>"
+	"унапӧв" ?
+"<етшажык>"
+	"етш" Hom1 N Sg Der Der/ProprietiveMod A Comp
+	"етша" Adv Der/жык Comp @<ADVL
+"<1970>"
+	"1970" ?
+"<год>"
+	"год" N Sg Nom
+"<сьӧрті>"
+	"сьӧрті" Adp Po
+"<,>"
+	"," CLB
+"<кӧр>"
+	"кӧр" Adv @<ADVL
+	"кӧр" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"кӧр" Hom2 N Sem/Inanim Sg Nom @SUBJ>
+	"кӧр" Hom3 N Sem/Inanim Sg Nom @SUBJ>
+	"кӧр" N Sg Nom @SUBJ>
+	"кӧрны" V Imprt Sg2
+"<татӧн>"
+	"татӧн" Adv @<ADVL
+"<олӧмась>"
+	"овны" V Ind Prt2 Pl1
+	"овны" V Ind Prt2 Pl3
+"<120>"
+	"120" ?
+"<морт>"
+	"морт" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Уна>"
+	"уна" Adv Cmpl
+"<отир>"
+	"отир" N Sg Nom @SUBJ>
+"<мунӧмась>"
+	"мунны" V Ind Prt2 Pl1
+	"мунны" V Ind Prt2 Pl3
+"<овны>"
+	"овны" V Inf
+"<Москвинаӧ>"
+	"Москвин" N Prop Sem/Sur-Fem Sg Ill @<ADVL
+	"Москвин" N Prop Sem/Sur-Fem Sg Nom PxSg1
+"<нето>"
+	"нето" ?
+"<Куваӧ>"
+	"кув" N Sg Der Der/ProprietiveMod A Der Der/MWN N Sg Ill @<ADVL
+"<.>"
+	"." CLB
+
+"<Быдӧс>"
+	"быд" Hom1 N Sem/Inanim Sg Acc
+	"быд" Hom1 N Sem/Inanim Sg Acc PxSg1
+	"быд" N Sg Acc
+	"быд" N Sg Acc PxSg1
+"<оліссез>"
+	"овны" V Der/ісь ActPrsPtc Pl Nom
+"<комиӧсь>"
+	"комиӧсь" ?
+"<.>"
+	"." CLB
+
+"<Унажыкыс>"
+	"Унажыкыс" ?
+"<новйӧны>"
+	"новйыны" V Ind Prs Pl3
+"<памиллёэз>"
+	"памиллёэз" ?
+"<Васькин>"
+	"Васькин" N Prop Sem/Sur-Mal Sg Nom
+"<да>"
+	"да" CC
+"<Зубов>"
+	"Зубов" N Prop Sem/Sur-Mal Sg Nom
+"<.>"
+	"." CLB
+
+"<Кулӧммезнысӧ>"
+	"кулӧм" Hom1 N Sem/Inanim Pl Acc PxPl3
+	"кулӧм" Hom2 N Sem/Inanim Pl Acc PxPl3
+	"кулӧм" N Pl Acc PxPl3
+"<ӧндриановчиыс>"
+	"ӧндриановчиыс" ?
+"<дзебӧны>"
+	"дзебны" V Ind Prs Pl3
+"<Куваас>"
+	"кув" N Sg Der Der/ProprietiveMod A Der Der/MWN N Sg Ill PxSg3 @<ADVL
+	"кув" N Sg Der Der/ProprietiveMod A Der Der/MWN N Sg Ine PxSg3
+"<.>"
+	"." CLB
+
+"<Сэтчин>"
+	"сэтчин" Adv @<ADVL
+"<жӧ>"
+	"жӧ" CC
+	"жӧ" Pcle @PCLE
+"<дзебсьӧны>"
+	"дзебсьыны" V Ind Prs Pl3
+"<вежайчана>"
+	"вежайчана" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<вольковчи>"
+	"вольковчи" ?
+"<.>"
+	"." CLB
+
+"<Культура>"
+	"культура" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Школаӧ>"
+	"Школа" N Prop Sg Ill @<ADVL
+	"Школа" N Prop Sg Nom PxSg1 @SUBJ>
+	"школа" N Sg Ill @<ADVL
+	"школа" N Sg Nom PxSg1 @SUBJ>
+"<ӧндриановчилӧн>"
+	"ӧндриановчилӧн" ?
+"<челядь>"
+	"челядь" N Sem/Inanim Sg Nom @SUBJ>
+	"челядь" N Sg Nom @SUBJ>
+"<ветлӧны>"
+	"ветлыны" V Ind Prs Pl3
+"<Москвинаӧ>"
+	"Москвин" N Prop Sem/Sur-Fem Sg Ill @<ADVL
+	"Москвин" N Prop Sem/Sur-Fem Sg Nom PxSg1 @SUBJ>
+"<,>"
+	"," CLB
+"<сэтчӧ>"
+	"сэтчӧ" Adv @<ADVL
+"<жӧ>"
+	"жӧ" CC
+	"жӧ" Pcle @PCLE
+"<мунӧны>"
+	"мунны" V Ind Prs Pl3
+"<пельшер-акушер>"
+	"пельшер-акушер" ?
+"<дынӧ>"
+	"дын" Hom1 N Sem/Inanim Sg Ill @<ADVL
+	"дын" Hom1 N Sem/Inanim Sg Nom PxSg1
+	"дын" Hom2 N Sem/Inanim Sg Ill @<ADVL
+	"дын" Hom2 N Sem/Inanim Sg Nom PxSg1
+	"дынӧ" Adp Po Spat Sg Ill
+"<.>"
+	"." CLB
+
+"<¶>"
+	"¶" CLB
+
+"<¶>"
+	"¶" CLB
+
+"<Ӧнь>"
+	"Ӧнь" ?
+"<.>"
+	"." CLB
+
+"<Ӧнь>"
+	"Ӧнь" ?
+"<—>"
+	"—" PUNCT
+"<неыджыт>"
+	"неыджыт" A
+"<ю>"
+	"ю" N ABBR
+	"ю" N Sem/Inanim Sg Nom
+	"ю" N Sg Nom
+"<Перем>"
+	"Перем" ?
+"<ладорись>"
+	"ладор" N Sg Ela @HNOUN
+"<Коми>"
+	"коми" N Sg Nom
+"<кытшын>"
+	"кытш" N Sg Ine @N<
+"<,>"
+	"," CLB
+"<Иньвалӧн>"
+	"Иньвалӧн" ?
+"<шульга>"
+	"шульга" A
+"<вож>"
+	"вож" N Sem/Inanim Sg Nom
+	"вож" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Юыслӧн>"
+	"ю" N Sem/Inanim Sg Gen PxSg3 @>N
+	"ю" N Sg Gen PxSg3 @>N
+"<кузяыс>"
+	"кузя" N Sg Nom PxSg3 @HNOUN
+"<—>"
+	"—" PUNCT
+"<49>"
+	"49" ?
+"<км>"
+	"км" N ABBR
+"<.>"
+	"." CLB
+
+"<Бассейныс>"
+	"бассейн" N Sg Nom PxSg3
+"<—>"
+	"—" PUNCT
+"<75>"
+	"75" ?
+"<км>"
+	"км" N ABBR
+"<²>"
+	"²" ?
+"<ыжда>"
+	"ыжда" Adp Po
+	"ыждыны" V Ind Prs Sg1
+"<.>"
+	"." CLB
+
+"<Ӧнь>"
+	"Ӧнь" ?
+"<юыс>"
+	"ю" N Sem/Inanim Sg Nom PxSg3 @SUBJ>
+	"ю" N Sg Nom PxSg3 @SUBJ>
+"<аркмӧ>"
+	"аркмыны" V Ind Prs Sg3
+"<Ыджыт>"
+	"ыджыт" A
+"<Ӧнь>"
+	"Ӧнь" ?
+"<да>"
+	"да" CC
+"<Учӧт>"
+	"Учӧт" ?
+"<Ӧнь>"
+	"Ӧнь" ?
+"<ӧтлаасьӧмӧн>"
+	"ӧтлаасьны" V Der/Omon Ger
+	"ӧтлаасьӧм" N Sem/Inanim Sg Ins
+"<.>"
+	"." CLB
+
+"<Ваыс>"
+	"ва" N Sg Nom PxSg3 @SUBJ>
+"<кынмӧ>"
+	"кынмыны" V Ind Prs Sg3
+"<октяб>"
+	"октяб" ?
+"<помын>"
+	"пом" N Sg Ine
+	"помын" Adp Po Spat Sg Ine
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<оссьӧ>"
+	"оссьыны" V Imprt Pl2
+	"оссьыны" V Ind Prs Sg3
+"<—>"
+	"—" PUNCT
+"<апрель>"
+	"апрель" N Sg Nom @<SUBJ
+"<помын>"
+	"пом" N Sg Ine
+	"помын" Adp Po Spat Sg Ine
+"<.>"
+	"." CLB
+
+"<Ю>"
+	"Ю" N ABBR
+	"ю" N ABBR
+	"ю" N Sem/Inanim Sg Nom @SUBJ>
+	"ю" N Sg Nom @SUBJ>
+	"юны" V Imprt Sg2
+"<уссёсянь>"
+	"уссёсянь" ?
+"<неылын>"
+	"неылын" Adv Ine @<ADVL
+	"неылын" Adv Spat Ine @<ADVL
+"<сулалӧ>"
+	"сулавны" V Err/Orth Imprt Pl2
+	"сулавны" V Err/Orth Ind Prs Sg3
+	"сулавны" V Imprt Pl2
+	"сулавны" V Ind Prs Sg3
+	"сулыны" V Der/Al Imprt Pl2
+	"сулыны" V Der/Al Ind Prs Sg3
+"<Ӧнь>"
+	"Ӧнь" ?
+"<посад>"
+	"пос" N Sem/Inanim Sg Ill PxSg2 @<ADVL
+	"пос" N Sem/Inanim Sg Ine PxSg2
+	"посад" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<¶>"
+	"¶" CLB
+
+"<¶>"
+	"¶" CLB
+
+"<Ханты>"
+	"ханты" N Sg Nom @HNOUN
+"<кыв>"
+	"кыв" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Ханты>"
+	"ханты" N Sg Nom
+"<кыв>"
+	"кыв" N Sg Nom
+"<—>"
+	"—" PUNCT
+"<ханты>"
+	"ханты" N Sg Nom
+"<отирлöн>"
+	"отир" N Sg Gen @>A
+"<чужан>"
+	"чужан" A
+	"чужан" A Prc
+	"чужны" V Ind Prs Sg2
+"<кыв>"
+	"кыв" N Sg Nom
+"<,>"
+	"," CLB
+"<чудь-йӧгра>"
+	"чудь-йӧгра" N Sg Nom
+"<кыввезісь>"
+	"кыв" N Pl Ela
+"<öтік>"
+	"ӧтік" Card Cmpl
+	"ӧтік" Num Card Cmpl
+"<.>"
+	"." CLB
+
+"<Ханты>"
+	"ханты" N Sg Nom @SUBJ>
+"<кыв>"
+	"кыв" N Sg Nom @SUBJ>
+"<пырö>"
+	"пырны" V Ind Prs Sg3
+"<чудь-йöгра>"
+	"чудь-йӧгра" N Sg Nom @<SUBJ
+"<группа>"
+	"группа" N Sg Nom @<SUBJ
+"<йöгра>"
+	"йӧгра" N Sg Nom @<SUBJ
+"<увтырö>"
+	"увтыр" N Sg Ill @<ADVL
+	"увтыр" N Sg Nom PxSg1 @<SUBJ
+"<,>"
+	"," CLB
+"<кытöн>"
+	"кыны" V Der/тӧн
+	"кытӧн" Pron Spat Ine Rel
+"<сы>"
+	"сія" Pron Pers Sg3 Cmpl
+"<дынö>"
+	"дын" Hom1 N Sem/Inanim Sg Ill @<ADVL
+	"дын" Hom1 N Sem/Inanim Sg Nom PxSg1
+	"дын" Hom2 N Sem/Inanim Sg Ill @<ADVL
+	"дын" Hom2 N Sem/Inanim Sg Nom PxSg1
+	"дынӧ" Adp Po Spat Sg Ill
+"<медматын>"
+	"медматын" ?
+"<маньси>"
+	"маньси" ?
+"<кыв>"
+	"кыв" N Sg Nom
+	"кывны" V Imprt Sg2
+"<.>"
+	"." CLB
+
+"<Хантыэз>"
+	"ханты" N Pl Nom @SUBJ>
+"<28>"
+	"28" ?
+"<сюрс>"
+	"сюрс" Card Cmpl
+"<морт>"
+	"морт" N Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<ны>"
+	"сія" Pron Pers Pl3
+"<коласісь>"
+	"колас" N Sg Ela
+"<ас>"
+	"ас" Det Pron Refl Cmpl
+"<кыв>"
+	"кыв" N Sg Nom @SUBJ>
+"<вылын>"
+	"выв" N Err/Orth Sem/Inanim Sg Ine
+	"выв" N Sg Ine
+	"вылын" Adv Spat Ine @<ADVL
+	"вылын" Hom2 Adp Po Spat Sg Ine
+"<баитöны>"
+	"баитны" V Ind Prs Pl3
+"<12>"
+	"12" ?
+"<сюрс>"
+	"сюрс" Card Cmpl
+"<.>"
+	"." CLB
+
+"<Отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<олö>"
+	"овны" V Ind Prs Sg3
+"<унажыксö>"
+	"унажыксö" ?
+"<Йӧгра>"
+	"йӧгра" N Sg Nom @<SUBJ
+"<кытшын>"
+	"кытш" N Sg Ine
+"<.>"
+	"." CLB
+
+"<Хант>"
+	"Хант" N Prop Sg Nom @HNOUN
+	"хант" N Sg Nom @HNOUN
+"<кывлöн>"
+	"кыв" N Sg Gen @>N
+"<диалекттэз>"
+	"диалект" N Pl Nom @HNOUN
+"<лёка>"
+	"лёк" A Der Der/A Adv @<ADVL
+	"лёка" Adv @<ADVL
+	"лёка" Adv AdA @<ADVL
+	"лёка" CS
+	"лёка" N Sg Nom @HNOUN
+"<неöткодьöсь>"
+	"неӧткодь" A Cop Pl
+"<.>"
+	"." CLB
+
+"<Этасянь>"
+	"этайӧ" Pron Dem Sg Egr
+	"этасянь" Adv @<ADVL
+"<волісö>"
+	"волісö" ?
+"<лöсьöтöмöсь>"
+	"лӧсьӧтны" V Ind Prt2 Pl1
+	"лӧсьӧтны" V Ind Prt2 Pl3
+	"лӧсьӧтӧм" A Prc Cop Pl
+"<нёль>"
+	"нёль" Card Cmpl
+"<кыв>"
+	"кыв" N Sg Nom
+"<стандарт>"
+	"стандарт" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Масс>"
+	"Масс" N Prop Sg Nom
+"<медиаын>"
+	"медиаын" ?
+"<кылам-адззам>"
+	"кылам-#адззыны" V Ind Prs Pl1
+"<унажыксö>"
+	"унажыксö" ?
+"<казымись>"
+	"казымись" ?
+"<стандарт>"
+	"стандарт" N Sg Nom
+"<.>"
+	"." CLB
+
+"<¶>"
+	"¶" CLB
+
+"<¶>"
+	"¶" CLB
+
+"<Ӧтӧпка>"
+	"Ӧтӧпка" ?
+"<.>"
+	"." CLB
+
+"<Ӧтӧ́пка>"
+	"Ӧтӧ́пка" ?
+"<—>"
+	"—" PUNCT
+"<Перем>"
+	"Перем" ?
+"<ладорись>"
+	"ладор" N Sg Ela @HNOUN
+"<Коми>"
+	"коми" N Sg Nom
+"<кытшын>"
+	"кытш" N Sg Ine @N<
+"<,>"
+	"," CLB
+"<Кӧчладор>"
+	"Кӧчладор" ?
+"<районісь>"
+	"район" N Sg Ela
+"<Пелым>"
+	"Пелым" ?
+"<посадмуын>"
+	"посадмуын" ?
+"<грезд>"
+	"грезд" N Sg Nom
+"<(>"
+	"(" PUNCT LEFT
+"<деревня>"
+	"деревня" N Sg Nom @<SPRED
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<География>"
+	"география" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Ӧтӧпкаыс>"
+	"Ӧтӧпкаыс" ?
+"<сулалӧ>"
+	"сулавны" V Err/Orth Imprt Pl2
+	"сулавны" V Err/Orth Ind Prs Sg3
+	"сулавны" V Imprt Pl2
+	"сулавны" V Ind Prs Sg3
+	"сулыны" V Der/Al Imprt Pl2
+	"сулыны" V Der/Al Ind Prs Sg3
+"<Кӧч>"
+	"Кӧч" N Prop Sg Nom @<SUBJ
+	"кӧч" N Sem/Inanim Sg Nom @<SUBJ
+	"кӧч" N Sg Nom @<SUBJ
+"<посадсянь>"
+	"посад" N Sg Egr
+"<ойвылӧ>"
+	"ойвылӧ" ?
+"<20>"
+	"20" ?
+"<км>"
+	"км" N ABBR
+"<ылынаын>"
+	"ылына" N Sg Ine
+"<,>"
+	"," CLB
+"<Пирогопос>"
+	"Пирогопос" ?
+"<шор>"
+	"шор" N Sem/Inanim Sg Nom @<SUBJ
+	"шор" N Sg Nom @<SUBJ
+"<шульга>"
+	"шульга" A
+"<ладорын>"
+	"ладор" N Sg Ine
+"<.>"
+	"." CLB
+
+"<Ордча>"
+	"ордча" A
+	"ордчыны" V Ind Prs Sg1
+"<грезддэз>"
+	"грезд" N Pl Nom
+"<.>"
+	"." CLB
+
+"<Ӧтӧпкасянь>"
+	"Ӧтӧпкасянь" ?
+"<лунвыв-рытвылын>"
+	"лунвыв-рытвылын" ?
+"<куйлӧ>"
+	"куйлыны" V Imprt Pl2
+	"куйлыны" V Ind Prs Sg3
+"<посадмуись>"
+	"посадмуись" ?
+"<шӧрин>"
+	"шӧрин" N Sg Nom @<SUBJ
+"<Пелым>"
+	"Пелым" ?
+"<,>"
+	"," CLB
+"<ойвылас>"
+	"ойвылас" ?
+"<—>"
+	"—" PUNCT
+"<Вершинин>"
+	"Вершинин" N Prop Sem/Sur-Mal Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+"<Москвин>"
+	"Москвин" N Prop Sem/Sur-Mal Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Лунвыв-асыввылын>"
+	"Лунвыв-асыввылын" ?
+"<сулалӧ>"
+	"сулавны" V Err/Orth Imprt Pl2
+	"сулавны" V Err/Orth Ind Prs Sg3
+	"сулавны" V Imprt Pl2
+	"сулавны" V Ind Prs Sg3
+	"сулыны" V Der/Al Imprt Pl2
+	"сулыны" V Der/Al Ind Prs Sg3
+"<йӧзтӧм>"
+	"йӧз" N Sg Der Der/PrivMod A
+"<Карчинск>"
+	"Карчинск" ?
+"<.>"
+	"." CLB
+
+"<¶>"
+	"¶" CLB
+
+"<¶>"
+	"¶" CLB
+
+"<Ёдз>"
+	"Ёдз" ?
+"<Коми>"
+	"коми" N Sg Nom @HNOUN
+"<кыв>"
+	"кыв" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Ёдз>"
+	"Ёдз" ?
+"<Коми>"
+	"коми" N Sg Nom @HNOUN
+"<кыв>"
+	"кыв" N Sg Nom @HNOUN
+"<—>"
+	"—" PUNCT
+"<этӧ>"
+	"этӧ" ?
+"<коми>"
+	"коми" N Sg Nom @<SPRED
+"<кыв>"
+	"кыв" N Sg Nom @<SPRED
+"<диалект>"
+	"диалект" N Sg Nom @<SPRED
+"<под>"
+	"под" Hom1 N Sem/Inanim Sg Nom @<SPRED
+	"под" Hom2 N Sem/Inanim Sg Nom @<SPRED
+	"под" N Sg Nom @<SPRED
+"<вылын>"
+	"выв" N Err/Orth Sem/Inanim Sg Ine @N<
+	"выв" N Sg Ine @N<
+	"вылын" Adv Spat Ine @<ADVL
+	"вылын" Hom1 A
+	"вылын" Hom2 Adp Po Spat Sg Ine @N<
+"<керӧм>"
+	"керӧм" A Prc
+"<кыв>"
+	"кыв" N Sg Nom @<SPRED
+"<стандарт>"
+	"стандарт" N Sg Nom @<SPRED
+"<.>"
+	"." CLB
+
+"<¶>"
+	"¶" CLB
+
+"<¶>"
+	"¶" CLB
+
+"<¶>"
+	"¶" CLB
+
+"<Вавилин>"
+	"Вавилин" N Prop Sem/Sur-Mal Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Михаил>"
+	"Михаил" N Prop Sem/Ant-Mal Sg Nom @HNOUN
+"<Дмитриевич>"
+	"Дмитриевич" N Prop Sg Nom @APP-N<
+	"Дмитрий" N Prop Sem/Patr-Mal Sg Nom @APP-N<
+"<.>"
+	"." CLB
+
+"<Вавилин>"
+	"Вавилин" N Prop Sem/Sur-Mal Sg Nom @HNOUN
+"<Михаил>"
+	"Михаил" N Prop Sem/Ant-Mal Sg Nom @HNOUN
+"<Дмитриевич>"
+	"Дмитриевич" N Prop Sg Nom @HNOUN
+	"Дмитрий" N Prop Sem/Patr-Mal Sg Nom @HNOUN
+"<—>"
+	"—" PUNCT
+"<перем>"
+	"перем" ?
+"<коми>"
+	"коми" N Sg Nom @<SPRED
+"<поэт>"
+	"поэт" N Sg Nom @<SPRED
+"<.>"
+	"." CLB
+
+"<Сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<чужис>"
+	"чужны" V Ind Prt1 Sg3
+"<1921>"
+	"1921" ?
+"<вося>"
+	"вося" N Sg Nom @<SUBJ
+"<январ>"
+	"январ" N Sg Nom @<SUBJ
+"<22>"
+	"22" ?
+"<лунӧ>"
+	"лун" N Sem/Inanim Sg Ill @<ADVL
+	"лун" N Sem/Inanim Sg Nom PxSg1 @<SUBJ
+	"лун" N Sg Ill @<ADVL
+	"лун" N Sg Nom PxSg1 @<SUBJ
+"<Кӧчладор>"
+	"Кӧчладор" ?
+"<районісь>"
+	"район" N Sg Ela
+"<Кокушка>"
+	"Кокушка" ?
+"<деревняын>"
+	"деревня" N Sg Ine
+"<.>"
+	"." CLB
+
+"<1939>"
+	"1939" ?
+"<во>"
+	"во" N Sem/Inanim Sg Nom @SUBJ>
+	"во" N Sg Nom @SUBJ>
+"<коста>"
+	"кост" N Sg Der Der/ProprietiveMod A
+	"коста" A
+	"коста" Adp Po
+"<помаліс>"
+	"помавны" V Ind Prt1 Sg3
+	"помалны" V Ind Prt1 Sg3
+"<Кудымкарись>"
+	"Кудымкарись" ?
+"<педагогӧ>"
+	"педагог" N Sg Ill @<ADVL
+	"педагог" N Sg Nom PxSg1 @<SUBJ
+"<велӧтан>"
+	"велӧтны" V Ind Prs Sg2
+"<керку>"
+	"керку" N Sem/Inanim Sg Nom @SUBJ>
+	"керку" N Sg Nom @SUBJ>
+"<да>"
+	"да" CC
+"<уджаліс>"
+	"уджавны" V Err/Orth Ind Prt1 Sg3
+	"уджавны" V Ind Prt1 Sg3
+"<велӧтісьӧн>"
+	"велӧтны" V Der/ісь ActPrsPtc Sg Ins
+"<аслас>"
+	"аслас" Pron Refl Sg3 Gen @>A
+	"ачыс" Pron Refl Sg3 Gen @>A
+"<чужан>"
+	"чужан" A
+	"чужан" A Prc
+	"чужны" V Ind Prs Sg2
+"<районын>"
+	"район" N Sg Ine
+"<.>"
+	"." CLB
+
+"<1941>"
+	"1941" ?
+"<восянь>"
+	"во" N Sem/Inanim Sg Egr
+	"во" N Sg Egr
+"<1946>"
+	"1946" ?
+"<воӧдз>"
+	"во" N Sem/Inanim Sg TerI
+	"во" N Sg TerI
+"<кесъяліс>"
+	"кесъяліс" ?
+"<армияын>"
+	"армия" N Sg Ine
+"<,>"
+	"," CLB
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<Айму>"
+	"айму" N Sg Nom
+"<дор>"
+	"дор" Adp Po
+	"дор" N Sg Nom
+"<ыджыт>"
+	"ыджыт" A
+"<косьын>"
+	"кось" Hom1 N Sem/Inanim Sg Ine
+	"кось" Hom2 N Sem/Inanim Sg Ine
+"<.>"
+	"." CLB
+
+"<Повтӧмыс>"
+	"повны" V Der/тӧм VAbe PxSg3
+"<понда>"
+	"понда" Adp
+	"понда" Adp Po
+	"пондыны" V Ind Prs Sg1
+"<пасйӧм>"
+	"пасйыны" V Ind Prt2 Sg3
+"<кык>"
+	"кык" Card Cmpl
+	"кык" Num Card Cmpl @>N
+"<орденӧн>"
+	"орден" N Sg Ins
+"<да>"
+	"да" CC
+"<квать>"
+	"квать" Card Cmpl
+	"квать" Num Card Cmpl @>N
+"<медальӧн>"
+	"медаль" N Sg Ins
+"<.>"
+	"." CLB
+
+"<1955>"
+	"1955" ?
+"<во>"
+	"во" N Sem/Inanim Sg Nom @SUBJ>
+	"во" N Sg Nom @SUBJ>
+"<коста>"
+	"кост" N Sg Der Der/ProprietiveMod A
+	"коста" A
+	"коста" Adp Po
+"<помаліс>"
+	"помавны" V Ind Prt1 Sg3
+	"помалны" V Ind Prt1 Sg3
+"<А.>"
+	"А" N ABBR
+	"а" N ABBR
+"<М.>"
+	"М" N ABBR
+	"м" N ABBR
+"<Горький>"
+	"Горький" ?
+"<нима>"
+	"ним" Hom1 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"ним" Hom2 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"ним" N Sg Der Der/ProprietiveMod A
+	"нима" A
+"<Литература>"
+	"литература" N Sg Nom @<SUBJ
+"<институт>"
+	"институт" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Уджаліс>"
+	"уджавны" V Err/Orth Ind Prt1 Sg3
+	"уджавны" V Ind Prt1 Sg3
+"<округись>"
+	"округ" N Sg Ela
+"<газетын>"
+	"газет" N Sg Ine
+"<,>"
+	"," CLB
+"<веськӧтліс>"
+	"веськӧтлыны" V Ind Prt1 Sg3
+"<небӧг>"
+	"небӧг" N Sem/Inanim Sg Nom @<SUBJ
+	"небӧг" N Sg Nom @<SUBJ
+"<лэдзанӧн>"
+	"лэдзан" N Sg Ins
+"<,>"
+	"," CLB
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<округись>"
+	"округ" N Sg Ela
+"<асладор>"
+	"асладор" Pron Refl Der/ладор Sg Nom @<SUBJ
+"<музейын>"
+	"музей" N Sg Ine
+"<наука>"
+	"наука" N Sg Nom @<SUBJ
+"<уджалісьӧн>"
+	"уджавны" V Der/ісь ActPrsPtc Sg Ins
+	"уджавны" V Err/Orth Der/ісь ActPrsPtc Sg Ins
+"<.>"
+	"." CLB
+
+"<Сійӧ>"
+	"сія" Pron Pers Sg3 Acc
+"<босьтісӧ>"
+	"босьтны" V Ind Prt1 Pl3
+"<СССР-ись>"
+	"СССР-ись" ?
+"<гижиссез>"
+	"гижны" V Der/ісь ActPrsPtc Pl Nom
+"<йитӧтӧ>"
+	"йитӧтӧ" ?
+"<.>"
+	"." CLB
+
+"<Куліс>"
+	"кувны" V Err/Orth Ind Prt1 Sg3
+	"кувны" V Ind Prt1 Sg3
+"<1992>"
+	"1992" ?
+"<во>"
+	"во" N Sem/Inanim Sg Nom @<SUBJ
+	"во" N Sg Nom @<SUBJ
+	"войны" V Imprt Sg2
+	"воны" Hom1 V Imprt Sg2
+	"воны" Hom2 V Imprt Sg2
+	"лоны" V Err/Orth Imprt Sg2
+"<.>"
+	"." CLB
+
+"<¶>"
+	"¶" CLB
+
+"<¶>"
+	"¶" CLB
+
+"<¶>"
+	"¶" CLB
+
+"<Кӧсладор>"
+	"Кӧсладор" ?
+"<район>"
+	"район" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Кӧсла́дор>"
+	"Кӧсла́дор" ?
+"<район>"
+	"район" N Sg Nom
+"<(>"
+	"(" PUNCT LEFT
+"<)>"
+	")" PUNCT RIGHT
+"<—>"
+	"—" PUNCT
+"<веськӧтлан>"
+	"веськӧтлан" A Prc
+	"веськӧтлыны" V Ind Prs Sg2
+"<юкӧт>"
+	"ю" N Sem/Inanim Sg Com
+	"ю" N Sg Com
+	"юк" N Sem/Inanim Sg Prl
+	"юк" N Sg Prl
+"<Перем>"
+	"Перем" ?
+"<ладорись>"
+	"ладор" N Sg Ela
+"<Коми>"
+	"коми" N Sg Nom
+"<кытшын>"
+	"кытш" N Sg Ine
+"<.>"
+	"." CLB
+
+"<Куйлӧ>"
+	"куйлыны" V Imprt Pl2
+	"куйлыны" V Ind Prs Sg3
+"<Кӧсва>"
+	"Кӧсва" ?
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom @<SUBJ
+	"ю" N Sg Nom @<SUBJ
+"<кывтытын>"
+	"кывтыт" N Sg Ine
+"<,>"
+	"," CLB
+"<Кудымкар>"
+	"Кудымкар" ?
+"<–>"
+	"–" PUNCT
+"<Гайна>"
+	"Гайна" N Prop Sg Nom
+"<автотуйсянь>"
+	"автотуйсянь" ?
+"<асыввылын>"
+	"асыввыв" N Sg Ine
+"<.>"
+	"." CLB
+
+"<Аркмӧтӧм>"
+	"аркмӧтны" V Ind Prt2 Sg3
+"<1924>"
+	"1924" ?
+"<'>"
+	"'" PUNCT
+"<годӧ>"
+	"год" N Sg Nom PxSg1 @<SUBJ
+"<февраль>"
+	"февраль" N Sg Nom @<SUBJ
+"<27>"
+	"27" ?
+"<'>"
+	"'" PUNCT
+"<лунӧ>"
+	"лун" N Sem/Inanim Sg Ill @<ADVL
+	"лун" N Sem/Inanim Sg Nom PxSg1 @<SUBJ
+	"лун" N Sg Ill @<ADVL
+	"лун" N Sg Nom PxSg1 @<SUBJ
+"<Чердын>"
+	"Чердын" ?
+"<уездісь>"
+	"уезд" N Sg Ela
+"<Чурак>"
+	"Чурак" ?
+"<,>"
+	"," CLB
+"<Кӧс>"
+	"Кӧс" N Prop Sg Nom @<SUBJ
+	"кӧс" A
+"<,>"
+	"," CLB
+"<Юксьӧв>"
+	"Юксьӧв" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Бондюг>"
+	"Бондюг" ?
+"<волоссез>"
+	"волоссез" ?
+"<ӧтлаӧтӧмӧн>"
+	"ӧтлаӧтны" V Der/Omon Ger
+	"ӧтлаӧтӧм" N Sem/Inanim Sg Ins
+"<.>"
+	"." CLB
+
+"<Медодз>"
+	"медодз" A
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<Камакатыт>"
+	"Камакатыт" ?
+"<(>"
+	"(" PUNCT LEFT
+"<Верхнекамскӧй>"
+	"Верхнекамскӧй" ?
+"<)>"
+	")" PUNCT RIGHT
+"<кытшын>"
+	"кытш" N Sg Ine
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<февраль>"
+	"февраль" N Sg Nom @SUBJ>
+"<26>"
+	"26" ?
+"<'>"
+	"'" PUNCT
+"<лунӧ>"
+	"лун" N Sem/Inanim Sg Ill @<ADVL
+	"лун" N Sem/Inanim Sg Nom PxSg1 @SUBJ>
+	"лун" N Sg Ill @<ADVL
+	"лун" N Sg Nom PxSg1 @SUBJ>
+"<1925>"
+	"1925" ?
+"<'>"
+	"'" PUNCT
+"<воын>"
+	"во" N Sem/Inanim Sg Ine
+	"во" N Sg Ine
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<кытш>"
+	"кытш" N Sg Nom @SUBJ>
+"<аркмикӧ>"
+	"аркмикӧ" ?
+"<лоис>"
+	"лойны" V Ind Prt1 Sg3
+	"лоны" V Ind Prt1 Sg3
+"<сы>"
+	"сія" Pron Pers Sg3 Cmpl
+"<пытшкын>"
+	"пытш" Adp Po Spat Sg Ine
+	"пытш" Hom2 N Sem/Inanim Sg Ine
+	"пытшкын" Adp Po
+	"пытшкын" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Районын>"
+	"район" N Sg Ine @ADVL>
+"<лыддисьӧ>"
+	"лыддисьны" V Ind Prs Sg3
+	"лыддьыны" V Der/ісь ActPrsPtc Sg Ill @HNOUN
+	"лыддьыны" V Der/ісь ActPrsPtc Sg Nom PxSg1
+"<59>"
+	"59" ?
+"<оланін>"
+	"оланін" N Sem/Inanim Sg Nom @<SUBJ
+	"оланін" N Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<ны>"
+	"ны" N Sg Nom @<SUBJ
+"<коласын>"
+	"колас" N Sg Ine
+	"коласын" Adp Po Spat Sg Ine
+"<кык>"
+	"кык" Card Cmpl
+	"кык" Num Card Cmpl @>N
+"<посад>"
+	"пос" N Sem/Inanim Sg Ill PxSg2 @<ADVL
+	"пос" N Sem/Inanim Sg Ine PxSg2
+	"посад" N Sg Nom @<SUBJ
+"<(>"
+	"(" PUNCT LEFT
+"<Кӧс>"
+	"Кӧс" N Prop Sg Nom @<SUBJ
+	"кӧс" A
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Пуксипи>"
+	"Пуксипи" ?
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<öкмыс>"
+	"ӧкмыс" Card Cmpl
+	"ӧкмыс" Num Card Cmpl @>N
+"<посёлок>"
+	"посёлок" N Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<47>"
+	"47" ?
+"<грезд>"
+	"грезд" N Sg Nom @<SUBJ
+"<(>"
+	"(" PUNCT LEFT
+"<деревня>"
+	"деревня" N Sg Nom @<SUBJ
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<Веськӧтлан>"
+	"веськӧтлан" A Prc
+	"веськӧтлыны" V Ind Prs Sg2
+"<–>"
+	"–" PUNCT
+"<Кӧс>"
+	"Кӧс" N Prop Sg Nom
+"<посад>"
+	"пос" N Sem/Inanim Sg Ill PxSg2
+	"пос" N Sem/Inanim Sg Ine PxSg2
+	"посад" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Кӧссянь>"
+	"Кӧс" N Prop Sg Egr
+"<Кудымкарӧдз>"
+	"Кудымкарӧдз" ?
+"<–>"
+	"–" PUNCT
+"<163>"
+	"163" ?
+"<км>"
+	"км" N ABBR
+"<,>"
+	"," CLB
+"<Перемӧдз>"
+	"Перемӧдз" ?
+"<–>"
+	"–" PUNCT
+"<338>"
+	"338" ?
+"<км>"
+	"км" N ABBR
+"<,>"
+	"," CLB
+"<медматын>"
+	"медматын" ?
+"<кӧрттуй>"
+	"кӧрттуй" ?
+"<ӧдз>"
+	"ӧдз" ?
+"<(>"
+	"(" PUNCT LEFT
+"<Совкар>"
+	"Совкар" ?
+"<)>"
+	")" PUNCT RIGHT
+"<–>"
+	"–" PUNCT
+"<150>"
+	"150" ?
+"<км>"
+	"км" N ABBR
+"<.>"
+	"." CLB
+
+"<Районын>"
+	"район" N Sg Ine
+"<юралö>"
+	"юравны" V Err/Orth Ind Prs Sg3
+	"юравны" V Ind Prs Sg3
+"<Анфалов>"
+	"Анфалов" N Prop Sem/Sur-Mal Sg Nom @<SUBJ
+"<Евгений>"
+	"Евгений" N Prop Sem/Ant-Mal Sg Nom @<SUBJ
+"<Васильевич>"
+	"Василий" N Prop Sem/Patr-Mal Sg Nom @<SUBJ
+	"Васильевич" N Prop Sg Nom @<SUBJ
+"<(>"
+	"(" PUNCT LEFT
+"<2011>"
+	"2011" ?
+"<'>"
+	"'" PUNCT
+"<восянь>"
+	"во" N Sem/Inanim Sg Egr
+	"во" N Sg Egr
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<География>"
+	"география" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Кöсладор>"
+	"Кöсладор" ?
+"<районлöн>"
+	"район" N Sg Gen
+"<ыс>"
+	"ыс" ?
+"<3462>"
+	"3462" ?
+"<км2>"
+	"км2" ?
+"<ыжда>"
+	"ыжда" Adp Po
+	"ыждыны" V Ind Prs Sg1
+"<,>"
+	"," CLB
+"<ныись>"
+	"сія" Pron Pers Pl3 Ela
+"<му-видз>"
+	"му-видз" N Sg Nom
+"<уджалӧм>"
+	"уджалӧм" N Sem/Inanim Sg Nom
+	"уджалӧм" N Sg Nom
+"<понда>"
+	"понда" Adp
+	"понда" Adp Po
+	"пондыны" V Ind Prs Sg1
+"<лӧсялӧны>"
+	"лӧсявны" V Err/Orth Ind Prs Pl3
+	"лӧсявны" V Ind Prs Pl3
+"<токӧ>"
+	"ток" Hom1 N Sem/Inanim Sg Ill @<ADVL
+	"ток" Hom1 N Sem/Inanim Sg Nom PxSg1
+	"ток" N Sg Ill @<ADVL
+	"ток" N Sg Nom PxSg1
+"<4%>"
+	"4%" ?
+"<.>"
+	"." CLB
+
+"<Мӧдік>"
+	"мӧдік" Pron Indef Sg Nom
+"<торыс>"
+	"тор" A Der Der/MWN N Sg Nom PxSg3
+"<–>"
+	"–" PUNCT
+"<вӧр>"
+	"вӧр" N Sem/Inanim Sg Nom
+	"вӧр" N Sg Nom
+	"вӧрны" V Imprt Sg2
+"<да>"
+	"да" CC
+"<нюррез>"
+	"нюр" N Pl Nom
+	"нюр" N Sem/Inanim Pl Nom
+"<увтын>"
+	"увт" N Sg Ine
+	"увтын" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Ойвывсянь>"
+	"Ойвывсянь" ?
+"<лунвылӧ>"
+	"лунвыв" N Sg Nom PxSg1 @SUBJ>
+"<районыс>"
+	"район" N Sg Nom PxSg3 @SUBJ>
+"<нюжалӧ>"
+	"нюжавны" V Err/Orth Ind Prs Sg3
+	"нюжавны" V Ind Prs Sg3
+"<91>"
+	"91" ?
+"<км>"
+	"км" N ABBR
+"<ылына>"
+	"ылын" A Der Der/A Adv @ADVL>
+	"ылына" N Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<рытвывсянь>"
+	"рытвыв" N Sg Egr
+"<асыввылӧ>"
+	"асыввыв" N Sg Ill @<ADVL
+	"асыввыв" N Sg Nom PxSg1 @<SUBJ
+"<–>"
+	"–" PUNCT
+"<67>"
+	"67" ?
+"<км>"
+	"км" N ABBR
+"<ылына>"
+	"ылын" A Der Der/A Adv @<ADVL
+	"ылына" N Sg Nom @APP-N<
+"<.>"
+	"." CLB
+
+"<Кöсладорыс>"
+	"Кöсладорыс" ?
+"<межаасьӧ>"
+	"межаасьӧ" ?
+"<:>"
+	":" CLB
+"<ойвылын>"
+	"ойвылын" ?
+"<Гайна>"
+	"Гайна" N Prop Sg Nom @HNOUN
+"<районкӧт>"
+	"район" N Sg Com @N<
+"<,>"
+	"," CLB
+"<рытвылын>"
+	"рытвыв" N Err/Orth Sem/Inanim Sg Ine
+	"рытвыв" N Sg Ine
+"<–>"
+	"–" PUNCT
+"<Кӧчладор>"
+	"Кӧчладор" ?
+"<районкӧт>"
+	"район" N Sg Com
+"<,>"
+	"," CLB
+"<лунвылын>"
+	"лунвыв" N Sg Ine
+"<–>"
+	"–" PUNCT
+"<Юрла>"
+	"Юр" N Prop Sg Cns
+	"Юрла" N Prop Sg Nom @<SPRED
+	"юр" N Sem/Inanim Sg Cns
+	"юр" N Sg Cns
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Кудымкар>"
+	"Кудымкар" ?
+"<районнэзкӧт>"
+	"район" N Pl Com
+"<,>"
+	"," CLB
+"<асыввылын>"
+	"асыввыв" N Sg Ine
+"<–>"
+	"–" PUNCT
+"<Чердын>"
+	"Чердын" ?
+"<,>"
+	"," CLB
+"<Совкар>"
+	"Совкар" ?
+"<(>"
+	"(" PUNCT LEFT
+"<Соликамскӧй>"
+	"соликамскӧй" A
+"<)>"
+	")" PUNCT RIGHT
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Совдор>"
+	"Совдор" N Prop Sg Nom @<SPRED
+"<(>"
+	"(" PUNCT LEFT
+"<Усоллё>"
+	"Усоллё" ?
+"<)>"
+	")" PUNCT RIGHT
+"<районнэзкӧт>"
+	"район" N Pl Com
+"<.>"
+	"." CLB
+
+"<Район>"
+	"район" N Sg Nom @SUBJ>
+"<му>"
+	"му" N Sem/Inanim Sg Nom @SUBJ>
+	"му" N Sg Nom @SUBJ>
+"<кузя>"
+	"кузя" Adv @<ADVL
+	"кузя" Hom1 Adv @<ADVL
+	"кузя" Hom2 Adp Po
+	"кузя" N Sg Nom @SUBJ>
+"<котӧртӧны>"
+	"котӧртны" V Ind Prs Pl3
+"<Кӧсва>"
+	"Кӧсва" ?
+"<ю>"
+	"ю" N ABBR
+	"ю" N Sem/Inanim Sg Nom
+	"ю" N Sg Nom
+	"юны" V Imprt Sg2
+"<да>"
+	"да" CC
+"<сылӧн>"
+	"сыв" Hom2 N Sg Ins
+	"сыв" N Sg Ins
+	"сія" Pron Pers Sg3 Gen
+"<20>"
+	"20" ?
+"<кыным>"
+	"кы" N Sg Nom PxPl1
+"<вож>"
+	"вож" N Sem/Inanim Sg Nom
+	"вож" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Ны>"
+	"ны" N Sg Nom
+"<коласын>"
+	"колас" N Sg Ine
+	"коласын" Adp Po Spat Sg Ine
+"<медкузьӧсь>"
+	"медкузь" A Superl Cop Pl
+"<–>"
+	"–" PUNCT
+"<Лолӧг>"
+	"Лолӧг" ?
+"<,>"
+	"," CLB
+"<Косья>"
+	"Косья" ?
+"<,>"
+	"," CLB
+"<Вум>"
+	"Вум" ?
+"<,>"
+	"," CLB
+"<Сия>"
+	"Сий" N Prop Sem/Sur-Mal Sg Der Der/ProprietiveMod A
+	"Сия" N Prop Sg Nom
+"<,>"
+	"," CLB
+"<Октыль>"
+	"Октыль" ?
+"<,>"
+	"," CLB
+"<Булач>"
+	"Булач" N Prop Sg Nom
+"<,>"
+	"," CLB
+"<Лолым>"
+	"Лолым" ?
+"<,>"
+	"," CLB
+"<Лоч>"
+	"лойны" V Der/чы Imprt Sg2
+	"лоны" V Der/чы Imprt Sg2
+"<,>"
+	"," CLB
+"<Одань>"
+	"Одань" ?
+"<,>"
+	"," CLB
+"<Сым>"
+	"Сым" ?
+"<,>"
+	"," CLB
+"<Солым>"
+	"Солым" ?
+"<.>"
+	"." CLB
+
+"<Ойвылын>"
+	"Ойвылын" ?
+"<район>"
+	"район" N Sg Nom @SUBJ>
+"<пыр>"
+	"пыр" Adp
+	"пыр" Adp Po
+	"пыр" Adv @<ADVL
+"<котӧртӧ>"
+	"котӧртны" V Ind Prs Sg3
+"<Кама>"
+	"кам" Hom1 A Der Der/A Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Вӧр-ваись>"
+	"вӧр-ва" N Sg Ela
+"<аскоддя>"
+	"аскоддя" A
+"<ладорӧн>"
+	"ладор" N Sg Ins
+"<лыддисьӧны>"
+	"лыддисьны" V Ind Prs Pl3
+"<:>"
+	":" CLB
+"<Гнилуха>"
+	"Гнилуха" ?
+"<нинпуаин>"
+	"нинпуаин" ?
+"<(>"
+	"(" PUNCT LEFT
+"<Усь>"
+	"усьны" V Imprt Sg2
+"<Кӧсва>"
+	"Кӧсва" ?
+"<гӧгӧрын>"
+	"гӧгӧр" Adp Po Sg Ine
+	"гӧгӧрын" Adp Po Spat Sg Ine
+	"гӧгӧрын" Adv Ine @<ADVL
+"<,>"
+	"," CLB
+"<ыждаыс>"
+	"ыждаыс" ?
+"<78>"
+	"78" ?
+"<га>"
+	"га" A Sg Nom
+	"гыны" V Ind Prs Sg1
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<Солым>"
+	"Солым" ?
+"<нинпуаин>"
+	"нинпуаин" ?
+"<(>"
+	"(" PUNCT LEFT
+"<Солым>"
+	"Солым" ?
+"<посёлоксянь>"
+	"посёлок" N Sg Egr
+"<6,5>"
+	"6,5" ?
+"<км>"
+	"км" N ABBR
+"<ойвыв-рытвылӧ>"
+	"ойвыв-рытвылӧ" ?
+"<,>"
+	"," CLB
+"<ыждаыс>"
+	"ыждаыс" ?
+"<20>"
+	"20" ?
+"<га>"
+	"га" A Sg Nom
+	"гыны" V Ind Prs Sg1
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<Вум>"
+	"Вум" ?
+"<нинпуаин>"
+	"нинпуаин" ?
+"<(>"
+	"(" PUNCT LEFT
+"<Лёвич>"
+	"Лёвич" ?
+"<дорын>"
+	"дор" Adp Po Spat Sg Ine
+	"дор" N Sg Ine
+	"дорын" Adp Po Spat Sg Ine
+"<,>"
+	"," CLB
+"<ыждаыс>"
+	"ыждаыс" ?
+"<45>"
+	"45" ?
+"<га>"
+	"га" A Sg Nom
+	"гыны" V Ind Prs Sg1
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<Лёль>"
+	"лёль" N Sg Nom
+"<яг>"
+	"яг" N Sem/Inanim Sg Nom
+	"яг" N Sg Nom
+"<(>"
+	"(" PUNCT LEFT
+"<Вылісь>"
+	"выв" N Err/Orth Sem/Inanim Sg Ela
+	"выв" N Sg Ela
+	"вылісь" A
+"<Лёль>"
+	"лёль" N Sg Nom
+"<дорын>"
+	"дор" Adp Po Spat Sg Ine
+	"дор" N Sg Ine
+	"дорын" Adp Po Spat Sg Ine
+"<,>"
+	"," CLB
+"<ыждаыс>"
+	"ыждаыс" ?
+"<67>"
+	"67" ?
+"<га>"
+	"га" A Sg Nom
+	"гыны" V Ind Prs Sg1
+"<)>"
+	")" PUNCT RIGHT
+"<да>"
+	"да" CC
+"<Селиш>"
+	"Селиш" ?
+"<нюр>"
+	"нюр" N Sem/Inanim Sg Nom
+	"нюр" N Sg Nom
+"<(>"
+	"(" PUNCT LEFT
+"<Кӧс>"
+	"Кӧс" N Prop Sg Nom
+"<посад>"
+	"пос" N Sem/Inanim Sg Ill PxSg2 @<ADVL
+	"пос" N Sem/Inanim Sg Ine PxSg2
+	"посад" N Sg Nom
+"<,>"
+	"," CLB
+"<Лочсай>"
+	"Лочсай" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Селиш>"
+	"Селиш" ?
+"<грезддэз>"
+	"грезд" N Pl Nom
+"<коласын>"
+	"колас" N Sg Ine
+	"коласын" Adp Po Spat Sg Ine
+"<,>"
+	"," CLB
+"<ыждаыс>"
+	"ыждаыс" ?
+"<20>"
+	"20" ?
+"<сюрс>"
+	"сюрс" Card Cmpl
+"<га>"
+	"га" A Sg Nom
+	"гыны" V Ind Prs Sg1
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<Отир>"
+	"отир" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Олӧны>"
+	"овны" V Ind Prs Pl3
+"<Кöсладор>"
+	"Кöсладор" ?
+"<районын>"
+	"район" N Sg Ine
+"<7,9>"
+	"7,9" ?
+"<сюрс>"
+	"сюрс" Card Cmpl
+"<морт>"
+	"морт" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Ныись>"
+	"ны" Der/ісь ActPrsPtc Sg Nom
+	"ны" N Sg Ela @HNOUN
+	"ны" V Der/ісь ActPrsPtc Sg Nom
+	"сія" Pron Pers Pl3 Ela @HNOUN
+"<74%>"
+	"74%" ?
+"<–>"
+	"–" PUNCT
+"<комиэз>"
+	"коми" N Pl Nom @<SPRED
+"<.>"
+	"." CLB
+
+"<Йӧзыслӧн>"
+	"йӧз" N Sg Gen PxSg3 @>A
+"<топыта>"
+	"топыт" A Der Der/A Adv @ADVL>
+	"топыта" Adv @ADVL>
+"<–>"
+	"–" PUNCT
+"<7,1>"
+	"7,1" ?
+"<морт>"
+	"морт" N Sg Nom
+"</>"
+	"/" PUNCT
+"<км2-ын>"
+	"км2-ын" ?
+"<.>"
+	"." CLB
+
+"<История>"
+	"история" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Кӧсладор>"
+	"Кӧсладор" ?
+"<район>"
+	"район" N Sg Nom @SUBJ>
+"<аркмикӧ>"
+	"аркмикӧ" ?
+"<1924>"
+	"1924" ?
+"<'>"
+	"'" PUNCT
+"<годӧ>"
+	"год" N Sg Nom PxSg1 @SUBJ>
+"<февраль>"
+	"февраль" N Sg Nom @SUBJ>
+"<27>"
+	"27" ?
+"<'>"
+	"'" PUNCT
+"<лунӧ>"
+	"лун" N Sem/Inanim Sg Ill @<ADVL
+	"лун" N Sem/Inanim Sg Nom PxSg1 @SUBJ>
+	"лун" N Sg Ill @<ADVL
+	"лун" N Sg Nom PxSg1 @SUBJ>
+"<сы>"
+	"сія" Pron Pers Sg3 Cmpl
+"<пытшкӧ>"
+	"пытш" Adp Po Spat Sg Ill
+	"пытш" Hom2 N Sem/Inanim Sg Ill @<ADVL
+	"пытш" Hom2 N Sem/Inanim Sg Nom PxSg1 @SUBJ>
+	"пытшкӧ" Adp Po Spat Sg Ill
+	"пытшкӧ" Adv @<ADVL
+"<пырӧмась>"
+	"пырны" V Ind Prt2 Pl1
+	"пырны" V Ind Prt2 Pl3
+"<Чердын>"
+	"Чердын" ?
+"<уездісь>"
+	"уезд" N Sg Ela
+"<Чурак>"
+	"Чурак" ?
+"<(>"
+	"(" PUNCT LEFT
+"<27>"
+	"27" ?
+"<олан>"
+	"олан" N Sg Nom
+	"олан" N V Der/An Sg Nom
+"<ин>"
+	"ин" N Sem/Inanim Sg Nom
+	"ин" N Sg Nom
+"<,>"
+	"," CLB
+"<6029>"
+	"6029" ?
+"<морт>"
+	"морт" N Sg Nom
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<Кӧс>"
+	"Кӧс" N Prop Sg Nom
+	"кӧс" A
+"<(>"
+	"(" PUNCT LEFT
+"<17>"
+	"17" ?
+"<олан>"
+	"олан" N Sg Nom
+	"олан" N V Der/An Sg Nom
+"<ин>"
+	"ин" N Sem/Inanim Sg Nom
+	"ин" N Sg Nom
+"<,>"
+	"," CLB
+"<2526>"
+	"2526" ?
+"<морт>"
+	"морт" N Sg Nom
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<Юксьӧв>"
+	"Юксьӧв" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Бондюг>"
+	"Бондюг" ?
+"<волоссез>"
+	"волоссез" ?
+"<.>"
+	"." CLB
+
+"<1925>"
+	"1925" ?
+"<'>"
+	"'" PUNCT
+"<во>"
+	"во" N Sem/Inanim Sg Nom
+	"во" N Sg Nom
+"<кежӧ>"
+	"кеж" N Sg Nom PxSg1
+"<районын>"
+	"район" N Sg Ine @ADVL>
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<22>"
+	"22" ?
+"<сельсовет>"
+	"сельсовет" ?
+"<:>"
+	":" CLB
+"<Кӧс>"
+	"Кӧс" N Prop Sg Nom @HNOUN
+	"кӧс" A
+"<,>"
+	"," CLB
+"<Улісь>"
+	"ув" Hom1 N Err/Orth Sem/Inanim Sg Ela @ADVL>
+	"ув" Hom1 N Sg Ela @ADVL>
+	"ув" N Sg Ela @ADVL>
+	"улісь" A
+"<Кӧс>"
+	"Кӧс" N Prop Sg Nom @HNOUN
+	"кӧс" A
+"<,>"
+	"," CLB
+"<Селиш>"
+	"Селиш" ?
+"<,>"
+	"," CLB
+"<Лёвич>"
+	"Лёвич" ?
+"<,>"
+	"," CLB
+"<Чурак>"
+	"Чурак" ?
+"<,>"
+	"," CLB
+"<Лямпин>"
+	"Лямпин" ?
+"<,>"
+	"," CLB
+"<Варыш>"
+	"Варыш" N Prop Sg Nom @HNOUN
+	"варыш" N Sem/Inanim Sg Nom @HNOUN
+	"варыш" N Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Пуксипи>"
+	"Пуксипи" ?
+"<,>"
+	"," CLB
+"<Чадзӧв>"
+	"Чадзӧв" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Отопков>"
+	"Отопков" N Prop Sem/Sur-Mal Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Юксьӧв>"
+	"Юксьӧв" ?
+"<,>"
+	"," CLB
+"<Порошволь>"
+	"Порошволь" ?
+"<,>"
+	"," CLB
+"<Пятигор>"
+	"Пятигор" ?
+"<,>"
+	"," CLB
+"<Октыльсорд>"
+	"Октыльсорд" ?
+"<,>"
+	"," CLB
+"<Гайна>"
+	"Гайна" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Нӧрыс>"
+	"Нӧрыс" N Prop Sg Nom @HNOUN
+	"нӧрыс" N Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Иванчина>"
+	"Иванчин" N Prop Sem/Sur-Fem Sg Nom @HNOUN
+	"Иванчин" N Prop Sem/Sur-Mal Sg Der Der/ProprietiveMod A
+"<,>"
+	"," CLB
+"<Чӧжӧгӧв>"
+	"Чӧжӧгӧв" ?
+"<,>"
+	"," CLB
+"<Данилова>"
+	"Данилов" N Prop Sg Der Der/ProprietiveMod A
+	"Данилов" N Prop Sem/Sur-Fem Sg Nom @HNOUN
+	"Данилов" N Prop Sem/Sur-Mal Sg Der Der/ProprietiveMod A
+"<,>"
+	"," CLB
+"<Аннинск>"
+	"Аннинск" ?
+"<,>"
+	"," CLB
+"<Плёсо>"
+	"Плёсо" ?
+"<,>"
+	"," CLB
+"<Давыдова>"
+	"Давыдов" N Prop Sem/Sur-Fem Sg Nom @HNOUN
+	"Давыдов" N Prop Sem/Sur-Mal Sg Der Der/ProprietiveMod A
+"<.>"
+	"." CLB
+
+"<1926>"
+	"1926" ?
+"<'>"
+	"'" PUNCT
+"<годӧ>"
+	"год" N Sg Ill @<ADVL
+	"год" N Sg Nom PxSg1 @SUBJ>
+"<9>"
+	"9" ?
+"<'>"
+	"'" PUNCT
+"<сельсовет>"
+	"сельсовет" ?
+"<(>"
+	"(" PUNCT LEFT
+"<Гайна>"
+	"Гайна" N Prop Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<Нӧрыс>"
+	"Нӧрыс" N Prop Sg Nom @SUBJ>
+	"нӧрыс" N Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<Иванчина>"
+	"Иванчин" N Prop Sem/Sur-Fem Sg Nom @SUBJ>
+	"Иванчин" N Prop Sem/Sur-Mal Sg Der Der/ProprietiveMod A
+"<,>"
+	"," CLB
+"<Чӧжӧгӧв>"
+	"Чӧжӧгӧв" ?
+"<,>"
+	"," CLB
+"<Данилова>"
+	"Данилов" N Prop Sg Der Der/ProprietiveMod A
+	"Данилов" N Prop Sem/Sur-Fem Sg Nom @SUBJ>
+	"Данилов" N Prop Sem/Sur-Mal Sg Der Der/ProprietiveMod A
+"<,>"
+	"," CLB
+"<Аннинск>"
+	"Аннинск" ?
+"<,>"
+	"," CLB
+"<Плёсо>"
+	"Плёсо" ?
+"<,>"
+	"," CLB
+"<Давыдова>"
+	"Давыдов" N Prop Sem/Sur-Fem Sg Nom @SUBJ>
+	"Давыдов" N Prop Sem/Sur-Mal Sg Der Der/ProprietiveMod A
+"<,>"
+	"," CLB
+"<Пятигор>"
+	"Пятигор" ?
+"<)>"
+	")" PUNCT RIGHT
+"<вӧлісӧ>"
+	"вӧвны" V Err/Orth Ind Prt1 Pl3
+	"вӧвны" V Ind Prt1 Pl3
+"<торйӧтӧмӧсь>"
+	"торйӧтны" V Ind Prt2 Pl1
+	"торйӧтны" V Ind Prt2 Pl3
+"<Кӧсладор>"
+	"Кӧсладор" ?
+"<районісь>"
+	"район" N Sg Ela
+"<,>"
+	"," CLB
+"<да>"
+	"да" CC
+"<ны>"
+	"сія" Pron Pers Pl3
+"<под>"
+	"под" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"под" Hom2 N Sem/Inanim Sg Nom @SUBJ>
+	"под" N Sg Nom @SUBJ>
+"<вылын>"
+	"выв" N Err/Orth Sem/Inanim Sg Ine
+	"выв" N Sg Ine
+	"вылын" Adv Spat Ine @<ADVL
+	"вылын" Hom2 Adp Po Spat Sg Ine
+"<лӧсьӧтӧмась>"
+	"лӧсьӧтны" V Ind Prt2 Pl1
+	"лӧсьӧтны" V Ind Prt2 Pl3
+"<торья>"
+	"торья" A
+"<Гайна>"
+	"Гайна" N Prop Sg Nom
+"<район>"
+	"район" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Сы>"
+	"сія" Pron Pers Sg3 Cmpl
+"<коста>"
+	"кост" N Sg Der Der/ProprietiveMod A
+	"коста" A
+	"коста" Adp Po
+"<жӧ>"
+	"жӧ" CC
+"<Юрла>"
+	"Юрла" N Prop Sg Nom @SUBJ>
+"<районісь>"
+	"район" N Sg Ela
+"<янсӧтӧмась>"
+	"янсӧтны" V Ind Prt2 Pl1
+	"янсӧтны" V Ind Prt2 Pl3
+"<ойвывся>"
+	"ойвывся" A
+"<сельсоветтэз>"
+	"сельсоветтэз" ?
+"<,>"
+	"," CLB
+"<кытӧн>"
+	"кыны" V Der/тӧн
+	"кытӧн" Pron Interr
+	"кытӧн" Pron Spat Ine Interr
+	"кытӧн" Pron Spat Ine Rel
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<лӧсьӧтӧм>"
+	"лӧсьӧтны" V Ind Prt2 Sg3
+	"лӧсьӧтӧм" A Prc
+	"лӧсьӧтӧм" N Sem/Inanim Sg Nom
+"<Кӧчладор>"
+	"Кӧчладор" ?
+"<район>"
+	"район" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Сэтчӧ>"
+	"сэтчӧ" Adv @<ADVL
+"<Кӧсладор>"
+	"Кӧсладор" ?
+"<районісь>"
+	"район" N Sg Ela
+"<вуджӧтӧмась>"
+	"вуджӧтны" V Ind Prt2 Pl1
+	"вуджӧтны" V Ind Prt2 Pl3
+"<Ӧтӧпка>"
+	"Ӧтӧпка" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Юксьӧв>"
+	"Юксьӧв" ?
+"<сельсоветтэсӧ>"
+	"сельсоветтэсӧ" ?
+"<.>"
+	"." CLB
+
+"<Сэсся>"
+	"сэсся" Adv @ADVL>
+	"сэсся" CS Conj
+"<Октыльсорд>"
+	"Октыльсорд" ?
+"<,>"
+	"," CLB
+"<Улісь>"
+	"ув" Hom1 N Err/Orth Sem/Inanim Sg Ela
+	"ув" Hom1 N Sg Ela
+	"ув" N Sg Ela
+	"улісь" A
+"<Кӧс>"
+	"кӧс" A
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Селиш>"
+	"Селиш" ?
+"<сельсоветтэсӧ>"
+	"сельсоветтэсӧ" ?
+"<вежӧмась>"
+	"вежны" V Ind Prt2 Pl1
+	"вежны" V Ind Prt2 Pl3
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<муэсӧ>"
+	"му" N Pl Acc PxSg3
+	"му" N Sem/Inanim Pl Acc PxSg3
+"<пыртӧмась>"
+	"пыртны" V Ind Prt2 Pl1
+	"пыртны" V Ind Prt2 Pl3
+"<Кӧс>"
+	"Кӧс" N Prop Sg Nom @SUBJ>
+"<сельсовет>"
+	"сельсовет" ?
+"<увтӧ>"
+	"увт" N Sg Nom PxSg1 @SUBJ>
+"<,>"
+	"," CLB
+"<вӧвлӧм>"
+	"вӧвлыны" V Ind Prt2 Sg3
+	"вӧвлӧм" A Prc
+"<Панин>"
+	"Панин" N Prop Sem/Sur-Mal Sg Nom @<SUBJ
+"<сельсоветлісь>"
+	"сельсоветлісь" ?
+"<муэз>"
+	"му" N Pl Nom
+	"му" N Sem/Inanim Pl Nom
+"<–>"
+	"–" PUNCT
+"<Порошволь>"
+	"Порошволь" ?
+"<сельсовет>"
+	"сельсовет" ?
+"<увтӧ>"
+	"ув" Hom1 N Sg Acc PxSg2
+	"ув" N Sg Acc PxSg2
+	"увт" N Sg Ill
+	"увт" N Sg Nom PxSg1
+	"увтны" V Imprt Pl2
+	"увтны" V Ind Prs Sg3
+	"увтӧ" Adv @ADVL>
+"<,>"
+	"," CLB
+"<Лямпинлісь>"
+	"Лямпинлісь" ?
+"<–>"
+	"–" PUNCT
+"<Чурак>"
+	"Чурак" ?
+"<сельсовет>"
+	"сельсовет" ?
+"<увтӧ>"
+	"ув" Hom1 N Sg Acc PxSg2 @APP-N<
+	"ув" N Sg Acc PxSg2 @APP-N<
+	"увт" N Sg Ill @APP-N<
+	"увт" N Sg Nom PxSg1 @APP-N<
+	"увтны" V Imprt Pl2
+	"увтны" V Ind Prs Sg3
+	"увтӧ" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<1960>"
+	"1960" ?
+"<'>"
+	"'" PUNCT
+"<годӧ>"
+	"год" N Sg Nom PxSg1
+"<Чадзӧв>"
+	"Чадзӧв" N Prop Sg Nom
+"<сельсовет>"
+	"сельсовет" ?
+"<увтісь>"
+	"увт" N Sg Ela
+	"увтны" V Der/ісь ActPrsPtc Sg Nom @SUBJ>
+	"увтісь" A Prc
+"<торйӧтӧмась>"
+	"торйӧтны" V Ind Prt2 Pl1
+	"торйӧтны" V Ind Prt2 Pl3
+"<Сосновка>"
+	"Сосновка" ?
+"<сельсовет>"
+	"сельсовет" ?
+"<.>"
+	"." CLB
+
+"<19>"
+	"19" ?
+"<?>"
+	"?" CLB
+
+"<?>"
+	"?" CLB
+
+"<'>"
+	"'" PUNCT
+"<годӧ>"
+	"год" N Sg Ill @<ADVL
+	"год" N Sg Nom PxSg1
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<лӧсьӧтӧм>"
+	"лӧсьӧтны" V Ind Prt2 Sg3
+	"лӧсьӧтӧм" A Prc
+	"лӧсьӧтӧм" N Sem/Inanim Sg Nom
+"<Солым>"
+	"Солым" ?
+"<сельсовет>"
+	"сельсовет" ?
+"<,>"
+	"," CLB
+"<кӧда>"
+	"кӧда" Adv @<ADVL
+	"кӧда" Pron Interr Sg Nom @SUBJ>
+	"кӧда" Pron Rel Sg Nom @SUBJ>
+"<1982>"
+	"1982" ?
+"<'>"
+	"'" PUNCT
+"<восянь>"
+	"во" N Sem/Inanim Sg Egr
+	"во" N Sg Egr
+"<шусьӧ>"
+	"шуны" V Der/сьы Ind Prs Sg3
+"<Светлича>"
+	"Светлича" ?
+"<сельсовет>"
+	"сельсовет" ?
+"<.>"
+	"." CLB
+
+"<Пуксипи>"
+	"Пуксипи" ?
+"<сельсовет>"
+	"сельсовет" ?
+"<увтісь>"
+	"увт" N Sg Ela
+	"увтны" V Der/ісь ActPrsPtc Sg Nom
+	"увтісь" A Prc
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<торйӧтӧм>"
+	"торйӧтны" V Ind Prt2 Sg3
+	"торйӧтӧм" A Prc
+	"торйӧтӧм" N Sem/Inanim Sg Nom @SUBJ>
+"<Мараты>"
+	"Мараты" ?
+"<сельсовет>"
+	"сельсовет" ?
+"<(>"
+	"(" PUNCT LEFT
+"<посёлоккез>"
+	"посёлок" N Pl Nom
+"<Мараты>"
+	"Мараты" ?
+"<да>"
+	"да" CC
+"<Буждӧм>"
+	"буждыны" V Ind Prt2 Sg3
+	"буждӧм" A Prc
+	"буждӧм" N Sem/Inanim Sg Nom @<SUBJ
+	"буждӧм" N Sg Nom @<SUBJ
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<кӧда>"
+	"кӧда" Adv @<ADVL
+	"кӧда" Pron Interr Sg Nom @<SUBJ
+	"кӧда" Pron Rel Sg Nom @<SUBJ
+"<1963>"
+	"1963" ?
+"<'>"
+	"'" PUNCT
+"<воын>"
+	"во" N Sem/Inanim Sg Ine
+	"во" N Sg Ine
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<вуджӧтӧм>"
+	"вуджӧтны" V Ind Prt2 Sg3
+	"вуджӧтӧм" A Prc
+	"вуджӧтӧм" N Sem/Inanim Sg Nom
+"<Кӧсладор>"
+	"Кӧсладор" ?
+"<районісь>"
+	"район" N Sg Ela
+"<Кӧчладор>"
+	"Кӧчладор" ?
+"<районӧ>"
+	"район" N Sg Ill @<ADVL
+	"район" N Sg Nom PxSg1 @<SUBJ
+"<.>"
+	"." CLB
+
+"<1969>"
+	"1969" ?
+"<'>"
+	"'" PUNCT
+"<годӧ>"
+	"год" N Sg Ill @<ADVL
+	"год" N Sg Nom PxSg1 @SUBJ>
+"<Кӧсладор>"
+	"Кӧсладор" ?
+"<районӧ>"
+	"район" N Sg Ill @<ADVL
+	"район" N Sg Nom PxSg1 @SUBJ>
+"<вуджӧтӧмась>"
+	"вуджӧтны" V Ind Prt2 Pl1
+	"вуджӧтны" V Ind Prt2 Pl3
+"<Гайна>"
+	"Гайна" N Prop Sg Nom
+"<райӧнісь>"
+	"райӧнісь" ?
+"<Пятигор>"
+	"Пятигор" ?
+"<сельсовет>"
+	"сельсовет" ?
+"<.>"
+	"." CLB
+
+"<1969'-2004>"
+	"1969'-2004" ?
+"<'>"
+	"'" PUNCT
+"<воэзӧ>"
+	"во" N Pl Ill @<ADVL
+	"во" N Pl Nom PxSg1
+	"во" N Sem/Inanim Pl Ill @<ADVL
+	"во" N Sem/Inanim Pl Nom PxSg1
+"<районын>"
+	"район" N Sg Ine
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<9>"
+	"9" ?
+"<сельсовет>"
+	"сельсовет" ?
+"<.>"
+	"." CLB
+
+"<2005>"
+	"2005" ?
+"<'>"
+	"'" PUNCT
+"<годӧ>"
+	"год" N Sg Ill
+	"год" N Sg Nom PxSg1
+"<виль>"
+	"виль" A
+"<роч>"
+	"роч" A
+	"роч" N Sg Nom
+"<туйдӧт>"
+	"туйдӧтны" V Imprt Sg2
+"<сьӧрті>"
+	"сьӧрті" Adp Po
+"<Кӧсладор>"
+	"Кӧсладор" ?
+"<районын>"
+	"район" N Sg Ine
+"<лӧсьӧтісӧ>"
+	"лӧсьӧтны" V Ind Prt1 Pl3
+"<нёль>"
+	"нёль" Card Cmpl
+"<посадму>"
+	"посадму" ?
+"<:>"
+	":" CLB
+"<Кӧс>"
+	"Кӧс" N Prop Sg Nom @SUBJ>
+	"кӧс" A
+"<посадму>"
+	"посадму" ?
+"<увтӧ>"
+	"ув" Hom1 N Sg Acc PxSg2 @OBJ>
+	"ув" N Sg Acc PxSg2 @OBJ>
+	"увт" N Sg Ill @-FADVL>
+	"увт" N Sg Nom PxSg1 @SUBJ>
+	"увтны" V Imprt Pl2
+	"увтны" V Ind Prs Sg3
+	"увтӧ" Adv @-FADVL>
+"<пыртісӧ>"
+	"пыртны" V Ind Prt1 Pl3
+"<вӧвлӧм>"
+	"вӧвлыны" V Der/ӧм Event Sg Nom @<SUBJ
+	"вӧвлӧм" N V Der/ӧм Sg Nom @<SUBJ
+"<сельсоветтэз>"
+	"сельсоветтэз" ?
+"<:>"
+	":" CLB
+"<Кӧс>"
+	"Кӧс" N Prop Sg Nom @SUBJ>
+	"кӧс" A
+"<,>"
+	"," CLB
+"<Порошволь>"
+	"Порошволь" ?
+"<,>"
+	"," CLB
+"<Пуксипи>"
+	"Пуксипи" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Пятигор>"
+	"Пятигор" ?
+"<,>"
+	"," CLB
+"<Лёвич>"
+	"Лёвич" ?
+"<увтӧ>"
+	"ув" Hom1 N Sg Acc PxSg2
+	"ув" N Sg Acc PxSg2
+	"увт" N Sg Ill
+	"увт" N Sg Nom PxSg1
+	"увтны" V Imprt Pl2
+	"увтны" V Ind Prs Sg3
+	"увтӧ" Adv @ADVL>
+"<–>"
+	"–" PUNCT
+"<Лёвич>"
+	"Лёвич" ?
+"<да>"
+	"да" CC
+"<Чурак>"
+	"Чурак" ?
+"<,>"
+	"," CLB
+"<Чадзӧв>"
+	"Чадзӧв" N Prop Sg Nom @SUBJ>
+"<увтӧ>"
+	"ув" Hom1 N Sg Acc PxSg2
+	"ув" N Sg Acc PxSg2
+	"увт" N Sg Ill @APP-N<
+	"увт" N Sg Nom PxSg1
+	"увтны" V Ind Prs Sg3
+	"увтӧ" Adv @ADVL>
+"<–>"
+	"–" PUNCT
+"<Чадзӧв>"
+	"Чадзӧв" N Prop Sg Nom
+"<да>"
+	"да" CC
+"<Сосновка>"
+	"Сосновка" ?
+"<,>"
+	"," CLB
+"<Светлича>"
+	"Светлича" ?
+"<увтӧ>"
+	"ув" Hom1 N Sg Acc PxSg2
+	"ув" N Sg Acc PxSg2
+	"увт" N Sg Ill @APP-N<
+	"увт" N Sg Nom PxSg1
+	"увтны" V Imprt Pl2
+	"увтны" V Ind Prs Sg3
+	"увтӧ" Adv @ADVL>
+"<–>"
+	"–" PUNCT
+"<кӧркӧся>"
+	"кӧркӧся" A
+"<Светлича>"
+	"Светлича" ?
+"<сельсовет>"
+	"сельсовет" ?
+"<.>"
+	"." CLB
+
+"<Веськöтлöм>"
+	"веськӧтлыны" V Ind Prt2 Sg3
+	"веськӧтлӧм" A Prc
+	"веськӧтлӧм" N Sem/Inanim Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Кöсладор>"
+	"Кöсладор" ?
+"<район>"
+	"район" N Sg Nom
+"<понда>"
+	"понда" Adp
+	"понда" Adp Po
+	"пондыны" V Ind Prs Sg1
+"<öнняся>"
+	"ӧнняся" A
+"<устав>"
+	"устав" N Sg Nom @SUBJ>
+"<примитöмась>"
+	"примитны" V Ind Prt2 Pl1
+	"примитны" V Ind Prt2 Pl3
+"<виль>"
+	"виль" A
+"<роч>"
+	"роч" A
+	"роч" N Sg Nom
+"<туйдöт>"
+	"туйдӧтны" V Imprt Sg2
+"<сьöрті>"
+	"сьӧрті" Adp Po
+"<2005>"
+	"2005" ?
+"<'>"
+	"'" PUNCT
+"<декаб>"
+	"декаб" ?
+"<9>"
+	"9" ?
+"<'>"
+	"'" PUNCT
+"<лунö>"
+	"лун" N Sem/Inanim Sg Ill @<ADVL
+	"лун" N Sem/Inanim Sg Nom PxSg1
+	"лун" N Sg Ill @<ADVL
+	"лун" N Sg Nom PxSg1
+"<.>"
+	"." CLB
+
+"<Уставыс>"
+	"устав" N Sg Nom PxSg3 @SUBJ>
+"<регистрируйтöм>"
+	"регистрируйтны" V Ind Prt2 Sg3
+"<Волгадор>"
+	"Волгадор" ?
+"<федерал>"
+	"федерал" ?
+"<кытшын>"
+	"кытш" N Sg Ine
+"<РФ>"
+	"РФ" ?
+"<Минюстлöн>"
+	"Минюстлöн" ?
+"<ГУ-öн>"
+	"ГУ-öн" ?
+"<2006>"
+	"2006" ?
+"<'>"
+	"'" PUNCT
+"<январ>"
+	"январ" N Sg Nom @<SUBJ
+"<13>"
+	"13" ?
+"<'>"
+	"'" PUNCT
+"<лунö>"
+	"лун" N Sem/Inanim Sg Ill @<ADVL
+	"лун" N Sem/Inanim Sg Nom PxSg1 @<SUBJ
+	"лун" N Sg Ill @<ADVL
+	"лун" N Sg Nom PxSg1 @<SUBJ
+"<.>"
+	"." CLB
+
+"<Кöсладор>"
+	"Кöсладор" ?
+"<районын>"
+	"район" N Sg Ine
+"<öння>"
+	"ӧння" A
+"<юралісь>"
+	"юралісь" A Prc
+"<Анфалов>"
+	"Анфалов" N Prop Sem/Sur-Mal Sg Nom
+"<Евгений>"
+	"Евгений" N Prop Sem/Ant-Mal Sg Nom
+"<Васильевич>"
+	"Василий" N Prop Sem/Patr-Mal Sg Nom
+	"Васильевич" N Prop Sg Nom
+"<вöлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<бöрйöм>"
+	"бӧрйыны" V Ind Prt2 Sg3
+	"бӧрйӧм" A Prc
+	"бӧрйӧм" N Sem/Inanim Sg Nom
+	"бӧрйӧм" N Sg Nom
+"<Кöсладорын>"
+	"Кöсладорын" ?
+"<оліссезöн>"
+	"овны" V Der/ісь ActPrsPtc Pl Ins
+"<2011>"
+	"2011" ?
+"<'>"
+	"'" PUNCT
+"<март>"
+	"март" N Sg Nom @<SUBJ
+"<27>"
+	"27" ?
+"<'>"
+	"'" PUNCT
+"<лунö>"
+	"лун" N Sem/Inanim Sg Nom PxSg1 @<SUBJ
+	"лун" N Sg Nom PxSg1 @<SUBJ
+"<мöдöдз>"
+	"мӧд" A Ord Der/MWN N Sg TerI
+"<турын>"
+	"турын" ?
+"<.>"
+	"." CLB
+
+"<Сы>"
+	"сія" Pron Pers Sg3 Cmpl
+"<понда>"
+	"понда" Adp
+	"понда" Adp Po
+	"пондыны" V Ind Prs Sg1
+"<53,35%>"
+	"53,35%" ?
+"<локтіссез>"
+	"локны" V Der/ісь ActPrsPtc Pl Nom
+"<.>"
+	"." CLB
+
+"<«>"
+	"«" PUNCT LEFT
+"<Öтласа>"
+	"ӧтласа" A
+"<Рочмусянь>"
+	"Рочмусянь" ?
+"<»>"
+	"»" PUNCT RIGHT
+"<вöзйöм>"
+	"вӧзйыны" V Ind Prt2 Sg3
+	"вӧзйӧм" A Prc
+	"вӧзйӧм" N Sem/Inanim Sg Nom
+"<одзза>"
+	"одзза" A
+"<юралісь>"
+	"юралісь" A Prc
+"<Чугаев>"
+	"Чугаев" N Prop Sem/Sur-Mal Sg Nom @<SUBJ
+"<Юрий>"
+	"Юрий" N Prop Sem/Ant-Mal Sg Nom @<SUBJ
+"<Егорович>"
+	"Егор" N Prop Sem/Patr-Mal Sg Nom @<SUBJ
+"<понда>"
+	"понда" Adp
+	"понда" Adp Po
+	"пондыны" V Ind Prs Sg1
+"<сетöмась>"
+	"сетны" V Ind Prt2 Pl1
+	"сетны" V Ind Prt2 Pl3
+"<кипаснысö>"
+	"кипас" N Sg Acc PxPl3
+"<44,3%>"
+	"44,3%" ?
+"<.>"
+	"." CLB
+
+"<Бöрйисьны>"
+	"бӧрйисьны" V Inf
+"<локтöмась>"
+	"локны" V Ind Prt2 Pl1
+	"локны" V Ind Prt2 Pl3
+"<быдсöн>"
+	"быдсӧн" Adv @<ADVL
+	"быдсӧн" Pron
+	"быдсӧн" Pron Qnt Coll Sg Nom @<SUBJ
+"<68,5%>"
+	"68,5%" ?
+"<отир>"
+	"отир" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Ю.>"
+	"Ю" N ABBR
+	"ю" N ABBR
+"<Е.>"
+	"Е" N ABBR
+	"е" N ABBR
+"<Чугаев>"
+	"Чугаев" N Prop Sem/Sur-Mal Sg Nom @SUBJ>
+"<норасис>"
+	"норасьны" V Ind Prt1 Sg3
+"<,>"
+	"," CLB
+"<оппоненттэс>"
+	"оппоненттэс" ?
+"<пö>"
+	"пӧ" Adv @<ADVL
+	"пӧ" Conj
+"<ньöбöмась>"
+	"ньӧбны" V Ind Prt2 Pl1
+	"ньӧбны" V Ind Prt2 Pl3
+"<бöрйиссесö>"
+	"бӧрйыны" V Der/ісь ActPrsPtc Pl Acc PxSg3
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<баснисö>"
+	"басни" N Sg Acc PxSg3
+"<пöдтісö>"
+	"пӧдтыны" V Ind Prt1 Pl3
+"<.>"
+	"." CLB
+
+"<Отир>"
+	"отир" N Sg Nom @SUBJ>
+"<нимсянь>"
+	"ним" Hom1 N Sem/Inanim Sg Egr
+	"ним" Hom2 N Sem/Inanim Sg Egr
+	"ним" N Sg Egr
+"<баитісь>"
+	"баитны" V Der/ісь ActPrsPtc Sg Nom
+"<орган>"
+	"орган" N Sg Nom @SUBJ>
+"<Кöчладор>"
+	"Кöчладор" ?
+"<районын>"
+	"район" N Sg Ine
+"<—>"
+	"—" PUNCT
+"<Земство>"
+	"Земство" ?
+"<öксян>"
+	"ӧксьыны" V Ind Prs Sg2
+	"ӧксян" N Sem/Inanim Sg Nom @SUBJ>
+	"ӧксян" N V Der/An Sg Nom @SUBJ>
+"<Земство>"
+	"Земство" ?
+"<öксянас>"
+	"ӧксян" N Sem/Inanim Sg Ill PxSg3 @<ADVL
+	"ӧксян" N Sem/Inanim Sg Ine PxSg3
+	"ӧксян" N V Der/An Sg Ill PxSg3 @<ADVL
+	"ӧксян" N V Der/An Sg Ine PxSg3
+"<öні>"
+	"ӧні" Adv @<ADVL
+"<юралö>"
+	"юр" N Sem/Inanim Sg Der Der/ProprietiveMod A Der Der/MWN N Sg Dat
+	"юр" N Sg Der Der/ProprietiveMod A Der Der/MWN N Sg Dat
+	"юра" A Der Der/MWN N Sg Dat
+"<Федосеева>"
+	"Федосеев" N Prop Sem/Sur-Fem Sg Nom @<SUBJ
+"<Валентина>"
+	"Валентина" N Prop Sem/Ant-Fem Sg Nom @<SUBJ
+"<Васильевна>"
+	"Василий" N Prop Sem/Patr-Fem Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Нуöтісь>"
+	"нуӧтны" V Der/ісь ActPrsPtc Sg Nom
+"<специалистыс>"
+	"специалист" N Sg Nom PxSg3
+"<—>"
+	"—" PUNCT
+"<Якушева>"
+	"Якушев" N Prop Sem/Sur-Fem Sg Nom
+"<Ольга>"
+	"Ольга" N Prop Sem/Ant-Fem Sg Nom
+"<Николаевна>"
+	"Николай" N Prop Sem/Patr-Fem Sg Nom
+"<.>"
+	"." CLB
+
+"<Ревизия>"
+	"ревизия" N Sg Nom
+"<сьöрті>"
+	"сьӧрті" Adp Po
+"<комиссияöн>"
+	"комиссия" N Sg Ins
+"<веськöтлісь>"
+	"веськӧтлыны" V Der/ісь ActPrsPtc Sg Nom
+	"веськӧтлісь" A Prc
+"<—>"
+	"—" PUNCT
+"<Фадеева>"
+	"Фадеев" N Prop Sem/Sur-Fem Sg Nom
+"<Ольга>"
+	"Ольга" N Prop Sem/Ant-Fem Sg Nom
+"<Карловна>"
+	"Карл" N Prop Sem/Patr-Fem Sg Nom
+"<Оланіннэз>"
+	"оланін" N Pl Nom
+	"оланін" N Sem/Inanim Pl Nom
+"<.>"
+	"." CLB
+
+"<Омӧн>"
+	"Омӧн" ?
+"<район>"
+	"район" N Sg Nom @SUBJ>
+"<пасьта>"
+	"пасьта" A
+	"пасьта" Adp Po
+	"пасьта" N Sg Nom @SUBJ>
+"<ӧні>"
+	"ӧні" Adv @<ADVL
+"<сулалӧны>"
+	"сулавны" V Err/Orth Ind Prs Pl3
+	"сулавны" V Ind Prs Pl3
+	"сулыны" V Der/Al Ind Prs Pl3
+"<51>"
+	"51" ?
+"<оланін>"
+	"оланін" N Sem/Inanim Sg Nom
+	"оланін" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Статус>"
+	"статус" N Sg Nom @HNOUN
+"<сьӧрті>"
+	"сьӧрті" Adp Po @N<
+"<ны>"
+	"ны" N Sg Nom @HNOUN
+"<коласын>"
+	"колас" N Sg Ine @N<
+	"коласын" Adp Po Spat Sg Ine @N<
+"<эмӧсь>"
+	"эм" A Cop Pl
+"<2>"
+	"2" ?
+"<посад>"
+	"пос" N Sem/Inanim Sg Ill PxSg2 @<ADVL
+	"пос" N Sem/Inanim Sg Ine PxSg2 @N<
+	"посад" N Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<9>"
+	"9" ?
+"<посёлок>"
+	"посёлок" N Sg Nom @HNOUN
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<40>"
+	"40" ?
+"<грезд>"
+	"грезд" N Sg Nom @HNOUN
+"<(>"
+	"(" PUNCT LEFT
+"<деревня>"
+	"деревня" N Sg Nom @<SPRED
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<¶>"
+	"¶" CLB
+
+"<Коми>"
+	"коми" N Sg Nom @HNOUN
+"<Парма>"
+	"Парма" N Prop Sg Nom @HNOUN
+	"парма" N Sem/Inanim Sg Nom @HNOUN
+	"парма" N Sg Nom @HNOUN
+"<медваж>"
+	"медваж" A Superl
+"<кадӧ>"
+	"кад" Hom1 N Sg Ill @<ADVL
+	"кад" Hom1 N Sg Nom PxSg1 @HNOUN
+	"кад" N Sem/Inanim Sg Ill @<ADVL
+	"кад" N Sem/Inanim Sg Nom PxSg1 @HNOUN
+"<.>"
+	"." CLB
+
+"<Коми>"
+	"коми" N Sg Nom
+"<Парма>"
+	"Парма" N Prop Sg Nom
+	"парма" N Sem/Inanim Sg Nom
+	"парма" N Sg Nom
+"<медваж>"
+	"медваж" A Superl
+"<кадӧ>"
+	"кад" Hom1 N Sg Ill @<ADVL
+	"кад" Hom1 N Sg Nom PxSg1
+	"кад" N Sem/Inanim Sg Ill @<ADVL
+	"кад" N Sem/Inanim Sg Nom PxSg1
+"<—>"
+	"—" PUNCT
+"<Коми>"
+	"коми" N Sg Nom
+"<Пармалӧн>"
+	"Парма" N Prop Sg Gen
+	"парма" N Sem/Inanim Sg Gen
+	"парма" N Sg Gen
+"<меважся>"
+	"меважся" ?
+"<историяись>"
+	"история" N Sg Ela
+"<серпас>"
+	"серпас" N Sg Nom
+"<,>"
+	"," CLB
+"<кӧдӧ>"
+	"кӧда" Pron Rel Sg Acc
+"<ми>"
+	"ме" Pron Pers Pl1 Nom @SUBJ>
+"<вермам>"
+	"вермыны" V Ind Prs Pl1
+"<пуктыны>"
+	"пуктыны" V Inf
+"<син>"
+	"син" N Sem/Inanim Sg Nom
+	"син" N Sg Nom
+"<одзӧ>"
+	"одзӧ" Adp Po Spat Sg Ill
+"<археологгезӧн>"
+	"археолог" N Pl Ins
+"<Перем>"
+	"Перем" ?
+"<муись>"
+	"му" N Sem/Inanim Sg Ela
+	"му" N Sg Ela
+"<адззалӧм>"
+	"адззалӧм" N Sem/Inanim Sg Nom
+"<казьмӧтаннэз>"
+	"казьмӧтан" A Prc Der Der/MWN N Pl Nom
+"<(>"
+	"(" PUNCT LEFT
+"<памятниккез>"
+	"памятник" N Pl Nom
+"<)>"
+	")" PUNCT RIGHT
+"<сьӧрті>"
+	"сьӧрті" Adp Po
+"<.>"
+	"." CLB
+
+"<Кама>"
+	"Кама" N Prop Sg Nom @SUBJ>
+"<катытас>"
+	"катыт" N Sem/Inanim Sg Ill PxSg3 @<ADVL
+	"катыт" N Sem/Inanim Sg Ine PxSg3
+"<археологгез>"
+	"археолог" N Pl Nom @SUBJ>
+"<пондісӧ>"
+	"пондыны" V Ind Prt1 Pl3
+"<гарйыны>"
+	"гарйыны" V Inf
+"<муэсӧ>"
+	"му" N Pl Acc PxSg3
+	"му" N Sem/Inanim Pl Acc PxSg3
+"<XIX>"
+	"XIX" ?
+"<вексянь>"
+	"век" N Sg Egr
+"<.>"
+	"." CLB
+
+"<Сэксяняс>"
+	"Сэксяняс" ?
+"<Кама>"
+	"Кама" N Prop Sg Nom
+"<ладорас>"
+	"ладор" N Sg Ill PxSg3 @<ADVL
+	"ладор" N Sg Ine PxSg3
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<осьтӧм>"
+	"осьтны" V Ind Prt2 Sg3
+	"осьтыны" V Ind Prt2 Sg3
+	"осьтӧм" A Prc
+	"осьтӧм" N Sem/Inanim Sg Nom @SUBJ>
+"<да>"
+	"да" CC
+"<видзӧтӧм-велӧтӧм>"
+	"видзӧтӧм-#велӧтны" V Ind Prt2 Sg3
+"<медваж>"
+	"медваж" A Superl
+"<кадся>"
+	"кад" Hom1 N Sg Cmpr
+	"кад" Hom1 N Sg Der Der/TempMod A
+	"кад" Hom2 N Sg Cmpr
+	"кад" N Sem/Inanim Sg Cmpr
+	"кад" N Sem/Inanim Sg Der Der/TempMod A
+"<казьмӧтаннэсӧ>"
+	"казьмӧтаннэсӧ" ?
+"<уна>"
+	"уна" Adv Cmpl @<ADVL
+"<сюрсӧ>"
+	"сюр" N Sem/Inanim Sg Acc PxSg3
+	"сюр" N Sg Acc PxSg3
+"<,>"
+	"," CLB
+"<ны>"
+	"сія" Pron Pers Pl3
+"<коласісь>"
+	"колас" N Sg Ela
+"<400-ся>"
+	"400-ся" ?
+"<унажык>"
+	"унажык" Adv @<ADVL
+"<—>"
+	"—" PUNCT
+"<Коми>"
+	"коми" N Sg Nom @<SUBJ
+"<кытшын>"
+	"кытш" N Sg Ine
+"<.>"
+	"." CLB
+
+"<Палеолит>"
+	"Палеолит" ?
+"<.>"
+	"." CLB
+
+"<Мортыс>"
+	"морт" N Sg Nom PxSg3 @HNOUN
+"<локтӧма>"
+	"лок" N Sg Der Der/PrivMod A Der Der/A Adv @<ADVL
+	"локтӧм" A Der Der/A Adv @<ADVL
+"<Перем>"
+	"Перем" ?
+"<му>"
+	"му" N Sem/Inanim Sg Nom @HNOUN
+	"му" N Sg Nom @HNOUN
+"<вылӧ>"
+	"вылӧ" Adp Po Spat Sg Ill @N<
+"<200-150>"
+	"200-150" ?
+"<сюрс>"
+	"сюрс" Card Cmpl
+"<во>"
+	"во" N Sem/Inanim Sg Nom @HNOUN
+	"во" N Sg Nom @HNOUN
+"<одзті>"
+	"одзті" Adp Po @N<
+"<.>"
+	"." CLB
+
+"<Сійӧ>"
+	"сія" Pron Pers Sg3 Acc
+"<кадсӧ>"
+	"кад" Hom1 N Sg Acc PxSg3 @APP-Pron<
+	"кад" Hom2 N Sg Acc PxSg3 @APP-Pron<
+	"кад" N Sem/Inanim Sg Acc PxSg3 @APP-Pron<
+"<шуӧны>"
+	"шуны" V Ind Prs Pl3
+"<палеолит>"
+	"палеолит" ?
+"<.>"
+	"." CLB
+
+"<Мӧдік>"
+	"мӧдік" Pron Indef Sg Nom @SUBJ>
+"<коляссэз>"
+	"коляс" N Pl Nom @SUBJ>
+"<шӧрын>"
+	"шӧр морт" N Sg Ine
+	"шӧр" N Sg Ine
+	"шӧрын" Adp Po Spat Sg Ine
+	"шӧрын" Adv Spat Ine @ADVL>
+"<адззавлісӧ>"
+	"адззавлыны" V Ind Prt1 Pl3
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<лыись-коскаись>"
+	"лыись-коскаись" ?
+"<керӧм>"
+	"керӧм" N Sem/Inanim Sg Nom @SUBJ>
+	"керӧм" N Sg Nom @SUBJ>
+"<пӧляннэз>"
+	"пӧлян" N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<висьталӧ>"
+	"висьтавны" V Ind Prs Sg3
+"<:>"
+	":" CLB
+"<важ>"
+	"важ" A
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @HNOUN
+"<тай>"
+	"тай" Adv @<ADVL
+"<вежӧртӧма>"
+	"вежӧртӧм" N Sem/Inanim Sg Der Der/ProprietiveMod A
+"<музыкаын>"
+	"музыка" N Sg Ine @N<
+"<дон>"
+	"дон" A
+	"дон" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Унажык>"
+	"унажык" Adv @-FADVL>
+"<орсаннэсӧ>"
+	"орсаннэсӧ" ?
+"<керисӧ>"
+	"керны" V Ind Prt1 Pl3
+"<,>"
+	"," CLB
+"<натьтӧ>"
+	"натьтӧ" Adv @-FADVL>
+"<,>"
+	"," CLB
+"<пуись>"
+	"пу" N Sg Ela
+	"пуись" A Prc
+	"пуны" V Der/ісь ActPrsPtc Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<сійӧн>"
+	"сійӧн" CS Conj
+	"сія" Pron Pers Sg3 Der/йӧ Ins
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<абу>"
+	"абу" Adv CC Neg @<ADVL
+"<кольччӧмась>"
+	"кольччыны" V Ind Prt2 Pl1
+	"кольччыны" V Ind Prt2 Pl3
+"<нія>"
+	"сія" Pron Pers Pl3 Nom @<SUBJ
+"<ӧнӧдз>"
+	"ӧн" N Sg TerI
+	"ӧнӧдз" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Туяліссес>"
+	"туявны" V Der/ісь ActPrsPtc Pl Nom PxSg3 @SUBJ>
+	"туявны" V Err/Orth Der/ісь ActPrsPtc Pl Nom PxSg3 @SUBJ>
+"<казялісӧ>"
+	"казявны" Hom1 V Ind Prt1 Pl3
+	"казявны" Hom2 V Ind Prt1 Pl3
+"<—>"
+	"—" PUNCT
+"<мукӧд>"
+	"мукӧд" Pron Qnt Sg Nom
+"<доз>"
+	"доз" N Sem/Inanim Sg Nom
+	"доз" N Sg Nom
+"<да>"
+	"да" CC
+"<мӧдік>"
+	"мӧдік" Pron Indef Sg Nom
+"<берся>"
+	"бер" N Sg Cmpr
+	"бер" N Sg Der Der/TempMod A
+	"берся" A
+"<вылын>"
+	"выв" N Err/Orth Sem/Inanim Sg Ine @-F<ADVL
+	"выв" N Sg Ine @-F<ADVL
+	"вылын" Hom1 A
+	"вылын" Hom2 Adp Po Spat Sg Ine @-F<ADVL
+"<пассэс>"
+	"пас" N Pl Nom PxSg3 @<SUBJ
+"<,>"
+	"," CLB
+"<кӧднӧ>"
+	"кӧда" Pron Rel Pl Acc
+"<одзжык>"
+	"одзжык" Adv @ADVL>
+"<чайтісӧ>"
+	"чайтны" V Ind Prt1 Pl3
+"<орнаментӧн>"
+	"орнаментӧн" ?
+"<,>"
+	"," CLB
+"<пуктылӧмась>"
+	"пуктывны" V Err/Orth Ind Prt2 Pl1
+	"пуктывны" V Err/Orth Ind Prt2 Pl3
+	"пуктывны" V Ind Prt2 Pl1
+	"пуктывны" V Ind Prt2 Pl3
+"<чукӧрӧн>"
+	"чукӧр" N Sg Ins
+	"чукӧрӧн" Adv @ADVL>
+"<:>"
+	":" CLB
+"<50-ӧн>"
+	"50-ӧн" ?
+"<,>"
+	"," CLB
+"<74-ӧн>"
+	"74-ӧн" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<28-ӧн>"
+	"28-ӧн" ?
+"<.>"
+	"." CLB
+
+"<Эстісь>"
+	"эст" N Sg Ela
+	"эстісь" Adv @ADVL>
+"<ми>"
+	"ме" Pron Pers Pl1 Nom @SUBJ>
+"<вежӧртам>"
+	"вежӧртны" V Ind Prs Pl1
+"<:>"
+	":" CLB
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<сэк>"
+	"сэк" Adv
+"<ни>"
+	"ни" Adv
+	"ни" CC
+	"ни" Pcle @PCLE
+"<кужӧмась>"
+	"кужны" V Ind Prt2 Pl1
+	"кужны" V Ind Prt2 Pl3
+"<лыддьыны>"
+	"лыддьыны" V Inf
+"<да>"
+	"да" CC
+"<нылӧ>"
+	"ны" N Sg Dat
+	"ныв" N Sg Ill @<ADVL
+	"ныв" N Sg Nom PxSg1
+	"сія" Pron Pers Pl3 Dat
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<тӧдса>"
+	"тӧд" N Sg Der Der/LocMod A
+	"тӧдса" A
+	"тӧдса" N Sg Nom
+"<кадлыддян>"
+	"кадлыддян" ?
+"<(>"
+	"(" PUNCT LEFT
+"<календарь>"
+	"календарь" N Sg Nom
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<Сэк>"
+	"сэк" Adv @ADVL>
+	"сэк" CS
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<тӧлісь>"
+	"тӧвны" V Der/ісь ActPrsPtc Sg Nom
+	"тӧвны" V Err/Orth Der/ісь ActPrsPtc Sg Nom
+	"тӧлісь" N Sem/Inanim Sg Nom
+"<сьӧрті>"
+	"сьӧрті" Adp Po
+"<кадлыддян>"
+	"кадлыддян" ?
+"<,>"
+	"," CLB
+"<кӧдӧ>"
+	"кӧда" Pron Interr Sg Acc
+	"кӧда" Pron Rel Sg Acc
+"<лӧсьӧтісӧ>"
+	"лӧсьӧтны" V Ind Prt1 Pl3
+"<вӧралан-кыйсян>"
+	"вӧралан-#кыйсьыны" Hom1 V Ind Prs Sg2
+	"вӧралан-#кыйсьыны" Hom2 V Ind Prs Sg2
+"<уджжез>"
+	"удж" N Pl Nom
+"<тӧдвылын>"
+	"тӧдвылын" ?
+"<видзӧмӧн>"
+	"видзны" V Der/Omon Ger
+	"видзӧм" N Sem/Inanim Sg Ins
+"<.>"
+	"." CLB
+
+"<Сідзкӧ>"
+	"сідзкӧ" Adv @<ADVL
+	"сідзкӧ" CS Conj
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<авйыштӧмась>"
+	"авйыны" V Der/ышт Dim Ind Prt2 Pl1
+	"авйыны" V Der/ышт Dim Ind Prt2 Pl3
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<астрономияын>"
+	"астрономияын" ?
+"<.>"
+	"." CLB
+
+"<Сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<кадӧ>"
+	"кад" Hom1 N Sg Ill @<ADVL
+	"кад" Hom1 N Sg Nom PxSg1 @APP-Pron<
+	"кад" N Sem/Inanim Sg Ill @<ADVL
+	"кад" N Sem/Inanim Sg Nom PxSg1 @APP-Pron<
+"<шогмӧ>"
+	"шогмыны" V Ind Prs Sg3
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<религия>"
+	"религия" N Sg Nom @<SUBJ
+"<—>"
+	"—" PUNCT
+"<тотемизм>"
+	"тотемизм" ?
+"<,>"
+	"," CLB
+"<анимизм>"
+	"анимизм" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<магия>"
+	"магия" ?
+"<.>"
+	"." CLB
+
+"<Мезолит>"
+	"Мезолит" ?
+"<.>"
+	"." CLB
+
+"<А>"
+	"а" Adv @ADVL>
+	"а" CC
+	"а" Interj @INTERJ
+	"а" Pcle @PCLE
+"<сэсся>"
+	"сэсся" Adv @ADVL>
+	"сэсся" CS Conj
+"<вежсьӧма>"
+	"вежсьӧм" N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"вежсьӧм" N Sg Der Der/ProprietiveMod A
+"<климат>"
+	"климат" N Sg Nom
+"<,>"
+	"," CLB
+"<мыйсянь>"
+	"мый" Pron Sem/NonHum Egr Rel
+"<уна>"
+	"уна" Adv Cmpl @<ADVL
+"<быдкодь>"
+	"быд" Pron Qnt Der Der/CompMod
+	"быдкодь" A
+"<вӧрпода>"
+	"вӧрпода" ?
+"<ӧшас>"
+	"ӧшас" N Sg Nom @HNOUN
+	"ӧшны" V Ind Fut Sg3
+"<.>"
+	"." CLB
+
+"<Вӧравны>"
+	"вӧравны" V Inf
+"<ыджыт>"
+	"ыджыт" A
+"<чукӧрӧн>"
+	"чукӧр" N Sg Ins
+	"чукӧрӧн" Adv @-FADVL>
+"<ветлісь>"
+	"ветлыны" V Der/ісь ActPrsPtc Sg Nom @SUBJ>
+"<вӧрпода>"
+	"вӧрпода" ?
+"<вылӧ>"
+	"выв" N Err/Orth Sem/Inanim Sg Ill @-F<ADVL
+	"выв" N Err/Orth Sem/Inanim Sg Nom PxSg1 @SUBJ>
+	"выв" N Sg Ill @-F<ADVL
+	"выв" N Sg Nom PxSg1 @SUBJ>
+	"вылӧ" Adp Po Spat Sg Ill @-F<ADVL
+	"вылӧ" Adv Spat Ill @-F<ADVL
+"<сідзжӧ>"
+	"сідзжӧ" Adv @-F<ADVL
+"<дугдасӧ>"
+	"дугдыны" V Ind Fut Pl3
+"<.>"
+	"." CLB
+
+"<Отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<пондасӧ>"
+	"пондыны" V Ind Fut Pl3
+"<овны>"
+	"овны" V Inf
+"<мӧдмоза>"
+	"мӧдмоза" ?
+"<да>"
+	"да" CC
+"<кошшыны>"
+	"кошшыны" V Inf
+"<виль>"
+	"виль" A
+"<оланін>"
+	"оланін" N Sem/Inanim Sg Nom
+	"оланін" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Пондӧтчас>"
+	"пондӧтчыны" V Ind Fut Sg3
+"<виль>"
+	"виль" A
+"<кад>"
+	"кад" Hom1 N Sg Nom @<SUBJ
+	"кад" Hom2 N Sg Nom @<SUBJ
+	"кад" N Sem/Inanim Sg Nom @<SUBJ
+"<—>"
+	"—" PUNCT
+"<мезолит>"
+	"мезолит" ?
+"<(>"
+	"(" PUNCT LEFT
+"<шӧрӧт>"
+	"шӧр морт" N Sg Prl
+	"шӧр" N Sg Prl
+	"шӧрын" Adv Spat Prl @<ADVL
+	"шӧрӧт" Adp Po
+"<изъя>"
+	"изъя" A
+"<кад>"
+	"кад" Hom1 N Sg Nom @<SUBJ
+	"кад" Hom2 N Sg Nom @<SUBJ
+	"кад" N Sem/Inanim Sg Nom @<SUBJ
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<Вӧраліссез>"
+	"вӧравны" V Der/ісь ActPrsPtc Pl Nom @SUBJ>
+	"вӧравны" V Err/Orth Der/ісь ActPrsPtc Pl Nom @SUBJ>
+	"вӧрны" V Der/Al Der/ісь ActPrsPtc Pl Nom @SUBJ>
+"<пондасӧ>"
+	"пондыны" V Ind Fut Pl3
+"<кыйсьӧм>"
+	"кыйсьӧм" N Sem/Inanim Sg Nom
+"<могись>"
+	"мог" N Sg Ela @-F<ADVL
+	"могысь" Adp Po Sg Ela @-F<ADVL
+"<ветлӧтны>"
+	"ветлӧтны" V Inf
+"<тшӧкжыка>"
+	"тшӧк" Hom1 A Comp Der/A
+"<да>"
+	"да" CC
+"<ылынжыка>"
+	"ылын" A Comp Der/A
+"<.>"
+	"." CLB
+
+"<Сійӧ>"
+	"сія" Pron Pers Sg3 Acc
+"<кадсӧ>"
+	"кад" Hom1 N Sg Acc PxSg3
+	"кад" Hom2 N Sg Acc PxSg3
+	"кад" N Sem/Inanim Sg Acc PxSg3
+"<казьмӧтаннэзӧн>"
+	"казьмӧтан" A Prc Der Der/MWN N Pl Ins
+"<кольӧмась>"
+	"кольны" V Ind Prt2 Pl1
+	"кольны" V Ind Prt2 Pl3
+"<абужык>"
+	"абужык" N Sg Nom
+"<пырся>"
+	"пырся" A
+"<оланіннэз>"
+	"оланін" N Pl Nom @<SUBJ
+	"оланін" N Sem/Inanim Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<вӧраліссезлӧн>"
+	"вӧравны" V Der/ісь ActPrsPtc Pl Gen
+	"вӧравны" V Err/Orth Der/ісь ActPrsPtc Pl Gen
+	"вӧрны" V Der/Al Der/ісь ActPrsPtc Pl Gen
+"<арсӧ-тулыссӧ>"
+	"арсӧ-тулыссӧ" ?
+"<сувтчаніннэз>"
+	"сувтчаніннэз" ?
+"<.>"
+	"." CLB
+
+"<Лыйсяннас>"
+	"лыйсян" N V Der/An Sg Ins PxSg3
+"<сэк>"
+	"сэк" Adv @<ADVL
+"<быдлаын>"
+	"быдлаын" Adv @<ADVL
+"<вӧлӧма>"
+	"вӧвны" V Der/ӧм Event Sg Der Der/ProprietiveMod A
+	"вӧвны" V Err/Orth Der/ӧм Event Sg Der Der/ProprietiveMod A
+"<ньӧв>"
+	"ньӧв" N Sg Nom
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<ньӧвьёссез>"
+	"ньӧвьёссез" ?
+"<.>"
+	"." CLB
+
+"<Вӧррезас>"
+	"вӧр" N Pl Ill PxSg3 @-FADVL>
+	"вӧр" N Pl Ine PxSg3 @-FADVL>
+	"вӧр" N Sem/Inanim Pl Ill PxSg3 @-FADVL>
+	"вӧр" N Sem/Inanim Pl Ine PxSg3 @-FADVL>
+"<олісь>"
+	"овны" V Der/ісь ActPrsPtc Sg Nom @SUBJ>
+"<отирыслӧн>"
+	"отир" N Sg Gen PxSg3
+"<вӧлӧмась>"
+	"вӧвны" V Err/Orth Ind Prt2 Pl1
+	"вӧвны" V Err/Orth Ind Prt2 Pl3
+	"вӧвны" V Ind Prt2 Pl1
+	"вӧвны" V Ind Prt2 Pl3
+"<ни>"
+	"ни" Adv @-F<ADVL
+	"ни" CC
+	"ни" Pcle @PCLE
+"<черрез>"
+	"чер" N Pl Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Йӧзыс>"
+	"йӧз" N Sg Nom PxSg3 @SUBJ>
+"<лӧсьӧтӧмась>"
+	"лӧсьӧтны" V Ind Prt2 Pl1
+	"лӧсьӧтны" V Ind Prt2 Pl3
+"<ни>"
+	"ни" Adv @ADVL>
+	"ни" CC
+	"ни" Pcle @PCLE
+"<лямпаэз>"
+	"лямпа" N Pl Nom @<SUBJ
+"<да>"
+	"да" CC
+"<доддез>"
+	"додь" N Sem/Inanim Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<кӧднӧ>"
+	"кӧда" Pron Rel Pl Acc
+"<туяліссес>"
+	"туявны" V Der/ісь ActPrsPtc Pl Nom PxSg3 @SUBJ>
+	"туявны" V Err/Orth Der/ісь ActPrsPtc Pl Nom PxSg3 @SUBJ>
+"<адззывлӧны>"
+	"адззывлыны" V Ind Prs Pl3
+"<нюрьяинісь>"
+	"нюрьяинісь" ?
+"<.>"
+	"." CLB
+
+"<Черикыйӧмыслӧн>"
+	"Черикыйӧмыслӧн" ?
+"<лоас>"
+	"лойны" V Ind Fut Sg3
+	"лоны" V Ind Fut Sg3
+"<ыджыт>"
+	"ыджыт" A
+"<дон>"
+	"дон" A
+	"дон" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Пондасӧ>"
+	"пондыны" V Ind Fut Pl3
+"<видзны>"
+	"видзны" V Inf
+"<кулӧммез>"
+	"кувны" V Der/ӧм Event Pl Nom
+	"кувны" V Err/Orth Der/ӧм Event Pl Nom
+"<(>"
+	"(" PUNCT LEFT
+"<сеттез>"
+	"сеть" N Pl Nom
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<мордаэз>"
+	"мордаэз" ?
+"<.>"
+	"." CLB
+
+"<Тӧдсаӧсь>"
+	"тӧд" N Sg Der Der/LocMod A Cop Pl
+	"тӧдса" A Cop Pl
+"<лоасӧ>"
+	"лойны" V Ind Fut Pl3
+	"лоны" V Ind Fut Pl3
+"<отирыслӧ>"
+	"отир" N Sg Dat PxSg3
+"<лыись>"
+	"лыйны" V Der/ісь ActPrsPtc Sg Nom
+"<керӧм>"
+	"керӧм" A Prc
+	"керӧм" N Sem/Inanim Sg Nom
+	"керӧм" N Sg Nom
+"<крюккез>"
+	"крюккез" ?
+"<.>"
+	"." CLB
+
+"<Адззӧм>"
+	"адззыны" V Ind Prt2 Sg3
+	"адззӧм" A Prc
+	"адззӧм" N Sem/Inanim Sg Nom @SUBJ>
+"<пешняэс>"
+	"пешняэс" ?
+"<сьӧрті>"
+	"сьӧрті" Adp Po
+"<позьӧ>"
+	"позьны" V Imprt Pl2
+	"позьны" V Ind Prs Sg3
+"<вежӧртны>"
+	"вежӧртны" V Inf
+"<—>"
+	"—" PUNCT
+"<черисӧ>"
+	"чери" N Sem/Inanim Sg Acc PxSg3
+	"чери" N Sg Acc PxSg3
+"<кыйлӧмась>"
+	"кыйлыны" Hom1 V Ind Prt2 Pl1
+	"кыйлыны" Hom1 V Ind Prt2 Pl3
+	"кыйлыны" Hom2 V Ind Prt2 Pl1
+	"кыйлыны" Hom2 V Ind Prt2 Pl3
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<тӧвнас>"
+	"тӧв" Hom1 N Sg Ins PxSg3
+	"тӧв" Hom2 N Sg Ins PxSg3
+	"тӧв" N Sg Ins PxSg3
+	"тӧвнас" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Иззэсӧ>"
+	"из" Hom1 N Sem/Inanim Pl Acc PxSg3
+	"из" N Pl Acc PxSg3
+"<пондасӧ>"
+	"пондыны" V Ind Fut Pl3
+"<кеслыны>"
+	"кеслыны" V Inf
+"<лэчытжыка>"
+	"лэчыт" A Comp Der/A
+"<,>"
+	"," CLB
+"<мезолит>"
+	"мезолит" ?
+"<кадся>"
+	"кад" Hom1 N Sg Cmpr
+	"кад" Hom1 N Sg Der Der/TempMod A
+	"кад" Hom2 N Sg Cmpr
+	"кад" N Sem/Inanim Sg Cmpr
+	"кад" N Sem/Inanim Sg Der Der/TempMod A
+"<пурттэслӧн>"
+	"пурт" N Pl Gen PxSg3 @>N
+"<доррес>"
+	"дор" N Pl Nom PxSg3 @SUBJ>
+"<вӧлісӧ>"
+	"вӧвны" V Err/Orth Ind Prt1 Pl3
+	"вӧвны" V Ind Prt1 Pl3
+"<кеслӧмӧсь>"
+	"кеслыны" V Ind Prt2 Pl1
+	"кеслыны" V Ind Prt2 Pl3
+"<кыкнан>"
+	"кык" Coll Cmpl
+	"кыкнан" Det Tot Cmpl
+"<ладорсянь>"
+	"ладор" N Sg Egr
+"<.>"
+	"." CLB
+
+"<Сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<кадсӧ>"
+	"кад" Hom1 N Sg Acc PxSg3
+	"кад" Hom2 N Sg Acc PxSg3
+	"кад" N Sem/Inanim Sg Acc PxSg3
+"<медыджыт>"
+	"медыджыт" ?
+"<казьыланнэзӧн>"
+	"казьыланнэзӧн" ?
+"<лоӧны>"
+	"лойны" V Ind Prs Pl3
+	"лоны" V Ind Prs Pl3
+"<Кӧс>"
+	"Кӧс" N Prop Sg Nom
+"<,>"
+	"," CLB
+"<Усть>"
+	"Усть" ?
+"<Онолва>"
+	"Онолва" ?
+"<,>"
+	"," CLB
+"<Метшкӧр>"
+	"Метшкӧр" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Учӧт>"
+	"Учӧт" ?
+"<Сер>"
+	"сер" Hom1 N Sem/Inanim Sg Nom
+	"сер" Hom2 N Sem/Inanim Sg Nom
+	"сер" N Sg Nom
+	"сёр" Hom2 N Sem/Inanim Sg Nom
+	"сёр" N Sg Nom
+"<дынын>"
+	"дын" Hom1 N Sem/Inanim Sg Ine
+	"дын" Hom2 N Sem/Inanim Sg Ine
+	"дынын" Adp Po Spat Sg Ine
+"<сувтчанін-оланіннэз>"
+	"сувтчанін-оланіннэз" ?
+"<.>"
+	"." CLB
+
+"<Неолит>"
+	"Неолит" ?
+"<.>"
+	"." CLB
+
+"<Изъя>"
+	"изъя" A
+"<веклӧн>"
+	"век" N Sg Gen
+"<мӧдік>"
+	"мӧдік" Pron Indef Sg Nom @HNOUN
+"<кадколас>"
+	"кадколас" ?
+"<—>"
+	"—" PUNCT
+"<неолит>"
+	"неолит" ?
+"<.>"
+	"." CLB
+
+"<Сэк>"
+	"сэк" Adv @ADVL>
+	"сэк" CS
+"<одзлань>"
+	"одзлань" Adv @ADVL>
+"<зораммас>"
+	"зораммас" ?
+"<горт>"
+	"горт" Hom1 N Sg Nom @SUBJ>
+	"горт" Hom2 N Sg Nom @SUBJ>
+	"горт" N Sem/Inanim Sg Nom @SUBJ>
+"<видзӧм>"
+	"видзны" V Ind Prt2 Sg3
+	"видзӧм" A Prc
+	"видзӧм" N Sem/Inanim Sg Nom
+"<,>"
+	"," CLB
+"<кӧда>"
+	"кӧда" Pron Rel Sg Nom @SUBJ>
+"<Кама>"
+	"кам" N Sg Der Der/ProprietiveMod A
+"<муын>"
+	"му" N Sem/Inanim Sg Ine
+	"му" N Sg Ine
+"<пондӧтчӧ>"
+	"пондӧтчыны" V Ind Prs Sg3
+"<V>"
+	"V" ?
+"<сюрсвоын>"
+	"сюрсвоын" ?
+"<миян>"
+	"ме" Pron Pers Pl1
+"<эраӧдз>"
+	"эра" N Sg TerI
+"<.>"
+	"." CLB
+
+"<Отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<кадӧ>"
+	"кад" Hom1 N Sg Ill @<ADVL
+	"кад" Hom1 N Sg Nom PxSg1 @SUBJ>
+	"кад" N Sem/Inanim Sg Ill @<ADVL
+	"кад" N Sem/Inanim Sg Nom PxSg1 @SUBJ>
+"<унажыксӧ>"
+	"унажыксӧ" ?
+"<чериавлӧмась>"
+	"чериавлыны" V Ind Prt2 Pl1
+	"чериавлыны" V Ind Prt2 Pl3
+"<,>"
+	"," CLB
+"<сійӧн>"
+	"сійӧн" CS Conj
+	"сія" Pron Pers Sg3 Der/йӧ Ins
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<пондӧмась>"
+	"пондыны" V Ind Prt2 Pl1
+	"пондыны" V Ind Prt2 Pl3
+"<овны>"
+	"овны" V Inf
+"<ӧтілаын>"
+	"ӧтілаын" ?
+"<.>"
+	"." CLB
+
+"<Оланіннэс>"
+	"оланін" N Pl Nom PxSg3 @SUBJ>
+	"оланін" N Sem/Inanim Pl Nom PxSg3 @SUBJ>
+"<сулалӧмась>"
+	"сулавны" V Err/Orth Ind Prt2 Pl1
+	"сулавны" V Err/Orth Ind Prt2 Pl3
+	"сулавны" V Ind Prt2 Pl1
+	"сулавны" V Ind Prt2 Pl3
+	"сулыны" V Der/Al Ind Prt2 Pl1
+	"сулыны" V Der/Al Ind Prt2 Pl3
+"<юэз>"
+	"ю" N Pl Nom @<SUBJ
+	"ю" N Sem/Inanim Pl Nom @<SUBJ
+"<да>"
+	"да" CC
+"<тыэз>"
+	"ты" Hom1 N Sem/Inanim Pl Nom @<SUBJ
+	"ты" Hom2 N Sem/Inanim Pl Nom @<SUBJ
+	"ты" N Pl Nom @<SUBJ
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po
+	"пӧлӧн" Adp Po Sg Nom
+	"пӧлӧн" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Нійӧ>"
+	"сія" Pron Pers Pl3 Acc
+"<керлӧмась>"
+	"керлыны" V Ind Prt2 Pl1
+	"керлыны" V Ind Prt2 Pl3
+"<ыджытӧсь>"
+	"ыджыт" A Cop Pl
+"<(>"
+	"(" PUNCT LEFT
+"<100>"
+	"100" ?
+"<кв>"
+	"кв" N ABBR
+"<.>"
+	"." CLB
+
+"<метра>"
+	"метр" N Sg Der Der/ProprietiveMod A
+"<гӧгӧр>"
+	"гӧгӧр" Adp Po Sg Nom @SUBJ>
+	"гӧгӧр" Adv @<ADVL
+	"гӧгӧр" Hom2 Adp Po
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<джынӧдз>"
+	"джынӧдз" ?
+"<гарйӧмӧсь>"
+	"гарйыны" V Ind Prt2 Pl1
+	"гарйыны" V Ind Prt2 Pl3
+"<му>"
+	"му" N Sem/Inanim Sg Nom
+	"му" N Sg Nom
+"<пытшкӧ>"
+	"пытш" Adp Po Spat Sg Ill
+	"пытш" Hom2 N Sem/Inanim Sg Ill @<ADVL
+	"пытш" Hom2 N Sem/Inanim Sg Nom PxSg1
+	"пытшкӧ" Adp Po Spat Sg Ill
+	"пытшкӧ" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Сэтӧн>"
+	"сэтӧн" Adv
+"<вермас>"
+	"вермыны" V Ind Fut Sg3
+"<овны>"
+	"овны" V Inf
+"<не>"
+	"не" CC
+	"не" Pcle @PCLE
+"<ӧтік>"
+	"ӧтік" Card Cmpl
+	"ӧтік" Num Card Cmpl @>Num
+"<дас>"
+	"дас" Card Cmpl
+	"дас" Num Card Cmpl @>N
+"<морт>"
+	"морт" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Пондӧмась>"
+	"пондыны" V Ind Prt2 Pl1
+	"пондыны" V Ind Prt2 Pl3
+"<керны>"
+	"керны" V Inf
+"<гӧрд>"
+	"гӧрд" A
+"<сёйись>"
+	"сёйись" A Prc
+"<ёся>"
+	"ёсь" N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"ёсь" N Sg Der Der/ProprietiveMod A
+	"ёся" A
+"<пыдӧса>"
+	"пыдӧс" N Sg Der Der/ProprietiveMod A
+"<серпасалӧм>"
+	"серпасавны" V Ind Prt2 Sg3
+"<доз>"
+	"доз" N Sem/Inanim Sg Nom @<SUBJ
+	"доз" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Неолит>"
+	"Неолит" ?
+"<кадся>"
+	"кад" Hom1 N Sg Cmpr
+	"кад" Hom1 N Sg Der Der/TempMod A
+	"кад" Hom2 N Sg Cmpr
+	"кад" N Sem/Inanim Sg Cmpr
+	"кад" N Sem/Inanim Sg Der Der/TempMod A
+"<сувтчанін-оланіннэс>"
+	"сувтчанін-оланіннэс" ?
+"<адззалӧмӧсь>"
+	"адззавны" V Err/Orth Ind Prt2 Pl1
+	"адззавны" V Err/Orth Ind Prt2 Pl3
+	"адззавны" V Ind Prt2 Pl1
+	"адззавны" V Ind Prt2 Pl3
+	"адззыны" V Der/Al Ind Prt2 Pl1
+	"адззыны" V Der/Al Ind Prt2 Pl3
+"<Коми>"
+	"коми" N Sg Nom
+"<кытшын>"
+	"кытш" N Sg Ine
+"<быд>"
+	"быд" Pron Qnt
+"<районсис>"
+	"район" N Sg Ela PxSg3
+"<.>"
+	"." CLB
+
+"<Сія>"
+	"сія" Pron Pers Sg3 Nom @HNOUN
+"<кадӧ>"
+	"кад" Hom1 N Sg Nom PxSg1 @HNOUN
+	"кад" N Sem/Inanim Sg Nom PxSg1 @HNOUN
+"<финн-йӧграыс>"
+	"финн-йӧгра" A Der Der/MWN N Sg Nom PxSg3 @<SPRED
+"<янсӧтчӧма>"
+	"янсӧтчӧм" A Prc Der Der/A Adv @<ADVL
+"<важ>"
+	"важ" A
+"<финн>"
+	"финн" N Sg Nom @HNOUN
+"<да>"
+	"да" CC
+"<важ>"
+	"важ" A
+"<йӧгра>"
+	"йӧгра" N Sg Nom @HNOUN
+"<увтыр>"
+	"увтыр" N Sg Nom @HNOUN
+"<вылӧ>"
+	"вылӧ" Adp Po Spat Sg Ill @N<
+"<.>"
+	"." CLB
+
+"<Энеолит>"
+	"Энеолит" ?
+"<.>"
+	"." CLB
+
+"<Пондӧтчӧ>"
+	"пондӧтчыны" V Imprt Pl2
+	"пондӧтчыны" V Ind Prs Sg3
+"<историялӧн>"
+	"история" N Sg Gen
+"<мӧдік>"
+	"мӧдік" Pron Indef Sg Nom @<SUBJ
+"<кад>"
+	"кад" Hom1 N Sg Nom @<SUBJ
+	"кад" Hom2 N Sg Nom @<SUBJ
+	"кад" N Sem/Inanim Sg Nom @<SUBJ
+"<—>"
+	"—" PUNCT
+"<энеолит>"
+	"энеолит" ?
+"<.>"
+	"." CLB
+
+"<Ӧні>"
+	"ӧні" Adv @-FADVL>
+"<Кама>"
+	"кам" N Sg Der Der/ProprietiveMod A
+"<ладорас>"
+	"ладор" N Sg Ill PxSg3 @-FADVL>
+	"ладор" N Sg Ine PxSg3 @-FADVL>
+"<олісь>"
+	"овны" V Der/ісь ActPrsPtc Sg Nom @SUBJ>
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<мукӧд>"
+	"мукӧд" Pron Qnt Sg Nom @SUBJ>
+"<берсясӧ>"
+	"бер" N Sg Der Der/TempMod A Der Der/MWN N Sg Acc PxSg3
+	"берся" A Der Der/MWN N Sg Acc PxSg3
+"<пондӧмась>"
+	"пондыны" V Ind Prt2 Pl1
+	"пондыны" V Ind Prt2 Pl3
+"<керны>"
+	"керны" V Inf
+"<и>"
+	"и" CC
+"<кӧртісь>"
+	"кӧртны" V Der/ісь ActPrsPtc Sg Nom
+"<.>"
+	"." CLB
+
+"<Кӧртсӧ>"
+	"кӧрт" N Sem/Inanim Sg Acc PxSg3
+	"кӧрт" N Sg Acc PxSg3
+"<медодз>"
+	"медодз" A
+"<вайлывлӧмась>"
+	"вайлывлыны" V Ind Prt2 Pl1
+	"вайлывлыны" V Ind Prt2 Pl3
+"<мӧділаись>"
+	"мӧділаись" ?
+"<,>"
+	"," CLB
+"<одзлань>"
+	"одзлань" Adv
+"<пондасӧ>"
+	"пондыны" V Ind Fut Pl3
+"<керны>"
+	"керны" V Inf
+"<асьныс>"
+	"асьныс" Pron Refl Pl3 Nom
+	"ачыс" Pron Refl Pl3 Nom
+"<.>"
+	"." CLB
+
+"<Кама>"
+	"Кама" N Prop Sg Nom @SUBJ>
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<вузасьӧмась>"
+	"вузасьны" V Ind Prt2 Pl1
+	"вузасьны" V Ind Prt2 Pl3
+"<уна>"
+	"уна" Adv Cmpl @ADVL>
+"<йӧзкӧт>"
+	"йӧз" N Sg Com
+"<:>"
+	":" CLB
+"<позьӧ>"
+	"позьны" V Imprt Pl2
+	"позьны" V Ind Prs Sg3
+"<адззыны>"
+	"адззыны" V Inf
+"<Балтика>"
+	"Балтика" ?
+"<дорись>"
+	"дорны" V Der/ісь ActPrsPtc Sg Nom @<SUBJ
+"<вайӧм>"
+	"вайӧм" N Sem/Inanim Sg Nom @<SUBJ
+	"вайӧм" N Sg Nom @<SUBJ
+"<янтарь>"
+	"янтарь" N Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<Алтайись>"
+	"Алтайись" ?
+"<—>"
+	"—" PUNCT
+"<нефрит>"
+	"нефрит" ?
+"<,>"
+	"," CLB
+"<Кавказісь>"
+	"Кавказісь" ?
+"<—>"
+	"—" PUNCT
+"<бронза>"
+	"бронза" N Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<Индика>"
+	"Индика" ?
+"<океан>"
+	"океан" N Sg Nom @<SUBJ
+"<дынісь>"
+	"дын" Hom1 N Sem/Inanim Sg Ela @-F<ADVL
+	"дын" Hom2 N Sem/Inanim Sg Ela @-F<ADVL
+"<—>"
+	"—" PUNCT
+"<каури>"
+	"каури" ?
+"<нима>"
+	"ним" Hom1 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"ним" Hom2 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"ним" N Sg Der Der/ProprietiveMod A
+	"нима" A
+"<шоркытшшез>"
+	"шоркытш" N Pl Nom @APP-N<
+"<.>"
+	"." CLB
+
+"<Кӧть>"
+	"кӧть" CS
+"<лоӧма>"
+	"лойны" V Ind Prt2 Sg1
+	"лойны" V Ind Prt2 Sg3
+	"лоны" V Ind Prt2 Sg1
+	"лоны" V Ind Prt2 Sg3
+	"лоӧм" A Prc Der Der/A Adv @ADVL>
+	"лоӧм" N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"лоӧм" N Sg Der Der/ProprietiveMod A
+	"лоӧма" N Sg Nom @<SUBJ
+"<ни>"
+	"ни" CC
+"<кӧрт>"
+	"кӧрт" N Sem/Inanim Sg Nom @<SUBJ
+	"кӧрт" N Sg Nom @<SUBJ
+	"кӧртны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @<SUBJ
+"<уна>"
+	"уна" Adv Cmpl @ADVL>
+"<мый>"
+	"мый" CS
+	"мый" Pron Sem/NonHum Nom Interr
+	"мый" Pron Sem/NonHum Nom Rel
+"<керӧмась>"
+	"керны" V Ind Prt2 Pl1
+	"керны" V Ind Prt2 Pl3
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<кремень>"
+	"кремень" ?
+"<изсис>"
+	"из" Hom1 N Sem/Inanim Sg Ela PxSg3
+	"из" N Sg Ela PxSg3
+	"изсьыны" V Ind Prt1 Sg3
+"<.>"
+	"." CLB
+
+"<Сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<кадӧ>"
+	"кад" Hom1 N Sg Nom PxSg1 @SUBJ>
+	"кад" N Sem/Inanim Sg Nom PxSg1 @SUBJ>
+"<Кама>"
+	"Кама" N Prop Sg Nom @SUBJ>
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<пондӧмась>"
+	"пондыны" V Ind Prt2 Pl1
+	"пондыны" V Ind Prt2 Pl3
+"<видзны>"
+	"видзны" V Inf
+"<пода>"
+	"под" Hom1 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"под" Hom2 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"пода" N Sg Nom
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<,>"
+	"," CLB
+"<кыдз>"
+	"кыдз" Adv Manner Rel @<ADVL
+"<и>"
+	"и" CC
+"<одзжык>"
+	"одз" A Comp
+	"одзжык" Adv @<ADVL
+"<,>"
+	"," CLB
+"<сёянсӧ>"
+	"сёян" N Sem/Inanim Sg Acc PxSg3
+	"сёян" N Sg Acc PxSg3
+	"сёян" N V Der/An Sg Acc PxSg3
+"<шедтӧмась>"
+	"шедтыны" V Ind Prt2 Pl1
+	"шедтыны" V Ind Prt2 Pl3
+"<вӧралӧмӧн>"
+	"вӧравны" V Der/Omon Ger
+	"вӧравны" V Err/Orth Der/Omon Ger
+	"вӧралӧм" N Sem/Inanim Sg Ins
+	"вӧралӧм" N Sg Ins
+	"вӧрны" V Der/Al Der/Omon Ger
+"<да>"
+	"да" CC
+"<чери>"
+	"чери" N Sem/Inanim Sg Nom
+	"чери" N Sg Nom
+"<кыйӧмӧн>"
+	"кыйӧм" N Sg Ins
+"<.>"
+	"." CLB
+
+"<Мукӧд>"
+	"мукӧд" Pron Qnt Sg Nom @SUBJ>
+"<оланінас>"
+	"оланін" N Sem/Inanim Sg Ill PxSg3 @<ADVL
+	"оланін" N Sem/Inanim Sg Ine PxSg3
+	"оланін" N Sg Ill PxSg3 @<ADVL
+	"оланін" N Sg Ine PxSg3
+"<черикыян>"
+	"черикыян" N Sg Nom @SUBJ>
+"<кулӧммезлӧн>"
+	"кулӧм" Hom1 N Sem/Inanim Pl Gen @>A
+	"кулӧм" Hom2 N Sem/Inanim Pl Gen @>A
+	"кулӧм" N Pl Gen @>A
+"<вӧтяна>"
+	"вӧтяна" A Prc
+"<иззэс>"
+	"из" Hom1 N Sem/Inanim Pl Nom PxSg3 @SUBJ>
+	"из" N Pl Nom PxSg3 @SUBJ>
+"<пантасьлӧны>"
+	"пантасьлыны" V Ind Prs Pl3
+"<ӧддьӧн>"
+	"ӧддьӧн" Adv @<ADVL
+"<уна>"
+	"уна" Adv Cmpl @<ADVL
+"<.>"
+	"." CLB
+
+"<Оланіннэс>"
+	"оланін" N Pl Nom PxSg3 @SUBJ>
+	"оланін" N Sem/Inanim Pl Nom PxSg3 @SUBJ>
+"<унажыксӧ>"
+	"унажыксӧ" ?
+"<вӧлӧмась>"
+	"вӧвны" V Err/Orth Ind Prt2 Pl1
+	"вӧвны" V Err/Orth Ind Prt2 Pl3
+	"вӧвны" V Ind Prt2 Pl1
+	"вӧвны" V Ind Prt2 Pl3
+"<кынымкӧ>"
+	"кынымкӧ" Adv @ADVL>
+"<неыджыт>"
+	"неыджыт" A
+"<керкуись>"
+	"керку" N Sem/Inanim Sg Ela
+	"керку" N Sg Ela
+"<,>"
+	"," CLB
+"<кӧдна>"
+	"кӧда" Pron Rel Pl Nom @<SUBJ
+	"кӧдна" Det
+"<ӧтамӧд>"
+	"ӧтамӧд" Pron Recipr Sg Nom @SUBJ>
+"<коласын>"
+	"колас" N Sg Ine
+	"коласын" Adp Po Spat Sg Ine
+"<йитсьӧмась>"
+	"йитсьӧмась" ?
+"<му>"
+	"му" N Sem/Inanim Sg Nom @SUBJ>
+	"му" N Sg Nom @SUBJ>
+"<пытшкӧ>"
+	"пытш" Hom2 N Sem/Inanim Sg Nom PxSg1 @SUBJ>
+"<гарйӧм>"
+	"гарйыны" V Ind Prt2 Sg3
+	"гарйӧм" A Prc
+	"гарйӧм" N Sem/Inanim Sg Nom @SUBJ>
+"<да>"
+	"да" CC
+"<вевттьӧм>"
+	"вевттьыны" V Ind Prt2 Sg3
+	"вевттьӧм" A Prc
+	"вевттьӧм" N Sem/Inanim Sg Nom @<SUBJ
+"<вуджан>"
+	"вуджан" A
+	"вуджан" A Prc
+"<туйез>"
+	"туй морт" N Pl Nom
+	"туй" N Pl Nom
+"<пыр>"
+	"пыр" Adp
+	"пыр" Adp Po
+	"пыр" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Сія>"
+	"сія" Pron Pers Sg3 Nom
+"<кадся>"
+	"кад" Hom1 N Sg Cmpr
+	"кад" Hom1 N Sg Der Der/TempMod A
+	"кад" Hom2 N Sg Cmpr
+	"кад" N Sem/Inanim Sg Cmpr
+	"кад" N Sem/Inanim Sg Der Der/TempMod A
+"<медыджыт>"
+	"медыджыт" ?
+"<оланін>"
+	"оланін" N Sem/Inanim Sg Nom
+	"оланін" N Sg Nom
+"<—>"
+	"—" PUNCT
+"<Базов>"
+	"Базов" N Prop Sem/Sur-Mal Sg Nom
+"<Бор>"
+	"бор" N Sg Nom
+"<—>"
+	"—" PUNCT
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<гарйӧм>"
+	"гарйӧм" N Sem/Inanim Sg Nom
+"<Юсьва>"
+	"Юсьва" N Prop Sg Nom
+"<районын>"
+	"район" N Sg Ine
+"<,>"
+	"," CLB
+"<Иньва>"
+	"Иньва" ?
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom
+	"ю" N Sg Nom
+"<усянінланяс>"
+	"усянін" N Sem/Inanim Sg Apr PxSg3 So/CP
+	"усянін" N Sem/Inanim Sg AprIll PxSg3
+	"усянін" N Sem/Inanim Sg AprIne PxSg3
+	"усянін" N Sg Apr PxSg3 So/CP
+	"усянін" N Sg AprIll PxSg3
+	"усянін" N Sg AprIne PxSg3
+"<.>"
+	"." CLB
+
+"<Уна>"
+	"уна" Adv Cmpl @<ADVL
+"<оланін-сулаланін>"
+	"оланін-сулаланін" ?
+"<адззисӧ>"
+	"адззыны" V Ind Prt1 Pl3
+"<Кӧсва>"
+	"Кӧсва" ?
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom
+	"ю" N Sg Nom
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po
+	"пӧлӧн" Adp Po Sg Nom
+	"пӧлӧн" Adv @<ADVL
+"<Кӧч>"
+	"Кӧч" N Prop Sg Nom
+	"кӧч" N Sem/Inanim Sg Nom
+	"кӧч" N Sg Nom
+"<районісь>"
+	"район" N Sg Ela
+"<Уржа>"
+	"Уржа" ?
+"<да>"
+	"да" CC
+"<Ташка>"
+	"ташка" N Sg Nom
+"<греззддэз>"
+	"греззддэз" ?
+"<дынын>"
+	"дын" Hom1 N Sem/Inanim Sg Ine
+	"дын" Hom2 N Sem/Inanim Sg Ine
+	"дынын" Adp Po Spat Sg Ine
+"<.>"
+	"." CLB
+
+"<Бронза>"
+	"бронза" N Sg Nom @HNOUN
+"<да>"
+	"да" CC
+"<кӧрт>"
+	"кӧрт" N Sem/Inanim Sg Nom @HNOUN
+	"кӧрт" N Sg Nom @HNOUN
+"<кад>"
+	"кад" Hom1 N Sg Nom @HNOUN
+	"кад" Hom2 N Sg Nom @HNOUN
+	"кад" N Sem/Inanim Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Бронза>"
+	"бронза" N Sg Nom @SUBJ>
+"<да>"
+	"да" CC
+"<кӧрт>"
+	"кӧрт" N Sem/Inanim Sg Nom @SUBJ>
+	"кӧрт" N Sg Nom @SUBJ>
+"<эпохаэз>"
+	"эпоха" N Pl Nom
+"<вежсикӧ>"
+	"вежсикӧ" ?
+"<важ>"
+	"важ" A
+"<финн>"
+	"финн" N Sg Nom @SUBJ>
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<торьясьӧ>"
+	"торьясьны" V Ind Prs Sg3
+"<рытвыв>"
+	"рытвыв" N Sg Nom @<SUBJ
+"<финн>"
+	"финн" N Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+"<перым>"
+	"перым" N Sg Nom @<SUBJ
+"<увтыррез>"
+	"увтыр" N Pl Nom
+"<вылӧ>"
+	"вылӧ" Adp Po Spat Sg Ill
+"<.>"
+	"." CLB
+
+"<Перым>"
+	"Перым" N Prop Sg Nom @SUBJ>
+	"перым" N Sg Nom @SUBJ>
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<,>"
+	"," CLB
+"<пермяна>"
+	"пермяна" A
+"<,>"
+	"," CLB
+"<лоӧны>"
+	"лойны" V Ind Prs Pl3
+	"лоны" V Ind Prs Pl3
+"<удмурттэзлӧн>"
+	"удмурт" N Pl Gen @>N
+"<да>"
+	"да" CC
+"<комиэзлӧн>"
+	"коми" N Pl Gen @>A
+"<ӧтласа>"
+	"ӧтласа" A
+"<важ>"
+	"важ" A
+"<увтырӧн>"
+	"увтыр" N Sg Ins
+"<.>"
+	"." CLB
+
+"<Ананьинсалӧн>"
+	"Ананьин" N Prop Sem/Sur-Mal Sg Der Der/LocMod A Der Der/MWN N Sg Gen @>N
+"<культура>"
+	"культура" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Кама>"
+	"Кама" N Prop Sg Nom @SUBJ>
+"<ладорын>"
+	"ладор" N Sg Ine
+"<кӧрт>"
+	"кӧрт" N Sem/Inanim Sg Nom @SUBJ>
+	"кӧрт" N Sg Nom @SUBJ>
+"<эпохалӧн>"
+	"эпоха" N Sg Gen
+"<пондӧтчӧм>"
+	"пондӧтчыны" V Ind Prt2 Sg3
+"<йитсьӧ>"
+	"йитсьӧ" ?
+"<ананьинса>"
+	"ананьинса" ?
+"<культуракӧт>"
+	"культура" N Sg Com
+"<.>"
+	"." CLB
+
+"<Ананьинсаыс>"
+	"Ананьин" N Prop Sem/Sur-Mal Sg Der Der/LocMod A Der Der/MWN N Sg Nom PxSg3 @SUBJ>
+"<одзлань>"
+	"одзлань" Adv @ADVL>
+"<зорӧтӧмась>"
+	"зорӧтны" V Ind Prt2 Pl1
+	"зорӧтны" V Ind Prt2 Pl3
+"<культурасӧ>"
+	"культура" N Sg Acc PxSg3
+"<бронза>"
+	"бронза" N Sg Nom
+"<кадӧ>"
+	"кад" Hom1 N Sg Nom PxSg1
+	"кад" N Sem/Inanim Sg Nom PxSg1
+"<оліссезлісь>"
+	"овны" V Der/ісь ActPrsPtc Pl Abl
+"<да>"
+	"да" CC
+"<олӧмась>"
+	"овны" V Ind Prt2 Pl1
+	"овны" V Ind Prt2 Pl3
+"<зэв>"
+	"зэв" Adv @ADVL>
+"<паськыта>"
+	"паськыт" A Der Der/A Adv @ADVL>
+"<:>"
+	":" CLB
+"<ойвылын>"
+	"ойвылын" ?
+"<—>"
+	"—" PUNCT
+"<Печора>"
+	"Печора" N Prop Sg Nom
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom
+	"ю" N Sg Nom
+"<дорсянь>"
+	"дор" Adp Po Spat Sg Egr
+	"дор" N Sg Egr
+	"дорсянь" Adp Po
+	"дорсянь" Adp Po Spat Sg Egr
+"<,>"
+	"," CLB
+"<лунвылын>"
+	"лунвыв" N Sg Ine
+"<—>"
+	"—" PUNCT
+"<Волга>"
+	"Волга" ?
+"<юлӧн>"
+	"ю" N Sem/Inanim Sg Gen @>P
+	"ю" N Sg Gen @>P
+"<шӧрӧт>"
+	"шӧр морт" N Sg Prl
+	"шӧр" N Sg Prl
+	"шӧрӧт" Adp Po
+"<муэзӧдз>"
+	"му" N Pl TerI
+	"му" N Sem/Inanim Pl TerI
+"<.>"
+	"." CLB
+
+"<Отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<ветлӧмась>"
+	"ветлыны" V Ind Prt2 Pl1
+	"ветлыны" V Ind Prt2 Pl3
+"<ни>"
+	"ни" Adv @<ADVL
+	"ни" CC
+	"ни" Pcle @PCLE
+"<вӧввезӧн>"
+	"вӧв" N Pl Ins
+"<,>"
+	"," CLB
+"<тышкасьлӧмась>"
+	"тышкасьлыны" V Ind Prt2 Pl1
+	"тышкасьлыны" V Ind Prt2 Pl3
+"<ӧтамӧдныскӧт>"
+	"ӧтамӧд" Pron Recipr Sg Com PxPl3
+"<да>"
+	"да" CC
+"<вувтлӧмась-уськӧтчывлӧмась>"
+	"вувтлӧмась-#уськӧтчывлыны" V Ind Prt2 Pl1
+	"вувтлӧмась-#уськӧтчывлыны" V Ind Prt2 Pl3
+"<мӧдік>"
+	"мӧдік" Pron Indef Sg Nom
+"<йӧз>"
+	"йӧз" N Sg Nom
+"<вылӧ>"
+	"вылӧ" Adp Po Spat Sg Ill
+"<.>"
+	"." CLB
+
+"<Нылӧн>"
+	"ны" N Sg Gen
+	"ныв" N Sg Ins
+"<вӧлӧмась>"
+	"вӧвны" V Err/Orth Ind Prt2 Pl1
+	"вӧвны" V Err/Orth Ind Prt2 Pl3
+	"вӧвны" V Ind Prt2 Pl1
+	"вӧвны" V Ind Prt2 Pl3
+"<ни>"
+	"ни" Adv @<ADVL
+	"ни" CC
+	"ни" Pcle @PCLE
+"<сэк>"
+	"сэк" Adv @<ADVL
+	"сэк" CS
+"<шыпурттэз>"
+	"шыпурт" N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<бытшкан>"
+	"бытшкан" A
+	"бытшкыны" V Ind Prs Sg2
+"<ёссез>"
+	"ёсь" N Pl Nom @SUBJ>
+	"ёсь" N Sem/Inanim Pl Nom @SUBJ>
+"<да>"
+	"да" CC
+"<кышаланнэз>"
+	"кышаланнэз" ?
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<унажыксӧ>"
+	"унажыксӧ" ?
+"<нія>"
+	"сія" Pron Pers Pl3 Nom @SUBJ>
+"<лыйлӧмась>"
+	"лыйлыны" V Ind Prt2 Pl1
+	"лыйлыны" V Ind Prt2 Pl3
+"<ньӧвьёссезӧн>"
+	"ньӧвьёссезӧн" ?
+"<.>"
+	"." CLB
+
+"<Кама>"
+	"Кама" N Prop Sg Nom @SUBJ>
+"<ладорись>"
+	"ладор" N Sg Ela
+"<отир>"
+	"отир" N Sg Nom @SUBJ>
+"<сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<кадӧ>"
+	"кад" Hom1 N Sg Nom PxSg1 @APP-Pron<
+	"кад" N Sem/Inanim Sg Nom PxSg1 @APP-Pron<
+"<олӧма>"
+	"овны" V Ind Prt2 Sg3
+	"олӧм" N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"олӧм" N Sg Der Der/ProprietiveMod A
+	"олӧма" A
+"<ордчӧн>"
+	"ордчӧн" Adv @<ADVL
+"<да>"
+	"да" CC
+"<унажыксӧ>"
+	"унажыксӧ" ?
+"<босьтасьӧма-вузасьӧма>"
+	"босьтасьӧма-#вузасьны" V Ind Prt2 Sg1
+	"босьтасьӧма-#вузасьны" V Ind Prt2 Sg3
+"<скиф-сармат>"
+	"скиф-сармат" ?
+"<йӧзкӧт>"
+	"йӧз" N Sg Com
+"<.>"
+	"." CLB
+
+"<Ны>"
+	"ны" N Sg Nom @HNOUN
+"<пыр>"
+	"пыр" Adp
+	"пыр" Adp Po @N<
+	"пыр" Adv @<ADVL
+"<и>"
+	"и" CC
+"<шедас>"
+	"шедас" N Sg Nom @HNOUN
+"<Кама>"
+	"Кама" N Prop Sg Nom @HNOUN
+"<муас>"
+	"му" N Sem/Inanim Sg Ill PxSg3 @<ADVL
+	"му" N Sem/Inanim Sg Ine PxSg3 @N<
+	"му" N Sg Ill PxSg3 @<ADVL
+	"му" N Sg Ine PxSg3 @N<
+"<Сьӧд>"
+	"сьӧд" A
+"<саридз>"
+	"саридз" N Sg Nom @HNOUN
+"<дорын>"
+	"дор" Adp Po Spat Sg Ine @N<
+	"дор" N Sg Ine @N<
+	"дорын" Adp Po Spat Sg Ine @N<
+"<,>"
+	"," CLB
+"<Элладаын>"
+	"Элладаын" ?
+"<да>"
+	"да" CC
+"<Египетын>"
+	"Египет" N Prop Sg Ine @ADVL>
+"<керӧм>"
+	"керӧм" N Sem/Inanim Sg Nom @HNOUN
+	"керӧм" N Sg Nom @HNOUN
+"<берсяыс>"
+	"бер" N Sg Der Der/TempMod A Der Der/MWN N Sg Nom PxSg3 @<SPRED
+	"берся" A Der Der/MWN N Sg Nom PxSg3 @<SPRED
+"<.>"
+	"." CLB
+
+"<Кадыс>"
+	"кад" Hom1 N Sg Nom PxSg3 @SUBJ>
+	"кад" N Sem/Inanim Sg Nom PxSg3 @SUBJ>
+"<вӧлӧма>"
+	"вӧвны" V Err/Orth Ind Prt2 Sg3
+	"вӧвны" V Ind Prt2 Sg3
+"<сьӧкыт>"
+	"сьӧкыт" A
+"<,>"
+	"," CLB
+"<тышкасьӧм-пессьӧммес>"
+	"тышкасьӧм-пессьӧммес" ?
+"<лоасӧ>"
+	"лойны" V Ind Fut Pl3
+	"лоны" V Ind Fut Pl3
+"<тшӧкжыкӧсь>"
+	"тшӧк" Hom1 A Comp Cop Pl
+"<,>"
+	"," CLB
+"<сысянь>"
+	"сія" Pron Pers Sg3 Egr
+"<Кама>"
+	"Кама" N Prop Sg Nom @SUBJ>
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<пондасӧ>"
+	"пондыны" V Ind Fut Pl3
+"<керны>"
+	"керны" V Inf
+"<,>"
+	"," CLB
+"<ассиныс>"
+	"ачыс" Pron Refl Pl3 Abl
+	"ачыс" Pron Refl Pl3 Ela
+"<увтыр>"
+	"увтыр" N Sg Nom @<SUBJ
+"<дорйӧм>"
+	"дорйӧм" N Sem/Inanim Sg Nom @<SUBJ
+"<могись>"
+	"мог" N Sg Ela
+	"могысь" Adp Po Sg Ela
+"<,>"
+	"," CLB
+"<каррез>"
+	"кар" Hom1 N Pl Nom
+	"кар" Hom1 N Sem/Inanim Pl Nom
+	"кар" Hom2 N Pl Nom
+	"кар" Hom2 N Sem/Inanim Pl Nom
+"<.>"
+	"." CLB
+
+"<Карресӧ>"
+	"кар" Hom1 N Pl Acc PxSg3
+	"кар" Hom1 N Sem/Inanim Pl Acc PxSg3
+	"кар" Hom2 N Pl Acc PxSg3
+	"кар" Hom2 N Sem/Inanim Pl Acc PxSg3
+"<сувтӧтлӧмась>"
+	"сувтӧтлыны" V Ind Prt2 Pl1
+	"сувтӧтлыны" V Ind Prt2 Pl3
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom
+	"ю" N Sg Nom
+"<пӧлӧн>"
+	"пӧлӧн" Adp Po Sg Nom
+"<буждӧм>"
+	"буждӧм" A Prc
+"<керӧс>"
+	"керӧс" N Sg Nom
+"<йылӧ>"
+	"йыв" N Sg Nom PxSg1
+"<кык>"
+	"кык" Card Cmpl
+	"кык" Num Card Cmpl @>N
+"<кырас>"
+	"кырас" N Sg Nom
+"<коласӧ>"
+	"колас" N Sg Nom PxSg1
+"<.>"
+	"." CLB
+
+"<Керӧсыс>"
+	"Керӧс" N Prop Sg Nom PxSg3 @SUBJ>
+	"керӧс" N Sg Nom PxSg3 @SUBJ>
+"<пӧлӧн>"
+	"пӧлӧн" Adv @-FADVL>
+"<мӧдӧр>"
+	"мӧдӧр" ?
+"<ладорсяняс>"
+	"ладор" N Sg Egr PxSg3 So/CP
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<гарйӧм>"
+	"гарйыны" V Ind Prt2 Sg3
+	"гарйӧм" A Prc
+	"гарйӧм" N Sem/Inanim Sg Nom @SUBJ>
+"<пыдын>"
+	"пыдын" Adv @-FADVL>
+	"пыдын" Adv Ine @-FADVL>
+"<кырас>"
+	"кыр" N Sg Ill PxSg3 @-FADVL>
+	"кыр" N Sg Ine PxSg3 @-FADVL>
+	"кырас" A
+	"кырас" N Sg Nom @<SUBJ
+	"кырны" V Ind Fut Sg3
+"<да>"
+	"да" CC
+"<йӧрйӧм>"
+	"йӧрйыны" V Der/ӧм Event Sg Nom @<SUBJ
+"<вылын>"
+	"выв" N Err/Orth Sem/Inanim Sg Ine @-F<ADVL
+	"выв" N Sg Ine @-F<ADVL
+	"вылын" Hom1 A
+	"вылын" Hom2 Adp Po Spat Sg Ine @-F<ADVL
+"<стынӧн>"
+	"стын" N Sg Ins
+"<.>"
+	"." CLB
+
+"<Кар>"
+	"Кар" N Prop Sg Nom @SUBJ>
+	"кар" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"кар" Hom1 N Sg Nom @SUBJ>
+	"кар" Hom2 N Sem/Inanim Sg Nom @SUBJ>
+	"кар" Hom2 N Sg Nom @SUBJ>
+"<гӧгӧрас>"
+	"гӧгӧр" Adp Po Sg Ill PxSg3
+	"гӧгӧр" Adp Po Sg Ine PxSg3
+	"гӧгӧрас" Adp Po
+	"гӧгӧрын" Adp Po Spat Sg Ine PxSg3
+	"гӧгӧрӧ" Adp Po Spat Sg Ill PxSg3
+"<сувтӧтлісӧ>"
+	"сувтӧтлыны" V Ind Prt1 Pl3
+"<посаддэз>"
+	"посад" N Pl Nom @<SUBJ
+"<да>"
+	"да" CC
+"<дзебсянін>"
+	"дзебсянін" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Кама>"
+	"Кама" N Prop Sg Nom @SUBJ>
+"<ладорас>"
+	"ладор" N Sg Ill PxSg3 @<ADVL
+	"ладор" N Sg Ine PxSg3
+"<сэк>"
+	"сэк" Adv @<ADVL
+"<уна>"
+	"уна" Adv Cmpl @<ADVL
+"<берся>"
+	"бер" N Sg Cmpr
+	"бер" N Sg Der Der/TempMod A
+	"берся" A
+"<керлӧмась>"
+	"керлыны" V Ind Prt2 Pl1
+	"керлыны" V Ind Prt2 Pl3
+"<бронзаись>"
+	"бронза" N Sg Ela
+"<да>"
+	"да" CC
+"<кӧртісь>"
+	"кӧрт" N Sem/Inanim Sg Ela
+	"кӧрт" N Sg Ela
+	"кӧртны" V Der/ісь ActPrsPtc Sg Nom
+"<.>"
+	"." CLB
+
+"<Сійӧн>"
+	"сійӧн" CS Conj
+	"сія" Pron Pers Sg3 Der/йӧ Ins
+"<ананьинсалӧн>"
+	"ананьинсалӧн" ?
+"<культураныс>"
+	"культура" N Sg Nom PxPl3 @HNOUN
+"<бура>"
+	"бур" A Der Der/A Adv @<ADVL
+	"бур" N Sg Der Der/ProprietiveMod A
+	"бура" Adv @<ADVL
+	"бура" Hom1 Adv @<ADVL
+	"бура" Hom2 Adp Po @N<
+	"бура" N Sg Nom @HNOUN
+"<неӧткодь>"
+	"неӧткодь" A
+"<кӧрт>"
+	"кӧрт" N Sem/Inanim Sg Nom @HNOUN
+	"кӧрт" N Sg Nom @HNOUN
+"<кадся>"
+	"кад" Hom1 N Sg Cmpr
+	"кад" Hom1 N Sg Der Der/TempMod A
+	"кад" Hom2 N Sg Cmpr
+	"кад" N Sem/Inanim Sg Cmpr
+	"кад" N Sem/Inanim Sg Der Der/TempMod A
+"<культура>"
+	"культура" N Sg Nom @HNOUN
+"<сьӧрті>"
+	"сьӧрті" Adp Po @N<
+"<.>"
+	"." CLB
+
+"<Бронзасис>"
+	"бронза" N Sg Ela PxSg3
+"<кисьтлывлӧмась>"
+	"кисьтлыны" V Der/лывлы Ind Prt2 Pl1
+	"кисьтлыны" V Der/лывлы Ind Prt2 Pl3
+	"кисьтны" V Der/лы Der/лывлы Ind Prt2 Pl1
+	"кисьтны" V Der/лы Der/лывлы Ind Prt2 Pl3
+	"кисьтны" V Der/лывлы Ind Prt2 Pl1
+	"кисьтны" V Der/лывлы Ind Prt2 Pl3
+"<пурттэз>"
+	"пурт" N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<кутан-кышаланнэз>"
+	"кутан-кышаланнэз" ?
+"<,>"
+	"," CLB
+"<шыпурттэз>"
+	"шыпурт" N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<ньӧвьёссез>"
+	"ньӧвьёссез" ?
+"<да>"
+	"да" CC
+"<черрез>"
+	"чер" N Pl Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Гляденсалӧн>"
+	"Гляденсалӧн" ?
+"<культура>"
+	"культура" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<III-II>"
+	"III-II" ?
+"<сугӧддэзӧ>"
+	"сугӧддэзӧ" ?
+"<миян>"
+	"ме" Pron Pers Pl1
+"<эраӧдз>"
+	"эра" N Sg TerI
+"<ананьинсаыс>"
+	"ананьинсаыс" ?
+"<коласісь>"
+	"колас" N Sg Ela
+"<янсӧтчӧны>"
+	"янсӧтчыны" V Ind Prs Pl3
+"<пьяноборса>"
+	"пьяноборса" ?
+"<,>"
+	"," CLB
+"<кӧднасянь>"
+	"кӧда" Pron Interr Pl Egr
+	"кӧда" Pron Rel Pl Egr
+"<аркмасӧ>"
+	"аркмыны" V Ind Fut Pl3
+"<сэсся>"
+	"сэсся" Adv @ADVL>
+	"сэсся" CS Conj
+"<удмурттэз>"
+	"удмурт" N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Гляденса>"
+	"Гляденса" ?
+"<,>"
+	"," CLB
+"<кӧднасянь>"
+	"кӧда" Pron Interr Pl Egr
+	"кӧда" Pron Rel Pl Egr
+"<лоасӧ>"
+	"лойны" V Ind Fut Pl3
+	"лоны" V Ind Fut Pl3
+"<коми>"
+	"коми" N Sg Nom
+"<отир>"
+	"отир" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Гляденсалӧн>"
+	"Гляденсалӧн" ?
+"<культураныс>"
+	"культура" N Sg Nom PxPl3 @SUBJ>
+"<шусьӧ>"
+	"шуны" V Der/сьы Ind Prs Sg3
+"<сідз>"
+	"сідз" Adv @ADVL>
+"<важ>"
+	"важ" A
+"<юрбытанін>"
+	"юрбытанін" ?
+"<сьӧрті>"
+	"сьӧрті" Adp Po
+"<,>"
+	"," CLB
+"<кӧдӧ>"
+	"кӧда" Pron Interr Sg Acc
+	"кӧда" Pron Rel Sg Acc
+"<адззӧмась>"
+	"адззыны" V Ind Prt2 Pl1
+	"адззыны" V Ind Prt2 Pl3
+"<неылын>"
+	"неылын" Adv Ine @<ADVL
+	"неылын" Adv Spat Ine @<ADVL
+"<Перем>"
+	"Перем" ?
+"<кар>"
+	"кар" Hom1 N Sem/Inanim Sg Nom
+	"кар" Hom1 N Sg Nom
+	"кар" Hom2 N Sem/Inanim Sg Nom
+	"кар" Hom2 N Sg Nom
+"<дынсянь>"
+	"дын" Hom1 N Sem/Inanim Sg Egr
+	"дын" Hom2 N Sem/Inanim Sg Egr
+	"дынсянь" Adp Po
+"<Гляден>"
+	"Гляден" ?
+"<нима>"
+	"ним" Hom1 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"ним" Hom2 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"ним" N Sg Der Der/ProprietiveMod A
+	"нима" A
+"<керӧс>"
+	"керӧс" N Sg Nom
+"<йылын>"
+	"йыв" N Sg Ine
+	"йылын" Adp Po Spat Sg Ine
+"<.>"
+	"." CLB
+
+"<Кама>"
+	"Кама" N Prop Sg Nom
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom
+	"ю" N Sg Nom
+"<весьтын>"
+	"весьт" Adp Po Spat Sg Ine
+	"весьт" N Sem/Inanim Sg Ine
+	"весьт" N Sg Ine
+	"весьтын" Adp Po Sg Ine
+	"весьтын" Adp Po Spat Sg Ine
+"<этія>"
+	"этія" ?
+"<90>"
+	"90" ?
+"<метра>"
+	"метр" N Sg Der Der/ProprietiveMod A
+"<вылына>"
+	"вылына" Hom1 N Sem/Inanim Sg Nom
+"<керӧсыс>"
+	"керӧс" N Sg Nom PxSg3 @SUBJ>
+"<не>"
+	"не" CC
+"<ӧтік>"
+	"ӧтік" Card Cmpl
+	"ӧтік" Num Card Cmpl @>N
+"<сюрс>"
+	"сюрс" Card Cmpl
+"<во>"
+	"во" N Sem/Inanim Sg Nom @SUBJ>
+	"во" N Sg Nom @SUBJ>
+	"войны" V Imprt Sg2
+	"воны" Hom1 V Imprt Sg2
+	"воны" Hom2 V Imprt Sg2
+	"лоны" V Err/Orth Imprt Sg2
+"<вӧлӧма>"
+	"вӧвны" V Err/Orth Ind Prt2 Sg3
+	"вӧвны" V Ind Prt2 Sg3
+"<Кама>"
+	"Кама" N Prop Sg Nom @<SUBJ
+"<ладорас>"
+	"ладор" N Sg Ill PxSg3 @<ADVL
+	"ладор" N Sg Ine PxSg3
+"<медыджыт>"
+	"медыджыт" ?
+"<.>"
+	"." CLB
+
+"<Сысянь>"
+	"сія" Pron Pers Sg3 Egr
+"<сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<лоас>"
+	"лойны" V Ind Fut Sg3
+	"лоны" V Ind Fut Sg3
+"<дзебсянінӧн>"
+	"дзебсянін" N Sg Ins
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<казьтісянінӧн>"
+	"казьтісянінӧн" ?
+"<.>"
+	"." CLB
+
+"<Сэтӧн>"
+	"сэтӧн" Adv @ADVL>
+"<казьтывлӧмась>"
+	"казьтывлыны" V Ind Prt2 Pl1
+	"казьтывлыны" V Ind Prt2 Pl3
+"<важ>"
+	"важ" A
+"<кулӧм>"
+	"кулӧм" Hom1 N Sem/Inanim Sg Nom
+	"кулӧм" Hom2 N Sem/Inanim Sg Nom
+	"кулӧм" N Sg Nom
+"<отирсӧ>"
+	"отир" N Sg Acc PxSg3
+"<;>"
+	";" CLB
+"<шуӧны>"
+	"шуны" V Ind Prs Pl3
+"<,>"
+	"," CLB
+"<быттьӧ>"
+	"быттьӧ" CS
+"<казьтісьӧм>"
+	"казьтісьӧм" ?
+"<понда>"
+	"понда" Adp
+	"понда" Adp Po
+	"пондыны" V Ind Prs Sg1
+"<вермӧмась>"
+	"вермыны" V Ind Prt2 Pl1
+	"вермыны" V Ind Prt2 Pl3
+"<нельки>"
+	"нельки" Adv
+"<вийлыны>"
+	"вийлыны" V Inf
+"<морттэзӧс>"
+	"морт" N Pl Acc
+	"морт" N Pl Acc PxSg1
+"<.>"
+	"." CLB
+
+"<Сотасӧ>"
+	"сотны" V Ind Fut Pl3
+"<кулӧммесӧ>"
+	"кулӧм" Hom1 N Sem/Inanim Pl Acc PxSg3
+	"кулӧм" Hom2 N Sem/Inanim Pl Acc PxSg3
+	"кулӧм" N Pl Acc PxSg3
+"<да>"
+	"да" CC
+"<пӧимсӧ>"
+	"пӧим" N Sg Acc PxSg3
+"<кашниккезын>"
+	"кашник" N Pl Ine
+	"кашник" N Sem/Inanim Pl Ine
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<ваясӧ>"
+	"вайны" V Ind Fut Pl3
+"<казьтісянінас>"
+	"казьтісянінас" ?
+"<.>"
+	"." CLB
+
+"<Уна>"
+	"уна" Adv Cmpl @<ADVL
+"<годдэз>"
+	"год" N Pl Nom @SUBJ>
+"<сьӧрна>"
+	"сьӧрна" Adp Po
+"<сэтчин>"
+	"сэтчин" Adv @<ADVL
+"<пӧимыс>"
+	"пӧим" N Sg Nom PxSg3 @SUBJ>
+"<,>"
+	"," CLB
+"<горт->"
+	"горт" Hom1 N Cmp- Sg Nom @SUBJ>
+	"горт" Hom2 N Cmp- Sg Nom @SUBJ>
+	"горт" N Sem/Inanim Cmp- Sg Nom @SUBJ>
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<вӧрподаыслӧн>"
+	"вӧрподаыслӧн" ?
+"<лыэс>"
+	"лы" N Pl Nom PxSg3 @SUBJ>
+"<и>"
+	"и" CC
+"<жугдӧм>"
+	"жугдӧм" N Sem/Inanim Sg Nom @SUBJ>
+"<кашник>"
+	"кашник" N Sem/Inanim Sg Nom @SUBJ>
+	"кашник" N Sg Nom @SUBJ>
+"<торрес>"
+	"тор" N Pl Nom PxSg3 @SUBJ>
+"<ӧксьӧмась>"
+	"ӧксьыны" V Ind Prt2 Pl1
+	"ӧксьыны" V Ind Prt2 Pl3
+"<кык>"
+	"кык" Card Cmpl
+	"кык" Num Card Cmpl @>N
+"<метра>"
+	"метр" N Sg Der Der/ProprietiveMod A
+"<сувда>"
+	"сувда" Adp Po
+"<.>"
+	"." CLB
+
+"<Казьтісян>"
+	"Казьтісян" ?
+"<берсясӧ>"
+	"бер" N Sg Der Der/TempMod A Der Der/MWN N Sg Acc PxSg3
+	"берся" A Der Der/MWN N Sg Acc PxSg3
+"<адззисӧ>"
+	"адззыны" V Ind Prt1 Pl3
+"<19>"
+	"19" ?
+"<сюрс>"
+	"сюрс" Card Cmpl
+"<гӧгӧр>"
+	"гӧгӧр" Adp Po Sg Nom
+"<.>"
+	"." CLB
+
+"<Гляденса>"
+	"Гляденса" ?
+"<дырни>"
+	"дырни" Adp Po
+"<аркмӧма>"
+	"аркмыны" V Ind Prt2 Sg1
+	"аркмыны" V Ind Prt2 Sg3
+	"аркмӧм" A Prc Der Der/A Adv @<ADVL
+	"аркмӧм" N Sem/Inanim Sg Der Der/ProprietiveMod A
+"<тӧдчана>"
+	"тӧдчана" Adv @<ADVL
+"<перем>"
+	"перем" ?
+"<пода>"
+	"пода" N Sg Nom @<SUBJ
+"<стиль>"
+	"стиль" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Бронзаись>"
+	"бронза" N Sg Ela
+"<кисьтӧм>"
+	"кыны" V Der/ісь ActPrsPtc Sg Der Der/PrivMod A
+"<берсяыс>"
+	"бер" N Sg Der Der/TempMod A Der Der/MWN N Sg Nom PxSg3 @SUBJ>
+	"берся" A Der Der/MWN N Sg Nom PxSg3 @SUBJ>
+"<вылын>"
+	"вылын" Adv Spat Ine @<ADVL
+"<серпасалӧмась>"
+	"серпасавны" V Ind Prt2 Pl1
+	"серпасавны" V Ind Prt2 Pl3
+"<быдкодь>"
+	"быд" Pron Qnt Der Der/CompMod
+"<пода>"
+	"под" Hom1 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"под" Hom2 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"пода" N Sg Nom
+"<да>"
+	"да" CC
+"<отир>"
+	"отир" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Нія>"
+	"сія" Pron Pers Pl3 Nom @SUBJ>
+"<ӧтлаӧтӧмась>"
+	"ӧтлаӧтны" V Ind Prt2 Pl1
+	"ӧтлаӧтны" V Ind Prt2 Pl3
+"<аскодьӧма>"
+	"аскодьӧм" A Der Der/A Adv @<ADVL
+"<йитӧттэзӧн>"
+	"йитӧттэзӧн" ?
+"<да>"
+	"да" CC
+"<мыччалӧны>"
+	"мыччавны" V Ind Prs Pl3
+	"мыччыны" V Der/Al Ind Prs Pl3
+"<отирлісь>"
+	"отир" N Sg Abl
+"<гӧгӧр>"
+	"гӧгӧр" Adp Po Sg Nom @SUBJ>
+	"гӧгӧр" Adv @<ADVL
+	"гӧгӧр" Hom2 Adp Po
+"<олансӧ>"
+	"олан" Hom2 A Der Der/MWN N Sg Acc PxSg3
+"<вежӧртӧм>"
+	"вежӧртӧм" N Sem/Inanim Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<сылісь>"
+	"сія" Pron Pers Sg3 Abl
+"<аркмӧм>"
+	"аркмӧм" A Prc
+	"аркмӧм" N Sem/Inanim Sg Nom @SUBJ>
+"<да>"
+	"да" CC
+"<зоралӧм>"
+	"зоравны" V Ind Prt2 Sg3
+"<,>"
+	"," CLB
+"<мортлісь>"
+	"морт" N Sg Abl
+"<сія>"
+	"сія" Pron Pers Sg3 Nom
+"<оланын>"
+	"олан" N Sg Ine
+	"олан" N V Der/An Sg Ine
+"<вужьясьӧм>"
+	"вужьясьӧм" A Prc
+	"вужьясьӧм" N Sem/Inanim Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Татӧн>"
+	"татӧн" Adv @<ADVL
+"<бронзаись>"
+	"бронза" N Sg Ela @ADVL>
+"<керӧм>"
+	"керӧм" N Sem/Inanim Sg Nom @HNOUN
+	"керӧм" N Sg Nom @HNOUN
+"<берсяыс>"
+	"бер" N Sg Der Der/TempMod A Der Der/MWN N Sg Nom PxSg3 @<SPRED
+	"берся" A Der Der/MWN N Sg Nom PxSg3 @<SPRED
+"<лыддисьӧ>"
+	"лыддись" A Prc Der Der/MWN N Sg Ill @<ADVL
+"<ыджыт>"
+	"ыджыт" A
+"<донӧн>"
+	"дон" N Sg Ins
+	"донӧн" Adv @<ADVL
+"<омӧн>"
+	"омӧн" ?
+"<му>"
+	"му" N Sem/Inanim Sg Nom @HNOUN
+	"му" N Sg Nom @HNOUN
+"<югыт>"
+	"юг" Hom1 N Sem/Inanim Sg Nom PxSg2 @HNOUN
+	"юг" Hom2 N Sem/Inanim Sg Nom PxSg2 @HNOUN
+	"югыт" Hom2 N Sem/Inanim Sg Nom @HNOUN
+"<пасьта>"
+	"пасьта" A
+	"пасьта" Adp Po @N<
+	"пасьта" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Ломоватовсалӧн>"
+	"Ломоватовсалӧн" ?
+"<культура>"
+	"культура" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<IV>"
+	"IV" ?
+"<векӧ>"
+	"век" N Sg Ill @<ADVL
+	"век" N Sg Nom PxSg1 @SUBJ>
+"<пондӧтчӧ>"
+	"пондӧтчыны" V Ind Prs Sg3
+"<быдкодь>"
+	"быд" Pron Qnt Der Der/CompMod
+"<йӧзыслӧн>"
+	"йӧз" N Sg Gen PxSg3
+"<«>"
+	"«" PUNCT LEFT
+"<Ыджыт>"
+	"ыджыт" A
+"<ветлӧтлан>"
+	"ветлӧтлыны" V Ind Prs Sg2
+"<»>"
+	"»" PUNCT RIGHT
+"<(>"
+	"(" PUNCT LEFT
+"<«>"
+	"«" PUNCT LEFT
+"<Великӧй>"
+	"великӧй" A
+"<переселеннё>"
+	"переселеннё" ?
+"<»>"
+	"»" PUNCT RIGHT
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<кӧр>"
+	"кӧр" Adv @<ADVL
+	"кӧр" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"кӧр" Hom2 N Sem/Inanim Sg Nom @SUBJ>
+	"кӧр" Hom3 N Sem/Inanim Sg Nom @SUBJ>
+	"кӧр" N Sg Nom @SUBJ>
+	"кӧрны" V Imprt Sg2
+"<ӧтӧрӧ-мӧдӧрӧ>"
+	"ӧтӧрӧ-мӧдӧрӧ" Adv @<ADVL
+"<ветлӧтісь>"
+	"ветлӧтісь" A
+"<йӧзыс>"
+	"йӧз" N Sg Nom PxSg3 @SUBJ>
+"<тӧвчикӧн>"
+	"тӧвчик" N Sg Ins
+"<мунасӧ>"
+	"мунны" V Ind Fut Pl3
+"<асывывлісь>"
+	"асывывлісь" ?
+"<Евразия>"
+	"Евразия" N Prop Sg Nom @SUBJ>
+"<кушиннэзӧт>"
+	"кушин" N Pl Prl
+	"кушин" N Sem/Inanim Pl Prl
+"<рытвыв>"
+	"рытвыв" N Sg Nom @SUBJ>
+"<муэзӧ>"
+	"му" N Pl Ill @<ADVL
+	"му" N Pl Nom PxSg1 @SUBJ>
+	"му" N Sem/Inanim Pl Ill @<ADVL
+	"му" N Sem/Inanim Pl Nom PxSg1 @SUBJ>
+"<да>"
+	"да" CC
+"<нуӧтасӧ>"
+	"нуӧтны" V Ind Fut Pl3
+"<сьӧрас>"
+	"сьӧр" N Sg Ill PxSg3 @<ADVL
+	"сьӧр" N Sg Ine PxSg3
+	"сьӧрас" Adp Po
+	"сьӧрын" Adp Po Sg Ine PxSg3
+	"сьӧрӧ" Adp Po Sg Ill PxSg3
+"<уна>"
+	"уна" Adv Cmpl @<ADVL
+"<мӧдік>"
+	"мӧдік" Pron Indef Sg Nom @<SUBJ
+"<отир>"
+	"отир" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Кама>"
+	"Кама" N Prop Sg Nom
+"<ладорыс>"
+	"ладор" N Sg Nom PxSg3
+"<пыр>"
+	"пыр" Adv @-FADVL>
+"<,>"
+	"," CLB
+"<сваль>"
+	"сваль" ?
+"<вӧрыс>"
+	"вӧр" N Sem/Inanim Sg Nom PxSg3
+	"вӧр" N Sg Nom PxSg3
+"<да>"
+	"да" Adv @-FADVL>
+"<,>"
+	"," CLB
+"<ветлӧтісь>"
+	"ветлӧтны" V Der/ісь ActPrsPtc Sg Nom @SUBJ>
+"<йӧзыс>"
+	"йӧз" N Sg Nom PxSg3 @SUBJ>
+"<озӧ>"
+	"оз" V Neg Ind Prs Pl3
+"<мунӧ>"
+	"мунны" V Ind Prs Sg3
+"<.>"
+	"." CLB
+
+"<Но>"
+	"но" Pcle @PCLE
+"<лунвыв>"
+	"лунвыв" N Sg Nom @SUBJ>
+"<Урал>"
+	"Урал" N Prop Sg Nom @SUBJ>
+"<сайын>"
+	"сай" Adp Po Spat Sg Ine @-FADVL>
+	"сай" N Sg Ine @-FADVL>
+	"сайын" Adp Po Spat Sg Ine @-FADVL>
+"<сэтчин>"
+	"сэтчин" Adv @-FADVL>
+"<олісь>"
+	"олісь" A Prc
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<ветлӧтісь>"
+	"ветлӧтны" V Der/ісь ActPrsPtc Sg Nom @SUBJ>
+"<йӧзсӧ>"
+	"йӧз" N Sg Acc PxSg3 @OBJ>
+"<дзескӧтасӧ>"
+	"дзескӧтны" V Ind Fut Pl3
+"<ойвылӧ>"
+	"ойвылӧ" ?
+"<,>"
+	"," CLB
+"<сійӧн>"
+	"сія" Pron Pers Sg3 Der/йӧ Ins
+"<нылӧ>"
+	"ны" N Sg Dat
+	"ныв" N Sg Ill @-F<ADVL
+	"ныв" N Sg Nom PxSg1 @SUBJ>
+	"сія" Pron Pers Pl3 Dat
+"<ковсяс>"
+	"ковсьыны" V Ind Fut Sg3
+"<пуксьыны>"
+	"пуксьыны" V Inf
+"<овны>"
+	"овны" V Inf
+"<Кама>"
+	"Кама" N Prop Sg Nom @<SUBJ
+"<ю>"
+	"ю" N ABBR
+	"ю" N Sem/Inanim Sg Nom @<SUBJ
+	"ю" N Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+"<сыӧ>"
+	"сія" Pron Pers Sg3 Ill @-FADVL>
+"<усян>"
+	"усян" N V Der/An Sg Nom @<SUBJ
+"<юэз>"
+	"ю" N Pl Nom @<SUBJ
+	"ю" N Sem/Inanim Pl Nom @<SUBJ
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po @-F<ADVL
+	"пӧлӧн" Adp Po Sg Nom @<SUBJ
+	"пӧлӧн" Adv @-F<ADVL
+"<.>"
+	"." CLB
+
+"<Археологгес>"
+	"археолог" N Pl Nom PxSg3 @SUBJ>
+"<нійӧ>"
+	"сія" Pron Pers Pl3 Acc
+"<шуӧны>"
+	"шуны" V Ind Prs Pl3
+"<харинсаӧн>"
+	"харинсаӧн" ?
+"<,>"
+	"," CLB
+"<сідз>"
+	"сідз" Adv @<ADVL
+"<кыдз>"
+	"кыдз" Adv @<ADVL
+	"кыдз" Adv Manner Interr @<ADVL
+	"кыдз" Adv Manner Rel @<ADVL
+	"кыдз" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"кыдз" Hom2 Adv @<ADVL
+	"кыдз" N Sg Nom @SUBJ>
+"<адззӧмась>"
+	"адззыны" V Ind Prt2 Pl1
+	"адззыны" V Ind Prt2 Pl3
+"<нылісь>"
+	"сія" Pron Pers Pl3 Abl
+"<дзебсяніннэсӧ>"
+	"дзебсянін" N Pl Acc PxSg3
+"<Гайна>"
+	"Гайна" N Prop Sg Nom
+"<районісь>"
+	"район" N Sg Ela
+"<Харина>"
+	"Харин" N Prop Sem/Sur-Fem Sg Nom
+"<грезд>"
+	"грезд" N Sg Nom
+"<дын>"
+	"дын" Hom1 N Sem/Inanim Sg Nom
+	"дын" Hom2 N Sem/Inanim Sg Nom
+"<.>"
+	"." CLB
+
+"<Кыксё>"
+	"кыксё" Card Cmpl
+	"кыксё" Num Card Cmpl
+"<мымда>"
+	"мымда" Adv @<ADVL
+"<год>"
+	"год" N Sg Nom @SUBJ>
+"<бӧрті>"
+	"бӧр" Adp Po Spat Sg Tra
+	"бӧрті" Adp Po
+"<нія>"
+	"сія" Pron Pers Pl3 Nom @SUBJ>
+"<йӧзыс>"
+	"йӧз" N Sg Nom PxSg3 @APP-Pron<
+"<сорласясӧ>"
+	"сорласьны" V Ind Fut Pl3
+"<сэтӧн>"
+	"сэтӧн" Adv @<ADVL
+"<олісь>"
+	"олісь" A Prc
+"<отирыскӧт>"
+	"отир" N Sg Com PxSg3
+"<да>"
+	"да" Adv @<ADVL
+"<аркмӧтасӧ>"
+	"аркмӧтны" V Ind Fut Pl3
+"<виль>"
+	"виль" A
+"<культура>"
+	"культура" N Sg Nom @SUBJ>
+"<—>"
+	"—" PUNCT
+"<ломоватовса>"
+	"ломоватовса" ?
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<лунвылас>"
+	"лунвыв" N Sg Ill PxSg3 @<ADVL
+	"лунвыв" N Sg Ine PxSg3
+"<аркмас>"
+	"аркмыны" V Ind Fut Sg3
+"<культура>"
+	"культура" N Sg Nom @<SUBJ
+"<неволинсалӧн>"
+	"неволинсалӧн" ?
+"<.>"
+	"." CLB
+
+"<Быдсӧн>"
+	"быдсӧн" Adv @<ADVL
+	"быдсӧн" Pron
+	"быдсӧн" Pron Qnt Coll Sg Nom @SUBJ>
+"<нія>"
+	"сія" Pron Pers Pl3 Nom @SUBJ>
+"<культураэс>"
+	"культура" N Pl Nom PxSg3 @APP-Pron<
+"<вӧлӧмась>"
+	"вӧвны" V Err/Orth Ind Prt2 Pl1
+	"вӧвны" V Err/Orth Ind Prt2 Pl3
+	"вӧвны" V Ind Prt2 Pl1
+	"вӧвны" V Ind Prt2 Pl3
+"<V-IX>"
+	"V-IX" ?
+"<сугӧддэзӧ>"
+	"сугӧддэзӧ" ?
+"<.>"
+	"." CLB
+
+"<Сія>"
+	"сія" Pron Pers Sg3 Nom @HNOUN
+"<кадӧ>"
+	"кад" Hom1 N Sg Ill @<ADVL
+	"кад" Hom1 N Sg Nom PxSg1 @HNOUN
+	"кад" N Sem/Inanim Sg Ill @<ADVL
+	"кад" N Sem/Inanim Sg Nom PxSg1 @HNOUN
+"<(>"
+	"(" PUNCT LEFT
+"<VII>"
+	"VII" ?
+"<в>"
+	"в" ABBR
+	"в" N ABBR
+"<.>"
+	"." CLB
+
+"<)>"
+	")" PUNCT RIGHT
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<ӧння>"
+	"ӧння" A
+"<Кудымкар>"
+	"Кудымкар" ?
+"<му>"
+	"му" N Sem/Inanim Sg Nom @SUBJ>
+	"му" N Sg Nom @SUBJ>
+"<вылын>"
+	"выв" N Err/Orth Sem/Inanim Sg Ine
+	"выв" N Sg Ine
+	"вылын" Adv Spat Ine @<ADVL
+	"вылын" Hom2 Adp Po Spat Sg Ine
+"<аркмас>"
+	"аркмыны" V Ind Fut Sg3
+"<кар>"
+	"кар" Hom1 N Sem/Inanim Sg Nom @<SUBJ
+	"кар" Hom1 N Sg Nom @<SUBJ
+	"кар" Hom2 N Sem/Inanim Sg Nom @<SUBJ
+	"кар" Hom2 N Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<ордчӧн>"
+	"ордчӧн" Adv @<ADVL
+"<сыкӧт>"
+	"сія" Pron Pers Sg3 Com
+"<—>"
+	"—" PUNCT
+"<дзебсянін>"
+	"дзебсянін" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Быдӧссӧ>"
+	"Быдӧссӧ" ?
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<кытшас>"
+	"кытш" N Sg Ill PxSg3 @<ADVL
+	"кытш" N Sg Ine PxSg3
+"<адззӧмась>"
+	"адззыны" V Ind Prt2 Pl1
+	"адззыны" V Ind Prt2 Pl3
+"<ломоватовсаӧн>"
+	"ломоватовсаӧн" ?
+"<кольӧм>"
+	"кольӧм" N Sem/Inanim Sg Nom
+"<сёся>"
+	"сё" Card Der/MWN N Sg Cmpr
+"<унажык>"
+	"унажык" Adv @<ADVL
+"<казьмӧтан>"
+	"казьмӧтан" A Prc
+	"казьмӧтны" V Ind Prs Sg2
+"<.>"
+	"." CLB
+
+"<Тӧдчанажыкӧсь>"
+	"Тӧдчанажыкӧсь" ?
+"<ны>"
+	"сія" Pron Pers Pl3
+"<коласісь>"
+	"колас" N Sg Ela @ADVL>
+"<дзебсяніннэз>"
+	"дзебсянін" N Pl Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Ыджытжык>"
+	"ыджыт" A Comp
+"<донсӧ>"
+	"дон" N Sg Acc PxSg3
+"<видзӧны>"
+	"видзны" V Ind Prs Pl3
+"<Урья>"
+	"Урья" ?
+"<,>"
+	"," CLB
+"<Важгорт>"
+	"Важгорт" N Prop Sg Nom
+"<,>"
+	"," CLB
+"<Елева>"
+	"Елева" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Пешнигорт>"
+	"Пешнигорт" ?
+"<дорын>"
+	"дор" Adp Po Spat Sg Ine
+	"дор" N Sg Ine
+	"дорын" Adp Po Spat Sg Ine
+"<дзебсяніннэз>"
+	"дзебсянін" N Pl Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Кыдз>"
+	"кыдз" Adv @ADVL>
+	"кыдз" Adv Manner Interr @ADVL>
+	"кыдз" Adv Manner Rel @ADVL>
+	"кыдз" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"кыдз" Hom2 Adv @ADVL>
+	"кыдз" N Sg Nom @SUBJ>
+"<чайтӧны>"
+	"чайтны" V Ind Prs Pl3
+"<,>"
+	"," CLB
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<дзебан>"
+	"дзебан" N Sg Nom @SUBJ>
+"<гуэзас>"
+	"гу" N Pl Ill PxSg3 @<ADVL
+	"гу" N Pl Ine PxSg3
+"<тэчлӧмась>"
+	"тэчлыны" V Ind Prt2 Pl1
+	"тэчлыны" V Ind Prt2 Pl3
+"<сійӧ>"
+	"сія" Pron Pers Sg3 Acc
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<колас>"
+	"колас" N Sg Nom
+"<кулӧмыслӧ>"
+	"кулӧм" Hom1 N Sem/Inanim Sg Dat PxSg3
+	"кулӧм" Hom2 N Sem/Inanim Sg Dat PxSg3
+	"кулӧм" N Sg Dat PxSg3
+"<«>"
+	"«" PUNCT LEFT
+"<виль>"
+	"виль" A
+"<оланас>"
+	"олан" N Sg Ill PxSg3 @<ADVL
+	"олан" N Sg Ine PxSg3
+"<»>"
+	"»" PUNCT RIGHT
+"<:>"
+	":" CLB
+"<лыйсян>"
+	"лыйсьыны" V Ind Prs Sg2
+	"лыйсян" A Prc
+	"лыйсян" N V Der/An Sg Nom
+"<,>"
+	"," CLB
+"<уджалан>"
+	"уджавны" V Err/Orth Ind Prs Sg2
+	"уджавны" V Ind Prs Sg2
+	"уджалан" A
+"<да>"
+	"да" CC
+"<мӧдӧтчан>"
+	"мӧдӧтчан" N Sg Nom
+	"мӧдӧтчыны" V Ind Prs Sg2
+"<берсятор>"
+	"берсятор" ?
+"<,>"
+	"," CLB
+"<вӧв>"
+	"вӧв" N Sg Nom
+"<сийӧс-сермӧттэз>"
+	"сийӧс-сермӧт" N Pl Nom
+"<.>"
+	"." CLB
+
+"<Пантасьлӧны>"
+	"пантасьлыны" V Ind Prs Pl3
+"<куш>"
+	"куш" N Sg Nom @SUBJ>
+"<дзебаніннэз>"
+	"дзебанін" N Pl Nom @SUBJ>
+"<,>"
+	"," CLB
+"<пантасьлӧны>"
+	"пантасьлыны" V Ind Prs Pl3
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<бура>"
+	"бур" A Der Der/A Adv @<ADVL
+	"бур" N Sg Der Der/ProprietiveMod A
+	"бура" Adv @<ADVL
+	"бура" Hom1 Adv @<ADVL
+	"бура" Hom2 Adp Po
+	"бура" N Sg Nom @SUBJ>
+"<лӧсьӧтӧм>"
+	"лӧсьӧтӧм" A Prc
+"<дзебаніннэз>"
+	"дзебанін" N Pl Nom @<SUBJ
+"<—>"
+	"—" PUNCT
+"<эзісись>"
+	"эзісись" ?
+"<(>"
+	"(" PUNCT LEFT
+"<сереброись>"
+	"сереброись" ?
+"<)>"
+	")" PUNCT RIGHT
+"<керӧм>"
+	"керӧм" N Sem/Inanim Sg Nom @SUBJ>
+	"керӧм" N Sg Nom @SUBJ>
+"<сьӧм>"
+	"сьӧм" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"сьӧм" Hom2 N Sem/Inanim Sg Nom @SUBJ>
+	"сьӧм" N Sg Nom @SUBJ>
+"<(>"
+	"(" PUNCT LEFT
+"<монетаэз>"
+	"монетаэз" ?
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<мӧдӧтчан>"
+	"мӧдӧтчан" N Sg Nom @SUBJ>
+"<берся>"
+	"бер" N Sg Cmpr
+	"бер" N Sg Der Der/TempMod A
+	"берся" A
+"<(>"
+	"(" PUNCT LEFT
+"<пристежжез>"
+	"пристеж" N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<пелькытшшез>"
+	"пелькытш" N Pl Nom @APP-N<
+"<,>"
+	"," CLB
+"<ӧктӧм-кыйӧм>"
+	"ӧктӧм-#кыйны" V Ind Prt2 Sg3
+"<кушаккез>"
+	"кушак" N Pl Nom
+"<да>"
+	"да" CC
+"<дона>"
+	"дон" N Sg Der Der/ProprietiveMod A
+	"дона" A
+"<лыйсяннэз>"
+	"лыйсян" N V Der/An Pl Nom
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<Быдӧс>"
+	"быд" Hom1 N Sem/Inanim Sg Acc
+	"быд" Hom1 N Sem/Inanim Sg Acc PxSg1
+	"быд" N Sg Acc
+	"быд" N Sg Acc PxSg1
+"<сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<мыччалӧ>"
+	"мыччавны" V Ind Prs Sg3
+	"мыччыны" V Der/Al Ind Prs Sg3
+"<—>"
+	"—" PUNCT
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @<SUBJ
+"<сэк>"
+	"сэк" Adv @<ADVL
+"<ни>"
+	"ни" Adv @<ADVL
+	"ни" CC
+	"ни" Pcle @PCLE
+"<олӧмась>"
+	"овны" V Ind Prt2 Pl1
+	"овны" V Ind Prt2 Pl3
+"<абу>"
+	"абу" V Neg Cop Ind Sg
+"<ӧтнёж>"
+	"ӧтнёж" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Эрмитажын>"
+	"Эрмитажын" ?
+"<ӧктӧмӧсь>"
+	"ӧктыны" V Ind Prt2 Pl1
+	"ӧктыны" V Ind Prt2 Pl3
+	"ӧктӧм" A Prc Cop Pl
+"<быдкодь>"
+	"быд" Pron Qnt Der Der/CompMod
+	"быдкодь" A
+"<эзысёвӧй>"
+	"эзысёвӧй" A
+"<берсяыс>"
+	"бер" N Sg Der Der/TempMod A Der Der/MWN N Sg Nom PxSg3
+	"берся" A Der Der/MWN N Sg Nom PxSg3
+"<.>"
+	"." CLB
+
+"<Сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<аскодь>"
+	"аскодь" A
+"<басӧк>"
+	"басӧк" A
+"<дозмукыс>"
+	"дозмук" N Sem/Inanim Sg Nom PxSg3 @SUBJ>
+	"дозмук" N Sg Nom PxSg3 @SUBJ>
+"<керӧма>"
+	"керӧм" A Prc Der Der/A Adv @<ADVL
+"<Иранын>"
+	"Иранын" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Византияын>"
+	"Византия" N Prop Sg Ine
+"<,>"
+	"," CLB
+"<унажыкыс>"
+	"унажыкыс" ?
+"<ны>"
+	"сія" Pron Pers Pl3
+"<коласісь>"
+	"колас" N Sg Ela
+"<адззӧмӧсь>"
+	"адззыны" V Ind Prt2 Pl1
+	"адззыны" V Ind Prt2 Pl3
+	"адззӧм" A Prc Cop Pl
+"<ойвыв>"
+	"ойвыв" ?
+"<Кама>"
+	"Кама" N Prop Sg Nom
+"<ладорын>"
+	"ладор" N Sg Ine
+"<.>"
+	"." CLB
+
+"<Асыввыв>"
+	"асыввыв" N Sg Nom @SUBJ>
+"<муэзын>"
+	"му" N Pl Ine
+	"му" N Sem/Inanim Pl Ine
+"<шӧрӧт>"
+	"шӧр морт" N Sg Prl
+	"шӧр" N Sg Prl
+	"шӧрӧт" Adp Po
+"<веккезӧ>"
+	"век" N Pl Ill @<ADVL
+	"век" N Pl Nom PxSg1
+"<история>"
+	"история" N Sg Nom @SUBJ>
+"<вӧлӧма>"
+	"вӧвны" V Err/Orth Ind Prt2 Sg3
+	"вӧвны" V Ind Prt2 Sg3
+"<сэтчӧдз>"
+	"сэтчӧдз" Adv @<ADVL
+"<сорласьӧм-пансьӧм>"
+	"сорласьӧм-#пансьыны" V Ind Prt2 Sg3
+"<,>"
+	"," CLB
+"<нельки>"
+	"нельки" Adv @<ADVL
+"<эзісёвӧй>"
+	"эзісёвӧй" ?
+"<берсяыс>"
+	"бер" N Sg Der Der/TempMod A Der Der/MWN N Sg Nom PxSg3 @SUBJ>
+	"берся" A Der Der/MWN N Sg Nom PxSg3 @SUBJ>
+"<сэтчин>"
+	"сэтчин" Adv @<ADVL
+"<оз>"
+	"оз" V Neg Ind Prs Sg3
+"<кольччы>"
+	"кольччыны" V ConNeg
+"<.>"
+	"." CLB
+
+"<Кама>"
+	"Кама" N Prop Sg Nom @SUBJ>
+"<ладорас>"
+	"ладор" N Sg Ill PxSg3 @<ADVL
+	"ладор" N Sg Ine PxSg3
+"<сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<шедас>"
+	"шедас" N Sg Nom @APP-Pron<
+	"шедны" V Ind Fut Sg3
+"<вузасьӧм-босьтасьӧм>"
+	"вузасьӧм-#босьтасьны" V Ind Prt2 Sg3
+"<пыр>"
+	"пыр" Adv @<ADVL
+"<да>"
+	"да" CC
+"<веккез>"
+	"век" N Pl Nom
+"<сьӧрна>"
+	"сьӧрна" Adp Po
+"<ӧксяс>"
+	"ӧксьыны" V Ind Fut Sg3
+"<уна>"
+	"уна" Adv Cmpl @<ADVL
+"<.>"
+	"." CLB
+
+"<Сійӧ>"
+	"сія" Pron Pers Sg3 Acc
+"<видзӧмась>"
+	"видзны" V Ind Prt2 Pl1
+	"видзны" V Ind Prt2 Pl3
+"<дзир>"
+	"дзир" N Sem/Inanim Sg Nom @SUBJ>
+	"дзир" N Sg Nom @SUBJ>
+"<казьтісян>"
+	"казьтісян" ?
+"<коста>"
+	"кост" N Sg Der Der/ProprietiveMod A
+	"коста" A
+	"коста" Adp Po
+"<,>"
+	"," CLB
+"<абу>"
+	"абу" N Sg Nom @SUBJ>
+"<сёян>"
+	"сёян" N Sem/Inanim Sg Nom @SUBJ>
+	"сёян" N Sg Nom @SUBJ>
+"<доз>"
+	"доз" N Sem/Inanim Sg Nom @SUBJ>
+	"доз" N Sg Nom @SUBJ>
+"<туйӧ>"
+	"туй морт" N Sg Ill @<ADVL
+	"туй морт" N Sg Nom PxSg1
+	"туй" N Sg Ill @<ADVL
+	"туй" N Sg Nom PxSg1
+	"туйны" V Ind Prs Sg3
+	"туйӧ" Adp Po Sg Ill
+	"туйӧ" Adp Po Spat Sg Ill
+"<.>"
+	"." CLB
+
+"<Эд>"
+	"оз" V Neg Ind Prt1 Pl2
+	"эд" Pcle @PCLE
+"<быдӧс>"
+	"быд" Hom1 N Sem/Inanim Sg Acc
+	"быд" Hom1 N Sem/Inanim Sg Acc PxSg1
+	"быд" N Sg Acc
+	"быд" N Sg Acc PxSg1
+"<,>"
+	"," CLB
+"<мый>"
+	"мый" CS
+"<адззӧмсь>"
+	"адззӧмсь" ?
+"<,>"
+	"," CLB
+"<абу>"
+	"абу" Adv CC Neg @<ADVL
+	"абу" V Neg Cop Ind Sg
+"<шедӧма>"
+	"шедны" V Der/ӧм Event Sg Der Der/ProprietiveMod A
+"<оланіннэзісь>"
+	"оланін" N Pl Ela
+	"оланін" N Sem/Inanim Pl Ela
+"<нето>"
+	"нето" ?
+"<дзебсяніннэзісь>"
+	"дзебсянін" N Pl Ela
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<кладдэзісь>"
+	"клад" N Pl Ela
+"<.>"
+	"." CLB
+
+"<Сэтшӧм>"
+	"сэтшӧм" Adn Dem
+"<эзысёвӧй>"
+	"эзысёвӧй" A
+"<дозмука>"
+	"дозмук" N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"дозмук" N Sg Der Der/ProprietiveMod A
+"<кладдэсӧ>"
+	"клад" N Pl Acc PxSg3
+"<Кама>"
+	"Кама" N Prop Sg Nom @SUBJ>
+"<мусис>"
+	"му" N Sem/Inanim Sg Ela PxSg3
+	"му" N Sg Ela PxSg3
+"<адззалӧмась>"
+	"адззавны" V Err/Orth Ind Prt2 Pl1
+	"адззавны" V Err/Orth Ind Prt2 Pl3
+	"адззавны" V Ind Prt2 Pl1
+	"адззавны" V Ind Prt2 Pl3
+	"адззыны" V Der/Al Ind Prt2 Pl1
+	"адззыны" V Der/Al Ind Prt2 Pl3
+"<уна>"
+	"уна" Adv Cmpl @<ADVL
+"<дас>"
+	"дас" Card Cmpl
+	"дас" Num Card Cmpl
+"<,>"
+	"," CLB
+"<нія>"
+	"сія" Pron Pers Pl3 Nom @SUBJ>
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<аркмӧтӧмась>"
+	"аркмӧтны" V Ind Prt2 Pl1
+	"аркмӧтны" V Ind Prt2 Pl3
+"<Эрмитажас>"
+	"Эрмитажас" ?
+"<медыджыт>"
+	"медыджыт" ?
+"<ӧктӧмсӧ>"
+	"ӧктӧм" N Sem/Inanim Sg Acc PxSg3
+"<.>"
+	"." CLB
+
+"<Родановсалӧн>"
+	"Родановсалӧн" ?
+"<культура>"
+	"культура" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<IX-X>"
+	"IX-X" ?
+"<веккезӧ>"
+	"век" N Pl Ill @<ADVL
+	"век" N Pl Nom PxSg1
+"<Кама>"
+	"Кама" N Prop Sg Nom @SUBJ>
+"<ладорас>"
+	"ладор" N Sg Ill PxSg3 @<ADVL
+	"ладор" N Sg Ine PxSg3
+"<ломоватовса>"
+	"ломоватовса" ?
+"<культура>"
+	"культура" N Sg Nom @SUBJ>
+"<туйӧ>"
+	"туй морт" N Sg Ill @<ADVL
+	"туй морт" N Sg Nom PxSg1 @SUBJ>
+	"туй" N Sg Ill @<ADVL
+	"туй" N Sg Nom PxSg1 @SUBJ>
+	"туйны" V Ind Prs Sg3
+	"туйӧ" Adp Po Sg Ill
+	"туйӧ" Adp Po Spat Sg Ill
+"<аркмӧ>"
+	"аркмыны" V Ind Prs Sg3
+"<родановсалӧн>"
+	"родановсалӧн" ?
+"<культура>"
+	"культура" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Перем>"
+	"Перем" ?
+"<комиэз>"
+	"коми" N Pl Nom @SUBJ>
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<лоасӧ>"
+	"лойны" V Ind Fut Pl3
+	"лоны" V Ind Fut Pl3
+"<родановса>"
+	"родановса" ?
+"<увтырись>"
+	"увтыр" N Sg Ela
+"<.>"
+	"." CLB
+
+"<Сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<кадӧ>"
+	"кад" Hom1 N Sg Nom PxSg1 @SUBJ>
+	"кад" N Sem/Inanim Sg Nom PxSg1 @SUBJ>
+"<тыла>"
+	"тыла" N Sg Nom @SUBJ>
+"<керӧмсянь>"
+	"керӧм" N Sem/Inanim Sg Egr
+	"керӧм" N Sg Egr
+"<вуджӧмась>"
+	"вуджны" V Ind Prt2 Pl1
+	"вуджны" V Ind Prt2 Pl3
+"<муэз>"
+	"му" N Pl Nom @<SUBJ
+	"му" N Sem/Inanim Pl Nom @<SUBJ
+"<гӧрӧмӧ>"
+	"гӧрӧм" N Sem/Inanim Sg Ill @<ADVL
+	"гӧрӧм" N Sem/Inanim Sg Nom PxSg1
+"<.>"
+	"." CLB
+
+"<Отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<быдтӧмась>"
+	"быдтыны" V Ind Prt2 Pl1
+	"быдтыны" V Ind Prt2 Pl3
+"<ид>"
+	"ид" A
+	"ид" N Sg Nom
+"<,>"
+	"," CLB
+"<шогді>"
+	"шогді" N Sg Nom
+"<,>"
+	"," CLB
+"<рудзӧг>"
+	"рудзӧг" N Sem/Inanim Sg Nom
+	"рудзӧг" N Sg Nom
+"<,>"
+	"," CLB
+"<анькытш>"
+	"анькытш" N Sem/Inanim Sg Nom
+	"анькытш" N Sg Nom
+"<,>"
+	"," CLB
+"<лён>"
+	"лён" N Sem/Inanim Sg Nom
+"<да>"
+	"да" CC
+"<пыш>"
+	"пыш" Hom1 N Sem/Inanim Sg Nom
+	"пыш" Hom2 Adv @<ADVL
+	"пыш" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Родановсалӧн>"
+	"Родановсалӧн" ?
+"<вӧлӧма>"
+	"вӧвны" V Err/Orth Ind Prt2 Sg1
+	"вӧвны" V Err/Orth Ind Prt2 Sg3
+	"вӧвны" V Ind Prt2 Sg1
+	"вӧвны" V Ind Prt2 Sg3
+"<ни>"
+	"ни" CC
+"<горт>"
+	"горт" Hom1 N Sg Nom @<SUBJ
+	"горт" Hom2 N Sg Nom @<SUBJ
+	"горт" N Sem/Inanim Sg Nom @<SUBJ
+"<пода>"
+	"под" Hom1 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"под" Hom2 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"пода" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Унажыксӧ>"
+	"Унажыксӧ" ?
+"<видзӧмась>"
+	"видзны" V Ind Prt2 Pl1
+	"видзны" V Ind Prt2 Pl3
+"<мӧссэзӧс>"
+	"мӧс" N Pl Acc
+	"мӧс" N Pl Acc PxSg1
+"<да>"
+	"да" CC
+"<вӧввезӧс>"
+	"вӧв" N Pl Acc
+	"вӧв" N Pl Acc PxSg1
+"<,>"
+	"," CLB
+"<етшажык>"
+	"етш" Hom1 N Sg Der Der/ProprietiveMod A Comp
+	"етша" Adv Der/жык Comp @<ADVL
+"<—>"
+	"—" PUNCT
+"<порссезӧс>"
+	"порсь" N Pl Acc
+	"порсь" N Pl Acc PxSg1
+	"порсь" N Sem/Inanim Pl Acc
+	"порсь" N Sem/Inanim Pl Acc PxSg1
+"<,>"
+	"," CLB
+"<баляззӧс>"
+	"баляззӧс" ?
+"<да>"
+	"да" CC
+"<кӧзаэзӧс>"
+	"кӧза" N Pl Acc
+	"кӧза" N Pl Acc PxSg1
+"<.>"
+	"." CLB
+
+"<Керкуэс>"
+	"керку" N Pl Nom PxSg3 @SUBJ>
+	"керку" N Sem/Inanim Pl Nom PxSg3 @SUBJ>
+"<гӧгӧр>"
+	"гӧгӧр" Adv @ADVL>
+"<археологгез>"
+	"археолог" N Pl Nom @SUBJ>
+"<адззалӧмась>"
+	"адззавны" V Err/Orth Ind Prt2 Pl1
+	"адззавны" V Err/Orth Ind Prt2 Pl3
+	"адззавны" V Ind Prt2 Pl1
+	"адззавны" V Ind Prt2 Pl3
+	"адззыны" V Der/Al Ind Prt2 Pl1
+	"адззыны" V Der/Al Ind Prt2 Pl3
+"<пода>"
+	"под" Hom1 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"под" Hom2 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"пода" N Sg Nom
+"<видзан>"
+	"видзан" A Prc
+"<гиддэзлісь>"
+	"гид" N Pl Abl
+	"гид" N Sem/Inanim Pl Abl
+"<да>"
+	"да" CC
+"<пода>"
+	"под" Hom1 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"под" Hom2 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"пода" N Sg Nom
+"<йӧртаннэзлісь>"
+	"йӧртаннэзлісь" ?
+"<кольччӧм>"
+	"кольччӧм" N Sem/Inanim Sg Nom
+"<торрез>"
+	"тор" N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<кӧдна>"
+	"кӧда" Pron Rel Pl Nom @<SUBJ
+	"кӧдна" Det
+"<йитсьӧны>"
+	"йитсьӧны" ?
+"<керкуыскӧт>"
+	"керку" N Sem/Inanim Sg Com PxSg3
+	"керку" N Sg Com PxSg3
+"<.>"
+	"." CLB
+
+"<Одззамоз>"
+	"Одззамоз" ?
+"<медколанаӧн>"
+	"медколанаӧн" ?
+"<вӧлӧма>"
+	"вӧвны" V Err/Orth Ind Prt2 Sg1
+	"вӧвны" V Err/Orth Ind Prt2 Sg3
+	"вӧвны" V Ind Prt2 Sg1
+	"вӧвны" V Ind Prt2 Sg3
+"<вӧралӧм>"
+	"вӧралӧм" N Sem/Inanim Sg Nom @<SUBJ
+	"вӧралӧм" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Вӧралӧмась>"
+	"вӧравны" V Err/Orth Ind Prt2 Pl1
+	"вӧравны" V Err/Orth Ind Prt2 Pl3
+	"вӧравны" V Ind Prt2 Pl1
+	"вӧравны" V Ind Prt2 Pl3
+	"вӧрны" V Der/Al Ind Prt2 Pl1
+	"вӧрны" V Der/Al Ind Prt2 Pl3
+"<яй>"
+	"яй" N Sem/Inanim Sg Nom
+	"яй" N Sg Nom
+"<да>"
+	"да" CC
+"<гӧна>"
+	"гӧн" N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"гӧн" N Sg Der Der/ProprietiveMod A
+	"гӧна" A
+"<кучик>"
+	"кучик" N Sg Nom
+"<(>"
+	"(" PUNCT LEFT
+"<ку>"
+	"ку" N Sg Nom
+"<)>"
+	")" PUNCT RIGHT
+"<заптӧм>"
+	"заптӧм" N Sem/Inanim Sg Nom
+"<понда>"
+	"понда" Adp
+	"понда" Adp Po
+	"пондыны" V Ind Prs Sg1
+"<.>"
+	"." CLB
+
+"<Кучиксӧ>"
+	"Кучик" N Prop Sg Acc PxSg3
+	"кучик" N Sg Acc PxSg3
+"<вежлывлӧмась>"
+	"вежлыны" V Der/лывлы Ind Prt2 Pl1
+	"вежлыны" V Der/лывлы Ind Prt2 Pl3
+	"вежны" V Der/лы Der/лывлы Ind Prt2 Pl1
+	"вежны" V Der/лы Der/лывлы Ind Prt2 Pl3
+	"вежны" V Der/лывлы Ind Prt2 Pl1
+	"вежны" V Der/лывлы Ind Prt2 Pl3
+"<вузасян-босьтасян>"
+	"вузасян-#босьтасьны" V Ind Prs Sg2
+"<коста>"
+	"кост" N Sg Der Der/ProprietiveMod A
+	"коста" A
+	"коста" Adp Po
+"<.>"
+	"." CLB
+
+"<Кыйлӧмась>"
+	"кыйлыны" Hom1 V Ind Prt2 Pl1
+	"кыйлыны" Hom1 V Ind Prt2 Pl3
+	"кыйлыны" Hom2 V Ind Prt2 Pl1
+	"кыйлыны" Hom2 V Ind Prt2 Pl3
+"<чери>"
+	"чери" N Sem/Inanim Sg Nom @SUBJ>
+	"чери" N Sg Nom @SUBJ>
+"<да>"
+	"да" CC
+"<ӧктылӧмась>"
+	"ӧктыны" V Der/л Ind Prt2 Pl1
+	"ӧктыны" V Der/л Ind Prt2 Pl3
+"<вӧр>"
+	"вӧр" N Sem/Inanim Sg Nom
+	"вӧр" N Sg Nom
+"<ма>"
+	"ма" N Sem/Inanim Sg Nom
+	"ма" N Sg Nom
+"<.>"
+	"." CLB
+
+"<XII>"
+	"XII" ?
+"<сугӧдсянь>"
+	"сугӧдсянь" ?
+"<паськыта>"
+	"паськыт" A Der Der/A Adv
+"<пондасӧ>"
+	"пондыны" V Ind Fut Pl3
+"<гӧрны>"
+	"гӧрны" V Inf
+"<муэз>"
+	"му" N Pl Nom
+	"му" N Sem/Inanim Pl Nom
+"<.>"
+	"." CLB
+
+"<Вӧв>"
+	"вӧв" N Sg Nom @SUBJ>
+	"вӧвны" V Imprt Sg2
+"<лоас>"
+	"лойны" V Ind Fut Sg3
+	"лоны" V Ind Fut Sg3
+"<сьӧкытсӧ>"
+	"сьӧкыт" A Der Der/MWN N Sg Acc PxSg3 @OBJ>
+"<кыскалан>"
+	"кыскалан" N V Der/An Sg Nom @<SUBJ
+"<гортся>"
+	"горт" Hom1 N Sg Cmpr
+	"горт" Hom1 N Sg Der Der/TempMod A
+	"горт" Hom2 N Sg Cmpr
+	"горт" N Sem/Inanim Sg Cmpr
+	"горт" N Sem/Inanim Sg Der Der/TempMod A
+	"гортся" A
+"<подаӧн>"
+	"пода" N Sg Ins
+"<.>"
+	"." CLB
+
+"<Сэксянь>"
+	"сэксянь" Adv
+"<ыджыт>"
+	"ыджыт" A
+"<увтырись>"
+	"увтыр" N Sg Ela
+"<пондасӧ>"
+	"пондыны" V Ind Fut Pl3
+"<торйӧтчыны>"
+	"торйӧтчыны" V Inf
+"<учӧт>"
+	"учӧт" ?
+"<гортся>"
+	"горт" Hom1 N Sg Cmpr
+	"горт" Hom1 N Sg Der Der/TempMod A
+	"горт" Hom2 N Sg Cmpr
+	"горт" N Sem/Inanim Sg Cmpr
+	"горт" N Sem/Inanim Sg Der Der/TempMod A
+	"гортся" A
+"<увтыррез>"
+	"увтыр" N Pl Nom
+"<.>"
+	"." CLB
+
+"<Нія>"
+	"сія" Pron Pers Pl3 Nom @SUBJ>
+"<торйӧн>"
+	"тор" N Sem/Inanim Sg Ins
+	"тор" N Sg Ins
+	"торйӧн" Adv
+"<ни>"
+	"ни" Adv
+	"ни" CC
+	"ни" Pcle @PCLE
+"<вермасӧ>"
+	"вермыны" V Ind Fut Pl3
+"<гӧрны>"
+	"гӧрны" V Inf
+"<му>"
+	"му" N Sem/Inanim Sg Nom
+	"му" N Sg Nom
+"<да>"
+	"да" CC
+"<видзны>"
+	"видзны" V Inf
+"<пода>"
+	"под" Hom1 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"под" Hom2 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"пода" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Оланіннэзын>"
+	"оланін" N Pl Ine
+	"оланін" N Sem/Inanim Pl Ine
+"<адззалӧмась>"
+	"адззавны" V Err/Orth Ind Prt2 Pl1
+	"адззавны" V Err/Orth Ind Prt2 Pl3
+	"адззавны" V Ind Prt2 Pl1
+	"адззавны" V Ind Prt2 Pl3
+	"адззыны" V Der/Al Ind Prt2 Pl1
+	"адззыны" V Der/Al Ind Prt2 Pl3
+"<сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<кадся>"
+	"кад" Hom1 N Sg Cmpr
+	"кад" Hom1 N Sg Der Der/TempMod A
+	"кад" Hom2 N Sg Cmpr
+	"кад" N Sem/Inanim Sg Cmpr
+	"кад" N Sem/Inanim Sg Der Der/TempMod A
+"<уна>"
+	"уна" Adv Cmpl @ADVL>
+"<сьӧм>"
+	"сьӧм" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"сьӧм" Hom2 N Sem/Inanim Sg Nom @SUBJ>
+	"сьӧм" N Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<ӧшлісян>"
+	"ӧшлісян" ?
+"<гириэз>"
+	"гириэз" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<уна>"
+	"уна" Adv Cmpl @ADVL>
+"<мый>"
+	"мый" CS
+	"мый" Pron Sem/NonHum Nom Interr
+	"мый" Pron Sem/NonHum Nom Rel
+"<мӧдік>"
+	"мӧдік" Pron Indef Sg Nom @SUBJ>
+"<берсятор>"
+	"берсятор" ?
+"<,>"
+	"," CLB
+"<кӧда>"
+	"кӧда" Adv @-FADVL>
+	"кӧда" Pron Interr Sg Nom @SUBJ>
+	"кӧда" Pron Rel Sg Nom @SUBJ>
+"<керӧма>"
+	"керны" V Ind Prt2 Sg1
+	"керны" V Ind Prt2 Sg3
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<Волга>"
+	"Волга" ?
+"<дорись>"
+	"дорны" V Der/ісь ActPrsPtc Sg Nom @<SUBJ
+"<Булгара>"
+	"Булгар" N Prop Sg Der Der/ProprietiveMod A
+	"булгара" N Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Русь>"
+	"Русь" ?
+"<муэзын>"
+	"му" N Pl Ine @<ADVL
+	"му" N Sem/Inanim Pl Ine @<ADVL
+"<.>"
+	"." CLB
+
+"<Ыджыта>"
+	"ыджыт" A Der Der/A Adv
+	"ыджыта" Adv
+"<да>"
+	"да" CC
+"<паськыта>"
+	"паськыт" A Der Der/A Adv
+"<Кама>"
+	"кам" N Sg Der Der/ProprietiveMod A
+"<ладорись>"
+	"ладор" N Sg Ela
+"<отир>"
+	"отир" N Sg Nom @SUBJ>
+"<пондӧмась>"
+	"пондыны" V Ind Prt2 Pl1
+	"пондыны" V Ind Prt2 Pl3
+"<вузасьны>"
+	"вузасьны" V Inf
+"<Волга>"
+	"Волга" ?
+"<булгаракӧт>"
+	"булгара" N Sg Com
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Русь>"
+	"Русь" ?
+"<муэзісь>"
+	"му" N Pl Ela
+	"му" N Sem/Inanim Pl Ela
+"<отиркӧт>"
+	"отир" N Sg Com
+"<.>"
+	"." CLB
+
+"<Археологияись>"
+	"археология" N Sg Ela
+"<казьмӧтаннэз>"
+	"казьмӧтан" A Prc Der Der/MWN N Pl Nom
+"<сьӧрті>"
+	"сьӧрті" Adp Po
+"<чукӧражык>"
+	"чукӧр" N Sg Der Der/ProprietiveMod A Comp
+	"чукӧра" A Comp
+"<отир>"
+	"отир" N Sg Nom @SUBJ>
+"<вӧлӧма>"
+	"вӧвны" V Err/Orth Ind Prt2 Sg3
+	"вӧвны" V Ind Prt2 Sg3
+"<Иньва>"
+	"Иньва" ?
+"<ладорын>"
+	"ладор" N Sg Ine
+"<.>"
+	"." CLB
+
+"<Татісь>"
+	"татісь" A
+"<лыддьӧны>"
+	"лыддьыны" V Ind Prs Pl3
+"<кыкьямыс>"
+	"кыкьямыс" Num Card Cmpl @>N
+"<увтыр>"
+	"увтыр" N Sg Nom
+"<,>"
+	"," CLB
+"<кӧдна>"
+	"кӧда" Pron Rel Pl Nom @SUBJ>
+	"кӧдна" Det
+"<олӧмась>"
+	"овны" V Ind Prt2 Pl1
+	"овны" V Ind Prt2 Pl3
+"<Иньва>"
+	"Иньва" ?
+"<,>"
+	"," CLB
+"<Кува>"
+	"кув" N Sg Der Der/ProprietiveMod A
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Велва>"
+	"Велва" ?
+"<юэз>"
+	"ю" N Pl Nom @<SUBJ
+	"ю" N Sem/Inanim Pl Nom @<SUBJ
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po
+	"пӧлӧн" Adp Po Sg Nom
+	"пӧлӧн" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Невна>"
+	"невна" Adv @<ADVL
+"<етшажык>"
+	"етш" Hom1 N Sg Der Der/ProprietiveMod A Comp
+	"етша" Adv Der/жык Comp @<ADVL
+"<олӧмась>"
+	"овны" V Ind Prt2 Pl1
+	"овны" V Ind Prt2 Pl3
+"<отир>"
+	"отир" N Sg Nom
+"<Обва>"
+	"Обва" ?
+"<дорын>"
+	"дор" Adp Po Spat Sg Ine
+	"дор" N Sg Ine
+	"дорын" Adp Po Spat Sg Ine
+"<.>"
+	"." CLB
+
+"<Нылісь>"
+	"ны" N Sg Abl
+	"ныв" N Sg Ela
+	"сія" Pron Pers Pl3 Abl
+"<ыджытжык>"
+	"ыджыт" A Comp
+"<казьмӧтаннэсӧ>"
+	"казьмӧтаннэсӧ" ?
+"<адззисӧ>"
+	"адззыны" V Ind Prt1 Pl3
+"<Назар>"
+	"Назар" N Prop Sem/Ant-Mal Sg Nom @SUBJ>
+	"Назар" N Prop Sg Nom @SUBJ>
+"<кар>"
+	"кар" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"кар" Hom1 N Sg Nom @SUBJ>
+	"кар" Hom2 N Sem/Inanim Sg Nom @SUBJ>
+	"кар" Hom2 N Sg Nom @SUBJ>
+"<гӧгӧр>"
+	"гӧгӧр" Adp Po Sg Nom @SUBJ>
+	"гӧгӧр" Adv @<ADVL
+	"гӧгӧр" Hom2 Adp Po
+"<Обва>"
+	"Обва" ?
+"<юӧ>"
+	"ю" N Sem/Inanim Sg Ill @<ADVL
+	"ю" N Sem/Inanim Sg Nom PxSg1
+	"ю" N Sg Ill @<ADVL
+	"ю" N Sg Nom PxSg1
+	"юны" V Imprt Pl2
+	"юны" V Ind Prs Sg3
+"<усян>"
+	"усьны" V Ind Prs Sg2
+"<Чӧлва>"
+	"Чӧлва" ?
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom @<SUBJ
+	"ю" N Sg Nom @<SUBJ
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po
+	"пӧлӧн" Adp Po Sg Nom @<SUBJ
+	"пӧлӧн" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Чердын-Язьва>"
+	"Чердын-Язьва" ?
+"<йӧзсӧ>"
+	"йӧз" N Sg Acc PxSg3
+"<ӧтлаӧтӧны>"
+	"ӧтлаӧтны" V Ind Prs Pl3
+"<казьмӧтаннэз>"
+	"казьмӧтан" A Prc Der Der/MWN N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<кӧдна>"
+	"кӧда" Pron Rel Pl Nom @SUBJ>
+	"кӧдна" Det
+"<адззӧмӧсь>"
+	"адззыны" V Ind Prt2 Pl1
+	"адззыны" V Ind Prt2 Pl3
+	"адззӧм" A Prc Cop Pl
+"<Чердын>"
+	"Чердын" ?
+"<кар>"
+	"кар" Hom1 N Sem/Inanim Sg Nom
+	"кар" Hom1 N Sg Nom
+	"кар" Hom2 N Sem/Inanim Sg Nom
+	"кар" Hom2 N Sg Nom
+"<гӧгӧр>"
+	"гӧгӧр" Adp Po Sg Nom
+	"гӧгӧр" Adv @<ADVL
+	"гӧгӧр" Hom2 Adp Po
+"<Кама>"
+	"Кама" N Prop Sg Nom @SUBJ>
+	"кам" Hom1 A Der Der/A Adv @<ADVL
+	"кам" N Sg Der Der/ProprietiveMod A
+	"камалны" V Imprt Sg2
+"<,>"
+	"," CLB
+"<Вишера>"
+	"Вишера" ?
+"<,>"
+	"," CLB
+"<Колва>"
+	"Колва" N Prop Sg Nom @SUBJ>
+"<юэз>"
+	"ю" N Pl Nom
+	"ю" N Sem/Inanim Pl Nom
+"<пӧлӧн>"
+	"пӧлӧн" Adp Po
+	"пӧлӧн" Adp Po Sg Nom @SUBJ>
+	"пӧлӧн" Adv @<ADVL
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Вишера>"
+	"Вишера" ?
+"<юӧ>"
+	"ю" N Sem/Inanim Sg Ill @<ADVL
+	"ю" N Sem/Inanim Sg Nom PxSg1
+	"ю" N Sg Ill @<ADVL
+	"ю" N Sg Nom PxSg1
+	"юны" V Imprt Pl2
+	"юны" V Ind Prs Sg3
+"<усян>"
+	"усьны" V Ind Prs Sg2
+"<Язьва>"
+	"Язьва" ?
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom @<SUBJ
+	"ю" N Sg Nom @<SUBJ
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po
+	"пӧлӧн" Adp Po Sg Nom @<SUBJ
+	"пӧлӧн" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Кама>"
+	"Кама" N Prop Sg Nom @SUBJ>
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom @SUBJ>
+	"ю" N Sg Nom @SUBJ>
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po
+	"пӧлӧн" Adp Po Sg Nom @SUBJ>
+	"пӧлӧн" Adv @<ADVL
+"<Вишера>"
+	"Вишера" ?
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom @SUBJ>
+	"ю" N Sg Nom @SUBJ>
+"<усянінын>"
+	"усянін" N Sem/Inanim Sg Ine
+	"усянін" N Sg Ine
+"<Пожва>"
+	"Пожва" ?
+"<посадӧдз>"
+	"посад" N Sg TerI
+"<ӧтлаын>"
+	"ӧтлаын" Adv @<ADVL
+"<олӧмась>"
+	"овны" V Ind Prt2 Pl1
+	"овны" V Ind Prt2 Pl3
+"<кыкьямыс>"
+	"кыкьямыс" Num Card Cmpl
+"<учӧт>"
+	"учӧт" ?
+"<увтыр>"
+	"увтыр" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Нія>"
+	"сія" Pron Pers Pl3 Nom @SUBJ>
+"<аркмӧтӧны>"
+	"аркмӧтны" V Ind Prs Pl3
+"<ыджыт>"
+	"ыджыт" A
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<янсалӧм>"
+	"янсалӧм" N Sem/Inanim Sg Nom
+"<чукӧр>"
+	"чукӧр" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Гайна>"
+	"Гайна" N Prop Sg Nom
+"<посад>"
+	"посад" N Sg Nom
+"<гӧгӧр>"
+	"гӧгӧр" Adp Po Sg Nom @-FADVL>
+	"гӧгӧр" Adv @-FADVL>
+	"гӧгӧр" Hom2 Adp Po @-FADVL>
+"<Кама>"
+	"кам" N Sg Der Der/ProprietiveMod A
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom
+	"ю" N Sg Nom
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po @-FADVL>
+	"пӧлӧн" Adp Po Sg Nom @-FADVL>
+	"пӧлӧн" Adv @-FADVL>
+"<да>"
+	"да" CC
+"<сыӧ>"
+	"сія" Pron Pers Sg3 Ill @-FADVL>
+"<усян>"
+	"усьны" V Ind Prs Sg2
+	"усян" N V Der/An Sg Nom @SUBJ>
+"<Луп>"
+	"Луп" ?
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom @SUBJ>
+	"ю" N Sg Nom @SUBJ>
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po @-F<ADVL
+	"пӧлӧн" Adp Po Sg Nom @SUBJ>
+	"пӧлӧн" Adv @-F<ADVL
+"<олӧмась>"
+	"овны" V Ind Prt2 Pl1
+	"овны" V Ind Prt2 Pl3
+"<квать>"
+	"квать" Card Cmpl
+	"квать" Num Card Cmpl @>N
+"<увтыр>"
+	"увтыр" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Нія>"
+	"сія" Pron Pers Pl3 Nom @SUBJ>
+"<пырӧны>"
+	"пырны" V Ind Prs Pl3
+"<ыджыт>"
+	"ыджыт" A
+"<Гайна>"
+	"Гайна" N Prop Sg Nom
+"<отирӧ>"
+	"отир" N Sg Ill @<ADVL
+	"отир" N Sg Nom PxSg1
+"<.>"
+	"." CLB
+
+"<Кӧсва>"
+	"Кӧсва" ?
+"<отирын>"
+	"отир" N Sg Ine
+"<,>"
+	"," CLB
+"<кӧдна>"
+	"кӧда" Pron Rel Pl Nom @SUBJ>
+	"кӧдна" Det
+"<олӧмась>"
+	"овны" V Ind Prt2 Pl1
+	"овны" V Ind Prt2 Pl3
+"<Кӧсва>"
+	"Кӧсва" ?
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom
+	"ю" N Sg Nom
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po @-FADVL>
+	"пӧлӧн" Adp Po Sg Nom @-FADVL>
+	"пӧлӧн" Adv @-FADVL>
+"<да>"
+	"да" CC
+"<сыӧ>"
+	"сія" Pron Pers Sg3 Ill @-FADVL>
+"<усян>"
+	"усьны" V Ind Prs Sg2
+	"усян" N V Der/An Sg Nom @SUBJ>
+"<Лолӧг>"
+	"Лолӧг" ?
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom @SUBJ>
+	"ю" N Sg Nom @SUBJ>
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po @-F<ADVL
+	"пӧлӧн" Adp Po Sg Nom @SUBJ>
+	"пӧлӧн" Adv @-F<ADVL
+"<,>"
+	"," CLB
+"<вӧлӧмась>"
+	"вӧвны" V Err/Orth Ind Prt2 Pl1
+	"вӧвны" V Err/Orth Ind Prt2 Pl3
+	"вӧвны" V Ind Prt2 Pl1
+	"вӧвны" V Ind Prt2 Pl3
+"<куим>"
+	"куим" Card Cmpl
+	"куим" Num Card Cmpl @>N
+"<увтыр>"
+	"увтыр" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Зюзьдін>"
+	"Зюзьдін" ?
+"<отирлӧн>"
+	"отир" N Sg Gen @>N
+"<чукӧрыс>"
+	"чукӧр" N Sg Nom PxSg3 @SUBJ>
+"<олӧ>"
+	"овны" V Ind Prs Sg3
+"<мӧдік>"
+	"мӧдік" Pron Indef Sg Nom @<SUBJ
+"<комиэзсянь>"
+	"коми" N Pl Egr
+"<медылын>"
+	"медылын" ?
+"<—>"
+	"—" PUNCT
+"<Кама>"
+	"Кама" N Prop Sg Nom @<SUBJ
+"<катытын>"
+	"катыт" N Sem/Inanim Sg Ine
+"<.>"
+	"." CLB
+
+"<Сійӧ>"
+	"сія" Pron Pers Sg3 Acc
+"<отирсӧ>"
+	"отир" N Sg Acc PxSg3
+"<казьмӧтаннэс>"
+	"казьмӧтаннэс" ?
+"<мыччалӧны>"
+	"мыччавны" V Ind Prs Pl3
+	"мыччыны" V Der/Al Ind Prs Pl3
+"<ӧкмыс>"
+	"ӧкмыс" Card Cmpl
+	"ӧкмыс" Num Card Cmpl @>N
+"<увтыр>"
+	"увтыр" N Sg Nom
+"<вылӧ>"
+	"выв" N Err/Orth Sem/Inanim Sg Nom PxSg1
+	"выв" N Sg Nom PxSg1
+"<.>"
+	"." CLB
+
+"<Быдӧс>"
+	"быд" Hom1 N Sem/Inanim Sg Acc
+	"быд" Hom1 N Sem/Inanim Sg Acc PxSg1
+	"быд" N Sg Acc
+	"быд" N Sg Acc PxSg1
+"<этія>"
+	"этія" ?
+"<отирыс>"
+	"отир" N Sg Nom PxSg3 @SUBJ>
+"<ӧтлаын>"
+	"ӧтлаын" Adv @<ADVL
+"<бӧсьтӧмӧн>"
+	"бӧсьтӧмӧн" ?
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<лоасӧ>"
+	"лойны" V Ind Fut Pl3
+	"лоны" V Ind Fut Pl3
+"<талуння>"
+	"талуння" ?
+"<перем>"
+	"перем" ?
+"<коми>"
+	"коми" N Sg Nom
+"<отирлӧ>"
+	"отир" N Sg Dat
+"<важ>"
+	"важ" A
+"<ай-маммезӧн>"
+	"ай-мам" N Pl Ins
+"<.>"
+	"." CLB
+
+"<Уна>"
+	"уна" Adv Cmpl @ADVL>
+"<казьмӧтаннэзын>"
+	"казьмӧтан" A Prc Der Der/MWN N Pl Ine
+"<археологез>"
+	"археологез" ?
+"<адззалӧмась>"
+	"адззавны" V Err/Orth Ind Prt2 Pl1
+	"адззавны" V Err/Orth Ind Prt2 Pl3
+	"адззавны" V Ind Prt2 Pl1
+	"адззавны" V Ind Prt2 Pl3
+	"адззыны" V Der/Al Ind Prt2 Pl1
+	"адззыны" V Der/Al Ind Prt2 Pl3
+"<уджалан>"
+	"уджавны" V Err/Orth Ind Prs Sg2
+	"уджавны" V Ind Prs Sg2
+	"уджалан" A
+"<берся>"
+	"бер" N Sg Cmpr
+	"бер" N Sg Der Der/TempMod A
+	"берся" A
+"<:>"
+	":" CLB
+"<гӧррез>"
+	"гӧр" N Pl Nom
+"<,>"
+	"," CLB
+"<кучитчаннэз>"
+	"кучитчаннэз" ?
+"<,>"
+	"," CLB
+"<чарлаэз>"
+	"чарла" N Pl Nom
+"<,>"
+	"," CLB
+"<ытшкисян-горбушаэз>"
+	"ытшкисян-горбушаэз" ?
+"<,>"
+	"," CLB
+"<изыннэз>"
+	"изын" N Pl Nom
+"<,>"
+	"," CLB
+"<сідз>"
+	"сідз" Adv @<ADVL
+"<кыдз>"
+	"кыдз" Adv @<ADVL
+	"кыдз" Adv Manner Interr @<ADVL
+	"кыдз" Adv Manner Rel @<ADVL
+	"кыдз" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"кыдз" Hom2 Adv @<ADVL
+	"кыдз" N Sg Nom @SUBJ>
+"<родановсалӧн>"
+	"родановсалӧн" ?
+"<бӧрьяжык>"
+	"бӧрья" A Comp
+"<кадӧ>"
+	"кад" Hom1 N Sg Ill
+	"кад" Hom1 N Sg Nom PxSg1 @SUBJ>
+	"кад" N Sem/Inanim Sg Ill
+	"кад" N Sem/Inanim Sg Nom PxSg1 @SUBJ>
+"<зорамӧма>"
+	"зорамны" V Ind Prt2 Sg3
+"<пода>"
+	"пода" N Sg Nom @<SUBJ
+"<видзӧм>"
+	"видзӧм" A Prc
+	"видзӧм" N Sem/Inanim Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Отирлӧ>"
+	"отир" N Sg Dat
+"<унажык>"
+	"унажык" Adv
+"<пондас>"
+	"пондыны" V Ind Fut Sg3
+"<ковны>"
+	"ковны" V Inf
+"<кӧртісь>"
+	"кӧртны" V Der/ісь ActPrsPtc Sg Nom @SUBJ>
+"<керӧм>"
+	"керны" V Ind Prt2 Sg3
+	"керӧм" A Prc
+	"керӧм" N Sem/Inanim Sg Nom @SUBJ>
+	"керӧм" N Sg Nom @SUBJ>
+"<уджалан>"
+	"уджалан" A
+"<берся>"
+	"бер" N Sg Cmpr
+	"бер" N Sg Der Der/TempMod A
+	"берся" A
+"<,>"
+	"," CLB
+"<сійӧн>"
+	"сійӧн" CS Conj
+	"сія" Pron Pers Sg3 Der/йӧ Ins
+"<пондас>"
+	"пондас" Adp Po
+	"пондыны" V Ind Fut Sg3
+"<бура>"
+	"бур" A Der Der/A Adv
+	"бур" N Sg Der Der/ProprietiveMod A
+	"бура" Adv
+	"бура" Hom1 Adv
+	"бура" Hom2 Adp Po
+	"бура" N Sg Nom @<SUBJ
+"<ни>"
+	"ни" Adv
+	"ни" CC
+	"ни" Pcle @PCLE
+"<зорамны>"
+	"зорамны" V Inf
+"<кӧрт>"
+	"кӧрт" N Sem/Inanim Sg Nom @SUBJ>
+	"кӧрт" N Sg Nom @SUBJ>
+"<шедтӧм>"
+	"шедтыны" V Ind Prt2 Sg3
+	"шедтӧм" A Prc
+	"шедтӧм" N Sem/Inanim Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+"<кӧрт>"
+	"кӧрт" N Sem/Inanim Sg Nom @SUBJ>
+	"кӧрт" N Sg Nom @SUBJ>
+	"кӧртны" V Imprt Sg2
+"<дорӧм>"
+	"дорны" V Ind Prt2 Sg3
+	"дорӧм" A Prc
+"<.>"
+	"." CLB
+
+"<Кудымкар>"
+	"Кудымкар" ?
+"<лоас>"
+	"лойны" V Ind Fut Sg3
+	"лоны" V Ind Fut Sg3
+"<тӧдчана>"
+	"тӧдчана" Adv @ADVL>
+"<карӧн>"
+	"кар" Hom1 N Sem/Inanim Sg Ins
+	"кар" Hom1 N Sg Ins
+	"кар" Hom2 N Sem/Inanim Sg Ins
+"<,>"
+	"," CLB
+"<кытӧн>"
+	"кыны" V Der/тӧн
+	"кытӧн" Pron Spat Ine Rel
+"<керӧмась>"
+	"керны" V Ind Prt2 Pl1
+	"керны" V Ind Prt2 Pl3
+"<кӧртсис>"
+	"кӧрт" N Sem/Inanim Sg Ela PxSg3
+	"кӧрт" N Sg Ela PxSg3
+"<берсясӧ>"
+	"бер" N Sg Der Der/TempMod A Der Der/MWN N Sg Acc PxSg3
+	"берся" A Der Der/MWN N Sg Acc PxSg3
+"<.>"
+	"." CLB
+
+"<Гӧрд>"
+	"гӧрд" A
+"<сёйись>"
+	"сёйись" A Prc
+"<керӧм>"
+	"керӧм" N Sem/Inanim Sg Nom @SUBJ>
+	"керӧм" N Sg Nom @SUBJ>
+"<формаэзын>"
+	"форма" N Pl Ine
+"<кисьтлӧмась>"
+	"кисьтлыны" V Ind Prt2 Pl1
+	"кисьтлыны" V Ind Prt2 Pl3
+"<мӧдӧтчан>"
+	"мӧдӧтчан" N Sg Nom
+	"мӧдӧтчыны" V Ind Prs Sg2
+"<берсятор>"
+	"берсятор" ?
+"<.>"
+	"." CLB
+
+"<Мымдакӧ>"
+	"мымдакӧ" Adv @<ADVL
+"<кад>"
+	"кад" Hom1 N Sg Nom @SUBJ>
+	"кад" Hom2 N Sg Nom @SUBJ>
+	"кад" N Sem/Inanim Sg Nom @SUBJ>
+"<бӧрті>"
+	"бӧр" Adp Po Spat Sg Tra
+	"бӧрті" Adp Po
+"<оссясӧ>"
+	"оссьыны" V Ind Fut Pl3
+"<кӧрт>"
+	"кӧрт" N Sem/Inanim Sg Nom
+	"кӧрт" N Sg Nom
+"<шедтан>"
+	"шедтыны" V Ind Prs Sg2
+"<да>"
+	"да" CC
+"<кӧрт>"
+	"кӧрт" N Sem/Inanim Sg Nom
+	"кӧрт" N Sg Nom
+	"кӧртны" V Imprt Sg2
+"<доран>"
+	"дорны" V Ind Prs Sg2
+"<шӧриннэз>"
+	"шӧрин" N Pl Nom
+"<.>"
+	"." CLB
+
+"<Родановса>"
+	"Родановса" ?
+"<пондӧны>"
+	"пондыны" V Ind Prs Pl3
+"<унажык>"
+	"унажык" Adv
+"<шедтыны>"
+	"шедтыны" V Inf
+"<сов>"
+	"сов" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Совсӧ>"
+	"Сов" N Prop Sem/Sur-Mal Sg Acc PxSg3
+	"сов" N Sg Acc PxSg3
+"<керӧмась>"
+	"керны" V Ind Prt2 Pl1
+	"керны" V Ind Prt2 Pl3
+"<росолісь>"
+	"росолісь" ?
+"<.>"
+	"." CLB
+
+"<Росолсӧ>"
+	"Росолсӧ" ?
+"<пизьӧтасӧ>"
+	"пизьӧтны" V Ind Fut Pl3
+"<пуовӧй>"
+	"пуовӧй" A
+"<да>"
+	"да" CC
+"<бановӧй>"
+	"бановӧй" A
+"<ӧррезын>"
+	"ӧр" N Pl Ine
+"<,>"
+	"," CLB
+"<кӧднӧ>"
+	"кӧда" Pron Rel Pl Acc
+"<вевдӧрсяняс>"
+	"вевдӧр" N Sem/Inanim Sg Egr PxSg3 So/CP
+	"вевдӧрсяняс" Adp Po
+"<мавтласӧ>"
+	"мавтлыны" V Ind Fut Pl3
+"<сотӧм>"
+	"сотны" V Ind Prt2 Sg3
+	"сотӧм" A Prc
+	"сотӧм" N Sem/Inanim Sg Nom
+"<гӧрд>"
+	"гӧрд" A
+"<сёйӧн>"
+	"сёй" N Sem/Inanim Sg Ins
+	"сёй" N Sg Ins
+"<.>"
+	"." CLB
+
+"<Мукӧдпырся>"
+	"Мукӧдпырся" ?
+"<росолас>"
+	"росолас" ?
+"<лэдзвывлӧмась>"
+	"лэдзвывлӧмась" ?
+"<биын>"
+	"би" N Sem/Inanim Sg Ine
+	"би" N Sg Ine
+"<дзирӧтӧм>"
+	"дзирӧтны" V Ind Prt2 Sg3
+"<иззэз>"
+	"из" Hom1 N Sem/Inanim Pl Nom
+	"из" N Pl Nom
+"<.>"
+	"." CLB
+
+"<Иньва>"
+	"Иньва" ?
+"<,>"
+	"," CLB
+"<Вишера>"
+	"Вишера" ?
+"<,>"
+	"," CLB
+"<Борва>"
+	"Борва" ?
+"<,>"
+	"," CLB
+"<Язьва>"
+	"Язьва" ?
+"<,>"
+	"," CLB
+"<Колва>"
+	"Колва" N Prop Sg Nom
+"<юэз>"
+	"ю" N Pl Nom
+	"ю" N Sem/Inanim Pl Nom
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po
+	"пӧлӧн" Adp Po Sg Nom
+	"пӧлӧн" Adv @ADVL>
+"<,>"
+	"," CLB
+"<кытӧн>"
+	"кыны" V Der/тӧн
+	"кытӧн" Pron Spat Ine Rel
+"<XX>"
+	"XX" ?
+"<сугӧд>"
+	"сугӧд" ?
+"<пондӧтчикӧ>"
+	"пондӧтчикӧ" ?
+"<пуӧмась>"
+	"пуны" V Ind Prt2 Pl1
+	"пуны" V Ind Prt2 Pl3
+"<совсӧ>"
+	"сов" N Sg Acc PxSg3
+"<,>"
+	"," CLB
+"<ӧнӧдз>"
+	"ӧн" N Sg TerI
+	"ӧнӧдз" Adv @<ADVL
+"<кольччӧны>"
+	"кольччыны" V Ind Prs Pl3
+"<пуись>"
+	"пуны" V Der/ісь ActPrsPtc Sg Nom
+"<керӧм>"
+	"керӧм" A Prc
+	"керӧм" N Sem/Inanim Sg Nom
+	"керӧм" N Sg Nom
+"<росов>"
+	"росов" ?
+"<кысканнэз>"
+	"кысканнэз" ?
+"<.>"
+	"." CLB
+
+"<Бура>"
+	"Бура" N Prop Sg Nom
+	"бур" A Der Der/A Adv
+	"бур" N Sg Der Der/ProprietiveMod A
+	"бура" Adv
+	"бура" Hom1 Adv
+	"бура" N Sg Nom
+"<зорамӧма>"
+	"зорамны" V Der/ӧм Event Sg Der Der/ProprietiveMod A
+"<лыись>"
+	"лы" N Sg Ela
+"<(>"
+	"(" PUNCT LEFT
+"<коскаись>"
+	"коска" N Sg Ela
+"<)>"
+	")" PUNCT RIGHT
+"<берсятор>"
+	"берсятор" ?
+"<керӧм>"
+	"керны" V Ind Prt2 Sg3
+	"керӧм" A Prc
+	"керӧм" N Sem/Inanim Sg Nom
+	"керӧм" N Sg Nom
+"<,>"
+	"," CLB
+"<сэк>"
+	"сэк" Adv
+	"сэк" CS
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<серпасавны>"
+	"серпасавны" V Inf
+"<лысӧ>"
+	"лысны" V Ind Prs Sg3
+"<кужӧмась>"
+	"кужны" V Ind Prt2 Pl1
+	"кужны" V Ind Prt2 Pl3
+"<ни>"
+	"ни" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Лысис>"
+	"лы" N Sg Ela PxSg3
+"<керлӧмась>"
+	"керлыны" V Ind Prt2 Pl1
+	"керлыны" V Ind Prt2 Pl3
+"<сынаннэз>"
+	"сынан" N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<пуртӧссэз>"
+	"пуртӧс" N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<пелькытшшез>"
+	"пелькытш" N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<киззез>"
+	"кизь" N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<еммез>"
+	"ем" N Pl Nom @<SUBJ
+	"ем" N Sem/Inanim Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<амулеттэз>"
+	"амулеттэз" ?
+"<,>"
+	"," CLB
+"<паськӧм>"
+	"паськӧм" N Sg Nom
+"<вылӧ>"
+	"вылӧ" Adp Po Spat Sg Ill
+"<берся>"
+	"бер" N Sg Der Der/TempMod A
+	"берся" A
+"<ӧшланнэз>"
+	"ӧшлан" N Pl Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Уна>"
+	"уна" Adv Cmpl @ADVL>
+"<мый>"
+	"мый" Pron Sem/NonHum Nom Interr
+	"мый" Pron Sem/NonHum Nom Rel
+"<ны>"
+	"сія" Pron Pers Pl3
+"<коласісь>"
+	"колас" N Sg Ela
+"<серпасалӧмась>"
+	"серпасавны" V Ind Prt2 Pl1
+	"серпасавны" V Ind Prt2 Pl3
+"<ас>"
+	"ас" Det Pron Refl Cmpl
+"<пассэзӧн>"
+	"пас" N Pl Ins
+"<.>"
+	"." CLB
+
+"<Быдлаын>"
+	"быдлаын" Adv @ADVL>
+"<керлӧмась>"
+	"керлыны" V Ind Prt2 Pl1
+	"керлыны" V Ind Prt2 Pl3
+"<кашниккез>"
+	"кашник" N Pl Nom @<SUBJ
+	"кашник" N Sem/Inanim Pl Nom @<SUBJ
+"<да>"
+	"да" CC
+"<гырниччез>"
+	"гырнич" N Pl Nom @<SUBJ
+	"гырнич" N Sem/Inanim Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<кӧднӧ>"
+	"кӧда" Pron Rel Pl Acc
+"<серпасалӧмась>"
+	"серпасавны" V Ind Prt2 Pl1
+	"серпасавны" V Ind Prt2 Pl3
+"<розетка>"
+	"розетка" N Sg Nom
+"<нёжа>"
+	"нёж" N Sg Der Der/ProprietiveMod A
+"<веськыт>"
+	"веськыт" A
+	"веськыт" Hom1 A
+	"веськыт" Hom2 A
+"<да>"
+	"да" CC
+"<чуклялӧм>"
+	"чуклялӧм" N Sem/Inanim Sg Nom
+"<серпассэзӧн>"
+	"серпас" N Pl Ins
+"<.>"
+	"." CLB
+
+"<Кашниккесӧ>"
+	"кашник" N Pl Acc PxSg3
+	"кашник" N Sem/Inanim Pl Acc PxSg3
+"<дзирдӧтлӧмась>"
+	"дзирдӧтлыны" V Ind Prt2 Pl1
+	"дзирдӧтлыны" V Ind Prt2 Pl3
+"<горын>"
+	"гор" N Sg Ine
+"<.>"
+	"." CLB
+
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<отирлӧн>"
+	"отир" N Sg Gen
+"<уна>"
+	"уна" Adv Cmpl @<ADVL
+"<вӧлӧма>"
+	"вӧвны" V Err/Orth Ind Prt2 Sg1
+	"вӧвны" V Err/Orth Ind Prt2 Sg3
+	"вӧвны" V Ind Prt2 Sg1
+	"вӧвны" V Ind Prt2 Sg3
+"<и>"
+	"и" CC
+"<пуовӧй>"
+	"пуовӧй" A
+"<доз>"
+	"доз" N Sem/Inanim Sg Nom @<SUBJ
+	"доз" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Сідз>"
+	"сідз" Adv @<ADVL
+"<кыдз>"
+	"кыдз" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"кыдз" N Sg Nom @SUBJ>
+"<пуыс>"
+	"пу" N Sg Nom PxSg3 @SUBJ>
+"<чожа>"
+	"чожа" Adv @<ADVL
+"<сісьмӧ>"
+	"сісьмыны" V Imprt Pl2
+	"сісьмыны" V Ind Prs Sg3
+"<,>"
+	"," CLB
+"<одззася>"
+	"одззася" A
+"<пуовӧй>"
+	"пуовӧй" A
+"<доззэс>"
+	"доз" N Pl Nom PxSg3 @SUBJ>
+"<абу>"
+	"абу" Adv CC Neg @<ADVL
+"<кольччӧмась>"
+	"кольччыны" V Ind Prt2 Pl1
+	"кольччыны" V Ind Prt2 Pl3
+"<.>"
+	"." CLB
+
+"<Гортын>"
+	"горт" Hom1 N Sg Ine @-FADVL>
+	"горт" N Sem/Inanim Sg Ine @-FADVL>
+"<печкӧм>"
+	"печкыны" V Ind Prt2 Sg3
+	"печкӧм" A Prc
+	"печкӧм" N Sem/Inanim Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<кыйӧм>"
+	"кыйны" V Ind Prt2 Sg3
+	"кыйӧм" Hom1 A
+	"кыйӧм" Hom2 A
+	"кыйӧм" N Sg Nom @SUBJ>
+"<да>"
+	"да" CC
+"<гӧрдззӧм>"
+	"гӧрдззӧм" N Sem/Inanim Sg Nom @SUBJ>
+"<йылісь>"
+	"йы" N Sg Abl
+	"йыв" N Sg Ela @-FADVL>
+"<висьтасьӧны>"
+	"висьтасьны" Hom1 V Ind Prs Pl3
+	"висьтасьны" Hom2 V Ind Prs Pl3
+"<важ>"
+	"важ" A
+"<каррез>"
+	"кар" Hom1 N Pl Nom @<SUBJ
+	"кар" Hom1 N Sem/Inanim Pl Nom @<SUBJ
+	"кар" Hom2 N Pl Nom @<SUBJ
+	"кар" Hom2 N Sem/Inanim Pl Nom @<SUBJ
+"<вылын>"
+	"выв" N Err/Orth Sem/Inanim Sg Ine @-FADVL>
+	"выв" N Sg Ine @-FADVL>
+	"вылын" Adv Spat Ine @-FADVL>
+	"вылын" Hom1 A
+	"вылын" Hom2 Adp Po Spat Sg Ine @-FADVL>
+"<адззӧм>"
+	"адззӧм" A Prc
+"<печканнэзлӧн>"
+	"печкан" N Pl Gen @>N
+"<,>"
+	"," CLB
+"<кыйсян>"
+	"кыйсян" N V Der/An Sg Nom @<SUBJ
+"<станоккезлӧн>"
+	"стан" N Der/Ок Der/Dimin N Pl Gen @>N
+	"станок" N Pl Gen @>N
+"<да>"
+	"да" CC
+"<гӧрдззисян>"
+	"гӧрдззисян" N Sem/Inanim Sg Nom @<SUBJ
+"<еммезлӧн>"
+	"ем" N Pl Gen @>N
+	"ем" N Sem/Inanim Pl Gen @>N
+"<торрез>"
+	"тор" N Pl Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Родановсалӧн>"
+	"Родановсалӧн" ?
+"<медбӧрья>"
+	"медбӧрья" A
+	"мёдбӧрья" A
+"<кадӧ>"
+	"кад" Hom1 N Sg Ill @<ADVL
+	"кад" Hom1 N Sg Nom PxSg1 @SUBJ>
+	"кад" N Sem/Inanim Sg Ill @<ADVL
+	"кад" N Sem/Inanim Sg Nom PxSg1 @SUBJ>
+"<учӧт>"
+	"учӧт" ?
+"<увтыррез>"
+	"увтыр" N Pl Nom
+"<туйӧ>"
+	"туй морт" N Sg Ill @<ADVL
+	"туй морт" N Sg Nom PxSg1 @SUBJ>
+	"туй" N Sg Ill @<ADVL
+	"туй" N Sg Nom PxSg1 @SUBJ>
+	"туйны" V Ind Prs Sg3
+	"туйӧ" Adp Po Sg Ill
+	"туйӧ" Adp Po Spat Sg Ill
+"<аркмӧмась>"
+	"аркмыны" V Ind Prt2 Pl1
+	"аркмыны" V Ind Prt2 Pl3
+"<матын>"
+	"мат" Adp Po Sg Ine
+	"мат" N Sg Ine
+	"матын" Adv Ine @<ADVL
+"<оліссезлӧн>"
+	"овны" V Der/ісь ActPrsPtc Pl Gen @>A
+"<ыджыт>"
+	"ыджыт" A
+"<ӧтуввез>"
+	"ӧтуввез" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Увтыррезлӧн>"
+	"увтыр" N Pl Gen @>N
+"<ӧксуэз>"
+	"ӧксу" N Sem/Inanim Pl Nom @SUBJ>
+"<(>"
+	"(" PUNCT LEFT
+"<княззез>"
+	"князь" N Pl Nom @SUBJ>
+"<)>"
+	")" PUNCT RIGHT
+"<пондӧны>"
+	"пондыны" V Ind Prs Pl3
+"<веськӧтлыны>"
+	"веськӧтлыны" V Inf
+"<ыджытжык>"
+	"ыджыт" A Comp
+"<ӧтуввезӧн>"
+	"ӧтуввезӧн" ?
+"<.>"
+	"." CLB
+
+"<Важ>"
+	"важ" A
+"<висьт>"
+	"висьт" N Sem/Inanim Sg Nom
+	"висьт" N Sg Nom
+"<сьӧрті>"
+	"сьӧрті" Adp Po @-FADVL>
+"<Иньва>"
+	"Иньва" ?
+"<дорись>"
+	"дорны" V Der/ісь ActPrsPtc Sg Nom @SUBJ>
+"<коми>"
+	"коми" N Sg Nom @SUBJ>
+"<отирлӧн>"
+	"отир" N Sg Gen @>N
+"<увтырӧн>"
+	"увтыр" N Sg Ins
+"<веськӧтлӧма>"
+	"веськӧтлыны" V Ind Prt2 Sg3
+	"веськӧтлӧм" A Prc Der Der/A Adv @-F<ADVL
+	"веськӧтлӧм" N Sem/Inanim Sg Der Der/ProprietiveMod A
+"<Кудым>"
+	"Кудым" ?
+"<Ош>"
+	"ош" N Sem/Inanim Sg Nom @<SUBJ
+	"ош" N Sg Nom @<SUBJ
+"<нима>"
+	"ним" Hom1 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"ним" Hom2 N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"ним" N Sg Der Der/ProprietiveMod A
+	"нима" A
+	"нима" Adv @-F<ADVL
+"<пам>"
+	"пам" ?
+"<,>"
+	"," CLB
+"<кӧда>"
+	"кӧда" Adv @-F<ADVL
+	"кӧда" Pron Interr Sg Nom @SUBJ>
+	"кӧда" Pron Rel Sg Nom @SUBJ>
+"<сэсся>"
+	"сэсся" Adv @<ADVL
+	"сэсся" CS Conj
+"<лоас>"
+	"лойны" V Ind Fut Sg3
+	"лоны" V Ind Fut Sg3
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<ыджытжык>"
+	"ыджыт" A Comp
+"<ӧтувлӧн>"
+	"ӧтувлӧн" ?
+"<веськӧтлісьӧн>"
+	"веськӧтлыны" V Der/ісь ActPrsPtc Sg Ins
+"<.>"
+	"." CLB
+
+"<Кудымкар>"
+	"Кудымкар" ?
+"<пӧртчис>"
+	"пӧртчыны" V Ind Prt1 Sg3
+"<бура>"
+	"бура" N Sg Nom @<SUBJ
+"<дорйӧм>"
+	"дорйӧм" N Sem/Inanim Sg Nom @<SUBJ
+"<веськӧтлан>"
+	"веськӧтлан" A Prc
+	"веськӧтлыны" V Ind Prs Sg2
+"<карӧ>"
+	"кар" Hom1 N Sem/Inanim Sg Ill @<ADVL
+	"кар" Hom1 N Sem/Inanim Sg Nom PxSg1 @<SUBJ
+	"кар" Hom1 N Sg Ill @<ADVL
+	"кар" Hom1 N Sg Nom PxSg1 @<SUBJ
+	"кар" Hom2 N Sem/Inanim Sg Ill @<ADVL
+	"кар" Hom2 N Sem/Inanim Sg Nom PxSg1 @<SUBJ
+"<.>"
+	"." CLB
+
+"<Родановса>"
+	"Родановса" ?
+"<пондӧны>"
+	"пондыны" V Ind Prs Pl3
+"<ни>"
+	"ни" CC
+"<гӧрны-кӧдзны>"
+	"гӧрны-#кӧдзны" V Inf
+"<.>"
+	"." CLB
+
+"<Сысянь>"
+	"сія" Pron Pers Sg3 Egr
+"<отирын>"
+	"отир" N Sg Ine
+"<паськалӧ>"
+	"паськавны" V Ind Prs Sg3
+"<шонді>"
+	"шонді" N Sg Nom @SUBJ>
+"<да>"
+	"да" CC
+"<карч>"
+	"карч" N Sg Nom @SUBJ>
+"<вылӧ>"
+	"вылӧ" Adp Po Spat Sg Ill
+"<юрбытӧм>"
+	"юрбытны" V Ind Prt2 Sg3
+"<.>"
+	"." CLB
+
+"<Сэкся>"
+	"сэкся" A
+	"сэкся" N Sg Nom @SUBJ>
+"<казьтісяніннэзісь>"
+	"казьтісяніннэзісь" ?
+"<ӧнӧдз>"
+	"ӧн" N Sg TerI
+	"ӧнӧдз" Adv @<ADVL
+"<адззалӧны>"
+	"адззавны" V Err/Orth Ind Prs Pl3
+	"адззавны" V Ind Prs Pl3
+	"адззыны" V Der/Al Ind Prs Pl3
+"<пода>"
+	"пода" N Sg Nom @SUBJ>
+"<лыэз>"
+	"лы" N Pl Nom @<SUBJ
+"<,>"
+	"," CLB
+"<кӧртсис>"
+	"кӧрт" N Sem/Inanim Sg Ela PxSg3
+	"кӧрт" N Sg Ela PxSg3
+"<керӧм>"
+	"керны" V Ind Prt2 Sg3
+	"керӧм" A Prc
+	"керӧм" N Sem/Inanim Sg Nom
+	"керӧм" N Sg Nom
+"<ньӧвьёссез>"
+	"ньӧвьёссез" ?
+"<,>"
+	"," CLB
+"<морт>"
+	"морт" N Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+"<пода>"
+	"пода" N Sg Nom @<SUBJ
+"<вылӧ>"
+	"вылӧ" Adp Po Spat Sg Ill
+"<вачкисян>"
+	"вачкисян" A
+"<мыгӧроккез>"
+	"мыгӧр" N Der/Ок Der/Dimin N Pl Nom
+"<.>"
+	"." CLB
+
+"<Но>"
+	"но" Pcle @PCLE
+"<вӧравнытӧ>"
+	"вӧравны" V Inf Px2 Acc
+"<эз>"
+	"оз" V Neg Ind Prt1 Sg3
+"<жӧ>"
+	"жӧ" CC
+"<дугдӧ>"
+	"дугдыны" V Imprt Pl2
+	"дугдыны" V Ind Prs Sg3
+"<,>"
+	"," CLB
+"<сійӧн>"
+	"сійӧн" CS Conj
+	"сія" Pron Pers Sg3 Der/йӧ Ins
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<важ>"
+	"важ" A
+"<туналӧм>"
+	"тунавны" V Ind Prt2 Sg3
+"<(>"
+	"(" PUNCT LEFT
+"<магия>"
+	"магия" ?
+"<)>"
+	")" PUNCT RIGHT
+"<да>"
+	"да" CC
+"<вӧрподалӧ>"
+	"вӧрподалӧ" ?
+"<юрбытӧм>"
+	"юрбытны" V Ind Prt2 Sg3
+"<кольччис>"
+	"кольччыны" V Ind Prt1 Sg3
+"<жӧ>"
+	"жӧ" Pcle @PCLE
+"<.>"
+	"." CLB
+
+"<Сы>"
+	"сія" Pron Pers Sg3 Cmpl
+"<йылісь>"
+	"йы" N Sg Abl
+	"йыв" N Sg Ela
+	"йывны" V Der/ісь ActPrsPtc Sg Nom @SUBJ>
+"<миянлӧ>"
+	"ме" Pron Pers Pl1 Dat
+"<висьтасьӧ>"
+	"висьтасьны" Hom1 V Ind Prs Sg3
+	"висьтасьны" Hom2 V Ind Prs Sg3
+"<перем>"
+	"перем" ?
+"<пода>"
+	"пода" N Sg Nom @SUBJ>
+"<стильӧн>"
+	"стиль" N Sg Ins
+"<бронзаись>"
+	"бронза" N Sg Ela @-F<ADVL
+"<керӧм>"
+	"керны" V Ind Prt2 Sg3
+	"керӧм" A Prc
+	"керӧм" N Sem/Inanim Sg Nom @<SUBJ
+	"керӧм" N Sg Nom @<SUBJ
+"<берсятор>"
+	"берсятор" ?
+"<.>"
+	"." CLB
+
+"<Коми>"
+	"коми" N Sg Nom
+"<еннэз>"
+	"ен" N Sem/Inanim Pl Nom
+"<коласын>"
+	"колас" N Sg Ine
+	"коласын" Adp Po Spat Sg Ine
+"<медыджыт>"
+	"медыджыт" ?
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<вылын>"
+	"выв" N Err/Orth Sem/Inanim Sg Ine
+	"выв" N Sg Ine
+	"вылын" Hom1 A
+	"вылын" Hom2 Adp Po Spat Sg Ine
+"<енӧжись>"
+	"енӧж" N Sem/Inanim Sg Ela
+"<(>"
+	"(" PUNCT LEFT
+"<нёбоись>"
+	"нёбоись" ?
+"<)>"
+	")" PUNCT RIGHT
+"<Ен>"
+	"Ен" N Prop Sem/Ant Sg Nom
+	"ен" N Sem/Inanim Sg Nom
+"<.>"
+	"." CLB
+
+"<Археология>"
+	"археология" N Sg Nom @SUBJ>
+"<материаллэз>"
+	"материаллэз" ?
+"<сьӧрті>"
+	"сьӧрті" Adp Po
+"<аскодьӧм>"
+	"аскодьӧм" A
+"<культура>"
+	"культура" N Sg Nom @SUBJ>
+"<пас>"
+	"пас" N Sg Nom @SUBJ>
+"<перем>"
+	"перем" ?
+"<комиэс>"
+	"коми" N Pl Nom PxSg3 @SUBJ>
+"<вылӧ>"
+	"вылӧ" Adv Spat Ill @ADVL>
+"<кольӧмась>"
+	"кольны" V Ind Prt2 Pl1
+	"кольны" V Ind Prt2 Pl3
+"<X>"
+	"X" ?
+"<сугӧдӧ>"
+	"сугӧдӧ" ?
+"<коми>"
+	"коми" N Sg Nom
+"<отир>"
+	"отир" N Sg Nom
+"<,>"
+	"," CLB
+"<кӧдна>"
+	"кӧда" Pron Rel Pl Nom @SUBJ>
+	"кӧдна" Det
+"<олісӧ>"
+	"овны" V Ind Prt1 Pl3
+"<ойвылынжык>"
+	"ойвылынжык" ?
+"<,>"
+	"," CLB
+"<Эжва>"
+	"Эжва" N Prop Sg Nom
+"<да>"
+	"да" CC
+"<Емва>"
+	"Емва" N Prop Sg Nom
+"<юэз>"
+	"ю" N Pl Nom @<SUBJ
+	"ю" N Sem/Inanim Pl Nom @<SUBJ
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po
+	"пӧлӧн" Adp Po Sg Nom
+	"пӧлӧн" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Перем>"
+	"Перем" ?
+"<комиэз>"
+	"коми" N Pl Nom @SUBJ>
+"<да>"
+	"да" CC
+"<коми>"
+	"коми" N Sg Nom @SUBJ>
+"<зыряна>"
+	"зыряна" N Sg Nom @SUBJ>
+"<коласын>"
+	"колас" N Sg Ine
+	"коласын" Adp Po Spat Sg Ine
+"<важын>"
+	"важын" Adv @<ADVL
+"<муніс>"
+	"мунны" V Ind Prt1 Sg3
+"<вузасьӧм>"
+	"вузасьны" V Ind Prt2 Sg3
+	"вузасьӧм" N Sem/Inanim Sg Nom @SUBJ>
+	"вузасьӧм" N Sg Nom @SUBJ>
+"<да>"
+	"да" CC
+"<культураӧн>"
+	"культура" N Sg Ins
+"<вежсьӧм>"
+	"вежсьыны" V Ind Prt2 Sg3
+	"вежсьӧм" A Prc
+	"вежсьӧм" N Sem/Inanim Sg Nom @SUBJ>
+	"вежсьӧм" N Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<нія>"
+	"сія" Pron Pers Pl3 Nom @SUBJ>
+"<ӧткодя>"
+	"ӧткодя" Adv @<ADVL
+"<дзебсисӧ>"
+	"дзебсьыны" V Ind Prt1 Pl3
+"<да>"
+	"да" CC
+"<новйисӧ>"
+	"новйыны" V Ind Prt1 Pl3
+"<ӧткодь>"
+	"ӧткодь" A
+"<паськӧм>"
+	"паськӧм" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Родановса>"
+	"Родановса" ?
+"<кадсянь>"
+	"кад" Hom1 N Sg Egr
+	"кад" Hom2 N Sg Egr
+	"кад" N Sem/Inanim Sg Egr
+"<перем>"
+	"перем" ?
+"<коми>"
+	"коми" N Sg Nom @SUBJ>
+"<ладорын>"
+	"ладор" N Sg Ine
+"<адззалісӧ>"
+	"адззавны" V Err/Orth Ind Prt1 Pl3
+	"адззавны" V Ind Prt1 Pl3
+	"адззыны" V Der/Al Ind Prt1 Pl3
+"<эзысёвӧй>"
+	"эзысёвӧй" A
+"<доззэзӧн>"
+	"доз" N Pl Ins
+"<кватьдасся>"
+	"кватьдас" Card Der/MWN N Sg Cmpr
+	"кватьдас" Num Card Der/MWN N Sg Cmpr
+"<унажык>"
+	"унажык" Adv @ADVL>
+"<клад>"
+	"клад" N Sg Nom
+"<,>"
+	"," CLB
+"<кӧдна>"
+	"кӧда" Pron Rel Pl Nom @SUBJ>
+	"кӧдна" Det
+"<вӧлісӧ>"
+	"вӧвны" V Err/Orth Ind Prt1 Pl3
+	"вӧвны" V Ind Prt1 Pl3
+"<вайӧмӧсь>"
+	"вайны" V Ind Prt2 Pl1
+	"вайны" V Ind Prt2 Pl3
+"<асыввыв>"
+	"асыввыв" N Sg Nom
+"<муэзісь>"
+	"му" N Pl Ela
+	"му" N Sem/Inanim Pl Ela
+"<.>"
+	"." CLB
+
+"<Кладдэслісь>"
+	"клад" N Pl Abl PxSg3
+"<куйланіннэсӧ>"
+	"куйланін" N Pl Acc PxSg3
+	"куйланін" N Sem/Inanim Pl Acc PxSg3
+"<позьӧ>"
+	"позьны" V Ind Prs Sg3
+"<торйӧтны>"
+	"торйӧтны" V Inf
+"<нёль>"
+	"нёль" Card Cmpl
+"<чукӧрӧ>"
+	"чукӧр" N Sg Nom PxSg1 @<SUBJ
+"<:>"
+	":" CLB
+"<Иньва>"
+	"Иньва" ?
+"<,>"
+	"," CLB
+"<Кӧсва-Кама>"
+	"Кӧсва-Кама" ?
+"<,>"
+	"," CLB
+"<Обва>"
+	"Обва" ?
+"<,>"
+	"," CLB
+"<Вишера-Кама>"
+	"Вишера-Кама" ?
+"<.>"
+	"." CLB
+
+"<Унажыкыс>"
+	"Унажыкыс" ?
+"<ны>"
+	"сія" Pron Pers Pl3
+"<коласісь>"
+	"колас" N Sg Ela
+"<вӧлісӧ>"
+	"вӧвны" V Err/Orth Ind Prt1 Pl3
+	"вӧвны" V Ind Prt1 Pl3
+"<гарйӧмӧсь>"
+	"гарйыны" V Ind Prt2 Pl1
+	"гарйыны" V Ind Prt2 Pl3
+"<му>"
+	"му" N Sem/Inanim Sg Nom
+	"му" N Sg Nom
+"<пытшкӧ>"
+	"пытш" Adp Po Spat Sg Ill
+	"пытш" Hom2 N Sem/Inanim Sg Ill @<ADVL
+	"пытш" Hom2 N Sem/Inanim Sg Nom PxSg1
+	"пытшкӧ" Adp Po Spat Sg Ill
+	"пытшкӧ" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Шуам>"
+	"шуам" Adv @<ADVL
+	"шуны" V Ind Prs Pl1
+"<,>"
+	"," CLB
+"<Пешнигорт>"
+	"Пешнигорт" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Мальцева>"
+	"Мальцев" N Prop Sem/Sur-Mal Sg Der Der/ProprietiveMod A
+"<дорись>"
+	"дор" N Sg Ela
+	"дорись" A Prc
+"<ыджыт>"
+	"ыджыт" A
+"<кладдэс>"
+	"клад" N Pl Nom PxSg3 @SUBJ>
+"<вӧлісӧ>"
+	"вӧвны" V Err/Orth Ind Prt1 Pl3
+	"вӧвны" V Ind Prt1 Pl3
+"<дзебӧмӧсь>"
+	"дзебны" V Ind Prt2 Pl1
+	"дзебны" V Ind Prt2 Pl3
+"<муӧ>"
+	"му" N Sem/Inanim Sg Ill @<ADVL
+	"му" N Sem/Inanim Sg Nom PxSg1
+	"му" N Sg Ill @<ADVL
+	"му" N Sg Nom PxSg1
+"<.>"
+	"." CLB
+
+"<Быдӧс>"
+	"быд" Hom1 N Sem/Inanim Sg Acc
+	"быд" Hom1 N Sem/Inanim Sg Acc PxSg1
+	"быд" N Sg Acc
+	"быд" N Sg Acc PxSg1
+"<энія>"
+	"энія" ?
+"<эзысёвӧй>"
+	"эзысёвӧй" A
+"<дозыс>"
+	"дозыс" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<сьӧмыс>"
+	"сьӧм" Hom1 N Sem/Inanim Sg Nom PxSg3 @SUBJ>
+	"сьӧм" Hom2 N Sem/Inanim Sg Nom PxSg3 @SUBJ>
+	"сьӧм" N Sg Nom PxSg3 @SUBJ>
+"<ӧні>"
+	"ӧні" Adv @<ADVL
+"<куйлӧны>"
+	"куйлыны" V Ind Prs Pl3
+"<Канлӧн>"
+	"Кан" N Prop Sg Gen
+	"кан" N Sem/Inanim Sg Gen
+	"кан" N Sg Gen
+"<Эрмитажын>"
+	"Эрмитажын" ?
+"<(>"
+	"(" PUNCT LEFT
+"<Петракар>"
+	"Петракар" ?
+"<)>"
+	")" PUNCT RIGHT
+"<да>"
+	"да" CC
+"<Канлӧн>"
+	"Кан" N Prop Sg Gen @>N
+	"кан" N Sem/Inanim Sg Gen @>N
+	"кан" N Sg Gen @>N
+"<история>"
+	"история" N Sg Nom @SUBJ>
+"<сьӧрті>"
+	"сьӧрті" Adp Po
+"<музейын>"
+	"музей" N Sg Ine
+"<(>"
+	"(" PUNCT LEFT
+"<Мӧсква>"
+	"Мӧсква" ?
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<мукӧдсӧ>"
+	"мукӧд" Pron Qnt Sg Acc PxSg3
+"<позьӧ>"
+	"позьны" V Ind Prs Sg3
+"<адззывны>"
+	"адззывны" V Inf
+"<Коми>"
+	"коми" N Sg Nom @<SUBJ
+"<кытшись>"
+	"кытш" N Sg Ela
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Перем>"
+	"Перем" ?
+"<ладорись>"
+	"ладор" N Sg Ela
+"<музейезын>"
+	"музей" N Pl Ine
+"<.>"
+	"." CLB
+
+"<Х>"
+	"Х" N ABBR
+	"х" N ABBR
+"<вексяняс>"
+	"век" N Sg Egr PxSg3 So/CP
+"<Волга>"
+	"Волга" ?
+"<дорись>"
+	"дорны" V Der/ісь ActPrsPtc Sg Nom
+"<булгара>"
+	"булгара" N Sg Nom @SUBJ>
+"<тӧдчӧмӧн>"
+	"тӧдчыны" V Der/Omon Ger
+	"тӧдчӧм" N Sem/Inanim Sg Ins
+"<пырӧны>"
+	"пырны" V Ind Prs Pl3
+"<коми>"
+	"коми" N Sg Nom @SUBJ>
+"<отир>"
+	"отир" N Sg Nom @SUBJ>
+"<оланӧ>"
+	"олан" N Sg Ill @<ADVL
+	"олан" N Sg Nom PxSg1
+	"олан" N V Der/An Sg Ill @<ADVL
+	"олан" N V Der/An Sg Nom PxSg1
+"<.>"
+	"." CLB
+
+"<Нія>"
+	"сія" Pron Pers Pl3 Nom @SUBJ>
+"<босьтӧны>"
+	"босьтны" V Ind Prs Pl3
+"<ас>"
+	"ас" Det Pron Refl Cmpl
+"<кипод>"
+	"кипод" N Sg Nom @SUBJ>
+"<увтӧ>"
+	"увт" N Sg Nom PxSg1 @SUBJ>
+"<Кама>"
+	"кам" N Sg Der Der/ProprietiveMod A
+"<ю>"
+	"ю" N Sem/Inanim Sg Nom @SUBJ>
+	"ю" N Sg Nom @SUBJ>
+"<кузя>"
+	"кузя" N Sg Nom @SUBJ>
+"<туйез>"
+	"туй морт" N Pl Nom @SUBJ>
+	"туй" N Pl Nom @SUBJ>
+"<,>"
+	"," CLB
+"<вузасьӧны>"
+	"вузасьны" V Ind Prs Pl3
+"<,>"
+	"," CLB
+"<нельки>"
+	"нельки" Adv @<ADVL
+"<олӧны>"
+	"овны" V Ind Prs Pl3
+"<комиэзкӧт>"
+	"коми" N Pl Com
+"<ордча>"
+	"ордча" A
+	"ордчыны" V Ind Prs Sg1
+"<муэзын>"
+	"му" N Pl Ine
+	"му" N Sem/Inanim Pl Ine
+"<.>"
+	"." CLB
+
+"<Родановса>"
+	"Родановса" ?
+"<казьмӧтаннэзісь>"
+	"казьмӧтан" A Prc Der Der/MWN N Pl Ela @-FADVL>
+"<уна>"
+	"уна" Adv Cmpl @-FADVL>
+"<адззалӧмась>"
+	"адззавны" V Err/Orth Ind Prt2 Pl1
+	"адззавны" V Err/Orth Ind Prt2 Pl3
+	"адззавны" V Ind Prt2 Pl1
+	"адззавны" V Ind Prt2 Pl3
+	"адззыны" V Der/Al Ind Prt2 Pl1
+	"адззыны" V Der/Al Ind Prt2 Pl3
+"<Булгарын>"
+	"Булгар" N Prop Sg Ine @-FADVL>
+"<керӧм>"
+	"керны" V Ind Prt2 Sg3
+	"керӧм" A Prc
+	"керӧм" N Sem/Inanim Sg Nom @SUBJ>
+	"керӧм" N Sg Nom @SUBJ>
+"<гӧрд>"
+	"гӧрд" A
+"<доз>"
+	"доз" N Sem/Inanim Sg Nom @<SUBJ
+	"доз" N Sg Nom @<SUBJ
+"<(>"
+	"(" PUNCT LEFT
+"<сёйись>"
+	"сёйись" A Prc
+"<да>"
+	"да" CC
+"<кӧртісь>"
+	"кӧрт" N Sem/Inanim Sg Ela
+	"кӧрт" N Sg Ela
+	"кӧртны" V Der/ісь ActPrsPtc Sg Nom @<SUBJ
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<мӧдӧтчан>"
+	"мӧдӧтчан" N Sg Nom @<SUBJ
+	"мӧдӧтчыны" V Ind Prs Sg2
+"<берсятор>"
+	"берсятор" ?
+"<.>"
+	"." CLB
+
+"<Комиэз>"
+	"коми" N Pl Nom
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<асьныс>"
+	"асьныс" Pron Refl Pl3 Nom
+	"ачыс" Pron Refl Pl3 Nom
+"<вуза>"
+	"вуз" N Sg Der Der/ProprietiveMod A
+	"вуза" A
+"<¬сьӧны>"
+	"¬сьӧны" ?
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<булгараыскӧт>"
+	"булгара" N Sg Com PxSg3
+"<ны>"
+	"сія" Pron Pers Pl3
+"<муэзын>"
+	"му" N Pl Ine
+	"му" N Sem/Inanim Pl Ine
+"<.>"
+	"." CLB
+
+"<Уна>"
+	"уна" Adv Cmpl @ADVL>
+"<мый>"
+	"мый" Pron Sem/NonHum Nom Interr
+	"мый" Pron Sem/NonHum Nom Rel
+"<коми>"
+	"коми" N Sg Nom @HNOUN
+"<инькаэзлӧн>"
+	"инька" N Pl Gen @>N
+"<мӧдӧтчан>"
+	"мӧдӧтчан" N Sg Nom @HNOUN
+"<берсяись>"
+	"бер" N Sg Der Der/TempMod A Der Der/MWN N Sg Ela @N<
+	"берся" A Der Der/MWN N Sg Ela @N<
+"<шедас>"
+	"шедас" N Sg Nom @HNOUN
+"<Булгарӧ>"
+	"Булгар" N Prop Sg Ill @<ADVL
+	"Булгар" N Prop Sg Nom PxSg1 @HNOUN
+"<.>"
+	"." CLB
+
+"<Меддонаыс>"
+	"меддона" A Superl Der Der/MWN N Sg Nom PxSg3 @SUBJ>
+"<вузасян-босьтасянас>"
+	"вузасян-босьтасянас" ?
+"<вӧлӧма>"
+	"вӧвны" V Err/Orth Ind Prt2 Sg1
+	"вӧвны" V Err/Orth Ind Prt2 Sg3
+	"вӧвны" V Ind Prt2 Sg1
+	"вӧвны" V Ind Prt2 Sg3
+"<вӧрподалӧн>"
+	"вӧрподалӧн" ?
+"<гӧна>"
+	"гӧн" N Sem/Inanim Sg Der Der/ProprietiveMod A
+	"гӧн" N Sg Der Der/ProprietiveMod A
+	"гӧна" A
+"<кучик>"
+	"кучик" N Sg Nom @<SUBJ
+"<(>"
+	"(" PUNCT LEFT
+"<куэз>"
+	"ку" N Pl Nom
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<XI-XIII>"
+	"XI-XIII" ?
+"<сугӧддэзӧ>"
+	"сугӧддэзӧ" ?
+"<коми>"
+	"коми" N Sg Nom @SUBJ>
+"<отир>"
+	"отир" N Sg Nom @SUBJ>
+"<шедӧны>"
+	"шедны" V Ind Prs Pl3
+"<кипод>"
+	"кипод" N Sg Nom
+"<увтӧ>"
+	"увт" N Sg Nom PxSg1
+"<славяналӧ>"
+	"славяна" N Sg Dat
+"<,>"
+	"," CLB
+"<кӧдна>"
+	"кӧда" Pron Rel Pl Nom @SUBJ>
+	"кӧдна" Det
+"<локтӧны>"
+	"локны" V Ind Prs Pl3
+"<Новгортсянь>"
+	"Новгортсянь" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<Ростов-Суздаль>"
+	"Ростов-Суздаль" ?
+"<ладорсянь>"
+	"ладор" N Sg Egr
+"<.>"
+	"." CLB
+
+"<Шыпурттэз>"
+	"шыпурт" N Pl Nom
+"<(>"
+	"(" PUNCT LEFT
+"<меччез>"
+	"меч" N Pl Nom
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<сьӧм>"
+	"сьӧм" Hom1 N Sem/Inanim Sg Nom
+	"сьӧм" Hom2 N Sem/Inanim Sg Nom
+	"сьӧм" N Sg Nom
+"<,>"
+	"," CLB
+"<амулеттэз>"
+	"амулеттэз" ?
+"<,>"
+	"," CLB
+"<пернаэз>"
+	"перна" N Pl Nom
+"<,>"
+	"," CLB
+"<чунькытшшез>"
+	"чунькытш" N Pl Nom
+"<,>"
+	"," CLB
+"<пристежжез>"
+	"пристеж" N Pl Nom @APP-N<
+"<,>"
+	"," CLB
+"<кӧдна>"
+	"кӧда" Pron Rel Pl Nom @SUBJ>
+	"кӧдна" Det
+"<вӧлісӧ>"
+	"вӧвны" V Err/Orth Ind Prt1 Pl3
+	"вӧвны" V Ind Prt1 Pl3
+"<керӧмась>"
+	"керны" V Ind Prt2 Pl1
+	"керны" V Ind Prt2 Pl3
+"<роччезӧн>"
+	"роч" N Pl Ins
+"<,>"
+	"," CLB
+"<адззалӧмӧсь>"
+	"адззавны" V Err/Orth Ind Prt2 Pl1
+	"адззавны" V Err/Orth Ind Prt2 Pl3
+	"адззавны" V Ind Prt2 Pl1
+	"адззавны" V Ind Prt2 Pl3
+	"адззыны" V Der/Al Ind Prt2 Pl1
+	"адззыны" V Der/Al Ind Prt2 Pl3
+"<родановсалӧн>"
+	"родановсалӧн" ?
+"<нёльдас>"
+	"нёльдас" Card Cmpl
+"<казьмӧтанын>"
+	"казьмӧтан" A Prc Der Der/MWN N Sg Ine
+"<.>"
+	"." CLB
+
+"<Мукӧдыс>"
+	"мукӧд" Pron Qnt Sg Nom PxSg3 @SUBJ>
+"<,>"
+	"," CLB
+"<натьтӧ>"
+	"натьтӧ" Adv @<ADVL
+"<,>"
+	"," CLB
+"<коми>"
+	"коми" N Sg Nom @SUBJ>
+"<отир>"
+	"отир" N Sg Nom @SUBJ>
+"<дынӧ>"
+	"дын" Hom1 N Sem/Inanim Sg Ill @<ADVL
+	"дын" Hom1 N Sem/Inanim Sg Nom PxSg1 @SUBJ>
+	"дын" Hom2 N Sem/Inanim Sg Ill @<ADVL
+	"дын" Hom2 N Sem/Inanim Sg Nom PxSg1 @SUBJ>
+	"дынӧ" Adp Po Spat Sg Ill
+"<шедісӧ>"
+	"шедны" V Ind Prt1 Pl3
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<булгара>"
+	"булгара" N Sg Nom
+"<пыр>"
+	"пыр" Adp
+	"пыр" Adp Po
+	"пыр" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<¶>"
+	"¶" CLB
+
+"<¶>"
+	"¶" CLB
+
+"<Коми>"
+	"коми" N Sg Nom @HNOUN
+"<Республика>"
+	"республика" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Коми>"
+	"коми" N Sg Nom @HNOUN
+"<Республика>"
+	"республика" N Sg Nom @HNOUN
+"<(>"
+	"(" PUNCT LEFT
+"<)>"
+	")" PUNCT RIGHT
+"<—>"
+	"—" PUNCT
+"<Роч>"
+	"роч" N Sg Nom @HNOUN
+"<Федерация>"
+	"федерация" N Sg Nom @HNOUN
+"<видзантор>"
+	"видзантор" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Куйлӧ>"
+	"куйлыны" V Imprt Pl2
+	"куйлыны" V Ind Prs Sg3
+"<Европа>"
+	"Европа" N Prop Sg Nom @<SUBJ
+"<ойвыв-асыввылын>"
+	"ойвыв-асыввылын" ?
+"<,>"
+	"," CLB
+"<Урал>"
+	"Урал" N Prop Sg Nom @<SUBJ
+"<одзын>"
+	"одзын" Adp Po Spat Sg Ine
+	"одзын" Adv @<ADVL
+"<,>"
+	"," CLB
+"<Печора>"
+	"Печора" N Prop Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<Эжва>"
+	"Эжва" N Prop Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+"<Мозын>"
+	"Мозын" N Prop Sg Nom @<SUBJ
+"<юэз>"
+	"ю" N Pl Nom
+	"ю" N Sem/Inanim Pl Nom
+"<бассейнын>"
+	"бассейн" N Sg Ine
+"<.>"
+	"." CLB
+
+"<Коми>"
+	"коми" N Sg Nom
+"<Республика>"
+	"республика" N Sg Nom
+"<–>"
+	"–" PUNCT
+"<коми>"
+	"коми" N Sg Nom
+"<отирлӧн>"
+	"отир" N Sg Gen @>A
+"<чужан>"
+	"чужан" A
+	"чужан" A Prc
+	"чужны" V Ind Prs Sg2
+"<му>"
+	"му" N Sem/Inanim Sg Nom
+	"му" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<йӧзыслӧн>"
+	"йӧз" N Sg Gen PxSg3 @>N
+"<мӧд>"
+	"мӧд" Pron Dem
+"<горт>"
+	"горт" Hom1 N Sg Nom @SUBJ>
+	"горт" Hom2 N Sg Nom @SUBJ>
+	"горт" N Sem/Inanim Sg Nom @SUBJ>
+"<—>"
+	"—" PUNCT
+"<Перем>"
+	"Перем" ?
+"<ладорись>"
+	"ладор" N Sg Ela
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<кытш>"
+	"кытш" N Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<куйлӧ>"
+	"куйлыны" V Imprt Pl2
+	"куйлыны" V Ind Prs Sg3
+"<Коми>"
+	"коми" N Sg Nom @<SUBJ
+"<Республикасяняс>"
+	"республика" N Sg Egr PxSg3 So/CP
+"<лунвылынжык>"
+	"лунвыв" N Sg Ine Comp
+	"лунвыв" N Sg Ine Der/жык Comp
+"<.>"
+	"." CLB
+
+"<Коми>"
+	"коми" N Sg Nom @HNOUN
+"<Республикалӧн>"
+	"республика" N Sg Gen
+"<мувывтор>"
+	"мувывтор" ?
+"<—>"
+	"—" PUNCT
+"<415,9>"
+	"415,9" ?
+"<сюрс>"
+	"сюрс" Card Cmpl
+"<км2>"
+	"км2" ?
+"<.>"
+	"." CLB
+
+"<Оліссес>"
+	"овны" V Der/ісь ActPrsPtc Pl Nom PxSg3
+"<—>"
+	"—" PUNCT
+"<951,2>"
+	"951,2" ?
+"<сюрс>"
+	"сюрс" Card Cmpl
+"<морт>"
+	"морт" N Sg Nom
+"<(>"
+	"(" PUNCT LEFT
+"<2010>"
+	"2010" ?
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<ны>"
+	"ны" N Sg Nom
+"<коласын>"
+	"колас" N Sg Ine
+	"коласын" Adp Po Spat Sg Ine
+"<комиэз>"
+	"коми" N Pl Nom
+"<—>"
+	"—" PUNCT
+"<25,2%>"
+	"25,2%" ?
+"<.>"
+	"." CLB
+
+"<Канкарыс>"
+	"канкар" N Sg Nom PxSg3
+"<—>"
+	"—" PUNCT
+"<Сыктывкар>"
+	"Сыктывкар" N Prop Sg Nom
+"<,>"
+	"," CLB
+"<кытӧн>"
+	"кыны" V Der/тӧн
+	"кытӧн" Pron Spat Ine Rel
+"<олӧ>"
+	"овны" V Ind Prs Sg3
+"<республика>"
+	"республика" N Sg Nom @<SUBJ
+"<йӧзісь>"
+	"йӧз" N Sg Ela
+"<нёльӧт>"
+	"нёльӧт" ?
+"<тор>"
+	"тор" A
+	"тор" N Sem/Inanim Sg Nom @<SUBJ
+	"тор" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Республика>"
+	"республика" N Sg Nom @SUBJ>
+"<янсалӧ>"
+	"янсавны" V Ind Prs Sg3
+"<20>"
+	"20" ?
+"<юкӧт>"
+	"ю" N Sem/Inanim Sg Com
+	"ю" N Sg Com
+	"юк" N Sem/Inanim Sg Prl
+	"юк" N Sg Prl
+"<вылӧ>"
+	"выв" N Err/Orth Sem/Inanim Sg Ill @<ADVL
+	"выв" N Err/Orth Sem/Inanim Sg Nom PxSg1 @<SUBJ
+	"выв" N Sg Ill @<ADVL
+	"выв" N Sg Nom PxSg1 @<SUBJ
+	"вылӧ" Adp Po Spat Sg Ill
+	"вылӧ" Adv Spat Ill @ADVL>
+"<–>"
+	"–" PUNCT
+"<5>"
+	"5" ?
+"<каркытш>"
+	"каркытш" N Sg Nom
+"<(>"
+	"(" PUNCT LEFT
+"<Сыктывкар>"
+	"Сыктывкар" N Prop Sg Nom
+"<,>"
+	"," CLB
+"<Вӧркута>"
+	"Вӧркута" N Prop Sg Nom
+"<,>"
+	"," CLB
+"<Инта>"
+	"Инта" N Prop Sg Nom
+"<,>"
+	"," CLB
+"<Уква>"
+	"Уква" N Prop Sg Nom
+"<,>"
+	"," CLB
+"<Ускар>"
+	"Ускар" N Prop Sg Nom
+"<)>"
+	")" PUNCT RIGHT
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<15>"
+	"15" ?
+"<муниципал>"
+	"муниципал" ?
+"<район>"
+	"район" N Sg Nom
+"<:>"
+	":" CLB
+"<Вуктыл>"
+	"Вуктыл" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Изьва>"
+	"Изьва" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Емва>"
+	"Емва" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Емдін>"
+	"Емдін" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Койгорт>"
+	"Койгорт" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Кӧрткерӧс>"
+	"Кӧрткерӧс" ?
+"<,>"
+	"," CLB
+"<Кулӧмдін>"
+	"Кулӧмдін" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Луздор>"
+	"Луздор" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Мылдін>"
+	"Мылдін" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Печора>"
+	"Печора" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Сӧснагорт>"
+	"Сӧснагорт" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Сыктыв>"
+	"Сыктыв" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Сыктывдін>"
+	"Сыктывдін" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Удора>"
+	"Удор" N Prop Sg Der Der/ProprietiveMod A
+	"Удора" N Prop Sg Nom @HNOUN
+"<да>"
+	"да" CC
+"<Чилимдін>"
+	"Чилимдін" N Prop Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Республикаын>"
+	"республика" N Sg Ine @ADVL>
+"<10>"
+	"10" ?
+"<кар>"
+	"кар" Hom1 N Sem/Inanim Sg Nom @HNOUN
+	"кар" Hom1 N Sg Nom @HNOUN
+	"кар" Hom2 N Sem/Inanim Sg Nom @HNOUN
+	"кар" Hom2 N Sg Nom @HNOUN
+"<:>"
+	":" CLB
+"<Вӧркута>"
+	"Вӧркута" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Вуктыл>"
+	"Вуктыл" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Емва>"
+	"Емва" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Инта>"
+	"Инта" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Микунь>"
+	"Микунь" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Печора>"
+	"Печора" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Сӧснагорт>"
+	"Сӧснагорт" N Prop Sg Nom @HNOUN
+"<(>"
+	"(" PUNCT LEFT
+"<Сосногорск>"
+	"Сосногорск" N Prop Sg Nom @<SPRED
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<Сыктывкар>"
+	"Сыктывкар" N Prop Sg Nom @<SPRED
+"<,>"
+	"," CLB
+"<Ускар>"
+	"Ускар" N Prop Sg Nom @<SPRED
+"<(>"
+	"(" PUNCT LEFT
+"<Усинск>"
+	"Усинск" ?
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<Уква>"
+	"Уква" N Prop Sg Nom @<SPRED
+"<(>"
+	"(" PUNCT LEFT
+"<Ухта>"
+	"Ухта" ?
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<Нысся>"
+	"нысся" A Pron
+"<эмӧсь>"
+	"эм" A Cop Pl
+"<37>"
+	"37" ?
+"<карок>"
+	"кар" Hom1 N Der/Ок Der/Dimin N Sg Nom @HNOUN
+	"кар" Hom1 N Sem/Inanim Der/Ок Der/Dimin N Sg Nom @HNOUN
+	"кар" Hom2 N Sem/Inanim Der/Ок Der/Dimin N Sg Nom @HNOUN
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<762-а>"
+	"762-а" ?
+"<посад>"
+	"посад" N Sg Nom @HNOUN
+"<кодь>"
+	"кодь" N Sg Nom @HNOUN
+"<оланіннэз>"
+	"оланін" N Pl Nom @HNOUN
+	"оланін" N Sem/Inanim Pl Nom @HNOUN
+"<:>"
+	":" CLB
+"<посёлоккез>"
+	"посёлок" N Pl Nom @SUBJ>
+"<,>"
+	"," CLB
+"<посаддэз>"
+	"посад" N Pl Nom @SUBJ>
+"<(>"
+	"(" PUNCT LEFT
+"<татӧн>"
+	"татӧн" Adv @<ADVL
+"<нійӧ>"
+	"сія" Pron Pers Pl3 Acc @<OBJ
+"<шуӧны>"
+	"шуны" V Ind Prs Pl3
+"<сикттэзӧн>"
+	"сикт" N Pl Ins
+"<)>"
+	")" PUNCT RIGHT
+"<да>"
+	"да" CC
+"<грезддэз>"
+	"грезд" N Pl Nom @<SUBJ
+"<(>"
+	"(" PUNCT LEFT
+"<деревняэз>"
+	"деревня" N Pl Nom @<SUBJ
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<Коми>"
+	"коми" N Sg Nom @HNOUN
+"<Республикаыс>"
+	"республика" N Sg Nom PxSg3 @HNOUN
+"<аркмӧма>"
+	"аркмӧм" A Prc Der Der/A Adv @<ADVL
+"<1921>"
+	"1921" ?
+"<'>"
+	"'" PUNCT
+"<годӧ>"
+	"год" N Sg Nom PxSg1 @<SPRED
+"<август>"
+	"август" N Sg Nom @<SPRED
+"<22>"
+	"22" ?
+"<'>"
+	"'" PUNCT
+"<лунӧ>"
+	"лун" N Sem/Inanim Sg Ill @<ADVL
+	"лун" N Sem/Inanim Sg Nom PxSg1 @<SPRED
+	"лун" N Sg Ill @<ADVL
+	"лун" N Sg Nom PxSg1 @<SPRED
+"<.>"
+	"." CLB
+
+"<Медодз>"
+	"медодз" A
+"<сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<статус>"
+	"статус" N Sg Nom @SUBJ>
+"<сьӧрті>"
+	"сьӧрті" Adp Po
+"<вӧлӧма>"
+	"вӧвны" V Err/Orth Ind Prt2 Sg1
+	"вӧвны" V Err/Orth Ind Prt2 Sg3
+	"вӧвны" V Ind Prt2 Sg1
+	"вӧвны" V Ind Prt2 Sg3
+"<асвеськӧтлан>"
+	"асвеськӧтлан" ?
+"<лапӧлӧн>"
+	"лапӧ" N Sg Gen @>N
+"<(>"
+	"(" PUNCT LEFT
+"<областьӧн>"
+	"область" N Sg Ins
+"<)>"
+	")" PUNCT RIGHT
+"<РСФСР>"
+	"РСФСР" ?
+"<тэчасын>"
+	"тэчас" N Sg Ine
+"<,>"
+	"," CLB
+"<1929'–1936>"
+	"1929'–1936" ?
+"<'>"
+	"'" PUNCT
+"<воэзӧ>"
+	"во" N Pl Ill @<ADVL
+	"во" N Pl Nom PxSg1
+	"во" N Sem/Inanim Pl Ill @<ADVL
+	"во" N Sem/Inanim Pl Nom PxSg1
+"<недыр>"
+	"недыр" Adv @<ADVL
+"<кежӧ>"
+	"кеж" N Sg Ill @<ADVL
+	"кеж" N Sg Nom PxSg1 @SUBJ>
+	"кежны" V Imprt Pl2
+	"кежны" V Ind Prs Sg3
+"<сійӧ>"
+	"сія" Pron Pers Sg3 Acc
+"<сюйлӧмась>"
+	"сюйлыны" V Ind Prt2 Pl1
+	"сюйлыны" V Ind Prt2 Pl3
+"<Ойвыв>"
+	"Ойвыв" ?
+"<ладорӧ>"
+	"ладор" N Sg Ill @<ADVL
+	"ладор" N Sg Nom PxSg1 @SUBJ>
+"<(>"
+	"(" PUNCT LEFT
+"<крайӧ>"
+	"край" N Sg Ill @<ADVL
+	"край" N Sg Nom PxSg1 @SUBJ>
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<1936>"
+	"1936" ?
+"<во>"
+	"во" N Sem/Inanim Sg Nom @SUBJ>
+	"во" N Sg Nom @SUBJ>
+"<бӧрын>"
+	"бӧр" Adp Po Spat Sg Ine
+	"бӧр" N Sem/Inanim Sg Ine
+	"бӧр" N Sg Ine
+	"бӧрын" Adp Po Spat Sg Ine
+	"бӧрын" Adv Spat Ine @<ADVL
+"<сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<лэбтісьӧма>"
+	"лэбтісьны" V Ind Prt2 Sg1
+	"лэбтісьны" V Ind Prt2 Sg3
+	"лэбтісьӧм" N Sem/Inanim Sg Der Der/ProprietiveMod A
+"<Коми>"
+	"коми" N Sg Nom @<SUBJ
+"<АССР-ӧдз>"
+	"АССР-ӧдз" ?
+"<,>"
+	"," CLB
+"<1990>"
+	"1990" ?
+"<'>"
+	"'" PUNCT
+"<годӧ>"
+	"год" N Sg Ill @<ADVL
+	"год" N Sg Nom PxSg1 @SUBJ>
+"<босьтіс>"
+	"босьтны" V Ind Prt1 Sg3
+"<статус>"
+	"статус" N Sg Nom @<SUBJ
+"<ССР>"
+	"ССР" ?
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<1992>"
+	"1992" ?
+"<'>"
+	"'" PUNCT
+"<воын>"
+	"во" N Sem/Inanim Sg Ine
+	"во" N Sg Ine
+"<нимтіс>"
+	"нимтны" Hom1 V Ind Prt1 Sg3
+	"нимтны" Hom2 V Ind Prt1 Sg3
+"<асьсӧ>"
+	"асьсӧ" Pron Refl Sg3 Acc
+	"ачыс" Pron Refl Sg3 Acc
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<Республика>"
+	"республика" N Sg Nom @SUBJ>
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<лоис>"
+	"лойны" V Ind Prt1 Sg3
+	"лоны" V Ind Prt1 Sg3
+"<Роч>"
+	"роч" N Sg Nom @<SUBJ
+"<Федерация>"
+	"федерация" N Sg Nom @<SUBJ
+"<видзанторӧн>"
+	"видзанторӧн" ?
+"<(>"
+	"(" PUNCT LEFT
+"<субъектӧн>"
+	"субъект" N Sg Ins
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<Медыджыт>"
+	"Медыджыт" ?
+"<мортӧн>"
+	"морт" N Sg Ins
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<Республикаын>"
+	"республика" N Sg Ine @-FADVL>
+"<лыддисьӧ>"
+	"лыддисьны" V Ind Prs Sg3
+	"лыддьыны" V Der/ісь ActPrsPtc Sg Ill @-FADVL>
+	"лыддьыны" V Der/ісь ActPrsPtc Sg Nom PxSg1 @SUBJ>
+"<Мӧсквасянь>"
+	"Мӧсквасянь" ?
+"<иньдӧм>"
+	"иньдыны" V Ind Prt2 Sg3
+"<Юралісь>"
+	"Юра" N Prop Sem/Ant-Mal Sg Abl
+	"юравны" V Der/ісь ActPrsPtc Sg Nom @<SUBJ
+	"юравны" V Err/Orth Der/ісь ActPrsPtc Sg Nom @<SUBJ
+	"юралісь" A Prc
+"<.>"
+	"." CLB
+
+"<Туйдӧттэз>"
+	"Туйдӧттэз" ?
+"<лӧсьӧтан>"
+	"лӧсьӧтны" V Ind Prs Sg2
+"<органӧн>"
+	"орган" N Sg Ins
+"<лоӧ>"
+	"лойны" V Ind Prs Sg3
+	"лоны" V Ind Prs Sg3
+	"лоӧ" N Sg Nom
+"<Каналан>"
+	"Каналан" ?
+"<сӧвет>"
+	"сӧвет" N Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<кытчӧ>"
+	"кытчӧ" Ill Rel
+	"кытчӧ" Pron Spat Ill Rel
+"<баитіссесӧ>"
+	"баитны" V Der/ісь ActPrsPtc Pl Acc PxSg3
+"<бӧрйӧны>"
+	"бӧрйыны" V Ind Prs Pl3
+"<республикаын>"
+	"республика" N Sg Ine
+"<оліссез>"
+	"овны" V Der/ісь ActPrsPtc Pl Nom
+"<.>"
+	"." CLB
+
+"<Юралісь>"
+	"Юра" N Prop Sem/Ant-Mal Sg Abl
+	"юравны" V Der/ісь ActPrsPtc Sg Nom @SUBJ>
+	"юравны" V Err/Orth Der/ісь ActPrsPtc Sg Nom @SUBJ>
+	"юралісь" A Prc
+"<да>"
+	"да" CC
+"<Каналан>"
+	"Каналан" ?
+"<сӧвет>"
+	"сӧвет" N Sg Nom @SUBJ>
+"<бӧрйӧны>"
+	"бӧрйыны" V Ind Prs Pl3
+"<Коми>"
+	"коми" N Sg Nom
+"<Республикалӧ>"
+	"республика" N Sg Dat
+"<веськӧтлан>"
+	"веськӧтлан" A Prc
+	"веськӧтлыны" V Ind Prs Sg2
+"<(>"
+	"(" PUNCT LEFT
+"<правительство>"
+	"правительство" N Sg Nom
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<кытӧн>"
+	"кыны" V Der/тӧн
+	"кытӧн" Pron Interr
+	"кытӧн" Pron Spat Ine Interr
+	"кытӧн" Pron Spat Ine Rel
+"<пукалӧны>"
+	"пукавны" V Err/Orth Ind Prs Pl3
+	"пукавны" V Ind Prs Pl3
+"<министррез>"
+	"министр" N Pl Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Медодзза>"
+	"медодзза" A
+"<юралісьӧн>"
+	"юралісь" A Prc Der Der/MWN N Sg Ins
+"<Коми>"
+	"коми" N Sg Nom
+"<Республикаын>"
+	"республика" N Sg Ine
+"<1994'–2000>"
+	"1994'–2000" ?
+"<'>"
+	"'" PUNCT
+"<воэзӧ>"
+	"во" N Pl Ill @<ADVL
+	"во" N Pl Nom PxSg1
+	"во" N Sem/Inanim Pl Ill @<ADVL
+	"во" N Sem/Inanim Pl Nom PxSg1
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<Спиридонов>"
+	"Спиридонов" N Prop Sem/Sur-Mal Sg Nom
+"<Юрий>"
+	"Юрий" N Prop Sem/Ant-Mal Sg Nom
+"<,>"
+	"," CLB
+"<сы>"
+	"сія" Pron Pers Sg3 Cmpl
+"<бӧрын>"
+	"бӧр" Adp Po Spat Sg Ine
+	"бӧр" N Sem/Inanim Sg Ine
+	"бӧр" N Sg Ine
+	"бӧрын" Adp Po Spat Sg Ine
+	"бӧрын" Adv Spat Ine @ADVL>
+"<2001'–2009>"
+	"2001'–2009" ?
+"<'>"
+	"'" PUNCT
+"<годдэзӧ>"
+	"год" N Pl Ill @<ADVL
+	"год" N Pl Nom PxSg1
+"<–>"
+	"–" PUNCT
+"<Торлопов>"
+	"Торлопов" N Prop Sem/Sur-Mal Sg Nom
+"<Ладимир>"
+	"Ладимир" ?
+"<.>"
+	"." CLB
+
+"<Ӧні>"
+	"ӧні" Adv @<ADVL
+"<,>"
+	"," CLB
+"<2010>"
+	"2010" ?
+"<'>"
+	"'" PUNCT
+"<вося>"
+	"вося" N Sg Nom
+"<январсянь>"
+	"январ" N Sg Egr
+"<,>"
+	"," CLB
+"<юралісьын>"
+	"юравны" V Der/ісь ActPrsPtc Sg Ine @HNOUN
+	"юравны" V Err/Orth Der/ісь ActPrsPtc Sg Ine @HNOUN
+"<пукалӧ>"
+	"пук" N Sg Der Der/ProprietiveMod A Der Der/MWN N Sg Dat
+"<Гайзер>"
+	"Гайзер" N Prop Sg Nom
+"<Вячеслав>"
+	"Вячеслав" N Prop Sem/Ant-Mal Sg Nom
+"<.>"
+	"." CLB
+
+"<Республикаыс>"
+	"республика" N Sg Nom PxSg3 @SUBJ>
+"<олӧ>"
+	"овны" V Ind Prs Sg3
+"<Мӧсква>"
+	"Мӧсква" ?
+"<кад>"
+	"кад" Hom1 N Sg Nom @<SUBJ
+	"кад" Hom2 N Sg Nom @<SUBJ
+	"кад" N Sem/Inanim Sg Nom @<SUBJ
+"<сьӧрті>"
+	"сьӧрті" Adp Po
+"<:>"
+	":" CLB
+"<муюгыт>"
+	"муюгыт" A
+"<(>"
+	"(" PUNCT LEFT
+"<Гринвидз>"
+	"Гринвидз" ?
+"<)>"
+	")" PUNCT RIGHT
+"<кад>"
+	"кад" Hom1 N Sg Nom
+	"кад" Hom2 N Sg Nom
+	"кад" N Sem/Inanim Sg Nom
+"<+ 3>"
+	"+ 3" ?
+"<час>"
+	"час" Adv @ADVL>
+	"час" N Sg Nom
+"<(>"
+	"(" PUNCT LEFT
+"<гожумнас>"
+	"гожум" N Sem/Inanim Sg Ins PxSg3
+"<+ 4>"
+	"+ 4" ?
+"<час>"
+	"час" Adv @ADVL>
+	"час" N Sg Nom
+"<)>"
+	")" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<Урал>"
+	"Урал" N Prop Sg Nom
+"<кад>"
+	"кад" Hom1 N Sg Nom
+	"кад" Hom2 N Sg Nom
+	"кад" N Sem/Inanim Sg Nom
+"<–>"
+	"–" PUNCT
+"<2>"
+	"2" ?
+"<час>"
+	"час" Adv @<ADVL
+	"час" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Сьӧм>"
+	"сьӧм" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"сьӧм" Hom2 N Sem/Inanim Sg Nom @SUBJ>
+	"сьӧм" N Sg Nom @SUBJ>
+"<туйӧ>"
+	"туй морт" N Sg Nom PxSg1 @SUBJ>
+	"туй" N Sg Nom PxSg1 @SUBJ>
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<Республикаын>"
+	"республика" N Sg Ine
+"<бергалӧ>"
+	"бергавны" V Ind Prs Sg3
+"<роч>"
+	"роч" N Sg Nom @<SUBJ
+"<шать>"
+	"шать" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<1>"
+	"1" ?
+"<шать>"
+	"шать" N Sg Nom @HNOUN
+"<= 100>"
+	"= 100" ?
+"<ур>"
+	"ур" N Sem/Inanim Sg Nom @HNOUN
+	"ур" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Ним>"
+	"ним" Hom1 N Sem/Inanim Sg Nom @HNOUN
+	"ним" Hom2 N Sem/Inanim Sg Nom @HNOUN
+	"ним" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<республика>"
+	"республика" N Sg Nom @SUBJ>
+"<рочӧн>"
+	"роч" N Sg Ins
+	"рочӧн" Adv @ADVL>
+"<шусьӧ>"
+	"шуны" V Der/сьы Ind Prs Sg3
+"<Республика>"
+	"республика" N Sg Nom @<SUBJ
+"<Коми>"
+	"коми" N Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<инглиш>"
+	"инглиш" ?
+"<кыв>"
+	"кыв" N Sg Nom @<SUBJ
+"<вылын>"
+	"выв" N Err/Orth Sem/Inanim Sg Ine
+	"выв" N Sg Ine
+	"вылын" Adv Spat Ine @ADVL>
+	"вылын" Hom1 A
+	"вылын" Hom2 Adp Po Spat Sg Ine
+"<->"
+	"-" PUNCT
+"<Komi>"
+	"Komi" ?
+"<Republic>"
+	"Republic" ?
+"<.>"
+	"." CLB
+
+"<Юраліссез>"
+	"юравны" V Der/ісь ActPrsPtc Pl Nom @SUBJ>
+	"юравны" V Err/Orth Der/ісь ActPrsPtc Pl Nom @SUBJ>
+"<нимтӧмась>"
+	"нимтны" Hom1 V Ind Prt2 Pl1
+	"нимтны" Hom1 V Ind Prt2 Pl3
+	"нимтны" Hom2 V Ind Prt2 Pl1
+	"нимтны" Hom2 V Ind Prt2 Pl3
+"<республикасӧ>"
+	"республика" N Sg Acc PxSg3
+"<медодз>"
+	"медодз" A
+"<Коми>"
+	"коми" N Sg Nom
+"<(>"
+	"(" PUNCT LEFT
+"<зырянскӧй>"
+	"зырянскӧй" A
+"<)>"
+	")" PUNCT RIGHT
+"<автономнӧй>"
+	"автономнӧй" A
+"<область>"
+	"область" N Sg Nom
+"<,>"
+	"," CLB
+"<комиӧн>"
+	"коми" N Sg Ins
+"<эта>"
+	"этайӧ" Pron Dem Sg Cmpl
+"<лоӧ>"
+	"лоӧ" N Sg Nom
+"<Коми>"
+	"коми" N Sg Nom
+"<(>"
+	"(" PUNCT LEFT
+"<зыряналӧн>"
+	"зыряна" N Sg Gen
+"<)>"
+	")" PUNCT RIGHT
+"<асвеськӧтлан>"
+	"асвеськӧтлан" ?
+"<лапӧв>"
+	"лапӧв" ?
+"<.>"
+	"." CLB
+
+"<1936>"
+	"1936" ?
+"<'>"
+	"'" PUNCT
+"<воын>"
+	"во" N Sem/Inanim Sg Ine
+	"во" N Sg Ine
+"<сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<пондіс>"
+	"пондыны" V Ind Prt1 Sg3
+"<шусьыны>"
+	"шусьыны" ?
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<Автономнӧй>"
+	"автономнӧй" A
+"<Советскӧй>"
+	"советскӧй" A
+"<Социалистическӧй>"
+	"социалистическӧй" A
+"<Республика>"
+	"республика" N Sg Nom @SUBJ>
+"<(>"
+	"(" PUNCT LEFT
+"<комиӧнжык>"
+	"комиӧнжык" ?
+"<кӧ>"
+	"кыны" V Imprt Pl2
+	"кыны" V Ind Prs Sg3
+	"кӧ" Adv
+	"кӧ" CS
+"<керны>"
+	"керны" V Inf
+"<Советтэзын>"
+	"Советтэзын" ?
+"<социализм>"
+	"социализм" N Sg Nom @<SUBJ
+"<видзись>"
+	"видзны" V Der/ісь ActPrsPtc Sg Nom @<SUBJ
+"<комиэзлӧн>"
+	"коми" N Pl Gen
+"<асвеськӧтлан>"
+	"асвеськӧтлан" ?
+"<республика>"
+	"республика" N Sg Nom @<SUBJ
+"<;>"
+	";" CLB
+"<дженыта>"
+	"дженыт" A Der Der/A Adv @ADVL>
+	"дженыта" Adv @ADVL>
+"<–>"
+	"–" PUNCT
+"<Коми>"
+	"коми" N Sg Nom
+"<АССР>"
+	"АССР" ?
+"<)>"
+	")" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<1990>"
+	"1990" ?
+"<'>"
+	"'" PUNCT
+"<годӧ>"
+	"год" N Sg Ill @<ADVL
+	"год" N Sg Nom PxSg1 @SUBJ>
+"<этія>"
+	"этія" ?
+"<кузь>"
+	"кузь" N Sg Nom @SUBJ>
+"<нимсис>"
+	"ним" Hom1 N Sem/Inanim Sg Ela PxSg3
+	"ним" Hom2 N Sem/Inanim Sg Ela PxSg3
+	"ним" N Sg Ela PxSg3
+"<шупкӧмась>"
+	"шупкыны" V Ind Prt2 Pl1
+	"шупкыны" V Ind Prt2 Pl3
+"<">"
+	""" PUNCT
+"<автономнӧй>"
+	"автономнӧй" A
+"<">"
+	""" PUNCT
+"<(>"
+	"(" PUNCT LEFT
+"<">"
+	""" PUNCT
+"<асвеськӧтлан>"
+	"асвеськӧтлан" ?
+"<">"
+	""" PUNCT
+"<)>"
+	")" PUNCT RIGHT
+"<тор>"
+	"тор" A
+	"тор" N Sem/Inanim Sg Nom @SUBJ>
+	"тор" N Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<1992>"
+	"1992" ?
+"<'>"
+	"'" PUNCT
+"<воын>"
+	"во" N Sem/Inanim Sg Ine
+	"во" N Sg Ine
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<республика>"
+	"республика" N Sg Nom @SUBJ>
+"<босьтіс>"
+	"босьтны" V Ind Prt1 Sg3
+"<аслыс>"
+	"ас" Det Dat PxSg3
+"<ӧння>"
+	"ӧння" A
+"<нимсӧ>"
+	"ним" Hom1 N Sem/Inanim Sg Acc PxSg3
+	"ним" Hom2 N Sem/Inanim Sg Acc PxSg3
+	"ним" N Sg Acc PxSg3
+"<.>"
+	"." CLB
+
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<кыв>"
+	"кыв" N Sg Nom @SUBJ>
+"<тудӧттэз>"
+	"тудӧттэз" ?
+"<сьӧрті>"
+	"сьӧрті" Adp Po @ADVL>
+"<тӧдмӧтаныс>"
+	"тӧдмӧтаныс" ?
+"<кывтэчасын>"
+	"кывтэчас" N Sg Ine @ADVL>
+"<пыр>"
+	"пыр" Adv @ADVL>
+"<суалалӧ>"
+	"суны" V Der/Al Der/Al Ind Prs Sg3
+"<одзын>"
+	"одзын" Adp Po Spat Sg Ine @ADVL>
+	"одзын" Adv @ADVL>
+"<:>"
+	":" CLB
+"<«>"
+	"«" PUNCT LEFT
+"<">"
+	""" PUNCT
+"<Кытшӧм>"
+	"кытшӧм" A
+	"кытшӧм" Pron A Interr
+	"кытшӧм" Pron A Rel
+"<">"
+	""" PUNCT
+"<республика>"
+	"республика" N Sg Nom @HNOUN
+"<?>"
+	"?" CLB
+
+"<»>"
+	"»" PUNCT RIGHT
+"<–>"
+	"–" PUNCT
+"<«>"
+	"«" PUNCT LEFT
+"<">"
+	""" PUNCT
+"<Коми>"
+	"коми" N Sg Nom @HNOUN
+"<">"
+	""" PUNCT
+"<республика>"
+	"республика" N Sg Nom @HNOUN
+"<»>"
+	"»" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<Роч>"
+	"роч" N Sg Nom @SUBJ>
+"<кылын>"
+	"кыв" N Err/Orth Sg Ine @ADVL>
+	"кыв" N Sg Ine @ADVL>
+"<жӧ>"
+	"жӧ" CC
+"<сэтшӧм>"
+	"сэтшӧм" A
+	"сэтшӧм" Adn Dem
+	"сэтшӧм" Det
+"<туйдӧт>"
+	"туйдӧтны" V ConNeg
+	"туйдӧтны" V Imprt Sg2
+"<абу>"
+	"абу" A
+	"абу" Adv @ADVL>
+	"абу" Adv CC Neg @ADVL>
+	"абу" Pcle @PCLE
+	"абу" V Neg Cop Ind Sg
+"<,>"
+	"," CLB
+"<сійӧн>"
+	"сійӧн" CS Conj
+	"сія" Pron Pers Sg3 Der/йӧ Ins
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<">"
+	""" PUNCT
+"<Республика>"
+	"республика" N Sg Nom @SUBJ>
+"<">"
+	""" PUNCT
+"<кылыс>"
+	"кыв" N Err/Orth Sg Nom PxSg3 @SUBJ>
+	"кыв" N Sg Nom PxSg3 @SUBJ>
+"<нылӧн>"
+	"ны" N Sg Gen @ADVL>
+	"ныв" N Sg Ins
+"<сулалӧ>"
+	"сулавны" V Err/Orth Ind Prs Sg3
+	"сулавны" V Ind Prs Sg3
+	"сулыны" V Der/Al Ind Prs Sg3
+"<">"
+	""" PUNCT
+"<Коми>"
+	"коми" N Sg Nom @<SUBJ
+"<">"
+	""" PUNCT
+"<шуан>"
+	"шуан" N V Der/An Sg Nom @<SUBJ
+"<бӧрын>"
+	"бӧрын" Adv Spat Ine @-F<ADVL
+"<.>"
+	"." CLB
+
+"<Ассис>"
+	"ачыс" Pron Refl Sg3 Abl
+	"ачыс" Pron Refl Sg3 Ela
+"<нимсӧ>"
+	"ним" Hom1 N Sem/Inanim Sg Acc PxSg3
+	"ним" Hom2 N Sem/Inanim Sg Acc PxSg3
+	"ним" N Sg Acc PxSg3
+"<республикаыс>"
+	"республика" N Sg Nom PxSg3
+"<босьтӧма>"
+	"босьтӧм" A Prc Der Der/A Adv @ADVL>
+"<татӧн>"
+	"татӧн" Adv @ADVL>
+"<важынсянь>"
+	"важынсянь" Adv @ADVL>
+"<олісь>"
+	"олісь" A Prc
+"<коми>"
+	"коми" N Sg Nom
+"<отир>"
+	"отир" N Sg Nom
+"<ним>"
+	"ним" Hom1 N Sem/Inanim Sg Nom
+	"ним" Hom2 N Sem/Inanim Sg Nom
+	"ним" N Sg Nom
+"<сьӧрті>"
+	"сьӧрті" Adp Po
+"<,>"
+	"," CLB
+"<кӧда>"
+	"кӧда" Pron Interr Sg Nom
+	"кӧда" Pron Rel Sg Nom
+"<понда>"
+	"понда" Adp
+	"понда" Adp Po
+	"пондыны" V Ind Prs Sg1
+"<сія>"
+	"сія" Pron Pers Sg3 Nom @SUBJ>
+"<и>"
+	"и" CC
+	"и" CS
+	"и" Pcle @PCLE
+"<вӧлі>"
+	"вӧвны" V Err/Orth Ind Prt1 Sg1
+	"вӧвны" V Ind Prt1 Sg1
+"<лӧсьӧтӧм>"
+	"лӧсьӧтны" V Ind Prt2 Sg3
+	"лӧсьӧтӧм" A Prc
+	"лӧсьӧтӧм" N Sem/Inanim Sg Nom
+"<.>"
+	"." CLB
+
+"<Статус>"
+	"статус" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<">"
+	""" PUNCT
+"<Унажык>"
+	"унажык" Adv @ADVL>
+"<сы>"
+	"сія" Pron Pers Sg3 Cmpl
+"<йылісь>"
+	"йывны" V Der/ісь ActPrsPtc Sg Nom
+"<видзӧт>"
+	"видз" Hom1 N Sg Prl
+	"видз" Hom2 N Sem/Inanim Sg Prl
+"<:>"
+	":" CLB
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<республикалӧн>"
+	"республика" N Sg Gen @>N
+"<статус>"
+	"статус" N Sg Nom @SUBJ>
+"<">"
+	""" PUNCT
+"<Ӧння>"
+	"ӧння" A
+"<статус>"
+	"статус" N Sg Nom @SUBJ>
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<республикаыслӧ>"
+	"республика" N Sg Dat PxSg3
+"<гижӧмась>"
+	"гижны" V Ind Prt2 Pl1
+	"гижны" V Ind Prt2 Pl3
+"<Роч>"
+	"роч" N Sg Nom
+"<Федерация>"
+	"федерация" N Sg Nom
+"<да>"
+	"да" CC
+"<Коми>"
+	"коми" N Sg Nom
+"<Республика>"
+	"республика" N Sg Nom
+"<асланыс>"
+	"асланыс" Pron Refl Pl3 Gen @>N
+	"ачыс" Pron Refl Pl3 Gen @>N
+"<Конституцияэзын>"
+	"конституция" N Pl Ine
+"<.>"
+	"." CLB
+
+"<Ны>"
+	"ны" N Sg Nom @HNOUN
+"<сьӧрті>"
+	"сьӧрті" Adp Po @N<
+"<Коми>"
+	"коми" N Sg Nom @HNOUN
+"<республика>"
+	"республика" N Sg Nom @HNOUN
+"<лоӧ>"
+	"лоӧ" N Sg Nom @HNOUN
+"<Роч>"
+	"роч" N Sg Nom @HNOUN
+"<Федерациялӧ>"
+	"федерация" N Sg Dat
+"<субъектӧн>"
+	"субъект" N Sg Ins
+"<.>"
+	"." CLB
+
+"<Янсалӧм>"
+	"янсавны" V Ind Prt2 Sg3
+	"янсалӧм" A Prc
+	"янсалӧм" N Sem/Inanim Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<">"
+	""" PUNCT
+"<Унажык>"
+	"унажык" Adv @ADVL>
+"<сы>"
+	"сія" Pron Pers Sg3 Cmpl
+"<йылісь>"
+	"йывны" V Der/ісь ActPrsPtc Sg Nom
+"<видзӧт>"
+	"видз" Hom1 N Sg Prl
+	"видз" Hom2 N Sem/Inanim Sg Prl
+"<:>"
+	":" CLB
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<республикалӧн>"
+	"республика" N Sg Gen @>A
+"<янсалӧм>"
+	"янсавны" V Ind Prt2 Sg3
+	"янсалӧм" A Prc
+	"янсалӧм" N Sem/Inanim Sg Nom @SUBJ>
+"<">"
+	""" PUNCT
+"<Коми>"
+	"коми" N Sg Nom @<SUBJ
+"<республикаӧ>"
+	"республика" N Sg Ill @<ADVL
+	"республика" N Sg Nom PxSg1 @SUBJ>
+"<пырӧны>"
+	"пырны" V Ind Prs Pl3
+"<15>"
+	"15" ?
+"<район>"
+	"район" N Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<5>"
+	"5" ?
+"<кар>"
+	"кар" Hom1 N Sem/Inanim Sg Nom @<SUBJ
+	"кар" Hom1 N Sg Nom @<SUBJ
+	"кар" Hom2 N Sem/Inanim Sg Nom @<SUBJ
+	"кар" Hom2 N Sg Nom @<SUBJ
+"<кытш>"
+	"кытш" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Му-видз>"
+	"му-видз" N Sg Nom
+"<уджалан>"
+	"уджавны" V Err/Orth Ind Prs Sg2
+	"уджавны" V Ind Prs Sg2
+	"уджалан" A
+"<11>"
+	"11" ?
+"<район>"
+	"район" N Sg Nom @SUBJ>
+"<лыддисьӧны>"
+	"лыддисьны" V Ind Prs Pl3
+"<коми>"
+	"коми" N Sg Nom @SUBJ>
+"<муэзӧн>"
+	"му" N Pl Ins
+	"му" N Sem/Inanim Pl Ins
+"<,>"
+	"," CLB
+"<Чилимдін>"
+	"Чилимдін" N Prop Sg Nom @SUBJ>
+"<районын>"
+	"район" N Sg Ine
+"<важынсянь>"
+	"важынсянь" Adv @<ADVL
+"<олӧны>"
+	"овны" V Ind Prs Pl3
+"<сваль>"
+	"сваль" ?
+"<роччез>"
+	"роч" N Pl Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<3>"
+	"3" ?
+"<кар>"
+	"кар" Hom1 N Sem/Inanim Sg Nom @SUBJ>
+	"кар" Hom1 N Sg Nom @SUBJ>
+	"кар" Hom2 N Sem/Inanim Sg Nom @SUBJ>
+	"кар" Hom2 N Sg Nom @SUBJ>
+"<районын>"
+	"район" N Sg Ine
+"<(>"
+	"(" PUNCT LEFT
+"<Сӧснагорт>"
+	"Сӧснагорт" N Prop Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<Вуктыл>"
+	"Вуктыл" N Prop Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<Печора>"
+	"Печора" N Prop Sg Nom @SUBJ>
+"<)>"
+	")" PUNCT RIGHT
+"<да>"
+	"да" CC
+"<каркытшшезын>"
+	"каркытш" N Pl Ine
+"<унажыксӧ>"
+	"унажыксӧ" ?
+"<олӧны>"
+	"овны" V Ind Prs Pl3
+"<роч>"
+	"роч" N Sg Nom
+"<отир>"
+	"отир" N Sg Nom
+"<да>"
+	"да" CC
+"<мӧдік>"
+	"мӧдік" Pron Indef Sg Nom
+"<вовліссез>"
+	"вовлыны" V Der/ісь ActPrsPtc Pl Nom
+"<.>"
+	"." CLB
+
+"<Быд>"
+	"быд" Pron Qnt
+"<районын>"
+	"район" N Sg Ine @-FADVL>
+"<да>"
+	"да" CC
+"<каркытшын>"
+	"каркытш" N Sg Ine @-FADVL>
+"<эм>"
+	"эм" N Sem/Inanim Sg Nom @SUBJ>
+"<отирсянь>"
+	"отир" N Sg Egr
+"<бӧрйӧм>"
+	"бӧрйыны" V Ind Prt2 Sg3
+	"бӧрйӧм" A Prc
+	"бӧрйӧм" N Sem/Inanim Sg Nom @SUBJ>
+	"бӧрйӧм" N Sg Nom @SUBJ>
+"<юралісьыс>"
+	"юравны" V Der/ісь ActPrsPtc Sg Nom PxSg3 @<SUBJ
+	"юравны" V Err/Orth Der/ісь ActPrsPtc Sg Nom PxSg3 @<SUBJ
+"<да>"
+	"да" Adv @-F<ADVL
+"<советыс>"
+	"советыс" ?
+"<.>"
+	"." CLB
+
+"<Нія>"
+	"сія" Pron Pers Pl3 Nom @SUBJ>
+"<лӧсьӧтӧны>"
+	"лӧсьӧтны" V Ind Prs Pl3
+"<районлыслӧ>"
+	"районлыслӧ" ?
+"<бюджет>"
+	"бюджет" N Sg Nom @SUBJ>
+"<да>"
+	"да" CC
+"<видзӧтӧны>"
+	"видзӧтны" V Ind Prs Pl3
+"<асланас>"
+	"асланас" ?
+"<мувывторын>"
+	"мувывторын" ?
+"<кӧзяйство>"
+	"кӧзяйство" ?
+"<да>"
+	"да" CC
+"<культура>"
+	"культура" N Sg Nom
+"<зорӧтӧм>"
+	"зорӧтӧм" N Sem/Inanim Sg Nom
+"<сьӧрын>"
+	"сьӧр" N Sg Ine
+	"сьӧрын" Adp Po
+	"сьӧрын" Adp Po Sg Ine
+"<.>"
+	"." CLB
+
+"<Районнэз>"
+	"район" N Pl Nom @HNOUN
+"<асьныс>"
+	"асьныс" Pron Refl Pl3 Nom @N<
+	"ачыс" Pron Refl Pl3 Nom @N<
+"<янсасьӧны>"
+	"янсасьӧны" ?
+"<поснитжык>"
+	"поснит" A Comp
+"<муниципал>"
+	"муниципал" ?
+"<юкӧттэз>"
+	"юкӧттэз" ?
+"<вылӧ>"
+	"выв" N Err/Orth Sem/Inanim Sg Ill @<ADVL
+	"выв" N Err/Orth Sem/Inanim Sg Nom PxSg1 @HNOUN
+	"выв" N Sg Ill @<ADVL
+	"выв" N Sg Nom PxSg1 @HNOUN
+	"вылӧ" Adp Po Spat Sg Ill @N<
+	"вылӧ" Adv Spat Ill @<ADVL
+"<,>"
+	"," CLB
+"<быдсӧн>"
+	"быдсӧн" Adv @<ADVL
+	"быдсӧн" Pron
+	"быдсӧн" Pron Qnt Coll Sg Nom @HNOUN
+"<эмӧсь>"
+	"эм" A Cop Pl
+"<16>"
+	"16" ?
+"<карму>"
+	"карму" ?
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<175>"
+	"175" ?
+"<посадму>"
+	"посадму" ?
+"<.>"
+	"." CLB
+
+"<География>"
+	"география" N Sg Nom @HNOUN
+"<.>"
+	"." CLB
+
+"<">"
+	""" PUNCT
+"<Унажык>"
+	"унажык" Adv @ADVL>
+"<сы>"
+	"сія" Pron Pers Sg3 Cmpl
+"<йылісь>"
+	"йывны" V Der/ісь ActPrsPtc Sg Nom
+"<видзӧт>"
+	"видз" Hom1 N Sg Prl
+	"видз" Hom2 N Sem/Inanim Sg Prl
+"<:>"
+	":" CLB
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<республикалӧн>"
+	"республика" N Sg Gen @>N
+"<география>"
+	"география" N Sg Nom @SUBJ>
+"<">"
+	""" PUNCT
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<республика>"
+	"республика" N Sg Nom @SUBJ>
+"<куйлӧ>"
+	"куйлыны" V Ind Prs Sg3
+"<Европа>"
+	"Европа" N Prop Sg Nom @<SUBJ
+"<ой-асыввыв>"
+	"ой-асыввыв" ?
+"<пельӧсын>"
+	"пельӧс" N Sg Ine
+"<,>"
+	"," CLB
+"<Роч>"
+	"роч" N Sg Nom @<SUBJ
+"<му>"
+	"му" N Sem/Inanim Sg Nom @<SUBJ
+	"му" N Sg Nom @<SUBJ
+"<ойвылын>"
+	"ойвылын" ?
+"<,>"
+	"," CLB
+"<Урал>"
+	"Урал" N Prop Sg Nom @<SUBJ
+"<керӧссэз>"
+	"керӧс" N Pl Nom
+"<одзын>"
+	"одзын" Adp Po Spat Sg Ine
+	"одзын" Adv @<ADVL
+"<,>"
+	"," CLB
+"<Печора>"
+	"Печора" N Prop Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<Изьва>"
+	"Изьва" N Prop Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<Эжва>"
+	"Эжва" N Prop Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<Висер>"
+	"Висер" N Prop Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<Сыктыв>"
+	"Сыктыв" N Prop Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<Ву>"
+	"Ву" N Prop Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+"<Мозын>"
+	"Мозын" N Prop Sg Nom @<SUBJ
+"<юэз>"
+	"ю" N Pl Nom
+	"ю" N Sem/Inanim Pl Nom
+"<пӧлӧн>"
+	"пӧв" Hom1 N Err/Orth Sem/Inanim Sg Ins
+	"пӧв" Hom1 N Sg Ins
+	"пӧв" Hom2 N Sg Ins
+	"пӧв" N Sg Ins
+	"пӧлӧн" Adp Po
+	"пӧлӧн" Adp Po Sg Nom @<SUBJ
+	"пӧлӧн" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<республика>"
+	"республика" N Sg Nom @SUBJ>
+"<олӧ>"
+	"овны" V Ind Prs Sg3
+"<II>"
+	"II" ?
+"<час>"
+	"час" N Sg Nom @<SUBJ
+"<отын>"
+	"от" N Sg Ine
+"<,>"
+	"," CLB
+"<неӧткодьыс>"
+	"неӧткодь" A Der Der/MWN N Sg Nom PxSg3 @<SUBJ
+"<Коми>"
+	"коми" N Sg Nom @<SUBJ
+"<кытшыскӧт>"
+	"кытш" N Sg Com PxSg3
+"<—>"
+	"—" PUNCT
+"<- 2>"
+	"- 2" ?
+"<час>"
+	"час" Adv @<ADVL
+	"час" N Sg Nom @<SUBJ
+"<.>"
+	"." CLB
+
+"<Муыс>"
+	"му" N Sem/Inanim Sg Nom PxSg3 @SUBJ>
+	"му" N Sg Nom PxSg3 @SUBJ>
+"<республикалӧн>"
+	"республика" N Sg Gen
+"<415,9>"
+	"415,9" ?
+"<сюрс>"
+	"сюрс" Card Cmpl
+"<км2>"
+	"км2" ?
+"<пасьта>"
+	"пасьта" A
+	"пасьта" Adp Po
+	"пасьта" N Sg Nom @SUBJ>
+"<,>"
+	"," CLB
+"<этія>"
+	"этія" ?
+"<лоӧ>"
+	"лойны" V Imprt Pl2
+	"лойны" V Ind Prs Sg3
+	"лоны" V Imprt Pl2
+	"лоны" V Ind Prs Sg3
+	"лоӧ" N Sg Nom @HNOUN
+"<Роч>"
+	"роч" A
+"<Федерацияись>"
+	"федерация" N Sg Ela @N<
+"<2,44%>"
+	"2,44%" ?
+"<.>"
+	"." CLB
+
+"<Коми>"
+	"коми" N Sg Nom @HNOUN
+"<отирлӧн>"
+	"отир" N Sg Gen
+"<ойвыв>"
+	"ойвыв" ?
+"<гортыс>"
+	"горт" Hom1 N Sg Nom PxSg3 @HNOUN
+	"горт" N Sem/Inanim Sg Nom PxSg3 @HNOUN
+"<ыджытжык>"
+	"ыджыт" A Comp
+"<сэтшӧм>"
+	"сэтшӧм" Adn Dem
+"<канмуэзся>"
+	"канму" N Pl Cmpr
+	"канму" N Pl Der Der/TempMod A
+"<кыдз>"
+	"кыдз" Hom1 N Sem/Inanim Sg Nom @HNOUN
+	"кыдз" N Sg Nom @HNOUN
+"<Германия>"
+	"Германия" N Prop Sg Nom @HNOUN
+"<,>"
+	"," CLB
+"<Италья>"
+	"Италья" ?
+"<нето>"
+	"нето" ?
+"<Суоми>"
+	"суоми" N Sg Nom @APP-N<
+"<.>"
+	"." CLB
+
+"<А>"
+	"а" Adv @<ADVL
+	"а" CC
+	"а" Interj @INTERJ
+	"а" Pcle @PCLE
+"<Коми>"
+	"коми" N Sg Nom
+"<кытш>"
+	"кытш" N Sg Nom
+"<ыжда>"
+	"ыжда" Adp Po
+	"ыждыны" V Ind Prs Sg1
+"<регионнэз>"
+	"регион" N Pl Nom @SUBJ>
+"<вермасӧ>"
+	"вермыны" V Ind Fut Pl3
+"<тӧрны>"
+	"тӧрны" V Inf
+"<Коми>"
+	"коми" N Sg Nom
+"<республикӧ>"
+	"республикӧ" ?
+"<невна>"
+	"невна" Adv @<ADVL
+"<не>"
+	"не" CC
+	"не" Pcle @PCLE
+"<13-а>"
+	"13-а" ?
+"<.>"
+	"." CLB
+
+"<Ойвывсянь>"
+	"Ойвывсянь" ?
+"<лунланьӧ>"
+	"лун" N Sem/Inanim Sg AprIll
+	"лун" N Sg AprIll
+"<республика>"
+	"республика" N Sg Nom @SUBJ>
+"<нюжалӧ>"
+	"нюжавны" V Err/Orth Ind Prs Sg3
+	"нюжавны" V Ind Prs Sg3
+"<785>"
+	"785" ?
+"<км>"
+	"км" N ABBR
+"<,>"
+	"," CLB
+"<рытвывсянь>"
+	"рытвыв" N Sg Egr
+"<асывланьӧ>"
+	"асыв" N Sg AprIll
+	"асывланьӧ" Adv
+"<—>"
+	"—" PUNCT
+"<695>"
+	"695" ?
+"<км>"
+	"км" N ABBR
+"<,>"
+	"," CLB
+"<медкузь>"
+	"медкузь" A Superl
+"<визь>"
+	"визь" N Sem/Inanim Sg Nom @SUBJ>
+	"визь" N Sg Nom @SUBJ>
+"<позьӧ>"
+	"позьны" V Ind Prs Sg3
+"<нюжӧтны>"
+	"нюжӧтны" V Inf
+"<лун-рытвывсянь>"
+	"лун-рытвывсянь" ?
+"<ой-асыввылӧ>"
+	"ой-асыввылӧ" ?
+"<,>"
+	"," CLB
+"<сідз>"
+	"сідз" Adv @<ADVL
+"<петӧ>"
+	"петны" V Imprt Pl2
+	"петны" V Ind Prs Sg3
+"<1275>"
+	"1275" ?
+"<км>"
+	"км" N ABBR
+"<.>"
+	"." CLB
+
+"<Республикаыс>"
+	"республика" N Sg Nom PxSg3 @SUBJ>
+"<куйлӧ>"
+	"куйлыны" V Ind Prs Sg3
+"<вылын>"
+	"выв" N Err/Orth Sem/Inanim Sg Ine
+	"выв" N Sg Ine
+	"вылын" Adv Spat Ine @<ADVL
+	"вылын" Hom1 A
+	"вылын" Hom2 Adp Po Spat Sg Ine
+"<паськытаэзын>"
+	"паськытаэзын" ?
+"<.>"
+	"." CLB
+
+"<Сылӧн>"
+	"сыв" Hom2 N Sg Ins
+	"сыв" N Sg Ins
+	"сія" Pron Pers Sg3 Gen
+"<медылісь>"
+	"медылісь" ?
+"<чутоккез>"
+	"чут" N Der/Ок Der/Dimin N Pl Nom @HNOUN
+"<:>"
+	":" CLB
+"<ойвылын>"
+	"ойвылын" ?
+"<—>"
+	"—" PUNCT
+"<68°25′>"
+	"68°25′" ?
+"<о>"
+	"о" Interj @INTERJ
+"<.>"
+	"." CLB
+
+"<п>"
+	"п" N ABBR
+"<.>"
+	"." CLB
+
+"<,>"
+	"," CLB
+"<лунвылын>"
+	"лунвыв" N Sg Ine @HNOUN
+"<—>"
+	"—" PUNCT
+"<59°12′>"
+	"59°12′" ?
+"<о>"
+	"о" Interj @INTERJ
+"<.>"
+	"." CLB
+
+"<п>"
+	"п" N ABBR
+"<.>"
+	"." CLB
+
+"<,>"
+	"," CLB
+"<рытвылын>"
+	"рытвыв" N Err/Orth Sem/Inanim Sg Ine @HNOUN
+	"рытвыв" N Sg Ine @HNOUN
+"<—>"
+	"—" PUNCT
+"<45°25′>"
+	"45°25′" ?
+"<а>"
+	"а" Interj @INTERJ
+"<.>"
+	"." CLB
+
+"<к>"
+	"к" N ABBR
+"<.>"
+	"." CLB
+
+"<да>"
+	"да" CC
+	"да" CS
+	"да" Pcle @PCLE
+"<асыввылын>"
+	"асыввыв" N Sg Ine @HNOUN
+"<—>"
+	"—" PUNCT
+"<66°15′>"
+	"66°15′" ?
+"<а>"
+	"а" Interj @INTERJ
+"<.>"
+	"." CLB
+
+"<к>"
+	"к" N ABBR
+"<.>"
+	"." CLB
+
+"<Лунвылас>"
+	"лунвыв" N Sg Ill PxSg3 @<ADVL
+	"лунвыв" N Sg Ine PxSg3
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<республикакӧт>"
+	"республика" N Sg Com
+"<ордчӧн>"
+	"ордчӧн" Adv @ADVL>
+"<куйлӧ>"
+	"куйлыны" V Imprt Pl2
+	"куйлыны" V Ind Prs Sg3
+"<коми>"
+	"коми" N Sg Nom @<SUBJ
+"<йӧзыслӧн>"
+	"йӧз" N Sg Gen PxSg3 @>N
+"<мӧд>"
+	"мӧд" Pron Dem
+"<горт>"
+	"горт" Hom1 N Sg Nom @<SUBJ
+	"горт" Hom2 N Sg Nom @<SUBJ
+	"горт" N Sem/Inanim Sg Nom @<SUBJ
+"<—>"
+	"—" PUNCT
+"<Коми>"
+	"коми" N Sg Nom @<SUBJ
+"<кытш>"
+	"кытш" N Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+"<Перем>"
+	"Перем" ?
+"<ладор>"
+	"ладор" N Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<кытчӧ>"
+	"кытчӧ" Ill Rel
+	"кытчӧ" Pron Spat Ill Rel
+"<миян>"
+	"ме" Pron Pers Pl1
+"<кытшыс>"
+	"кытш" N Sg Nom PxSg3 @SUBJ>
+"<ӧні>"
+	"ӧні" Adv @ADVL>
+"<пырӧ>"
+	"пырны" V Imprt Pl2
+	"пырны" V Ind Prs Sg3
+"<,>"
+	"," CLB
+"<лун-асыввылын>"
+	"лун-асыввылын" ?
+"<–>"
+	"–" PUNCT
+"<Свердлов>"
+	"Свердлов" N Prop Sem/Sur-Mal Sg Nom
+"<лапӧв>"
+	"лапӧв" ?
+"<,>"
+	"," CLB
+"<асыввылын>"
+	"асыввыв" N Sg Ine
+"<–>"
+	"–" PUNCT
+"<Ханты-Манси>"
+	"Ханты-Манси" ?
+"<(>"
+	"(" PUNCT LEFT
+"<Йӧгралӧн>"
+	"йӧгра" N Sg Gen
+"<)>"
+	")" PUNCT RIGHT
+"<асвеськӧтлан>"
+	"асвеськӧтлан" ?
+"<кытш>"
+	"кытш" N Sg Nom
+"<да>"
+	"да" CC
+"<Ямалісь>"
+	"ямны" V Der/Al Der/ісь ActPrsPtc Sg Nom
+"<яраннэзлӧн>"
+	"яран" N Pl Gen
+"<асвеськӧтлан>"
+	"асвеськӧтлан" ?
+"<кытш>"
+	"кытш" N Sg Nom
+"<.>"
+	"." CLB
+
+"<Ойвылын>"
+	"Ойвылын" ?
+"<республика>"
+	"республика" N Sg Nom
+"<межаасьӧ>"
+	"межаасьӧ" ?
+"<Яраннэз>"
+	"яран" N Pl Nom
+"<кытшкӧт>"
+	"кытш" N Sg Com
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<рытвылын>"
+	"рытвыв" N Err/Orth Sem/Inanim Sg Ine
+	"рытвыв" N Sg Ine
+"<–>"
+	"–" PUNCT
+"<Кардор>"
+	"Кардор" N Prop Sg Nom
+"<лапӧвкӧт>"
+	"лапӧвкӧт" ?
+"<,>"
+	"," CLB
+"<кытчӧ>"
+	"кытчӧ" Ill Interr
+	"кытчӧ" Ill Rel
+	"кытчӧ" Pron Spat Ill Interr
+	"кытчӧ" Pron Spat Ill Rel
+"<этія>"
+	"этія" ?
+"<кытшыс>"
+	"кытш" N Sg Nom PxSg3 @SUBJ>
+"<пырӧ>"
+	"пырны" V Ind Prs Sg3
+"<.>"
+	"." CLB
+
+"<Лун-рытвылас>"
+	"Лун-рытвылас" ?
+"<Коми>"
+	"коми" N Sg Nom @SUBJ>
+"<республикакӧт>"
+	"республика" N Sg Com
+"<ордчӧн>"
+	"ордчӧн" Adv @<ADVL
+"<куйлӧ>"
+	"куйлыны" V Imprt Pl2
+	"куйлыны" V Ind Prs Sg3
+"<Киров>"
+	"Киров" N Prop Sg Nom @<SUBJ
+	"Киров" N Prop Sem/Sur-Mal Sg Nom @<SUBJ
+"<лапӧв>"
+	"лапӧв" ?
+"<.>"
+	"." CLB
+
+"<Лунвывся>"
+	"лунвыв" N Sg Cmpr
+	"лунвывся" A
+"<визирыс>"
+	"визир" N Sem/Inanim Sg Nom PxSg3 @SUBJ>
+	"визир" N Sg Nom PxSg3 @SUBJ>
+"<мунӧ>"
+	"мунны" V Ind Prs Sg3
+"<Ойвыв>"
+	"Ойвыв" ?
+"<мыссэз>"
+	"мыс" N Pl Nom
+"<кузя>"
+	"кузь" A Der Der/A Adv @ADVL>
+	"кузь" N Sg Der Der/ProprietiveMod A
+	"кузя" A
+	"кузя" Adv @ADVL>
+	"кузя" Hom1 Adv @ADVL>
+	"кузя" Hom2 Adp Po
+	"кузя" N Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<асыввывся>"
+	"асыввыв" N Sg Cmpr
+	"асыввывся" A
+"<–>"
+	"–" PUNCT
+"<Урал>"
+	"Урал" N Prop Sg Nom
+"<керӧссэз>"
+	"керӧс" N Pl Nom
+"<кузя>"
+	"кузь" A Der Der/A Adv @<ADVL
+	"кузь" N Sg Der Der/ProprietiveMod A
+	"кузя" A
+	"кузя" Adv @<ADVL
+	"кузя" Hom1 Adv @<ADVL
+	"кузя" Hom2 Adp Po
+	"кузя" N Sg Nom @APP-N<
+"<.>"
+	"." CLB
+
