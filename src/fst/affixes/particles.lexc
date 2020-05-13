@@ -1,0 +1,29 @@
+!! !!!Particles
+!! ----
+!! Komi Particles
+
+
+LEXICON PCLE_
+: WordEnd ;
+
+!LEXICON PCLE-AUX-IMP_
+!+Aux+Imprt: WordEnd ;
+!LEXICON PCLE-AUX_
+!+Aux: WordEnd ;
+
+LEXICON PcleIntens
++Intens: WordEnd ;
+
+LEXICON ONOM_
++Onom: WordEnd ;
+
+!LEXICON DESCR-End
+! DescrTag ;
+LEXICON DESCR_
++Descr: WordEnd ;
+
+
+
+
+! vim: set ft=xfst-lexc:
+

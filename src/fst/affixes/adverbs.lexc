@@ -1,0 +1,168 @@
+!! !!!Adverb inflection
+!! ----
+!! Komi adverbs inflect for direction.
+
+
+LEXICON ADV-ADA_
++AdA: WordEnd ;
+LEXICON Ad-ATAG ! these are checked as advs.
+ADV-ADA_ ;
+
+!LEXICON GER_
+!+V+Ger: ADV_ ;
+
+LEXICON ADV-MULT_
++Mult: K ;
+LEXICON ADV-MULT-DIST_
++Mult+Dist: K ;
+LEXICON ADV-ORD-MULT_
++Ord+Mult: K ;
+
+
+LEXICON ADV-IS_GER-IGON ! these are checked as gerunds in +Der/иг
++V+Der/иг+Ins: ADV_ ;
+
+!LEXICON ADV-IS_GER-IGTYRJI ! these are checked as gerunds in +Der/иг
+!+V+Der/иг+Der/тырйи: ADV_ ;
+
+LEXICON ADV-IS_GER-MON ! these are checked as gerunds in +Der/мӧн
++V+Der/мӧн: ADV_ ;
+
+LEXICON ADV-IS_GER-TOG ! these are checked as gerunds in +Der/тӧг
++V+Der/тӧг: ADV_ ;
+
+LEXICON ADV-IS_GER-TODZ ! these are checked as gerunds in +Der/тӧдз
++V+Der/тӧдз: ADV_ ;
+
+LEXICON ADV-IS_N-TOG ! these are checked as state adverbials in +Der/тӧг
++N+Der/тӧг: ADV_ ;
+
+LEXICON ADV-IS_ADV-TOG ! polar adverbials in +Der/тӧг
++Der/тӧг: ADV_ ;
+
+LEXICON ADV-IS_Q-TOG ! polar adverbials in +Der/тӧг
++Qnt+Der/тӧг: ADV_ ;
+
+LEXICON ADV-IS_SUPERL !
++Der/мед: ADV_ ;
+
+LEXICON ADV-F !
++Src/F: ADV_ ;
+
+LEXICON ADV-STATE !
++State: COMPARATIVE ; !
+
+LEXICON AdvParenthetic
++Parenthetic: WordEnd ;
+
+LEXICON ADV_SUB
++Err/Orth: ADV_ ;
+
+LEXICON ADV_ ! these are checked as advs.
+: COMPARATIVE ;
+
+LEXICON AdvTemp
+ ADV-TEMP_ ;
+
+LEXICON ADV-TEMP_
++Temp: COMPARATIVE ;
+
+LEXICON ADV-SPAT  !!= * __@CODE@__
+      !! these are adverbs in spatial cases
+      !! and they probably are equivalent in morphology to postpositions
+ ADV-SPAT-APR ; !
+ ADV-SPAT-APRILL ; !
+ ADV-SPAT-APRINE ; !
+ ADV-SPAT-APRELA ; !
+ ADV-SPAT-EGR ;	 !
+ ADV-SPAT-ELA ;	 !
+ ADV-SPAT-ILL ;	 !
+ ADV-SPAT-INE ;	 !
+ ADV-SPAT-PRL ;	 !
+ ADV-SPAT-TERI ;	 !
+ ADV-SPAT-TERII ;	 !
+! ADV-SPAT-TRA ;	 !
+
+LEXICON ADV-SPAT-LA ! These adverbs have a formative in ла
++Der/ла: ADV-SPAT ;
+
+LEXICON ADV-SPAT-APR
++Spat+Apr:%>лань SPAT-COMPARATIVE ;
+
+LEXICON ADV-SPAT-APRELA
++Spat+Apr:%>ланьысь SPAT-COMPARATIVE ;
+
+LEXICON ADV-SPAT-APRILL
++Spat+Apr:%>ланьӧ SPAT-COMPARATIVE ;
+
+LEXICON ADV-SPAT-APRINE
++Spat+Apr:%>ланьын SPAT-COMPARATIVE ;
+
+LEXICON ADV-SPAT-EGR
++Spat+Egr:%>сянь SPAT-COMPARATIVE ;
+
+LEXICON ADV-SPAT-ELA
++Spat+Ela:%>ысь SPAT-COMPARATIVE ;
+
+LEXICON ADV-SPAT-ILL
++Spat+Ill:%>ӧ SPAT-COMPARATIVE ;
+
+LEXICON ADV-SPAT-INE
++Spat+Ine:%>ын SPAT-COMPARATIVE ;
+
+LEXICON ADV-SPAT-PRL
++Spat+Prl:%>ӧт K ;
+
+!LEXICON ADV-SPAT-TRA
+!+Spat+Tra:%>ті COMPARATIVE ;
+
+LEXICON ADV-SPAT-TERI
++Spat+TerI:%>ӧдзз COMPARATIVE ;
+
+LEXICON ADV-SPAT-TERII
++Spat+TerII:%>ви COMPARATIVE ;
+
+LEXICON ADV-VTERI
++V+Der/тӧдз+Adv+Temp+TerI:%>тӧдзз K ;
+
+! Adverbs with ready morphology
+!LEXICON ADV-IS_APRELA
+!+Apr+Ela: SPAT-COMPARATIVE ;
+
+LEXICON ADV-IS_APRILL
++Apr+Ill: SPAT-COMPARATIVE ;
+
+LEXICON ADV-IS_APRINE
++Apr+Ine: SPAT-COMPARATIVE ;
+
+LEXICON ADV-IS_APR
++Apr: SPAT-COMPARATIVE ;
+
+LEXICON ADV-IS_EGR
++Egr: SPAT-COMPARATIVE ;
+
+LEXICON ADV-IS_ELA
++Ela: SPAT-COMPARATIVE ;
+
+LEXICON ADV-IS_ILL
++Ill: IllCompar ;
+
+LEXICON ADV-IS_INE
++Ine: SPAT-COMPARATIVE ;
+
+LEXICON ADV-IS_PROL
++Prol: K ;
+
+LEXICON ADV-IS_TERI
++TerI: K ;
+
+!LEXICON ADV-IS_TERII
+!+TerII: K ;
+
+!LEXICON ADV-IS_TRA
+!+Tra: K ;
+
+
+
+! vim: set ft=xfst-lexc:
+

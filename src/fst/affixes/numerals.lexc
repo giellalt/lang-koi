@@ -1,0 +1,323 @@
+
+
+! ================================ !
+!! !!!Numeral morphological lexica 
+! ================================ !
+
+LEXICON NUM_
+CARD ;
+
+LEXICON NUM-CARD_
+CARD ;
+
+LEXICON NUM-DIST_
++Distr: K ;
+
+!This has to be worked on 2012-01-19
+LEXICON QNT-CARD_
+ CARD ;
+:%>ӧд ORD ;
+:%>нан COLL ;
+
+LEXICON CARD
++Card: NumCASEPOSSLEX ;
++Card+Der/кӧ+Presentational:%>%-кӧ WordEnd ;
+!+Ord:%>ӧд NumCASEPOSSLEX ;
++Card+Iter:%>%{иі%}сь K ;
++Card+Iter+Distr:%>%{иі%}сьӧн K ;
++Card+Distr:%>ӧн K ;
+
+LEXICON COLL
++Coll: NumCASEPOSSLEX ; ! _нан_ is already part of the stem
++Coll+Iter:%>%{иі%}сь K ;
++Coll+Iter+Distr:%>%{иі%}сьӧн K ;
+
+LEXICON ORD
++Ord: NumCASEPOSSLEX ; ! ӧд part of the stem
++Ord+Iter:%>%{иі%}сь K ;
++Ord+Iter+Distr:%>%{иі%}сьӧн K ;!CHECKME 2019-11-04
+
+LEXICON NUM-IS_DISTR
++Distr: K ;
+
+LEXICON QNT_
+: NumCASEPOSSLEX ;
++Card+Iter:%>%{иі%}сь K ;
++Card+Iter+Distr:%>%{иі%}сьӧн K ;
++Card+Distr:%>ӧн K ;
+
+LEXICON ITER_
++Iter: K ;
+
+!! LEXICON NUM-APPR ! 2011-11-03 This will need work
+LEXICON CARD-APPR
++Card+Appr: K ;
+
+LEXICON CARD-ITER-APPR
++Card+Iter+Appr: K ;
+
+
+! =================== !
+!! !!Inflectional lexica 
+! =================== !
+
+!! All nouns follow one contlex "Noun1"
+!! to begin with here is simply a list of all variant
+!! with no more variants beyond:
+
+! Numbers
+! Case + Px or Px+Case
+
+
+LEXICON NumCASEPOSSLEX
++Cmpl: # ;
++Der/MWN+N+Sg: NumMWN ;
++Der/MWN+N+Pl:%>ъяс NumMWN ;
+
+LEXICON NumMWN
++Nom: K ;
+!+ZeroAcc: K ; !This needs something done to it. There should be a TAG distinction
+          !between +Acc: and +Acc:%>ӧс
+          ! Introducing +ZeroAcc
++Acc:%>ӧс K ;
++Gen:%>лӧн K ;
++Abl:%>лысь K ;
+DAT_THEN-K ;
++Acc+PxSg3:%>сӧ K ;
++Ins:%>ӧн K ;
++Com:%>кӧд K ;
++Car:%>тӧг K ;
++Cns:%>ла K ;
++Cmpr:%>ся K ;
++Ine:%>ын K ;
++Ela:%>ысь K ;
++Ill:%>ӧ K ;
++Apr:%>лань K ;
++Egr:%>сянь K ;
++Prl:%>ӧд K ;
+!+Prl+Tra:%>ӧдті K ;
++TerI:%>ӧдз K ;
++TerII:%>ви K ;
+!149
+
+!1SG
++Nom+PxSg1:%>ӧй K ;
++Gen+PxSg1+So/PC:%>ӧйлӧн K ;
++Abl+PxSg1+So/PC:%>ӧйлісь K ;
++Dat+PxSg1+So/PC:%>ӧйлӧ K ;
++Acc+PxSg1:%>ӧс K ; !Zero marking on the possessive suffix, as it were.
+
++Ins+PxSg1+So/CP:%>нам K ;
+
++Com+PxSg1+So/PC:%>ӧйкӧд K ;
++Car+PxSg1+So/PC:%>ӧйтӧг K ;
++Cns+PxSg1+So/PC:%>ӧйла K ;
+
++Ine+PxSg1+So/CP:%>ам K ;
++Ela+PxSg1+So/CP:%>сьым K ;
++Ill+PxSg1+So/CP:%>ам K ;
+
++Apr+PxSg1+So/PC:%>ӧйлань K ;
++Egr+PxSg1+So/PC:%>ӧйсянь K ;
+
++Prl+PxSg1+So/CP:%>ӧдым K ;
++TerI+PxSg1+So/CP:%>ӧдзым K ; !CHECKME 2019-11-04
+
+!2SG
++Nom+PxSg2:%>ыт K ;
++Gen+PxSg2+So/PC:%>ытлӧн K ;
++Abl+PxSg2+So/PC:%>ытлісь K ;
++Dat+PxSg2+So/PC:%>ытлӧ K ;
++Acc+PxSg2:%>тӧ K ;
+
++Ins+PxSg2+So/CP:%>нат K ;
+
++Com+PxSg2+So/PC:%>ыткӧд K ;
+
++Car+PxSg2+So/PC:%>ыттӧг K ;
+
++Cns+PxSg2+So/PC:%>ыдла K ;
+
++Ine+PxSg2+So/CP:%>ат K ;
++Ela+PxSg2+So/CP:%>сьыт K ;
++Ill+PxSg2+So/CP:%>ат K ;
++Apr+PxSg2+So/PC:%>ытлань K ;
++Egr+PxSg2+So/PC:%>ытсянь K ;
++Prl+PxSg2+So/CP:%>ӧдыт K ;
++TerI+PxSg2+So/CP:%>ӧдзыт K ;
+
+
+!3SG
++Nom+PxSg3:%>ыс K ;
++Gen+PxSg3+So/PC:%>ыслӧн K ;
++Abl+PxSg3+So/PC:%>ыслісь K ;
++Dat+PxSg3+So/PC:%>ыслӧ K ;
++Acc+PxSg3:%>сӧ K ;
+
++Ins+PxSg3+So/CP:%>нас K ;
+
++Com+PxSg3+So/PC:%>ыскӧд K ;
+
++Car+PxSg3+So/PC:%>ыстӧг K ;
++Car+PxSg3+So/CP:%>тӧгыс K ;
+
++Cns+PxSg3+So/PC:%>ысла K ;
+
++Ine+PxSg3+So/CP:%>ас K ;
++Ela+PxSg3+So/CP:%>сьыс K ;
++Ill+PxSg3+So/CP:%>ас K ;
++Apr+PxSg3+So/PC:%>ыслань K ;
++Egr+PxSg3+So/PC:%>ыссянь K ;
++Prl+PxSg3+So/CP:%>ӧдыс K ;
++TerI+PxSg3+So/CP:%>ӧдзыс K ;
+
+
+!1PL
++Nom+PxPl1:%>ным K ;
++Gen+PxPl1+So/PC:%>нымлӧн K ;
++Abl+PxPl1+So/PC:%>нымлісь K ;
++Dat+PxPl1+So/PC:%>нымлӧ K ;
++Acc+PxPl1:%>нымӧс K ;
+
++Ins+PxPl1+So/CP:%>наным K ;
+
++Com+PxPl1+So/PC:%>нымкӧд K ;
+
++Car+PxPl1+So/PC:%>нымтӧг K ;
+
++Cns+PxPl1+So/PC:%>нымла K ;
+
++Ine+PxPl1+So/CP:%>аным K ;
++Ela+PxPl1+So/CP:%>сьыным K ;
++Ill+PxPl1+So/CP:%>аным K ;
++Apr+PxPl1+So/PC:%>нымлань K ;
++Egr+PxPl1+So/PC:%>нымсянь K ;
++Prl+PxPl1+So/CP:%>ӧдным K ;
++TerI+PxPl1+So/CP:%>ӧдзным K ;
+
+!2PL
++Nom+PxPl2:%>ныт K ;
++Gen+PxPl2+So/PC:%>ныдлӧн K ;
++Abl+PxPl2+So/PC:%>ныдлісь K ;
++Dat+PxPl2+So/PC:%>ныдлӧ K ;
++Acc+PxPl2:%>нытӧ K ;
+
++Ins+PxPl2+So/CP:%>наныт K ;
+
++Com+PxPl2+So/PC:%>ныткӧд K ;
+
++Car+PxPl2+So/PC:%>ныттӧг K ;
+
++Cns+PxPl2+So/PC:%>нытла K ;
+
++Ine+PxPl2+So/CP:%>аныт K ;
++Ela+PxPl2+So/CP:%>сьыныт K ;
++Ill+PxPl2+So/CP:%>аныт K ;
++Apr+PxPl2+So/PC:%>нытлань K ;
++Egr+PxPl2+So/PC:%>нытсянь K ;
++Prl+PxPl2+So/CP:%>ӧдныт K ;
++Ter+PxPl2+So/CP:%>ӧдзныт K ;
+
+
+!3PL
++Nom+PxPl3:%>ныс K ;
++Gen+PxPl3+So/PC:%>ныслӧн K ;
++Abl+PxPl3+So/PC:%>ныслісь K ;
++Dat+PxPl3+So/PC:%>ныслӧ K ;
++Acc+PxPl3:%>нысӧ K ;
+
+!+Ins+PxPl3+So/CP:%>наныс K ; ! ста
+!+Nom+PxPl3+So/CP:%>нанныс K ; ! 2012-02-16 this should be removed
+
++Com+PxPl3+So/PC:%>ныскӧд K ;
+
++Car+PxPl3+So/PC:%>ныстӧг K ;
+
++Cns+PxPl3+So/PC:%>нысла K ;
+
++Ine+PxPl3+So/CP:%>аныс K ;
++Ela+PxPl3+So/CP:%>сьыныс K ;
++Ill+PxPl3+So/CP:%>аныс K ;
++Apr+PxPl3+So/PC:%>ныслань K ;
++Egr+PxPl3+So/PC:%>ныссянь K ;
++Prl+PxPl3+So/CP:%>ӧдныс K ;
++TerI+PxPl3+So/CP:%>ӧдзныс K ;
+
+
+
+                     
+ 
+!! !!Arabic numerals
+! ===============
+
+!LEXICON NUM-PREFIXES     !!= * __@CODE@__  
+!        ARABIC ;
+!§       ARABIC ;      ! §24                     !^C^                               
+!§§      ARABIC ;     ! §§24                     !^C^                               
+!§%      ARABIC ;    ! § 24                      !^C^                               
+!§§%     ARABIC ;   ! §§ 24                      !^C^                               
+!%-      ARABIC ;     ! -24                      !^C^                               
+!%‒      ARABIC ;     ! -24 U+2012 Figure line   !^C^                               
+!%–      ARABIC ;     ! -24 U+2013 en dash       !^C^                               
+!%—      ARABIC ;     ! -24 U+2014 em dash       !^C^                               
+!%―      ARABIC ;     ! -24 U+2015 horizontal l  !^C^                               
+!%+      ARABIC ;     ! +24                      !^C^                               
+!%-%     ARABIC ;        ! - 24                  !^C^                               
+!%‒%     ARABIC ;        ! - 24 2012             !^C^                               
+!%–%     ARABIC ;        ! - 24 2013             !^C^                               
+!%—%     ARABIC ;        ! - 24 2014             !^C^                               
+!%―%     ARABIC ;        ! - 24 2015             !^C^                               
+!%+%     ARABIC ;        ! + 24                  !^C^                               
+!%*      ARABIC ;     ! *24                      !^C^                               
+!%$      ARABIC ;     ! $24  ! And the Euro?     !^C^                               
+!%<      ARABIC ;     ! <24                      !^C^                               
+!!%>     ARABIC ;     ! >24                      !^C^                               
+!s%.     ARABIC ;     ! s.24                     !^C^                               
+!
+
+
+LEXICON ARABIC          !!= * __@CODE@__ 
+1 ARABICLOOP ;                                  !^C^                               
+2 ARABICLOOP ;                                  !^C^                               
+3 ARABICLOOP ;                                  !^C^                               
+4 ARABICLOOP ;                                  !^C^                               
+5 ARABICLOOP ;                                  !^C^                               
+6 ARABICLOOP ;                                  !^C^                               
+7 ARABICLOOP ;                                  !^C^                               
+8 ARABICLOOP ;                                  !^C^                               
+9 ARABICLOOP ;                                  !^C^                               
+%0 ARABICLOOP ;                                 !^C^                               
+
+
+
+LEXICON ARABICLOOP                              !^C^                                                                              
++Num+Card: NUMDELIMITER ;
+        ARABIC ;                                !^C^                                                                              
+%-      ARABIC ;              ! 1-2    multipart numbers        !^C^                                                              
+%.%-    ARABIC ;              ! 1.-2   multipart numbers        !^C^                                                              
+%-%     ARABIC ;              ! 1- 2   multipart numbers        !^C^                                                              
+% %-    ARABIC ;              ! 1 -2   multipart numbers        !^C^                                                              
+% %-%   ARABIC ;              ! 1 - 2  multipart numbers        !^C^                                                              
+% %-%-%   ARABIC ;            ! 1 -- 2 multipart numbers        !^C^                                                              
+%. ARABIC ;                                                     !^C^                                                              
+%, ARABIC ;                                                     !^C^                                                              
+%: ARABIC ;                                                     !^C^                                                              
+%  ARABIC ;   ! Allowing for "23 500".                     !^C^                                                              
+   ARABIC ;   ! Allowing for "23 500" w/nbsp (initial char = alt-space) !^C^                                              
+%/ ARABIC ;   ! 24/12                                      !^C^                                                              
++A+Ord:%. # ;                                                    !^C^                                                             
+%-+Num:%- # ;         ! 10-  (high on missing list)                            !^C^                                                             
+,%-+Num:,%- # ;       ! 10,-                                   !^C^                                                             
+%%+Num+Nom:%% # ;     ! 50%. It is wrong, but 75 % of us write "75%".    !^C^                                              
+% %%+Num+Nom:% %% # ; ! We must analyse the corr. ones too... 50 % etc. !^C^                                              
+
+LEXICON NUMDELIMITER
+    NumCASEPOSSLEX ;
+:%: NumCASEPOSSLEX ;
+:%- NumCASEPOSSLEX ;
+:%' NumCASEPOSSLEX ;
+
+
+
+! vim: set ft=xfst-lexc:
+

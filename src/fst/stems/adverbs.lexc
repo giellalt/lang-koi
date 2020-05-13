@@ -1,0 +1,25 @@
+
+LEXICON Adverbs
+adverb ADV_ ;
+ятнӧя+Adv:ятнӧя ADV_ ;
+эшӧ+Adv:эшӧ ADV_ ;
+только+Adv:только ADV_ ;
+кӧда+Adv:кӧда ADV_ ;
+паныт+Adv:паныт ADV_ ;
+одзлань+Adv:одзлань ADV_ ;
+одзын+Adv:одзын ADV_ ;
+
+унажык+Adv:унажык ADV_ ;
+ордчӧн+Adv:ордчӧн ADV_ ;
+некӧр+Adv:некӧр ADV_ ;
+ӧтпырись+Adv:ӧтпырись ADV_ ;
+вдруг+Adv:вдруг ADV_ ;
+ӧтмӧдӧрӧ+Adv:ӧтмӧдӧрӧ ADV_ ;
+одзжык+Adv:одзжык ADV_ ;
+медодзза+Adv:медодзза ADV_ ;
+кӧркӧ+Adv:кӧркӧ ADV_ ;
+мӧдпӧв+Adv:мӧдпӧв ADV_ ;
+ни+Adv:ни ADV_ ;
+
+
+! vim: set ft=xfst-lexc:

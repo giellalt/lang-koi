@@ -1,0 +1,26 @@
+[What is this?|WhatIsThis.html]
+
+
+!!! Dynamic documentation
+
+* [Links to generated source file documentation|Links.html]
+* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/koi/src/morphology/stems/]   
+  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/koi/src/morphology/affixes/] 
+  / [syntax|https://gtsvn.uit.no/langtech/trunk/langs/koi/src/syntax] 
+  / [twolc|https://gtsvn.uit.no/langtech/trunk/langs/koi/src/phonology/koi-phon.twolc]   
+  / [yaml|https://gtsvn.uit.no/langtech/trunk/langs/koi/test/src/gt-norm-yamls/]
+* Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-koi.fi.html]
+  / [text|http://giellatekno.uit.no/cgi/d-koi.fi.html]
+
+!!! Grammatical issues
+
+* [The tags that are in use|https://gtsvn.uit.no/langtech/trunk/langs/koi/src/morphology/root.lexc]   
+* [A list of morphological tags|/lang/common/MorphologicalTags.html]
+
+!!!Resources
+* [Cyrillic keyboard|https://gtsvn.uit.no/langtech/trunk/techdoc/keyboards/download/KyrilliskQWERTY.zip]
+
+!!!Using the analysers
+
+* In the terminal: analyse words by writing ''ukoi'', generate with ''dkoi''
+* For more info, see [How to use the morphological parsers|/tools/docu-sme-manual.html]

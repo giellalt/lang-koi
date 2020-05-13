@@ -1,0 +1,20 @@
+!! !!!Conjunctors
+!! ----
+!! Komi conjunctors
+
+
+LEXICON CONJ_
++Conj: WordEnd ;
+
+LEXICON CC_
+: WordEnd ;
+
+LEXICON CS_
+: WordEnd ;
+
+
+
+
+
+! vim: set ft=xfst-lexc:
+

@@ -1,0 +1,282 @@
+!! !!!Postposition inflection
+!! ----
+
+!! Komi postpositions inflect for direction.
+
+! ============ !
+!! Prep lexica
+! ============ !
+LEXICON ADP_
++Po: K ;
+
+LEXICON PR_
++Pr: WordEnd ; !! Russian на
+
+
+! ============ !
+!! Postp lexica 
+! ============ !
+
+LEXICON PoATag
++Po: A_ ;
+
+LEXICON PoNTag
++Po: N_ ;
+
+LEXICON POSTP_
++Po: WordEnd ;
+
+! Jaska! mikä on näiden kahden +Po -ryhmien erot?
+! Poistetaan se ero toistaiseksi
+
+!LEXICON POSTP1a
+!+Po: WordEnd ;
+! these are:
+! ногӧн, выйӧн
+
+
+!! This contlex allows for relational word which, otherwise, are open 
+!! to extensive declension
+
+
+LEXICON POSTP1  !!= * __@CODE@__
+PO-APR ;
+PO-APRILL ;
+PO-APR-INE ;
+PO-COMP ;
+PO-EGR ;
+PO-ELA ;
+PO-ILL ;
+PO-INE ;
+PO-INSTR ;
+PO-PROL ;
+PO-TERI ;
+!! these are: 
+
+!! аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
+!! кузя, ног, ньылыд, паныдӧн, пӧлӧн, пыдди, пыр, понда, 
+!! ради, уліті, выліті, вывті, вомас, вомӧн
+!! пӧвст
+
+LEXICON PO-APR
++Po+Sg+Apr:%>лань PO-PX ;
+
+LEXICON PO-APRILL
++Po+Sg+Apr+Ill:%>ланьӧ K ;
++Po+Sg+Apr+Ill+PxSg1:%>ланям K ;
++Po+Sg+Apr+Ill+PxPl1:%>ланяным K ;
++Po+Sg+Apr+Ill+PxSg2:%>ланяд K ;
++Po+Sg+Apr+Ill+PxPl2:%>ланяныд K ;
++Po+Sg+Apr+Ill+PxSg3:%>ланяс K ;
++Po+Sg+Apr+Ill+PxPl3:%>ланяныс K ;
+
+LEXICON PO-APR-INE
++Po+Sg+Apr+Ine:%>ланьын K ;
++Po+Sg+Apr+Ine+PxSg1:%>ланям K ;
++Po+Sg+Apr+Ine+PxPl1:%>ланяным K ;
++Po+Sg+Apr+Ine+PxSg2:%>ланяд K ;
++Po+Sg+Apr+Ine+PxPl2:%>ланяныд K ;
++Po+Sg+Apr+Ine+PxSg3:%>ланяс K ;
++Po+Sg+Apr+Ine+PxPl3:%>ланяныс K ;
+
+
+LEXICON PO-COMP
++Po+Sg+Cmpr:%>ся PO-PX ;
+! бӧрся, гырся
+
+LEXICON PO-EGR
++Po+Sg+Egr:%>сянь PO-PX ;
+
+LEXICON PO-ELA
++Po+Sg+Ela:%>%{иі%}сь K ;
++Po+Sg+Ela+PxSg1:%>сьым K ;
++Po+Sg+Ela+PxPl1:%>сьыным K ;
++Po+Sg+Ela+PxSg2:%>сьыд K ;
++Po+Sg+Ela+PxPl2:%>сьыныд K ;
++Po+Sg+Ela+PxSg3:%>сьыс K ;
++Po+Sg+Ela+PxPl3:%>сьыныс K ;
+
+LEXICON PO-ILL
++Po+Sg+Ill:%>ӧ PO-PX ;
++Po+Sg+Ill+PxSg1:%>ам K ;
++Po+Sg+Ill+PxPl1:%>аным K ;
++Po+Sg+Ill+PxSg2:%>ад K ;
++Po+Sg+Ill+PxPl2:%>аныд K ;
++Po+Sg+Ill+PxSg3:%>ас K ;
++Po+Sg+Ill+PxPl3:%>аныс K ;
+! кежлӧ, 
+
+LEXICON PO-INE
++Po+Sg+Ine:%>ын K ;
++Po+Sg+Ine+PxSg1:%>ам K ;
++Po+Sg+Ine+PxPl1:%>аным K ;
++Po+Sg+Ine+PxSg2:%>ад K ;
++Po+Sg+Ine+PxPl2:%>аныд K ;
++Po+Sg+Ine+PxSg3:%>ас K ;
++Po+Sg+Ine+PxPl3:%>аныс K ;
+
+LEXICON PO-INSTR
++Po+Sg+Ins:%>ӧн K ;
++Po+Sg+Ins+PxSg1:%>нам K ;
++Po+Sg+Ins+PxPl1:%>наным K ;
++Po+Sg+Ins+PxSg2:%>над K ;
++Po+Sg+Ins+PxPl2:%>наныд K ;
++Po+Sg+Ins+PxSg3:%>нас K ;
++Po+Sg+Ins+PxPl3:%>наныс K ;
+
+LEXICON PO-PROL
++Po+Sg+Prl:%>ӧд K ;
++Po+Sg+Prl+PxSg1:%>ӧдым K ;
++Po+Sg+Prl+PxPl1:%>ӧдным K ;
++Po+Sg+Prl+PxSg2:%>ӧдыд K ;
++Po+Sg+Prl+PxPl2:%>ӧдныд K ;
++Po+Sg+Prl+PxSg3:%>ӧдыс K ;
++Po+Sg+Prl+PxPl3:%>ӧдныс K ;
+
+LEXICON PO-TRA
++Po+Sg+Tra:%>ті K ;
++Po+Sg+Tra+PxSg1:%>тіым K ;
++Po+Sg+Tra+PxPl1:%>тіным K ;
++Po+Sg+Tra+PxSg2:%>тіыд K ;
++Po+Sg+Tra+PxPl2:%>тіныд K ;
++Po+Sg+Tra+PxSg3:%>тіыс K ;
++Po+Sg+Tra+PxPl3:%>тіныс K ;
+
+LEXICON PO-TERI
++Po+Sg+Term:%>ӧдзз PO-PX ;
+
+!!
+LEXICON PO-SPAT_  !!= * __@CODE@__
+PO-SPAT-APR ;
+PO-SPAT-APRILL ;
+PO-SPAT-APR-INE ;
+PO-SPAT-COMP ;
+PO-SPAT-EGR ;
+PO-SPAT-ELA ;
+PO-SPAT-ILL ;
+PO-SPAT-INE ;
+PO-SPAT-INSTR ;
+PO-SPAT-PROL ;
+PO-SPAT-TRA ;
+PO-SPAT-TERI ;
+!! these are: 
+
+!! аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
+!! кузя, ног, ньылыд, паныдӧн, пӧлӧн, пыдди, пыр, понда, 
+!! ради, уліті, выліті, вывті, вомас, вомӧн
+!! пӧвст
+
+LEXICON PO-SPAT-APR
++Po+Spat+Sg+Apr:%>лань PO-PX ;
+
+LEXICON PO-SPAT-APRILL
++Po+Spat+Sg+Apr+Ill:%>ланьӧ K ;
++Po+Spat+Sg+Apr+Ill+PxSg1:%>ланям K ;
++Po+Spat+Sg+Apr+Ill+PxPl1:%>ланяным K ;
++Po+Spat+Sg+Apr+Ill+PxSg2:%>ланяд K ;
++Po+Spat+Sg+Apr+Ill+PxPl2:%>ланяныд K ;
++Po+Spat+Sg+Apr+Ill+PxSg3:%>ланяс K ;
++Po+Spat+Sg+Apr+Ill+PxPl3:%>ланяныс K ;
+
+LEXICON PO-SPAT-APR-INE
++Po+Spat+Sg+Apr+Ine:%>ланьын K ;
++Po+Spat+Sg+Apr+Ine+PxSg1:%>ланям K ;
++Po+Spat+Sg+Apr+Ine+PxPl1:%>ланяным K ;
++Po+Spat+Sg+Apr+Ine+PxSg2:%>ланяд K ;
++Po+Spat+Sg+Apr+Ine+PxPl2:%>ланяныд K ;
++Po+Spat+Sg+Apr+Ine+PxSg3:%>ланяс K ;
++Po+Spat+Sg+Apr+Ine+PxPl3:%>ланяныс K ;
+
+
+LEXICON PO-SPAT-COMP
++Po+Spat+Sg+Cmpr:%>ся PO-PX ;
+! бӧрся, гырся
+
+LEXICON PO-SPAT-EGR
++Po+Spat+Sg+Egr:%>сянь PO-PX ;
+
+LEXICON PO-SPAT-ELA
++Po+Spat+Sg+Ela:%>ысь K ;
++Po+Spat+Sg+Ela+PxSg1:%>сьым K ;
++Po+Spat+Sg+Ela+PxPl1:%>сьыным K ;
++Po+Spat+Sg+Ela+PxSg2:%>сьыд K ;
++Po+Spat+Sg+Ela+PxPl2:%>сьыныд K ;
++Po+Spat+Sg+Ela+PxSg3:%>сьыс K ;
++Po+Spat+Sg+Ela+PxPl3:%>сьыныс K ;
+
+LEXICON PO-SPAT-ILL
++Po+Spat+Sg+Ill:%>ӧ PO-PX ;
++Po+Spat+Sg+Ill+PxSg1:%>ам K ;
++Po+Spat+Sg+Ill+PxPl1:%>аным K ;
++Po+Spat+Sg+Ill+PxSg2:%>ад K ;
++Po+Spat+Sg+Ill+PxPl2:%>аныд K ;
++Po+Spat+Sg+Ill+PxSg3:%>ас K ;
++Po+Spat+Sg+Ill+PxPl3:%>аныс K ;
+! кежлӧ, 
+
+LEXICON PO-SPAT-INE
++Po+Spat+Sg+Ine:%>ын K ;
++Po+Spat+Sg+Ine+PxSg1:%>ам K ;
++Po+Spat+Sg+Ine+PxPl1:%>аным K ;
++Po+Spat+Sg+Ine+PxSg2:%>ад K ;
++Po+Spat+Sg+Ine+PxPl2:%>аныд K ;
++Po+Spat+Sg+Ine+PxSg3:%>ас K ;
++Po+Spat+Sg+Ine+PxPl3:%>аныс K ;
+
+LEXICON PO-SPAT-INSTR
++Po+Spat+Sg+Ins:%>ӧн K ;
++Po+Spat+Sg+Ins+PxSg1:%>нам K ;
++Po+Spat+Sg+Ins+PxPl1:%>наным K ;
++Po+Spat+Sg+Ins+PxSg2:%>над K ;
++Po+Spat+Sg+Ins+PxPl2:%>наныд K ;
++Po+Spat+Sg+Ins+PxSg3:%>нас K ;
++Po+Spat+Sg+Ins+PxPl3:%>наныс K ;
+
+LEXICON PO-SPAT-PROL
++Po+Spat+Sg+Prl:%>ӧт K ;
++Po+Spat+Sg+Prl+PxSg1:%>ӧтым K ;
++Po+Spat+Sg+Prl+PxPl1:%>ӧтным K ;
++Po+Spat+Sg+Prl+PxSg2:%>ӧтыт K ;
++Po+Spat+Sg+Prl+PxPl2:%>ӧтныт K ;
++Po+Spat+Sg+Prl+PxSg3:%>ӧтыс K ;
++Po+Spat+Sg+Prl+PxPl3:%>ӧтныс K ;
+
+LEXICON PO-SPAT-TRA ! should be removed
++Po+Spat+Sg+Tra:%>ті K ;
+
+LEXICON PO-SPAT-TERI
++Po+Spat+Sg+TerI:%>ӧдзз PO-PX ;
+
+!!
+
+LEXICON POSTP-NOUN
++Po+Sg+Nom: WordEnd ;
++Po+Sg+Nom+PxSg1:%>ӧй WordEnd ;
++Po+Sg+Nom+PxSg2:%>ыт WordEnd ;
++Po+Sg+Nom+PxSg3:%>ыс WordEnd ;
++Po+Sg+Nom+PxPl1:%>ным WordEnd ;
++Po+Sg+Nom+PxPl2:%>ныт WordEnd ;
++Po+Sg+Nom+PxPl3:%>ныс WordEnd ;
+ POSTP1 ;
++Po+Pl+Prl:%>ъясӧт WordEnd ; 
+! гӧгӧр, 
+
+LEXICON PO-PX
+: WordEnd ;
++PxSg1:%>ӧй WordEnd ;
++PxSg2:%>ыт WordEnd ;
++PxSg3:%>ыс WordEnd ;
++PxPl1:%>ным WordEnd ;
++PxPl2:%>ныт WordEnd ;
++PxPl3:%>ныс WordEnd ;
+! вӧсна, кындзи, моз,  мында, мысьт, серти,
+
+LEXICON PO-TEMP-IS_TRA-INSTR-SG3
++Po+Temp+Tra+Ins+PxSg3: K ;
+
+LEXICON PO-IS_ILL
++Po+Ill: K ;
+
+
+! vim: set ft=xfst-lexc:
+
