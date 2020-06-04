@@ -1,0 +1,9 @@
+name = "Komi-Permyak"
+version = "0.1.0"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.koi"
+
+[windows]
+system_product_code = "13770337-3C66-4383-8E0A-AF1F40E9C84F"
+msoffice_product_code = "184C3A8C-4E53-4D12-8BE4-0CC548EC56A1"
