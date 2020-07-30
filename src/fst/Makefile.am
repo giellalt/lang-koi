@@ -33,7 +33,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 affixes/nouns.lexc       \
 			 affixes/numerals.lexc       \
 			 affixes/particles.lexc       \
-			 affixes/pronouns.lexc \
+			 affixes/pronouns.lexc   \
 			 affixes/propernouns.lexc \
 			 affixes/symbols.lexc     \
 			 affixes/verbs.lexc       \
@@ -78,37 +78,37 @@ GT_LEXC_L2_SRCS=\
 
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
-		generated_files/urj-Cyrl-propernouns.lexc \
-		$(srcdir)/stems/A_koi2x.lexc \
-		$(srcdir)/stems/Adp_koi2x.lexc \
-		$(srcdir)/stems/Adv_koi2x.lexc \
-		$(srcdir)/stems/CC_koi2x.lexc \
-		$(srcdir)/stems/CS_koi2x.lexc \
-		$(srcdir)/stems/Det_koi2x.lexc \
-		$(srcdir)/stems/Interj_koi2x.lexc \
-		$(srcdir)/stems/N_koi2x.lexc \
-		$(srcdir)/stems/Num_koi2x.lexc \
-		$(srcdir)/stems/Pcle_koi2x.lexc \
-		$(srcdir)/stems/V_koi2x.lexc \
-		generated_files/punctuation.lexc \
-		generated_files/symbols.lexc
+		generated_files/urj-Cyrl-propernouns.lexc  \
+		generated_files/punctuation.lexc   \
+		generated_files/symbols.lexc    \
+		$(srcdir)/stems/A_koi2x.lexc    \
+		$(srcdir)/stems/Adp_koi2x.lexc    \
+		$(srcdir)/stems/Adv_koi2x.lexc    \
+		$(srcdir)/stems/CC_koi2x.lexc     \
+		$(srcdir)/stems/CS_koi2x.lexc     \
+		$(srcdir)/stems/Det_koi2x.lexc     \
+		$(srcdir)/stems/Interj_koi2x.lexc    \
+		$(srcdir)/stems/N_koi2x.lexc      \
+		$(srcdir)/stems/Num_koi2x.lexc     \
+		$(srcdir)/stems/Pcle_koi2x.lexc    \
+		$(srcdir)/stems/V_koi2x.lexc     
 
-#		$(srcdir)/stems/Pron_koi2x.lexc 
+##		$(srcdir)/stems/Pron_koi2x.lexc 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
-		stems/A_koi2x.xml \
-		stems/Adp_koi2x.xml \
-		stems/Adv_koi2x.xml \
-		stems/CC_koi2x.xml \
-		stems/CS_koi2x.xml \
-		stems/Det_koi2x.xml \
-		stems/Interj_koi2x.xml \
-		stems/N_koi2x.xml \
-		stems/Num_koi2x.xml \
-		stems/Pcle_koi2x.xml \
+		stems/A_koi2x.xml      \
+		stems/Adp_koi2x.xml       \
+		stems/Adv_koi2x.xml      \
+		stems/CC_koi2x.xml      \
+		stems/CS_koi2x.xml       \
+		stems/Det_koi2x.xml      \
+		stems/Interj_koi2x.xml      \
+		stems/N_koi2x.xml      \
+		stems/Num_koi2x.xml      \
+		stems/Pcle_koi2x.xml    \
 		stems/V_koi2x.xml 
 
-#		stems/Pron_koi2x.xml 
+##		stems/Pron_koi2x.xml 
 # Define any additional lexc sources here (compiled on their own):
 GT_LOCAL_SRCS=
 
