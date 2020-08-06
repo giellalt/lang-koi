@@ -10,9 +10,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -47,9 +45,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -80,9 +76,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -117,9 +111,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -154,9 +146,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -235,9 +225,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -272,9 +260,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -326,9 +312,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -342,9 +326,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -396,9 +378,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -444,7 +424,7 @@
      </tg>
      <xg>
        <x>эта юын уна чери</x>
-       <xt>тайӧ юын уна чери</xt>
+       <xt xml:lang="rus">тайӧ юын уна чери</xt>
        <xt xml:lang="rus">в этой реке много рыбы</xt>
      </xg>
    </mg>
@@ -470,7 +450,7 @@
      </tg>
      <xg>
        <x>вот этна керкуэс</x>
-       <xt>вот тайӧ керкаяс</xt>
+       <xt xml:lang="rus">вот тайӧ керкаяс</xt>
        <xt xml:lang="rus">вот эти дома</xt>
      </xg>
    </mg>

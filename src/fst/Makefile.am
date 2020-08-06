@@ -33,6 +33,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 affixes/nouns.lexc       \
 			 affixes/numerals.lexc       \
 			 affixes/particles.lexc       \
+			 affixes/prefixes.lexc      \
 			 affixes/pronouns.lexc   \
 			 affixes/propernouns.lexc \
 			 affixes/symbols.lexc     \
@@ -52,7 +53,6 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/numerals_newwords.lexc      \
 			 stems/particles.lexc         \
 			 stems/particles_newwords.lexc         \
-			 stems/prefixes.lexc      \
 			 stems/pronouns.lexc      \
 			 stems/pronouns_newwords.lexc      \
 			 stems/propernouns-toponyms-Komi_newwords.lexc      \

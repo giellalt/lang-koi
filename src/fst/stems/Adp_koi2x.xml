@@ -15131,9 +15131,7 @@
        <st Contlex="ADP_">бура</st>
      </stg>
    </lg>
-   <mg relId="0">
-     <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">бурна</s></sg>
+   <mg relId="0"><sg><s pos="" s_type="seeAlso">бурна</s></sg>
    </mg>
 </e>
 <e order="2">
