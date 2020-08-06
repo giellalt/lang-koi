@@ -212,7 +212,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
+     <tg xml:lang="rus"> <t>найденный</t>
      </tg>
      <xg>
        <x>адззӧм сумка</x>
@@ -380,7 +380,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
+     <tg xml:lang="rus"> <t>разжёванный</t>
      </tg>
      <xg>
        <x>аклялӧм нянь</x>
@@ -535,7 +535,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
+     <tg xml:lang="rus"> <t>образовавшыйся</t>
      </tg>
      <xg>
        <x>аркмӧм гу</x>
@@ -1757,8 +1757,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>бергӧтлӧм турун</x>
        <xt xml:lang="rus">ворошённое сено</xt>
@@ -1805,8 +1803,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>бӧр бергӧтчӧм соседдэз</x>
        <xt xml:lang="rus">возвратившиеся соседи</xt>
@@ -1836,8 +1832,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>бергӧтӧм кран</x>
        <xt xml:lang="rus">открытый кран</xt>
@@ -1871,8 +1865,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>джоджын валяйтчисӧ берездалӧм кашниккез</x>
        <xt xml:lang="rus"> на полу валялись опрокинутые горшки □ <geo>иньв.</geo> </xt>
@@ -2023,8 +2015,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>биасян кад</x>
        <xt xml:lang="rus">время зажигания света; сумерки</xt>
@@ -2171,8 +2161,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
    </mg>
 </e>
 <e>
@@ -2823,8 +2811,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>буждӧм берег</x>
        <xt xml:lang="rus">обвалившийся (осыпавшийся) берег</xt>
@@ -3588,8 +3574,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
    </mg>
 </e>
 <e>
@@ -3681,8 +3665,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>быдмалӧм шӧрт</x>
        <xt xml:lang="rus">смотанная пряжа</xt>
@@ -3774,8 +3756,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>быдмӧм челядь рознитчисӧ страна пасьта</x>
        <xt xml:lang="rus">выросшие дети разъехались по всей стране</xt>
@@ -4181,8 +4161,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>бырӧм вешьян</x>
        <xt xml:lang="rus"> оборванец ( <range>букв.</range> износившиеся брюки) </xt>
@@ -4967,8 +4945,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>бӧрьян участок</x>
        <xt xml:lang="rus">избирательный участок</xt>
@@ -5279,8 +5255,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
    </mg>
 </e>
 <e>
@@ -5430,8 +5404,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>важмӧм паськӧм</x>
        <xt xml:lang="rus">старомодная одежда</xt>
@@ -5580,8 +5552,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ваймӧм гор</x>
        <xt xml:lang="rus">истопившаяся печь</xt>
@@ -5603,8 +5573,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ваймӧтӧм гор</x>
        <xt xml:lang="rus">протопленная печь</xt>
@@ -5686,8 +5654,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ме сійӧ петкӧті гортас вайӧтан туй вылас</x>
        <xt xml:lang="rus">я его вывел па дорогу, ведущую к [его] дому</xt>
@@ -5709,8 +5675,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>быдтыны вайӧтӧм кага</x>
        <xt xml:lang="rus">взятый на воспитание ребёнок</xt>
@@ -6125,8 +6089,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вӧв вачкан</x>
        <xt xml:lang="rus">плеть плеть для лошади</xt>
@@ -6339,8 +6301,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e order="2">
@@ -7907,8 +7867,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вештыны вердӧм зӧр понда</x>
        <xt xml:lang="rus">заплатить за скормленный овёс</xt>
@@ -8337,8 +8295,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>быдӧс эта веськӧтана</x>
        <xt xml:lang="rus">всё зто поправимо</xt>
@@ -8361,8 +8317,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>веськӧтлан гез</x>
        <xt xml:lang="rus">вожжи</xt>
@@ -8740,8 +8694,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>весӧтӧм кӧмкӧт</x>
        <xt xml:lang="rus">вычищенная обувь</xt>
@@ -9315,8 +9267,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ӧтмӧдӧрӧ видзӧтчись морт</x>
        <xt xml:lang="rus">озирающийся человек</xt>
@@ -9472,8 +9422,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>видӧм мортлӧ пыр овлӧ небытшӧм</x>
        <xt xml:lang="rus">человеку, которого отругали, всегда бывает не по себе</xt>
@@ -9844,8 +9792,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вильдӧм брага</x>
        <xt xml:lang="rus">подновлённая брага</xt>
@@ -9913,8 +9859,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вильмӧтӧм край</x>
        <xt xml:lang="rus">обновлённый край</xt>
@@ -9936,8 +9880,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вильӧтӧм лыэз</x>
        <xt xml:lang="rus">обглоданные кости</xt>
@@ -10530,8 +10472,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>волькӧтлӧм туй</x>
        <xt xml:lang="rus">не сплошь укатанная дорога</xt>
@@ -10553,8 +10493,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>туй волькӧтісь</x>
        <xt xml:lang="rus">тот, кто укатывает дорогу; укатчик дорог</xt>
@@ -10576,8 +10514,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>волькӧтӧм туй</x>
        <xt xml:lang="rus">укатанная дорога</xt>
@@ -10777,8 +10713,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вочӧм паськӧм</x>
        <xt xml:lang="rus">починенная одежда, чинёная одежда</xt>
@@ -11313,8 +11247,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вундалӧм бумага</x>
        <xt xml:lang="rus">нарезанная бумага</xt>
@@ -13013,8 +12945,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вӧрзьӧм кок веськӧтны</x>
        <xt xml:lang="rus">вправить вывих ноги</xt>
@@ -13040,8 +12970,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>сьӧлӧм вӧрзьӧтан сьылӧм</x>
        <xt xml:lang="rus">задушевное пение</xt>
@@ -14344,8 +14272,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
    </mg>
 </e>
 <e>
@@ -14392,8 +14318,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>гожьян керку</x>
        <xt xml:lang="rus">летняя изба</xt>
@@ -16336,8 +16260,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>локтіс гӧтрасян пора</x>
        <xt xml:lang="rus">пришло время женитьбы</xt>
@@ -16840,8 +16762,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кошшыны дзебсисисьӧс</x>
        <xt xml:lang="rus">искать спрятавшегося</xt>
@@ -16905,8 +16825,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>дзебсян лун</x>
        <xt xml:lang="rus">день похорон</xt>
@@ -17223,8 +17141,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>дзирдӧтӧм</x>
        <xt xml:lang="rus">сковорода раскалённая сковорода</xt>
@@ -17958,8 +17874,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -18407,8 +18321,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>дорӧтӧм коса</x>
        <xt xml:lang="rus">выкованная (по заказу) коса</xt>
@@ -18839,8 +18751,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>дульсмӧм синнэз</x>
        <xt xml:lang="rus">осоловелые глаза</xt>
@@ -19547,8 +19457,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ештӧтӧм удж</x>
        <xt xml:lang="rus">завершённая работа</xt>
@@ -19742,8 +19650,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -20474,8 +20380,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>сёрни зорӧтан урок</x>
        <xt xml:lang="rus">урок по развитию речи</xt>
@@ -20767,8 +20671,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -20882,8 +20784,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>зэлӧтӧм гӧрӧд</x>
        <xt xml:lang="rus">затянутый узел</xt>
@@ -20934,8 +20834,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ветлӧны зэран кымӧррез</x>
        <xt xml:lang="rus">надвигаются дождевые тучи</xt>
@@ -20957,8 +20855,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>зэрасян кымӧр</x>
        <xt xml:lang="rus">дождевая туча</xt>
@@ -21571,8 +21467,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>изӧртчӧм му</x>
        <xt xml:lang="rus">истощённая земля</xt>
@@ -21845,8 +21739,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -22023,8 +21915,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>калитчытӧм чер</x>
        <xt xml:lang="rus">незакалившийся топор</xt>
@@ -22379,8 +22269,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -22589,8 +22477,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тшын каян</x>
        <xt xml:lang="rus">труба дымоотводная труба</xt>
@@ -22777,8 +22663,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вӧр кералісь</x>
        <xt xml:lang="rus">лесоруб</xt>
@@ -22835,8 +22719,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ви керан завод</x>
        <xt xml:lang="rus">маслобойный завод</xt>
@@ -22866,8 +22748,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>керасьӧм вӧрзаптісьӧс нуӧтісӧ медпунктӧ</x>
        <xt xml:lang="rus">ранившего себя лесоруба увезли в медпункт</xt>
@@ -22889,8 +22769,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ви керись мастер</x>
        <xt xml:lang="rus">маслобойного завода</xt>
@@ -23098,8 +22976,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кеслісян из</x>
        <xt xml:lang="rus">точильный камень</xt>
@@ -23173,8 +23049,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кидтӧм кага</x>
        <xt xml:lang="rus">отнятый от груди ребёнок</xt>
@@ -23542,8 +23416,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>киськалӧм ва</x>
        <xt xml:lang="rus">разлитая вода</xt>
@@ -23581,8 +23453,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>киськасьӧм йӧв</x>
        <xt xml:lang="rus">расплескавшееся молоко</xt>
@@ -24490,8 +24360,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ӧддьӧн кольттялісь курӧг</x>
        <xt xml:lang="rus">курица, которая часто несёт яйца</xt>
@@ -24661,8 +24529,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>колялӧм букваэз</x>
        <xt xml:lang="rus">пропущенные буквы</xt>
@@ -25430,8 +25296,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>косялӧм платье</x>
        <xt xml:lang="rus">порванное платье</xt>
@@ -26310,8 +26174,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кулан дой</x>
        <xt xml:lang="rus"> <geo>Чеч.</geo> моровая язва </xt>
@@ -26372,8 +26234,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кульмӧм чери</x>
        <xt xml:lang="rus">отнерестившаяся рыба</xt>
@@ -26705,8 +26565,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>купайтчӧм отирыс шоччисьӧны лежаккез вылын</x>
        <xt xml:lang="rus">искупавшиеся люди] отдыхают на лежаках</xt>
@@ -26752,8 +26610,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кураналӧм му вылас позьӧ кӧдзны морковь</x>
        <xt xml:lang="rus">в разрыхлённую граблями землю можно посеять морковь</xt>
@@ -26867,8 +26723,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>куритӧм табак</x>
        <xt xml:lang="rus">выкуренный табак</xt>
@@ -26933,8 +26787,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>курттӧм турун</x>
        <xt xml:lang="rus">несгребённое сено</xt>
@@ -26992,8 +26844,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тэчны куртӧм турун зородӧ</x>
        <xt xml:lang="rus">сложить сгребённое сено в зарод</xt>
@@ -27017,8 +26867,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -27127,8 +26975,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>курччӧвтӧмнянь</x>
        <xt xml:lang="rus">откушенный [край] хлеб</xt>
@@ -27468,8 +27314,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>керрез кутан гез</x>
        <xt xml:lang="rus">верёвка, скрепляющая брёвна</xt>
@@ -27526,8 +27370,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -27545,8 +27387,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>бура кутчисян краска</x>
        <xt xml:lang="rus">краска, хорошо прокрашивающая материю.</xt>
@@ -27576,8 +27416,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -27631,8 +27469,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кутӧм кӧч</x>
        <xt xml:lang="rus">пойманный заяц</xt>
@@ -27826,8 +27662,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>курӧг куштісь</x>
        <xt xml:lang="rus">общипывающий, курицу</xt>
@@ -27849,8 +27683,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>куштӧм курӧг</x>
        <xt xml:lang="rus">общипанная курица.</xt>
@@ -27876,8 +27708,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кушӧтчӧмкага</x>
        <xt xml:lang="rus">раздетый (сбросивший с себя одеяло) ребёнок</xt>
@@ -27990,8 +27820,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кыбӧм чери</x>
        <xt xml:lang="rus">рыба, добытая лучением</xt>
@@ -28125,8 +27953,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кывлӧм басниыс меным эз гленитчы</x>
        <xt xml:lang="rus">услышанный разговор мне не понравился</xt>
@@ -28288,8 +28114,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кыдӧм чышьян дор</x>
        <xt xml:lang="rus">осыпавшийся край платка</xt>
@@ -28727,8 +28551,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e order="2">
@@ -28828,8 +28650,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кылалӧм йы</x>
        <xt xml:lang="rus">уплывший лёд</xt>
@@ -28855,8 +28675,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>мунны вӧр кылӧтанӧ</x>
        <xt xml:lang="rus">идти туда, где сплавляют лес</xt>
@@ -28886,8 +28704,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кылӧтчануджжез</x>
        <xt xml:lang="rus"> сплавные работы □ <geo>иньв.</geo> </xt>
@@ -28944,8 +28760,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кылӧтӧмвӧр</x>
        <xt xml:lang="rus">сплавленный лес</xt>
@@ -28967,8 +28781,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кыминьтӧм кашник</x>
        <xt xml:lang="rus">опрокинутый горшок</xt>
@@ -28990,8 +28802,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кыминялӧм пыжжез дынын сулалісӧ лежаккез</x>
        <xt xml:lang="rus">у перевёрнутых вверх дном лодок стояли лежаки</xt>
@@ -29126,8 +28936,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кынмалӧм морт</x>
        <xt xml:lang="rus">простудившийся человек</xt>
@@ -29532,8 +29340,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ыб вылӧкыскалӧм назём</x>
        <xt xml:lang="rus">вывезенный на поля навоз</xt>
@@ -29789,8 +29595,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>мыр бердӧкышасьӧм кокӧпондіс висьны</x>
        <xt xml:lang="rus">у меня стала болеть (ныть) нога, которой я споткнулся о пень</xt>
@@ -29895,8 +29699,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кӧвдалӧм нянь</x>
        <xt xml:lang="rus">замешенное тесто для хлеба</xt>
@@ -30400,8 +30202,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кӧртавлӧм ранаэс перыта веськалісӧ</x>
        <xt xml:lang="rus">перевязанные раны быстро зажили</xt>
@@ -30924,8 +30724,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кӧсталӧм</x>
        <xt xml:lang="rus">дугаэз гнутые дуги; дуги, изготовленные гнутьём</xt>
@@ -31086,8 +30884,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кӧтӧмнянь</x>
        <xt xml:lang="rus">замешенное тёсто</xt>
@@ -31483,8 +31279,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>лапӧтасьӧмсиннэза</x>
        <xt xml:lang="rus">с прищуренными глазами</xt>
@@ -31578,8 +31372,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>лён летан</x>
        <xt xml:lang="rus">машина льнотеребилка</xt>
@@ -31752,8 +31544,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>зэлӧтны личалӧм вӧлыс</x>
        <xt xml:lang="rus">подтянуть ослабевшую лямку</xt>
@@ -32253,8 +32043,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>лолалӧм ру</x>
        <xt xml:lang="rus">выдыхаемый воздух</xt>
@@ -32417,8 +32205,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>чарӧтӧмсянь лоӧм пожарлӧ эзӧ сетӧ паськавны</x>
        <xt xml:lang="rus">пожару, случившемуся от молнии, не дали распространиться</xt>
@@ -32612,8 +32398,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>гу вылын лунйӧм йӧв эз шӧммы</x>
        <xt xml:lang="rus">молоко, стоявшее весь день в погребе, не прокисло</xt>
@@ -33097,8 +32881,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>лыйсьӧм морт</x>
        <xt xml:lang="rus">застрелившийся человек</xt>
@@ -33172,8 +32954,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>лыйтӧм кӧч кульны</x>
        <xt xml:lang="rus"> <src_type>погов.</src_type> снимать шкуру с неубитого зайца; {соотв.} делить шкуру неубитого медведя </xt>
@@ -33357,8 +33137,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -33467,8 +33245,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
    </mg>
 </e>
 <e>
@@ -33630,8 +33406,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>лэбалан аппарат</x>
        <xt xml:lang="rus">летательный аппарат</xt>
@@ -33689,8 +33463,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ва лэбтан насос</x>
        <xt xml:lang="rus">водонапорный насбс</xt>
@@ -33717,8 +33489,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>лэбтӧм вильса</x>
        <xt xml:lang="rus">поднятая целина</xt>
@@ -33797,8 +33567,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>поскотина вылӧ лэдзавлӧм мӧссэз тӧдчӧмӧн содтісӧ йӧв</x>
        <xt xml:lang="rus">выпущенные на пастбище коровы заметно прибавили молока</xt>
@@ -33821,8 +33589,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вӧр лэдзан план</x>
        <xt xml:lang="rus">план лесосплава</xt>
@@ -33857,8 +33623,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>шогавны лэдзчисьӧм морт</x>
        <xt xml:lang="rus">человек, притворившийся больным</xt>
@@ -33921,8 +33685,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вӧрись лэдзчӧтӧмпес ештіс ни косьмыны</x>
        <xt xml:lang="rus">привезённые из леса дрова уже успели высохнуть</xt>
@@ -33945,8 +33707,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>армияись лэдзӧм солдат</x>
        <xt xml:lang="rus">уволенный из армии солдат</xt>
@@ -34796,8 +34556,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>лёштыртчӧм пеля</x>
        <xt xml:lang="rus">с отвислыми ушами; вислоухий</xt>
@@ -34942,8 +34700,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>лӧгасьӧмӧн видзӧтны бӧбалісь челядь вылӧ</x>
        <xt xml:lang="rus">зло посмотреть на шалунов</xt>
@@ -35300,8 +35056,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>лӧсьӧтлӧмсумкаэз</x>
        <xt xml:lang="rus">специально приготовленные сумки</xt>
@@ -35386,8 +35140,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>лӧсьӧтӧм додь</x>
        <xt xml:lang="rus">приготовленные [в дорогу] сани</xt>
@@ -37074,8 +36826,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>нія керӧмась миянся унажык</x>
        <xt xml:lang="rus">они сделали больше нас</xt>
@@ -39065,8 +38815,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -39084,8 +38832,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>небзьӧм туй</x>
        <xt xml:lang="rus">раскисшая дорога</xt>
@@ -40538,8 +40284,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>нимӧтанкад</x>
        <xt xml:lang="rus">время кормления грудью;</xt>
@@ -40562,8 +40306,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>нимӧтчисьинька</x>
        <xt xml:lang="rus">кормящая женщина</xt>
@@ -40853,8 +40595,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>новйӧтчисьинька</x>
        <xt xml:lang="rus"> беременная женщина ↔ <geo>сев.</geo> </xt>
@@ -40945,8 +40685,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пыр новьян паськӧм</x>
        <xt xml:lang="rus">повседневная (будничная, рабочая) одежда</xt>
@@ -41045,8 +40783,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -41391,8 +41127,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ныжмӧм пурт</x>
        <xt xml:lang="rus">затупившийся нож</xt>
@@ -41507,8 +41241,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -41632,8 +41364,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -42045,8 +41775,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>нюрсялӧм видз</x>
        <xt xml:lang="rus">заболоченный луг</xt>
@@ -42109,8 +41837,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>нязьмыт крыша</x>
        <xt xml:lang="rus">некрутая крыша</xt>
@@ -42779,8 +42505,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>нёкралӧм пуэз</x>
        <xt xml:lang="rus"> согнувшиеся деревья ↔ <geo>иньв.</geo> </xt>
@@ -43482,8 +43206,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>одзӧсалӧмденьгаыс видзсис ни</x>
        <xt xml:lang="rus">занятые [у разных лиц] деньги уже потрачены</xt>
@@ -43532,8 +43254,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>одзӧстӧмденьга</x>
        <xt xml:lang="rus">взятые в долг деньги (у одного лица)</xt>
@@ -44735,8 +44455,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -45313,8 +45031,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -45944,8 +45660,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>падмӧтӧмудж</x>
        <xt xml:lang="rus">задержанная работа</xt>
@@ -46401,8 +46115,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пазитӧм кер</x>
        <xt xml:lang="rus">бревно с выбранным пазом</xt>
@@ -48468,8 +48180,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пемдан кад</x>
        <xt xml:lang="rus">сумерки</xt>
@@ -49534,8 +49244,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пидзыртсьӧм ведра</x>
        <xt xml:lang="rus">бок помятый бок ведра</xt>
@@ -51279,8 +50987,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пиясян кад</x>
        <xt xml:lang="rus">время родов (у животных)</xt>
@@ -52268,8 +51974,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>поркьясьӧм воротник</x>
        <xt xml:lang="rus">перекошенный воротник</xt>
@@ -52693,8 +52397,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -52713,8 +52415,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>потласьӧм стекло</x>
        <xt xml:lang="rus">треснутое стекло</xt>
@@ -52841,8 +52541,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>потшшасьӧм небо</x>
        <xt xml:lang="rus">небо, покрытое перистыми облаками</xt>
@@ -52864,8 +52562,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>потісь пес</x>
        <xt xml:lang="rus">колкие дрова</xt>
@@ -53085,8 +52781,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>прудитӧм ю</x>
        <xt xml:lang="rus">запруженная река</xt>
@@ -53108,8 +52802,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>прудйӧм ва</x>
        <xt xml:lang="rus">запруженная вода</xt>
@@ -53131,8 +52823,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -53178,8 +52868,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пуджӧм соса</x>
        <xt xml:lang="rus">с засученными рукавами</xt>
@@ -53225,8 +52913,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -53339,8 +53025,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пуксись ситец</x>
        <xt xml:lang="rus">ситец, дающий усадку</xt>
@@ -53634,8 +53318,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -53760,8 +53442,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>путшкӧм сунис</x>
        <xt xml:lang="rus">сучёные нитки</xt>
@@ -53783,8 +53463,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>путшӧтӧмтшакыль</x>
        <xt xml:lang="rus">распущенный клубок</xt>
@@ -54038,8 +53716,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пыдӧсавтӧм ведра</x>
        <xt xml:lang="rus">ведро без дна</xt>
@@ -54063,8 +53739,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>крепыта пыдӧсалӧм кӧньӧс</x>
        <xt xml:lang="rus">кадка с крепким дном</xt>
@@ -54152,8 +53826,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пыксись морт</x>
        <xt xml:lang="rus">упрямый человек</xt>
@@ -54179,8 +53851,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пыксьӧм вӧв кодь</x>
        <xt xml:lang="rus">словно упрямая лошадь</xt>
@@ -54297,8 +53967,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пыкӧтасьӧм ыбӧс</x>
        <xt xml:lang="rus">захлопнувшаяся дверь</xt>
@@ -54343,8 +54011,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пымалӧм вӧв</x>
        <xt xml:lang="rus">потная лошадь</xt>
@@ -54376,8 +54042,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
    </mg>
 </e>
 <e>
@@ -54505,8 +54169,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -54668,8 +54330,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пыркӧтӧмлён</x>
        <xt xml:lang="rus">трёпаный лён</xt>
@@ -54759,8 +54419,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>йӧрӧ пырӧм пода</x>
        <xt xml:lang="rus">скот, проникший в огород</xt>
@@ -54819,8 +54477,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
    </mg>
 </e>
 <e>
@@ -54840,8 +54496,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -54969,8 +54623,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -55234,8 +54886,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пышшӧтчись вӧв</x>
        <xt xml:lang="rus">лошадь, не слушающаяся повода</xt>
@@ -55257,8 +54907,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пышшӧтӧмпода</x>
        <xt xml:lang="rus">краденый скот</xt>
@@ -55335,8 +54983,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пӧдандук</x>
        <xt xml:lang="rus">затхлый запах</xt>
@@ -55517,8 +55163,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
    </mg>
 </e>
 <e>
@@ -55636,8 +55280,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>сюыс пӧдыштӧм</x>
        <xt xml:lang="rus">зерно [чуть-чуть] затхлое</xt>
@@ -55697,8 +55339,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пӧдӧм пизь</x>
        <xt xml:lang="rus">затхлая мука</xt>
@@ -55938,8 +55578,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пӧжсьӧмшыд</x>
        <xt xml:lang="rus">упревшие щи</xt>
@@ -55965,8 +55603,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пӧжтӧм йӧв</x>
        <xt xml:lang="rus">нетопленое молоко</xt>
@@ -55992,8 +55628,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пӧжӧм йӧв</x>
        <xt xml:lang="rus">топлёное молоко</xt>
@@ -56071,8 +55705,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пӧималӧм дӧра</x>
        <xt xml:lang="rus">позоленный холст</xt>
@@ -56098,8 +55730,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пӧимасьӧм дӧраэз</x>
        <xt xml:lang="rus">холсты, подвергшиеся золению</xt>
@@ -56411,8 +56041,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пӧліньтчӧмпыж</x>
        <xt xml:lang="rus">перевёрнутая лодка.</xt>
@@ -56490,8 +56118,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пӧлінялӧм бекӧррез</x>
        <xt xml:lang="rus">опрокинутые миски</xt>
@@ -56975,8 +56601,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -57134,8 +56758,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пӧрьясьтӧг овны оз вермы</x>
        <xt xml:lang="rus">без вранья [он] жить не может</xt>
@@ -57157,8 +56779,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пӧрӧмпу</x>
        <xt xml:lang="rus">свалившееся дерево</xt>
@@ -57259,8 +56879,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -58491,8 +58109,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>роитчан кад</x>
        <xt xml:lang="rus">время роения (пчёл)</xt>
@@ -58843,8 +58459,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>рушалӧм ырӧш</x>
        <xt xml:lang="rus">слегка подогретый квас</xt>
@@ -58866,8 +58480,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -58956,8 +58568,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -59143,8 +58753,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>рӧмсьӧтӧмшаньгаэз</x>
        <xt xml:lang="rus">поджаристые шаньги</xt>
@@ -59283,8 +58891,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>садьмӧм шогалісь</x>
        <xt xml:lang="rus">пришедший в себя больной</xt>
@@ -59532,8 +59138,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>сибаліс челядьлӧн сайман кад</x>
        <xt xml:lang="rus">детям пришла пора просыпаться</xt>
@@ -59633,8 +59237,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>пионерскӧй лагерьын кыліс саймӧтан сигнал</x>
        <xt xml:lang="rus">в пионерском лагере прозвучал сигнал побудки</xt>
@@ -60148,8 +59750,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>сермӧталӧм вӧв</x>
        <xt xml:lang="rus">лошадь в узде</xt>
@@ -60578,8 +60178,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e order="2">
@@ -60620,8 +60218,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вӧввес сийӧсалӧмӧсь ни</x>
        <xt xml:lang="rus">лошади уже в хомутах</xt>
@@ -60645,8 +60241,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -61134,8 +60728,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -61172,8 +60764,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>созорӧсь дӧра</x>
        <xt xml:lang="rus">холст с огрехами</xt>
@@ -61499,8 +61089,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -61890,8 +61478,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -62173,8 +61759,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -62303,8 +61887,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -62422,8 +62004,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -62492,8 +62072,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -62652,8 +62230,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -62771,8 +62347,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кокнита сылан</x>
        <xt xml:lang="rus">быстрорастворимый</xt>
@@ -62796,8 +62370,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>сылӧм лым</x>
        <xt xml:lang="rus">растаявший снег</xt>
@@ -62824,8 +62396,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>сынавтӧм лён</x>
        <xt xml:lang="rus">нечёсаный лён</xt>
@@ -63100,8 +62670,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -63149,8 +62717,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>сырсмӧм кучик</x>
        <xt xml:lang="rus">обмякшая шкурка</xt>
@@ -63343,8 +62909,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>сьӧвталӧммӧс</x>
        <xt xml:lang="rus">корова на привязи (в путах).</xt>
@@ -63502,8 +63066,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>сьӧдӧтӧм дӧра</x>
        <xt xml:lang="rus">холст, выкрашенный в чёрный цвет</xt>
@@ -63659,8 +63221,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -63850,8 +63410,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -63900,8 +63458,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -64319,8 +63875,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>кокна сюркнялісь</x>
        <xt xml:lang="rus">тот, кто перевязывает копны (для перевозки к зароду)</xt>
@@ -64368,8 +63922,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -64387,8 +63939,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -64663,8 +64213,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -65275,8 +64823,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>сӧнӧгалӧм йы</x>
        <xt xml:lang="rus">талый лёд</xt>
@@ -65457,8 +65003,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -66289,8 +65833,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e order="2">
@@ -66471,8 +66013,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -66843,8 +66383,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -66862,8 +66400,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>трӧситӧм турун</x>
        <xt xml:lang="rus">раскиданное (рассыпанное) сено</xt>
@@ -66908,8 +66444,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -66976,8 +66510,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тувьялӧм тёс</x>
        <xt xml:lang="rus">прибитая доска</xt>
@@ -67103,8 +66635,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -67122,8 +66652,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -67367,8 +66895,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тупкалӧм щель</x>
        <xt xml:lang="rus">заделанная щель</xt>
@@ -67417,8 +66943,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -67472,8 +66996,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -67613,8 +67135,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -67913,8 +67433,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тшаксялӧм керку</x>
        <xt xml:lang="rus">угол заплесневевший угол дома</xt>
@@ -67938,8 +67456,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тшакьялан места</x>
        <xt xml:lang="rus">грибное место</xt>
@@ -67999,8 +67515,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -68047,8 +67561,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -68066,8 +67578,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тшупӧм керку</x>
        <xt xml:lang="rus">срубленый дом</xt>
@@ -68089,8 +67599,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -68552,8 +68060,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тыасьтӧм пыш</x>
        <xt xml:lang="rus">конопля, не вымоченная до конца</xt>
@@ -68798,8 +68304,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тырсялӧм</x>
        <xt xml:lang="rus">чунь палец с нарывом</xt>
@@ -68907,8 +68411,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тыртлӧм картошка</x>
        <xt xml:lang="rus">окученный картофель</xt>
@@ -68930,8 +68432,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>лымӧн тыртӧм ограда</x>
        <xt xml:lang="rus">двор, заметённый снегом</xt>
@@ -69147,8 +68647,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тэчкасись вӧв</x>
        <xt xml:lang="rus">брыкливая лошадь</xt>
@@ -69171,8 +68669,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -69190,8 +68686,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тэчтӧм сю</x>
        <xt xml:lang="rus">незаскирдованный хлеб</xt>
@@ -69337,8 +68831,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -69380,8 +68872,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -69458,8 +68948,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тӧвзьӧм сю</x>
        <xt xml:lang="rus">зерно высохшее на ветру</xt>
@@ -69535,8 +69023,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тӧвзьӧтӧм</x>
        <xt xml:lang="rus">одеяло выветренное одеяло</xt>
@@ -69614,8 +69100,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -69635,8 +69119,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -69905,8 +69387,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -70142,8 +69622,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тӧлӧтӧм кӧдзӧс</x>
        <xt xml:lang="rus">провеянные семена</xt>
@@ -70219,8 +69697,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>тӧрмӧм дӧра</x>
        <xt xml:lang="rus">истлевший холст</xt>
@@ -70250,8 +69726,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -70304,8 +69778,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -70987,8 +70459,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>узьтӧтӧм кага</x>
        <xt xml:lang="rus">выспавшийся ребёнок</xt>
@@ -71258,8 +70728,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ульсалӧм сю</x>
        <xt xml:lang="rus">отсыревшее зерно</xt>
@@ -71281,8 +70749,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -71352,8 +70818,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>умӧльтчӧм кага</x>
        <xt xml:lang="rus">ослабленный ребёнок</xt>
@@ -71502,8 +70966,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>урӧсмӧмкукань</x>
        <xt xml:lang="rus">ослабевший телёнок</xt>
@@ -71692,8 +71154,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>чавзанӧм</x>
        <xt xml:lang="rus">крикливый (о человеке)</xt>
@@ -71921,8 +71381,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>чангыльтӧм ныра</x>
        <xt xml:lang="rus">со вздёрнутым носом</xt>
@@ -72029,8 +71487,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -72849,8 +72305,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -73103,8 +72557,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>чеччан кад</x>
        <xt xml:lang="rus">время подъёма (вставания)</xt>
@@ -73373,8 +72825,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>синнэс лукавӧя чикыртӧмӧсь</x>
        <xt xml:lang="rus">глаза лукаво прищурены</xt>
@@ -73564,8 +73014,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>чинтӧм юбка</x>
        <xt xml:lang="rus">уменьшенная в размере юбка</xt>
@@ -73699,8 +73147,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>чирсан сю</x>
        <xt xml:lang="rus">зерно для толчения</xt>
@@ -74180,8 +73626,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>чужан му</x>
        <xt xml:lang="rus">родная земля, родина</xt>
@@ -75130,8 +74574,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>чупкан турун</x>
        <xt xml:lang="rus">[дикий] клевер</xt>
@@ -75411,8 +74853,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -75431,8 +74871,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>чӧвтчанін</x>
        <xt xml:lang="rus">место для раздевания</xt>
@@ -76433,8 +75871,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -77226,8 +76662,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>шоччисян кад</x>
        <xt xml:lang="rus">время отдыха</xt>
@@ -77432,8 +76866,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>шулялӧм нин</x>
        <xt xml:lang="rus">лыко, нарезанное на полоски</xt>
@@ -77890,8 +77322,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -77909,8 +77339,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>шымыртчӧм доз</x>
        <xt xml:lang="rus">помятый сосуд</xt>
@@ -78030,8 +77458,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -78444,8 +77870,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ыждалісь морткӧт не кокнит овны</x>
        <xt xml:lang="rus">с властным человеком нелегко жить</xt>
@@ -78962,8 +78386,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -79432,8 +78854,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>этатшӧм сёрӧн?</x>
        <xt xml:lang="rus">так, поздно?</xt>
@@ -79490,8 +78910,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>юалан сёрникузя</x>
        <xt xml:lang="rus"> <range>уст.</range> вопросительное предложение </xt>
@@ -79542,8 +78960,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -79561,8 +78977,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>юасян знак</x>
        <xt xml:lang="rus"> <range>уст.</range> вопросительный знак </xt>
@@ -79647,8 +79061,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -79666,8 +79078,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>югмӧм небо</x>
        <xt xml:lang="rus">посветлевший небосвод</xt>
@@ -79919,8 +79329,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>юждӧм туй</x>
        <xt xml:lang="rus">наезженная [зимняя] дорога</xt>
@@ -80049,8 +79457,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вӧввез юкталан кад</x>
        <xt xml:lang="rus">время поения лошадей</xt>
@@ -80470,8 +79876,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -80540,8 +79944,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>юскисян кад</x>
        <xt xml:lang="rus">время распряжки (лошади)</xt>
@@ -80563,8 +79965,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>юскӧм вӧв</x>
        <xt xml:lang="rus">распряжённая лошадь</xt>
@@ -80764,8 +80164,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ямӧм пыкӧс</x>
        <xt xml:lang="rus">опавшая опухоль</xt>
@@ -80925,8 +80323,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>янсӧтӧм имущество</x>
        <xt xml:lang="rus">разделённое имущество</xt>
@@ -81438,8 +80834,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ёсьмӧм ныр</x>
        <xt xml:lang="rus">заострившийся нос</xt>
@@ -81854,8 +81248,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -81873,8 +81265,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ӧдззӧтӧмдюттян</x>
        <xt xml:lang="rus">раскачанные качели</xt>
@@ -82057,8 +81447,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ӧзталӧм биэз</x>
        <xt xml:lang="rus">зажжённые огни</xt>
@@ -82088,8 +81476,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>сьӧлӧм ӧзтан кыввез</x>
        <xt xml:lang="rus">слова, зажигающие сердца</xt>
@@ -82149,8 +81535,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ӧзтӧм биэз</x>
        <xt xml:lang="rus">зажжённые огни</xt>
@@ -82180,8 +81564,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ӧзъян веществоэз</x>
        <xt xml:lang="rus">воспламеняющиеся вещества</xt>
@@ -82239,8 +81621,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>вӧрас ягӧдыс быдӧс ӧктытӧм</x>
        <xt xml:lang="rus">в лесу ягоды совсем не собраны</xt>
@@ -82262,8 +81642,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>маркаэз ӧктісь морт</x>
        <xt xml:lang="rus">человек, собирающий марки</xt>
@@ -82293,8 +81671,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
      <xg>
        <x>ӧктісяндоз</x>
        <xt xml:lang="rus">посуда для сбора {чего-либо}</xt>
@@ -82545,8 +81921,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
    </mg>
 </e>
 <e>
@@ -82676,8 +82050,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -82733,8 +82105,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -83523,8 +82893,7 @@
      </stg>
    </lg>
    <mg relId="0">
-     <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">лэчыт</s></sg>
+     <sg><s pos="" s_type="seeAlso">лэчыт</s></sg>
    </mg>
 </e>
 <e order="2">

@@ -217,9 +217,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e>
@@ -519,9 +517,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e>
@@ -687,9 +683,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -2658,11 +2652,11 @@
      </tg>
      <xg>
        <x>вижлокӧн горӧтны</x>
-       <xt>лэчыда горӧдны</xt>
+       <xt xml:lang="rus">лэчыда горӧдны</xt>
      </xg>
      <xg>
        <x>эн лет вижлоктӧ!</x>
-       <xt>эн горзы!, горштӧ эн нетшкӧд!</xt>
+       <xt xml:lang="rus">эн горзы!, горштӧ эн нетшкӧд!</xt>
      </xg>
    </mg>
 </e>
@@ -3131,7 +3125,7 @@
      </tg>
      <xg>
        <x>гажӧна овны</x>
-       <xt>гажаа овны</xt>
+       <xt xml:lang="rus">гажаа овны</xt>
      </xg>
    </mg>
 </e>
@@ -3994,7 +3988,7 @@
      </tg>
      <xg>
        <x>ӧтӧрас дзар югыт ни</x>
-       <xt>ывлаын дзик югыд нин</xt>
+       <xt xml:lang="rus">ывлаын дзик югыд нин</xt>
      </xg>
    </mg>
 </e>
@@ -4456,7 +4450,7 @@
      </tg>
      <xg>
        <x>ранаыс досповна эз бурд</x>
-       <xt>дойдӧмыс помӧдз эз бурд</xt>
+       <xt xml:lang="rus">дойдӧмыс помӧдз эз бурд</xt>
      </xg>
    </mg>
 </e>
@@ -4627,9 +4621,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e>
@@ -4711,7 +4703,7 @@
      </tg>
      <xg>
        <x>дыв вашӧтны</x>
-       <xt>ылӧ вӧтлыны</xt>
+       <xt xml:lang="rus">ылӧ вӧтлыны</xt>
      </xg>
    </mg>
 </e>
@@ -4871,7 +4863,7 @@
      </tg>
      <xg>
        <x>сія уджавны дюж</x>
-       <xt>сійӧ уджавны ён</xt>
+       <xt xml:lang="rus">сійӧ уджавны ён</xt>
      </xg>
    </mg>
 </e>
@@ -4990,7 +4982,7 @@
      </tg>
      <xg>
        <x>жагвыв уджавны</x>
-       <xt>надзӧн уджавны</xt>
+       <xt xml:lang="rus">надзӧн уджавны</xt>
      </xg>
    </mg>
 </e>
@@ -5011,7 +5003,7 @@
      </tg>
      <xg>
        <x>кад мунӧ жагӧн</x>
-       <xt>кад мунӧ надзӧн</xt>
+       <xt xml:lang="rus">кад мунӧ надзӧн</xt>
      </xg>
    </mg>
 </e>
@@ -5264,7 +5256,7 @@
      </tg>
      <xg>
        <x>сія жыв айыс</x>
-       <xt>сійӧ дзик батьыс кодь</xt>
+       <xt xml:lang="rus">сійӧ дзик батьыс кодь</xt>
      </xg>
    </mg>
 </e>
@@ -5286,7 +5278,7 @@
      </tg>
      <xg>
        <x>жын овны</x>
-       <xt>крепыда овны</xt>
+       <xt xml:lang="rus">крепыда овны</xt>
      </xg>
    </mg>
 </e>
@@ -9802,9 +9794,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e>
@@ -11667,9 +11657,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -11709,9 +11697,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -11879,9 +11865,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -11934,9 +11918,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -11981,9 +11963,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -12040,9 +12020,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -16896,9 +16874,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -17204,9 +17180,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -17505,9 +17479,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -17521,9 +17493,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -18046,9 +18016,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -18062,9 +18030,7 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus"> <t/>
-     </tg> <sg/>
+     </semantics> <sg/>
    </mg>
 </e>
 <e order="2">
