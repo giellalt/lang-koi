@@ -1,1 +1,7 @@
-Cannot locate file /Users/rueter/Documents/Github/giellalt/lang-koi/src/fst/stems/CC_koi2x.xml
+
+LEXICON CC_koi2x
+
+а+CC:а CC_  "" ;
+али+CC:али CC_  "" ;
+да+CC:да CC_  "" ;
+и+CC:и CC_  "" ;
