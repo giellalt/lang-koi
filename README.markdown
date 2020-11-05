@@ -21,7 +21,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/koidoc/index.html>
+-   <https://giellalt.uit.no/lang/koi/KomiPermyakDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
