@@ -19,6 +19,31 @@
  
 
 Multichar_Symbols  !!≈ !!!Definitions for @CODE@
+
+
+! TODO: Have a look at these:
+
++Cons
++Der/ысь
++Descr
++Dial/сев.чаз.
++Dist
++Du
++Erg
++Ess
++Hom1
++Hom2
++Hom3
++Intens
++Onom
++Orth/Colloq
++Prol
++Sem/Ant-Fem-Sur
++State
++Ter
++Term
++ZeroColl
+
 +WORK
 !! !!Analysis symbols
 !  ----------------
