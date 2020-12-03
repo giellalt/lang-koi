@@ -195,6 +195,8 @@ LIST ActPrsPtc = ActPrsPtc ;
 LIST NomAct = Der/NomAct ;
 LIST Cop = Cop ;
 
+LIST Err/Orth = Err/Orth ;
+
 #!! !Verb sets
 LIST VNEG = "ог" "он" "оз" "огӧ" "огӧй" "онӧ" "онӧй" "эг" "эн" "эз" "эгӧ" "эгӧй" "энӧ" "энӧй" ; #!! VNEG (all Neg verbs)
 
@@ -391,8 +393,11 @@ REMOVE:ConNegWhenNextNeg ConNeg OR Imprt IF (1 Neg);
 
 REMOVE:1not3inPast (Prt1 Sg3) IF (*-1 (Pers Sg1 Nom) BARRIER N + Nom OR Pers + Sg3 + Nom)(0 (V Prt1 Sg1));
 
-REMOVE:3not1inPast (Prt1 Sg1) IF (NOT *0 (Pers Sg1 Nom)) ;
+REMOVE:Sg3not1inPast (Prt1 Sg1) IF (NOT *0 (Pers Sg1 Nom)) ;
 # This may be too strong, it precludes zero Sg1 subjects
+
+REMOVE:Pl3not1inPast (Prt2 Sg1) IF (NOT *0 (Pers Pl1 Nom)) ;
+
 
 REMOVE:ErrDial Err/Dial IF (0 VOELI) ;
 
@@ -606,6 +611,9 @@ SELECT:nmodNotAcc (N Sg Nom) IF (0 Nom) (1 N) ;
 
 # This is just a test, doesn't work
 # SELECT:AisNomNotAccIfFollowedByN Nom IF (1 (N Nom)) ;
+
+REMOVE:errorth Err/Orth ;
+
 
 ## TODO
 #
