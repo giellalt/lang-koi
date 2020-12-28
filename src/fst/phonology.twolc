@@ -115,7 +115,7 @@ Rules
 
 "э:е"
 !! __@RULENAME@__
-э:е <=> [CnsBeforeCyri | л: (%^LVBound: )|ь:|й|д з|ц] %> %^1Cns: _ [з|с|т] ;
+э:е <=> [CnsBeforeCyri | л: %^LVBound: |ь:|й|д з|ц] %> %^1Cns: _ [з|с|т] ;
 
 "ы:0"
 ы:0 <=> Cns (ь:) _ %^VowRM: ;
