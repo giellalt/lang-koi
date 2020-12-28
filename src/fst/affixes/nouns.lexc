@@ -209,7 +209,10 @@ PL-CASE-PX ;
 !N_ ; ! Difference betw N_ and NounLA still to be documented.
 
 LEXICON NounMort
-N_ ; ! Difference betw N_ and NounMort still to be documented.
+!N_ ; ! Difference betw N_ and NounMort still to be documented.
++Sg:% морт CASEPOSSLEX ;
+!+Pl:% морт CASEPOSSLEX ;
+
 
 LEXICON NounSG ! м орт
 +Sg: CASEPOSSLEX ;
