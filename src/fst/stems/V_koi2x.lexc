@@ -232,7 +232,7 @@ LEXICON V_koi2x
 бордсявны+v2+V+Err/Orth:бордсял BV_KUTNY  "" ;
 боркйисьны+V:боркйись BV_ARTASJNY  "" ;
 бормочитны+V:бормочит BV_KUTNY  "" ;
-борны+V:борны BV_KUTNY  "" ;
+борны+V:бор BV_KUTNY  "" ;
 борскыкы-мунны+V:борскыкы-мун BV_KUTNY  "" ;
 босьтавлыны+v1+V:босьтавлы BV_VOLYNY  "" ;
 босьтавлыны+v2+V+Err/Orth:босьталлы BV_VOLYNY  "" ;
@@ -377,7 +377,7 @@ LEXICON V_koi2x
 бырлывлыны+v3+V+Err/Orth:бырвыввы BV_LYDDJYNY  "" ;
 бырлыны+v1+V:бырлы BV_VOLYNY  "" ;
 бырлыны+v2+V+Err/Orth:бырвы BV_LYDDJYNY  "" ;
-бырны+V:бырны BV_KUTNY  "" ;
+бырны+V:быр BV_KUTNY  "" ;
 бырсьыны+V:бырсьы BV_LYDDJYNY  "" ;
 бырсьӧтны+V:бырсьӧт BV_KUTNY  "" ;
 быръялны+V+Err/Orth:быръял BV_KUTNY  "" ;
@@ -441,7 +441,7 @@ LEXICON V_koi2x
 вадзӧтлыны+V:вадзӧтлы BV_VOLYNY  "" ;
 вадзӧтны+V:вадзӧт BV_KUTNY  "" ;
 вадзӧтчыны+V:вадзӧтчы BV_LYDDJYNY  "" ;
-вадны+V:вадны BV_KUTNY  "" ;
+вадны+V:вад BV_KUTNY  "" ;
 вадсьыны+V:вадсьы BV_LYDDJYNY  "" ;
 вадісьны+V:вадісь IV_ARTASJNY  "" ;
 вадӧв-керны+v1+V:вадӧв-кер BV_KUTNY  "" ;
@@ -477,7 +477,7 @@ LEXICON V_koi2x
 валитчыны+V:валитчы BV_LYDDJYNY  "" ;
 валитчыштны+V:валитчышт BV_KUTNY  "" ;
 вальскыны+V:вальскы BV_LYDDJYNY  "" ;
-вамны+V:вамны BV_AMNY  "" ;
+вамны+V:вам BV_AMNY  "" ;
 ванзыны+V:ванзы BV_VOLYNY  "" ;
 ванйӧвтны+V:ванйӧвт BV_KUTNY  "" ;
 ванйӧвтчыны+V:ванйӧвтчы BV_LYDDJYNY  "" ;
@@ -860,7 +860,7 @@ LEXICON V_koi2x
 вочлісьны+v2+V+Err/Orth:вочвисьь IV_ARTASJNY  "" ;
 вочмыны+V:вочмы BV_LYDDJYNY  "" ;
 вочмыштны+V:вочмышт BV_KUTNY  "" ;
-вочны+V:вочны BV_AMNY  "" ;
+вочны+V:воч BV_AMNY  "" ;
 вочӧтны+V:вочӧт BV_KUTNY  "" ;
 вочӧччыны+V:вочӧччы IV_LYDDJYNY  "" ;
 воштавны+V:воштал BV_NUAVNY  "" ;
@@ -884,7 +884,6 @@ LEXICON V_koi2x
 вуграсьлыны+v1+V:вуграсьлы BV_VOLYNY  "" ;
 вуграсьлыны+v2+V+Err/Orth:вуграсьвы BV_LYDDJYNY  "" ;
 вуграсьны+V:вугрась IV_ARTASJNY  "" ;
-вуграсьны-мунны+V:вуграсьны-мунны IV_KUTNY  "" ;
 вуграсьыштны+V:вуграсьышт BV_KUTNY  "" ;
 вуграсьӧв-керны+v1+V:вуграсьӧв-кер BV_KUTNY  "" ;
 вуграсьӧв-керны+v2+V+Err/Orth:вуграсьӧл-кер BV_AMNY  "" ;
@@ -1059,7 +1058,7 @@ LEXICON V_koi2x
 вӧтсыштны+V:вӧтсышт BV_KUTNY  "" ;
 вӧтчыны+V:вӧтчы IV_LYDDJYNY  "" ;
 вӧтьлыны+V:вӧтьлы BV_VOLYNY  "" ;
-вӧтьны+V:вӧтьны BV_KUTNY  "" ;
+вӧтьны+V:вӧть BV_KUTNY  "" ;
 вӧтьсьыны+V:вӧтьсьы BV_LYDDJYNY  "" ;
 вӧтьыштны+V:вӧтьышт BV_KUTNY  "" ;
 вӧтьӧтны+V:вӧтьӧт BV_KUTNY  "" ;
@@ -1402,7 +1401,7 @@ LEXICON V_koi2x
 гӧгьясьны+V:гӧгьясь IV_ARTASJNY  "" ;
 гӧгӧртны+V:гӧгӧрт BV_KUTNY  "" ;
 гӧгӧртӧтны+V:гӧгӧртӧт BV_KUTNY  "" ;
-гӧжны+V:гӧжны BV_AMNY  "" ;
+гӧжны+V:гӧж BV_AMNY  "" ;
 гӧнзьыны+V:гӧнзьы BV_LYDDJYNY  "" ;
 гӧнитны+V:гӧнит BV_KUTNY  "" ;
 гӧнсявны+V:гӧнсял BV_NUAVNY  "" ;
@@ -1674,7 +1673,7 @@ LEXICON V_koi2x
 дузгыльтчыны+V:дузгыльтчы IV_LYDDJYNY  "" ;
 дузгыны+V:дузгы BV_LYDDJYNY  "" ;
 дузгыртчыны+V:дузгыртчы IV_LYDDJYNY  "" ;
-дузны+V:дузны IV_KUTNY  "" ;
+дузны+V:дуз IV_KUTNY  "" ;
 дукавны+V:дукал BV_NUAVNY  "" ;
 дукалыштны+V:дукалышт BV_KUTNY  "" ;
 дукасьны+V:дукась IV_ARTASJNY  "" ;
@@ -2819,7 +2818,7 @@ LEXICON V_koi2x
 кыйлыны+Hom1+v2+V+Err/Orth:кыйвы BV_LYDDJYNY  "" ;
 кыйлыны+Hom2+v1+V:кыйлы BV_VOLYNY  "" ;
 кыйлыны+Hom2+v2+V+Err/Orth:кыйвы BV_LYDDJYNY  "" ;
-кыйны+V:кыйны BV_KYJNY  "" ;
+кыйны+V:кый BV_KYJNY  "" ;
 кыйсьыны+Hom1+V:кыйсьы BV_LYDDJYNY  "" ;
 кыйсьыны+Hom2+V:кыйсьы BV_LYDDJYNY  "" ;
 кыйыштны+Hom1+V:кыйышт BV_KUTNY  "" ;
@@ -3396,7 +3395,7 @@ LEXICON V_koi2x
 лэчытсявны+v3+V+Err/Orth:вечытсяв BV_AMNY  "" ;
 лэчӧтны+V:лэчӧт BV_KUTNY  "" ;
 любитчыны+V:любитчы IV_LYDDJYNY  "" ;
-люгны+V:люгны IV_AMNY  "" ;
+люгны+V:люг IV_AMNY  "" ;
 люззьыны+V:люззьы BV_LYDDJYNY  "" ;
 люзниччыны+V:люзниччы IV_LYDDJYNY  "" ;
 люкавны+V:люкал BV_NUAVNY  "" ;
@@ -3461,7 +3460,7 @@ LEXICON V_koi2x
 лячкыны+V:лячкы BV_LYDDJYNY  "" ;
 ляшкыны+V:ляшкы BV_LYDDJYNY  "" ;
 ляшмасьны+V:ляшмась IV_ARTASJNY  "" ;
-лёбны+V:лёбны BV_AMNY  "" ;
+лёбны+V:лёб BV_AMNY  "" ;
 лёбьявны+v1+V:лёбьял BV_NUAVNY  "" ;
 лёбьявны+v2+V+Err/Orth:лёбьял BV_KUTNY  "" ;
 лёдзавны+V:лёдзал BV_NUAVNY  "" ;
@@ -3719,7 +3718,7 @@ LEXICON V_koi2x
 могдісьны+V:могдісь IV_ARTASJNY  "" ;
 модейтны+V:модейт BV_KUTNY  "" ;
 модзасьны+V:модзась IV_ARTASJNY  "" ;
-модьны+V:модьны BV_KUTNY  "" ;
+модьны+V:модь BV_KUTNY  "" ;
 можжитны+V:можжит BV_KUTNY  "" ;
 монлавны+V:монла BV_NUAVNY  "" ;
 моржитны+V:моржит BV_KUTNY  "" ;
@@ -3782,7 +3781,7 @@ LEXICON V_koi2x
 мыглявны+v2+V+Err/Orth:мыглял BV_KUTNY  "" ;
 мыдзлыны+v1+V:мыдзлы BV_VOLYNY  "" ;
 мыдзлыны+v2+V+Err/Orth:мыдзвы BV_LYDDJYNY  "" ;
-мыдзны+V:мыдзны BV_AMNY  "" ;
+мыдзны+V:мыдз BV_AMNY  "" ;
 мыдзсьыны+V:мыдзсьы BV_LYDDJYNY  "" ;
 мыдзтӧтны+V:мыдзтӧт BV_KUTNY  "" ;
 мыдзӧтны+V:мыдзӧт BV_KUTNY  "" ;
@@ -3881,7 +3880,7 @@ LEXICON V_koi2x
 неблывлыны+v3+V+Err/Orth:небвыввы BV_LYDDJYNY  "" ;
 неблыны+v1+V:неблы BV_VOLYNY  "" ;
 неблыны+v2+V+Err/Orth:небвы BV_LYDDJYNY  "" ;
-небны+V:небны BV_AMNY  "" ;
+небны+V:неб BV_AMNY  "" ;
 небсьыны+V:небсьы BV_LYDDJYNY  "" ;
 неволькытсьӧтны+V:неволькытсьӧт BV_KUTNY  "" ;
 неволькытсявны+v1+V:неволькытсял BV_NUAVNY  "" ;
@@ -3933,7 +3932,7 @@ LEXICON V_koi2x
 нильдӧтчыны+V:нильдӧтчы IV_LYDDJYNY  "" ;
 нильзьыны+V:нильзьы BV_LYDDJYNY  "" ;
 нильзьӧтны+V:нильзьӧт BV_KUTNY  "" ;
-нильны+V:нильны BV_KUTNY  "" ;
+нильны+V:ниль BV_KUTNY  "" ;
 нильскӧбтыны+V:нильскӧбты BV_VOLYNY  "" ;
 нильчыктыны+V:нильчыкты BV_VOLYNY  "" ;
 нильӧптыны+V:нильӧпты BV_VOLYNY  "" ;
@@ -4211,7 +4210,7 @@ LEXICON V_koi2x
 нёльмӧтны+V:нёльмӧт BV_KUTNY  "" ;
 нёльподасьны+V:нёльподась IV_ARTASJNY  "" ;
 нёпсьыны+V:нёпсьы BV_LYDDJYNY  "" ;
-нёрны+V:нёрны BV_KUTNY  "" ;
+нёрны+V:нёр BV_KUTNY  "" ;
 нёштӧмасьны+V:нёштӧмась IV_ARTASJNY  "" ;
 нёштӧммыны+V:нёштӧммы BV_LYDDJYNY  "" ;
 нёштӧмсявны+v1+V:нёштӧмсял BV_NUAVNY  "" ;
@@ -4340,7 +4339,7 @@ LEXICON V_koi2x
 оропавны+v2+V+Err/Orth:оропал BV_KUTNY  "" ;
 орслыны+v1+V:орслы BV_VOLYNY  "" ;
 орслыны+v2+V+Err/Orth:орсвы BV_LYDDJYNY  "" ;
-орсны+V:орсны BV_KUTNY  "" ;
+орсны+V:орс BV_KUTNY  "" ;
 орссьыны+V:орссьы BV_LYDDJYNY  "" ;
 орсьӧтны+V:орсьӧт BV_KUTNY  "" ;
 орсявны+v1+V:орсял BV_NUAVNY  "" ;
@@ -4391,7 +4390,7 @@ LEXICON V_koi2x
 очасьны+V:очась IV_ARTASJNY  "" ;
 очкиасьны+V:очкиась IV_ARTASJNY  "" ;
 ошавны+V:ошал BV_NUAVNY  "" ;
-ошков-керны+V:ошков-керны BV_KUTNY  "" ;
+ошков-керны+V:ошков-кер BV_KUTNY  "" ;
 ошкыны+V:ошкы BV_LYDDJYNY  "" ;
 ошкыштны+V:ошкышт BV_KUTNY  "" ;
 ошкӧв-керны+V:ошкӧв-кер BV_KUTNY  "" ;
@@ -4425,7 +4424,7 @@ LEXICON V_koi2x
 павкнитсьыштны+V:павкнитсьышт BV_KUTNY  "" ;
 павкнитчыны+V:павкнитчы IV_LYDDJYNY  "" ;
 павкнитчыштны+V:павкнитчышт BV_KUTNY  "" ;
-павкны+V:павкны IV_AMNY  "" ;
+павкны+V:павк IV_AMNY  "" ;
 павкӧтлыны+V:павкӧтлы BV_VOLYNY  "" ;
 павкӧтлыштны+V:павкӧтлышт BV_KUTNY  "" ;
 павкӧтны+V:павкӧт BV_KUTNY  "" ;
@@ -4473,7 +4472,7 @@ LEXICON V_koi2x
 падеритсьыны+V:падеритсьы BV_LYDDJYNY  "" ;
 падеритыштны+V:падеритышт BV_KUTNY  "" ;
 паджлыны+V:паджлы BV_VOLYNY  "" ;
-паджны+V:паджны BV_AMNY  "" ;
+паджны+V:падж BV_AMNY  "" ;
 паджсьывлыны+v1+V:паджсьывлы BV_VOLYNY  "" ;
 паджсьывлыны+v2+V+Err/Orth:паджсьыллы BV_VOLYNY  "" ;
 паджсьывны+v1+V:паджсьыл BV_NUAVNY  "" ;
@@ -4977,7 +4976,7 @@ LEXICON V_koi2x
 пизьналыштны+v3+V+Err/Orth:пизьнавышт BV_KUTNY  "" ;
 пизьнасьны+V:пизьнась IV_ARTASJNY  "" ;
 пизьнасьыштны+V:пизьнасьышт BV_KUTNY  "" ;
-пизьны+V:пизьны BV_ARTASJNY  "" ;
+пизьны+V:пизь BV_ARTASJNY  "" ;
 пизьӧссьыны+V:пизьӧссьы BV_LYDDJYNY  "" ;
 пизьӧсьмывлыны+v1+V:пизьӧсьмывлы BV_VOLYNY  "" ;
 пизьӧсьмывлыны+v2+V+Err/Orth:пизьӧсьмыллы BV_VOLYNY  "" ;
@@ -6032,7 +6031,7 @@ LEXICON V_koi2x
 радззыны+V:радззы BV_LYDDJYNY  "" ;
 радзлыны+v1+V:радзлы BV_VOLYNY  "" ;
 радзлыны+v2+V+Err/Orth:радзвы BV_LYDDJYNY  "" ;
-радзны+V:радзны BV_AMNY  "" ;
+радзны+V:радз BV_AMNY  "" ;
 радзсьывлыны+V:радзсьывлы BV_VOLYNY  "" ;
 радзсьыны+V:радзсьы BV_LYDDJYNY  "" ;
 радзсьыштны+V:радзсьышт BV_KUTNY  "" ;
@@ -6243,7 +6242,7 @@ LEXICON V_koi2x
 рудзалыштны+v1+V:рудзалышт BV_KUTNY  "" ;
 рудзалыштны+v2+V+Err/Orth:рудзаыш BV_JUAYSHNY  "" ;
 рудзалыштны+v3+V+Err/Orth:рудзавыш BV_JUAYSHNY  "" ;
-рудзны+V:рудзны BV_AMNY  "" ;
+рудзны+V:рудз BV_AMNY  "" ;
 рудзтыны+V:рудзты BV_LYDDJYNY  "" ;
 рудзыштны+V:рудзышт BV_KUTNY  "" ;
 рудзӧтлыны+V:рудзӧтлы BV_VOLYNY  "" ;
@@ -6420,7 +6419,7 @@ LEXICON V_koi2x
 саймӧтчыны+V:саймӧтчы IV_LYDDJYNY  "" ;
 саймӧтчыштны+V:саймӧтчышт BV_KUTNY  "" ;
 саймӧтыштны+V:саймӧтышт BV_KUTNY  "" ;
-сальны+V:сальны BV_KUTNY  "" ;
+сальны+V:саль BV_KUTNY  "" ;
 санны+V:сан BV_KUTNY  "" ;
 сапкисьны+V:сапкись IV_ARTASJNY  "" ;
 сапкыны+V:сапкы BV_LYDDJYNY  "" ;
@@ -7735,7 +7734,7 @@ LEXICON V_koi2x
 торӧтны+V:торӧт BV_KUTNY  "" ;
 тотькыны+V:тотькы BV_LYDDJYNY  "" ;
 тотькыштны+V:тотькышт BV_KUTNY  "" ;
-тотьны+V:тотьны BV_KUTNY  "" ;
+тотьны+V:тоть BV_KUTNY  "" ;
 тотьсьыны+V:тотьсьы BV_LYDDJYNY  "" ;
 тотьыштны+V:тотьышт BV_KUTNY  "" ;
 тотьӧв-керны+v1+V:тотьӧв-кер BV_KUTNY  "" ;
@@ -9178,7 +9177,7 @@ LEXICON V_koi2x
 читкырасьны+V:читкырась IV_ARTASJNY  "" ;
 читкыртны+V:читкырт BV_KUTNY  "" ;
 читкыртчыштны+V:читкыртчышт BV_KUTNY  "" ;
-човны+V:човны BV_NUAVNY  "" ;
+човны+V:чов BV_NUAVNY  "" ;
 чожмыны+V:чожмы BV_LYDDJYNY  "" ;
 чожмӧтлыны+v1+V:чожмӧтлы BV_VOLYNY  "" ;
 чожмӧтлыны+v2+V+Err/Orth:чожмӧтвы BV_LYDDJYNY  "" ;
@@ -9398,7 +9397,7 @@ LEXICON V_koi2x
 чывкнитны+v2+V+Err/Orth:чылкнит BV_KUTNY  "" ;
 чывкьявны+v1+V:чывкьял BV_NUAVNY  "" ;
 чывкьявны+v2+V+Err/Orth:чылкьял BV_KUTNY  "" ;
-чывны+V:чывны BV_NUAVNY  "" ;
+чывны+V:чыв BV_NUAVNY  "" ;
 чывьявны+V:чывьял BV_NUAVNY  "" ;
 чышкиссьыны+V:чышкиссьы BV_LYDDJYNY  "" ;
 чышкисьны+V:чышкись IV_ARTASJNY  "" ;
@@ -9886,7 +9885,7 @@ LEXICON V_koi2x
 шулявлыны+v2+V+Err/Orth:шуляллы BV_VOLYNY  "" ;
 шулявлыны+v3+V+Err/Orth:шуляввы BV_LYDDJYNY  "" ;
 шулявны+V:шуля BV_NUAVNY  "" ;
-шулявны-гӧрны+V:шулявны-гӧрны BV_KUTNY  "" ;
+шулявны-гӧрны+V:шулявны-гӧр BV_KUTNY  "" ;
 шулялыштны+v1+V:шулялышт BV_KUTNY  "" ;
 шулялыштны+v2+V+Err/Orth:шуляыш BV_JUAYSHNY  "" ;
 шулялыштны+v3+V+Err/Orth:шулявыш BV_JUAYSHNY  "" ;
@@ -10569,8 +10568,8 @@ LEXICON V_koi2x
 ӧнмӧсьтӧтны+V:ӧнмӧсьтӧт BV_KUTNY  "" ;
 ӧнньышны+V:ӧнньыш BV_AMNY  "" ;
 ӧсилейтны+V:ӧсилейт BV_KUTNY  "" ;
-ӧсны+V:ӧсны BV_KUTNY  "" ;
-ӧсӧв-керны+V:ӧсӧв-керны BV_KUTNY  "" ;
+ӧсны+V:ӧс BV_KUTNY  "" ;
+ӧсӧв-керны+V:ӧсӧв-кер BV_KUTNY  "" ;
 ӧсӧсьмыны+V:ӧсӧсьмы BV_LYDDJYNY  "" ;
 ӧсӧсьтны+V:ӧсӧсьт BV_KUTNY  "" ;
 ӧсӧтны+V:ӧсӧт BV_KUTNY  "" ;
@@ -10616,7 +10615,7 @@ LEXICON V_koi2x
 ӧшлісьны+Hom1+v2+V+Err/Orth:ӧшвисьь IV_ARTASJNY  "" ;
 ӧшлісьны+Hom2+v1+V:ӧшлісьь IV_ARTASJNY  "" ;
 ӧшлісьны+Hom2+v2+V+Err/Orth:ӧшвисьь IV_ARTASJNY  "" ;
-ӧшны+V:ӧшны IV_AMNY  "" ;
+ӧшны+V:ӧш IV_AMNY  "" ;
 ӧштавны+v1+V:ӧштал BV_NUAVNY  "" ;
 ӧштавны+v2+V+Err/Orth:ӧштал BV_KUTNY  "" ;
 ӧштасьны+V:ӧштась IV_ARTASJNY  "" ;

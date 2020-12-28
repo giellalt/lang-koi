@@ -927,15 +927,15 @@ LEXICON ADNDEMTAG
 +Adn+Dem+Cop+Pl:%>ӧсь K ;
 +Adn+Dem+Der/MWN: Noun1 ;
 
-LEXICON PRONDEMTAG-ES
-+Pron+Dem+Sg+Nom:%>ійӧ K ;
-+Pron+Dem+Sg+Acc:%>ійӧс K ;
-+Pron+Dem+Sg+Ins:%>ійӧн K ;
-+Pron+Dem+Sg:%>ы PRONDEMTAGSG ;
-+Pron+Dem+Pl:%>ійӧяс WordEnd ;
-+Pron+Dem+Pl:%>ійяс WordEnd ;
-+Pron+Dem+Pl:%>ійӧян WordEnd ;
-+Pron+Dem+Pl:%>ійян WordEnd ;
+!LEXICON PRONDEMTAG-ES
+!+Pron+Dem+Sg+Nom:%>ійӧ K ;
+!+Pron+Dem+Sg+Acc:%>ійӧс K ;
+!+Pron+Dem+Sg+Ins:%>ійӧн K ;
+!+Pron+Dem+Sg:%>ы PRONDEMTAGSG ;
+!+Pron+Dem+Pl:%>ійӧяс WordEnd ;
+!+Pron+Dem+Pl:%>ійяс WordEnd ;
+!+Pron+Dem+Pl:%>ійӧян WordEnd ;
+!+Pron+Dem+Pl:%>ійян WordEnd ;
 
 LEXICON PRONDEMTAGSG-TA
 +Pron+Dem+Sg+Nom:%>йӧ K ;
@@ -1255,9 +1255,9 @@ APR_THEN-K ;
 +TerI+PxSg2:ӧдзыд K ;
 +TerI+PxSg3:ӧдзыс K ;
 
-LEXICON PRONQ-ATAG
-+Pron+Qnt+A: K ;
-+Pron+Qnt+A+Der/MWN: Noun1 ;
+!LEXICON PRONQ-ATAG
+!+Pron+Qnt+A: K ;
+!+Pron+Qnt+A+Der/MWN: Noun1 ;
 
 LEXICON PRON-QNT_
 +Pron+Qnt: COMPARATIVE ; ! sg/pl?
