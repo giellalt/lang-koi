@@ -25,9 +25,9 @@ LEXICON CONJ_NEWWORDS
 мыйӧн+CS:мыйӧн CS_  "" ;
 непӧштӧ+CS:непӧштӧ CONJ_  "" ;
 ни+CC:ни CC_  "eikä" ;
-нисьӧ:нисьӧ CONJ_  "" ;
+нисьӧ+CC:нисьӧ CONJ_  "" ;
 но% и+CC:но% и CONJ_  "vaan myös" ;
-пӧ:пӧ CONJ_  "" ;
+пӧ+CC:пӧ CONJ_  "" ;
 сы% вӧсна% мый+CS:сы% вӧсна% мый CS_  "siksi" ;
 сы% понда% мый+CS:сы% понда% мый CS_  "sen vuoksi" ;
 сы% вӧсна% мый+CS:сы% вӧсна% мый CONJ_  "" ;

@@ -26,6 +26,7 @@ LIST EOS = (<<<) (</s>); #!! EOS
 
 LIST CmpTest = CmpTest ; #!! CmpTest
 LIST Err = Err ;  #!! Err
+LIST Err/Orth = Err/Orth ;  #!! Err
 LIST Err/Dial = Err/Dial ; #!! вӧлі Sg3
 
 #!! !Parts of speech tags
@@ -236,8 +237,12 @@ SET Non-VFIN = WORD - V | V - VFIN ;
 #!! !!Rule section
 SECTION
 
-#!! * __NoDerIfPossible__ removes all derivations
+#
+SUBSTITUTE (TV) (*) TARGET (*) ;
+SUBSTITUTE (IV) (*) TARGET (*) ;
 
+#!! * __NoDerIfPossible__ removes all derivations
+REMOVE Err/Orth ;# remove if possible
 
 #!! * __Dem__ selects Dem if N Nom to the right
 SELECT:Dem Dem IF (0 Dem)(1 N + Nom);

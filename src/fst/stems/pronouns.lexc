@@ -3,7 +3,7 @@
 !! Pronouns in KOMI PERMYAK language are references to things.
 
 LEXICON Pronouns
-кинкӧ:кин PRONINDEFTAG-KO  "(kpv)..кодкӧ:код PRONINDEFTAG-KO.." ;
+кинкӧ+Pron:кин PRONINDEFTAG-KO  "(kpv)..кодкӧ:код PRONINDEFTAG-KO.." ;
 
 
 ! vim: set ft=xfst-lexc:
