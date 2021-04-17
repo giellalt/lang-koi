@@ -1,22 +1,22 @@
 
 ! ============================= !
-!! !!!Noun morphological lexica !
+!! # Noun morphological lexica !
 ! ============================= !
 
 ! ===== !
 ! Nouns !
 ! ===== !
 
-LEXICON Vocative   !!≈ * __@CODE@__
+LEXICON Vocative   !!≈ * **@CODE@**
 +Voc: # ;
 
-LEXICON Noun1-IS_PTC-OM !!≈ * __@CODE@__ is to provide deverbal nouns with +Der/ӧм tags
+LEXICON Noun1-IS_PTC-OM !!≈ * **@CODE@** is to provide deverbal nouns with +Der/ӧм tags
 +V+Der/ӧм: N_ ;
 
-LEXICON Noun1-IS_PTC-AN !!≈ * __@CODE@__
+LEXICON Noun1-IS_PTC-AN !!≈ * **@CODE@**
 +V+Der/An: N_ ;
 
-LEXICON Noun1-IS_PTC-YSJ !!≈ * __@CODE@__
+LEXICON Noun1-IS_PTC-YSJ !!≈ * **@CODE@**
 +V+Der/ысь: N_ ;
 
 LEXICON N-DOR ! мӧдладор The Russian is an adverbial phrase
@@ -244,7 +244,7 @@ LEXICON FIRST
 
 
 ! =================== !
-!! !!Inflectional lexica 
+!! ## Inflectional lexica 
 ! =================== !
 
 
@@ -256,7 +256,7 @@ LEXICON FIRST
 ! Case + Poss or Poss+Case
 
 
-LEXICON CASEPOSSLEX !!≈ * __@CODE@__
+LEXICON CASEPOSSLEX !!≈ * **@CODE@**
 
  DERIVEDADJ ;    ! Deriving prenominal adjectives, республикаса
 CASEPOSSLEX-afterDerivation ;
@@ -559,7 +559,7 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 +TerI+PxPl3:%>ӧдззиныс K ;
 
 
-!! !!Case followed by possible clitic
+!! ## Case followed by possible clitic
 LEXICON ABL_THEN-K
 +Abl:%>лісь K ;
 
@@ -627,7 +627,7 @@ LEXICON TERI_THEN-K
 !+TerII:%>ви K ;
 
 !begin
-!! !!Case followed by word end
+!! ## Case followed by word end
 LEXICON ABL_THEN-WORD-END
 +Abl:%>лісь WordEnd ;
 

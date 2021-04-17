@@ -253,7 +253,7 @@ LEXICON PropSur-kudo
 
 LEXICON PROP-PLC-KPV ! Inanimate proper nouns. Place names
 +Sem/Plc+EOLang/KPV+Sg: CASEPOSSLEX ;
-@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; !!= * __@CODE@__ This requires down-casing
+@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; !!= * **@CODE@** This requires down-casing
 
 !LEXICON PROP-PLC-RUS ! Inanimate proper nouns. Place names
 !+Sem/Plc+Src/F+Sg: CASEPOSSLEX ;

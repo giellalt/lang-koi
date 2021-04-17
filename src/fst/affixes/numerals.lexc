@@ -1,7 +1,7 @@
 
 
 ! ================================ !
-!! !!!Numeral morphological lexica 
+!! # Numeral morphological lexica 
 ! ================================ !
 
 LEXICON NUM_
@@ -58,7 +58,7 @@ LEXICON CARD-ITER-APPR
 
 
 ! =================== !
-!! !!Inflectional lexica 
+!! ## Inflectional lexica 
 ! =================== !
 
 !! All nouns follow one contlex "Noun1"
@@ -247,7 +247,7 @@ DAT_THEN-K ;
 
                      
  
-!! !!Arabic numerals
+!! ## Arabic numerals
 ! ===============
 
 !LEXICON NUM-PREFIXES     !!= * __@CODE@__  
@@ -276,7 +276,7 @@ DAT_THEN-K ;
 !
 
 
-LEXICON ARABIC          !!= * __@CODE@__ 
+LEXICON ARABIC          !!= * **@CODE@** 
 1 ARABICLOOP ;                                  !^C^                               
 2 ARABICLOOP ;                                  !^C^                               
 3 ARABICLOOP ;                                  !^C^                               
