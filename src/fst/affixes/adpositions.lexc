@@ -1,4 +1,4 @@
-!! !!!Postposition inflection
+!! # Postposition inflection
 !! ----
 
 !! Komi postpositions inflect for direction.
@@ -39,7 +39,7 @@ LEXICON POSTP_
 !! to extensive declension
 
 
-LEXICON POSTP1  !!= * __@CODE@__
+LEXICON POSTP1  !!= * **@CODE@**
 PO-APR ;
 PO-APRILL ;
 PO-APR-INE ;
@@ -146,7 +146,7 @@ LEXICON PO-TERI
 +Po+Sg+Term:%>ӧдзз PO-PX ;
 
 !!
-LEXICON PO-SPAT_  !!= * __@CODE@__
+LEXICON PO-SPAT_  !!= * **@CODE@**
 PO-SPAT-APR ;
 PO-SPAT-APRILL ;
 PO-SPAT-APR-INE ;

@@ -3,11 +3,11 @@
 !! =================================== !
 
 
-!! !!Alphabet, Sets and Definitions
+!! ## Alphabet, Sets and Definitions
 
 Alphabet
 
-!! !!Letters of the alphabet
+!! ## Letters of the alphabet
 
 а б в г д е ё ж з и і й к л м н о ӧ п р с т у ф х ц ч ш щ ъ ы ь э ю я !!= * @CODE@
 А Б В Г Д Е Ё Ж З И І Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я !!= * @CODE@
@@ -19,14 +19,14 @@ Alphabet
  %{ая%}:а
  %{ая%}:я
 
-!! !!Archiphonemes for vowels
-!! !!Triggers
+!! ## Archiphonemes for vowels
+!! ## Triggers
 %^1Cns:0   !!= * @CODE@ Plural-initial; it allows for doubling of consonant
 
 %^LVBound:0    !!= * @CODE@ boundary for LV change instead of Consonant or end of word
 %^VowRM:0      !!= * @CODE@ vowel syncope
 
-!! !!Boundary symbols
+!! ## Boundary symbols
 
  %> !!= * @CODE@ morpheme boundary
  #  !!  * hash # word boundary
@@ -43,7 +43,7 @@ Alphabet
  ;
 
 
-!! !!Sets 
+!! ## Sets 
 
 Sets
 !! Vowel
@@ -89,32 +89,32 @@ PairedCnsNoZ =  д л н с т ц
 Dummy = %> %^Inf %^PATR %^FEM ;
 
 
-!! !!Definitions
+!! ## Definitions
 
 !Definitions
 
 
-!! !!Rules
+!! ## Rules
 
 Rules
 
 "Double stem-final consonant"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^1Cns:Cy <=> Cy (ь:) %> _ э: ;
           where Cy in (б г д ж з к л м н п р с т ф х ц ч ш щ) ;
 
 
 "Double stem-final consonant л:в"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^1Cns:в <=> [ в | л: %^LVBound: ] %> _ э: ;
 
 
 "%^1Cns to zero"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %^1Cns:0 <=> [Vow|й ] %> _ э: ;
 
 "э:е"
-!! __@RULENAME@__
+!! **@RULENAME@**
 э:е <=> [CnsBeforeCyri | л: %^LVBound: |ь:|й|д з|ц] %> %^1Cns: _ [з|с|т] ;
 
 "ы:0"
@@ -122,13 +122,13 @@ Rules
 
 
 "The famous L/V"
-!! __@RULENAME@__
+!! **@RULENAME@**
  л:в <=> Vow _ %^LVBound:0 ;
 ! Vow _ [ # | %> Cns ] ;
 
 !! Paragogic consonants
 "mDeletion"
-!! __@RULENAME@__
+!! **@RULENAME@**
  м:0 <=> н _ [ # | %> Cns ] ;
  !!€ синм%>ыс
  !!€ синм%>ыс
@@ -139,7 +139,7 @@ Rules
 
 !! Paragogic consonants
 "tDeletion"
-!! __@RULENAME@__
+!! **@RULENAME@**
  т:0 <=> п _ [ # | %> Cns ] ;
  !!€ зепт%>ыс
  !!€ зепт%>ыс
@@ -161,7 +161,7 @@ Rules
 ! !!€ кось0%>сянь
 
 "jDeletion after vowel"
-!! __@RULENAME@__
+!! **@RULENAME@**
  й:0 <=> [б | в | г | д | ж | з | к | м | н | п | р | т | с ] _ [ # | %> Cns ] ;
  !!€ гобй%>ыс
  !!€ гобй%>ыс
@@ -184,7 +184,7 @@ Rules
  !!€ сё0%>и#
 
 "j to hard sign after consonant"
-!! __@RULENAME@__
+!! **@RULENAME@**
  й:ъ <=> [б | в | г | д | ж | з | к | м | н | п | р | т | с ] _ %> а: ;
 !!€ кывй%>а#
 !!€ кывъ%>я#
@@ -192,7 +192,7 @@ Rules
 !!€ кӧсъ%>я#
 
 "l deletion"
-!! __@RULENAME@__
+!! **@RULENAME@**
  л:0 <=>  л _  ь  [ # | %> Cns ] ;
  !!€ вакулль%>ыс
  !!€ вакулль%>ыс
@@ -202,7 +202,7 @@ Rules
  !!€ вакул0ь%>сӧ
 
 "d deletion"
-!! __@RULENAME@__
+!! **@RULENAME@**
  д:0 <=>  _ д [ ь | з ]  [ # | %> Cns ] ;
  !!€ виддз%>ыс
  !!€ виддз%>ыс
@@ -216,7 +216,7 @@ Rules
 
 !! Vowel Palatalisation
 "а 2 я, о 2 ё, у 2 ю"
-!! __@RULENAME@__
+!! **@RULENAME@**
  Vx:Vy <=> [~[ д з | ч ]] [ ь: | й: ]  %>  _ [ # | %> | Cns: | Vow: ] ;
         where Vx in (а о у)
               Vy in (я ё ю)
@@ -237,7 +237,7 @@ Rules
 ! ь>у:ю appears in compound words
 
 "%{иі%} 2 і"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{иі%}:і <=>
  PairedCnsNoZ (ы: %^VowRM:) %>  _ [ # | %> | Cns: | Vow: ] ;
  [Vow: |Vow: [Cns - д]] (з) з  (ы: %^VowRM:) %>  _ [ # | %> | Cns: | Vow: ] ;
@@ -245,7 +245,7 @@ Rules
 
 
 "%{иі%} 2 и"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{иі%}:и <=> [ Vow: | CnsBeforeCyri | й: | ь: | Vow:  д (з) з ] (ы: %^VowRM:) %>  _ [ # | %> | Cns: | Vow: ] ;
 !!€ ворссь%>%{иі%}#
 !!€ ворсс0%>и#
@@ -257,7 +257,7 @@ Rules
 !!€ вай%>ис
 
 "%{ая%} 2 а"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{ая%}:а <=>
  [CnsWithHardA | Vow ] (ы: %^VowRM:) %>  _ [ # | %- | %> | Cns: | Vow: ] ;
 !!€ ло%>%{ая%}#
@@ -268,7 +268,7 @@ Rules
 
 
 "%{ая%} 2 я"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{ая%}:я <=> [  й: | ь: ] (ы: %^VowRM:) %>  _ [ # | %- | %> | Cns: | Vow: ] ;
 !!€ ворссь%>%{ая%}#
 !!€ ворсс0%>я#
@@ -277,7 +277,7 @@ Rules
 
 
 "Soft Sign Deletion"
-!! __@RULENAME@__
+!! **@RULENAME@**
  ь:0 <=>  Cns _ %> %^1Cns: ;
 !!€ нянь%>%^1Cnsэз
 !!€ нян0%>нез
@@ -293,7 +293,7 @@ Rules
 !!€ велӧдыс0%>сьыс
 
 "Hard Sign Deletion"
-!! __@RULENAME@__
+!! **@RULENAME@**
  ъ:0 <=> [ Vow (й) | ь ] %> _ ;
 !!€ вой%>ъяс
 !!€ вой%>0яс
@@ -306,13 +306,13 @@ Rules
 !!$ автобус%>0яс
 
 "Hard Sign Palatalization"
-!! __@RULENAME@__
+!! **@RULENAME@**
  ъ:ь <=> [ д з | ч ] %> _ я ;
 !!€ виддз%>ъяс
 !!€ вид0з%>ьяс
 
 "No triple letters"
-!! __@RULENAME@__
+!! **@RULENAME@**
  Cx:0 <=> Cx _ %> Cx ;
         where Cx in (а о у) ;
 ! Also orthography _Коми орфография кывкуд 2008: 16_
@@ -324,7 +324,7 @@ Rules
 !!€ метал0%>лӧн
 
 "IClitic"
-!! __@RULENAME@__
+!! **@RULENAME@**
  И2:й <=> Vow %- _ #  ;
 
 

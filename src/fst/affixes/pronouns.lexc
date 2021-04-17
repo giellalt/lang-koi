@@ -1,8 +1,8 @@
 ! ========================================================================== !
-!!                        !!!Pronominal morphology                           
+!! # Pronominal morphology                           
 ! ========================================================================== !
 
-!! !!Closed class personal pronouns
+!! ## Closed class personal pronouns
 ! ------------------------------
 LEXICON PRONOUN-TYPES
  PERS ;
@@ -14,15 +14,15 @@ LEXICON PRONOUN-TYPES
 ӧтик+Pron+Indef:ӧтик NMN_ ;
 ӧтамӧд+Pron+Recipr:ӧтамӧд NMN_ ;
 
-LEXICON PERS                        !!≈ * __@CODE@__ 
-ме+Pron+Pers+Sg1:ме perssg1decl ;    !!≈ * __@CODE@__ ...
+LEXICON PERS                        !!≈ * **@CODE@** 
+ме+Pron+Pers+Sg1:ме perssg1decl ;    !!≈ * **@CODE@** ...
 тэ+Pron+Pers+Sg2:тэ perssg2decl ; 
 сія+Pron+Pers+Sg3:с perssg3decl ;
 ме+Pron+Pers+Pl1:ми perspl1decl ;
 тэ+Pron+Pers+Pl2:ті perspl2decl ; 
 сія+Pron+Pers+Pl3:н perspl3decl ;
 
-ачым+Pron+Refl+Sg1:а REFLSG1DECL ;    !!≈ * __@CODE@__ ...
+ачым+Pron+Refl+Sg1:а REFLSG1DECL ;    !!≈ * **@CODE@** ...
 ачыт+Pron+Refl+Sg2:а REFLSG2DECL ; 
 ачыс+Pron+Refl+Sg3:а REFLSG3DECL ;
 ачым+Pron+Refl+Pl1:а REFLPL1DECL ;
@@ -44,7 +44,7 @@ LEXICON PERS                        !!≈ * __@CODE@__
 !LEXICON PERS-PL3_
 !+Pron+Pers+Pl3: perspl3decl ;
 
-LEXICON perssg1decl   !!≈ * __@CODE@__ 
+LEXICON perssg1decl   !!≈ * **@CODE@** 
 +Abl:нчим WordEnd ;
 +Acc:нӧ WordEnd ;
 +Cmpr:сся WordEnd ;
@@ -54,7 +54,7 @@ LEXICON perssg1decl   !!≈ * __@CODE@__
 : perssg ;  ! for the regular obl sg
 
 
-LEXICON perspl1decl    !!≈ * __@CODE@__
+LEXICON perspl1decl    !!≈ * **@CODE@**
 +Nom: WordEnd ;
 +Nom:йӧ WordEnd ;
 :ян WordEnd ;
@@ -80,7 +80,7 @@ LEXICON perspl1decl    !!≈ * __@CODE@__
 +Egr+PxPl1:янсяньным WordEnd ; !Synomymous with: миянсянь
 : TERI_THEN-WORD-END ; !Synomymous with: миянӧдз
 
-LEXICON perssg2decl     !!≈ * __@CODE@__
+LEXICON perssg2decl     !!≈ * **@CODE@**
 +Abl:нчит WordEnd ;
 +Acc:нӧ WordEnd ;
 +Cmpr:сся WordEnd ;
@@ -89,7 +89,7 @@ LEXICON perssg2decl     !!≈ * __@CODE@__
 +Nom: WordEnd ;
 : perssg ;  ! for the regular obl sg
 
-LEXICON perspl2decl !!≈ * __@CODE@__ 
+LEXICON perspl2decl !!≈ * **@CODE@** 
 +Nom: WordEnd ;
 +Der/йӧ+Nom:йӧ WordEnd ; !We need a special tag for discerning +Nom forms
 :ян DAT_THEN-K ;
@@ -116,7 +116,7 @@ ELA_THEN-K ;
 +Egr+PxPl2:янсяньныд WordEnd ;
 : TERI_THEN-WORD-END ;
 
-LEXICON perssg3decl  !!≈ * __@CODE@__ 
+LEXICON perssg3decl  !!≈ * **@CODE@** 
 +Nom:ія WordEnd ;
 :ы ABL_THEN-WORD-END ;
 +Acc:ійӧ WordEnd ;
@@ -134,7 +134,7 @@ LEXICON perssg3decl  !!≈ * __@CODE@__
 !! ті тійӧ nämä ovat aivan eri asioita?
 !! сы сійӧ tosin joskus 
 
-LEXICON perspl3decl !!≈ * __@CODE@__
+LEXICON perspl3decl !!≈ * **@CODE@**
 +Nom:ія WordEnd ;
 +Acc:ійӧ WordEnd ;
 :ы ABL_THEN-WORD-END ;
@@ -146,7 +146,7 @@ LEXICON perspl3decl !!≈ * __@CODE@__
 :ы WordEnd ;
 !
 
-LEXICON perssg !!≈ * __@CODE@__
+LEXICON perssg !!≈ * **@CODE@**
  APR_THEN-K ;
 APR-EGR_THEN-K ;
 APR-ELA_THEN-K ;
@@ -169,7 +169,7 @@ APR-TERII_THEN-K ;
 
 
 
-LEXICON persplobl !!≈ * __@CODE@__
+LEXICON persplobl !!≈ * **@CODE@**
 APR_THEN-K ;
 : APR-INE_THEN-WORD-END ;  ! New cases in last grammar  
 : APR-ELA_THEN-WORD-END ;  ! 
