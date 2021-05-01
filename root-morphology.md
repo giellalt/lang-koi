@@ -14,7 +14,7 @@ language are presented in this system in terms of the following symbols.
 
 The parts-of-speech tags are:
  * **+A**:  adjective
- * **+Adp 	**:  Adposition
+ * **+Adp**:  Adposition
  * **+Adv**:  adverb
  * **+CS**:  subordinating conjunction
  * **+CC**:  coordinating conjunction
@@ -74,8 +74,8 @@ Quantifiers and Numerals are classified under:
  * **+Distr**:  Distributive
  * **+Iter: Iterative form expressing number of times; kpv**:  `кыкысь`
  * **+Ord**:  ordinal + NOrd
- * **+Coord	**:  Coordinates, i.e. 65˚36′8,30″ in numerals.lexc
- * **+Cop	**:  this is for copula complement position with pl in -ӧсь Pred depricated
+ * **+Coord**:  Coordinates, i.e. 65˚36′8,30″ in numerals.lexc
+ * **+Cop**:  this is for copula complement position with pl in -ӧсь Pred depricated
 
 
 ## Nominals are inflected for Number and Case
@@ -142,8 +142,8 @@ The comparative forms are:
  * **+Superl**:  superlative
  * **+Mdr**:  moderative -моз, -кодь  'kind of, -ish' with reference to quality ыджыткодь 'rather big'
  * **+Aug**:  augmentative, intensive -ӧв 'too X' with reference to quality ыджытӧв 'too big'
- *  **+Der/AdvCompMod	** Adverbial comparative modifier in моз Der/моз +MOZ  diminishing, kind of, sort of
- *  **+Der/CompMod	** comparative modifier in кодь Der/кодь ! diminishing, kind of, sort of
+ *  **+Der/AdvCompMod** Adverbial comparative modifier in моз Der/моз +MOZ  diminishing, kind of, sort of
+ *  **+Der/CompMod** comparative modifier in кодь Der/кодь ! diminishing, kind of, sort of
 
 Numerals are classified under:
 
@@ -197,9 +197,9 @@ Where do these come from source
  * **+Sem/Amount** Amount
  * **+Sem/Ani** Animate
  * **+Sem/Aniprod** Animal Product
- * **+Sem/Ant	** Antroponym
- * **+Sem/Ant-Fem	** Female Antroponym
- * **+Sem/Ant-Mal	** Male Antroponym
+ * **+Sem/Ant** Antroponym
+ * **+Sem/Ant-Fem** Female Antroponym
+ * **+Sem/Ant-Mal** Male Antroponym
  * **+Sem/Body** Bodypart
  * **+Sem/Body-abstr** siellu, vuoig?a, jierbmi
  * **+Sem/Build** Building
@@ -248,9 +248,9 @@ Where do these come from source
  * **+Sem/Obj-surfc** Surface object
  * **+Sem/Org** Organisation
  * **+Sem/Part** Feature, oassi, bealli
- * **+Sem/Patr	** Patronymic
- * **+Sem/Patr-Fem	** Female Patronymic
- * **+Sem/Patr-Mal	** Male Patronymic
+ * **+Sem/Patr** Patronymic
+ * **+Sem/Patr-Fem** Female Patronymic
+ * **+Sem/Patr-Mal** Male Patronymic
  * **+Sem/Perc-cogn** Cognative perception
  * **+Sem/Perc-emo** Emotional perception
  * **+Sem/Perc-phys** Physical perception
