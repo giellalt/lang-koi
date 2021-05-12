@@ -5,11 +5,11 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-koi)](https://github.com/giellalt/lang-koi/issues)
 [![Build status](https://github.com/giellalt/lang-koi/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-koi/actions)
 
-This page documents the work on the **Komi-Permyak language model**. 
+This page documents the work on the [Komi-Permyak language model](http://github.com/giellalt/lang-koi). 
 
 # Project documentation
 
-* Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
+* (Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.)
 
 # In-source documentation
 
