@@ -10,3 +10,5 @@ ADD NOUNS BELOW
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/kom-rus-propernouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/kom-rus-propernouns_newwords.lexc)</small>

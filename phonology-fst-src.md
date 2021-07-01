@@ -22,7 +22,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-k
 ## Boundary symbols
 
  *  %>  morpheme boundary
- * hash # word boundary
+* hash # word boundary
  *  %-  
  »7       * »
  «7       * «
@@ -175,3 +175,5 @@ Vowel Palatalisation
 **IClitic**
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/phonology.twolc)</small>

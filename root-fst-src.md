@@ -66,7 +66,7 @@ Postpositions
 Quantifiers and Numerals are classified under:
  * **+Num**:  numeral
  * **+Appr**:  Approximative numeral кавто-колмо, колмошка *two or three*
-          NB! do not confuse with Komi case +Apr
+NB! do not confuse with Komi case +Apr
  * **+AssocColl**:  -ne- ; avide-
  * **+Assoc**:  +мезть
  * **+Card**:  cardinal + NCard
@@ -407,7 +407,7 @@ word classes, or optionally from prefixes:
 
 
 Incoming from akusanat
-  Pron_koi2x ;
+Pron_koi2x ;
 
 
 Incoming for conversion from kpv
@@ -440,3 +440,5 @@ Incoming for conversion from kpv
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/root.lexc)</small>
