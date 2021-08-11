@@ -852,7 +852,100 @@ NOT-PRL (have no homograph Prolative pairs set)
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-koi/blob/main/../src/cg3/disambiguator.cg3)</small>
+<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-koi/blob/main/../src/cg3/disambiguator.cg3)</small>This is where new words from kpv are initially shown
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small>This is where new words from kpv are initially shown
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adverbs_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/adverbs_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+Абъячой+N+Prop+Sem/Plc:Абъячой PROP_ "(eng) fish/(fin) /(rus)" ;
+
+
+ADD NOUNS BELOW
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/kom-rus-propernouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/kom-rus-propernouns_newwords.lexc)</small>Numerals
+Numerals in the KOMI-PERMYAK language are numbers.
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/numerals.lexc)</small>Pronouns
+Pronouns in KOMI PERMYAK language are references to things.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/pronouns.lexc)</small>This is where new words from kpv are initially shown
+
+
+
+
+
+These are koi verbs
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/verbs_newwords.lexc)</small>This is where new words from kpv are initially shown
+
+2016-07-14
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>Adjectives
+Adjectives in Komi-Permyak language describe things.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/adjectives.lexc)</small>Nouns
+Nouns in the Komi Permyak language are things.
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/nouns.lexc)</small>This is where new words from kpv are initially shown
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/pronouns_newwords.lexc)</small>This is where new words from kpv are initially shown
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/numerals_newwords.lexc)</small>
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Komi-Permyak LANGUAGE.
 
 
@@ -1295,106 +1388,231 @@ Incoming for conversion from kpv
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/root.lexc)</small>Proper noun inflection
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/root.lexc)</small>=================================== !
+The Komi-Permyak morphophonological/twolc rules file 
+=================================== !
 
-Komi proper nouns inflect in the same cases as regular
-nouns.
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-koi/blob/main/src/fst/phonology.twolc) 
 
+## Alphabet, Sets and Definitions
 
 
+## Letters of the alphabet
 
+ * а б в г д е ё ж з и і й к л м н о ӧ п р с т у ф х ц ч ш щ ъ ы ь э ю я 
+ * А Б В Г Д Е Ё Ж З И І Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я 
 
+## Archiphonemes for vowels
+## Triggers
+ * %^1Cns:0    Plural-initial; it allows for doubling of consonant
 
-Russian type Surnames 
+ * %^LVBound:0     boundary for LV change instead of Consonant or end of word
+ * %^VowRM:0       vowel syncope
 
-Preparing for the template urj-Cyrl
-Beginning 2012-11-15
+## Boundary symbols
 
+ *  %>  morpheme boundary
+* hash # word boundary
+ *  %-  
+ »7       * »
+ «7       * «
+ %[%>%]   * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
+ %[%<%]   * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
 
+Diacritics
 
 
 
- * :2 PropSur-kal ;  These are foreign Л words
 
+## Sets 
 
+Vowel
 
-Абдеев:Абдеев
+Palatal Vowel
+Cns-initial vowels
 
-Багрий:Багр
+All non-vowels, consonants and hard and soft signs
 
+All non-vowels with exception of soft sign
 
-Аморский:Аморск
+All consonants with hard A
 
+All consonants followed by Cyrillic и
+Why is т2 here 2015-10-01
 
 
+Letters
 
+Dummy
 
 
+## Definitions
 
 
-These are vowel-final stems
-They have previously received +Sem/Fem tags
 
+## Rules
 
 
+**Double stem-final consonant**
 
 
+**Double stem-final consonant л:в**
 
 
-Should this be limited to +Sg? 2015-09-06
+**%^1Cns to zero**
 
-Вили:Вил
+**э:е**
 
 
 
+**The famous L/V**
 
-Андрей:Андре
+Paragogic consonants
+**mDeletion**
 
+Paragogic consonants
+**tDeletion**
 
 
+**jDeletion after vowel**
 
+**j to hard sign after consonant**
+* *кывй%>а#*
+* *кывъ%>я#*
+* *кӧсй%>а#*
+* *кӧсъ%>я#*
 
+**l deletion**
 
+**d deletion**
 
-
-
-
-
-
-Ending 2012-11-15
-
-
-
-
-
-
-
-
-
-FEMALE NAMES FROM TEMPLATE
-
-
-
-
-
- * **@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; ** This requires down-casing
-
-
-
-
-
-
-
-
-
-
-
+Vowel Palatalisation
+**а 2 я, о 2 ё, у 2 ю**
+* *вой%>ас*
+* *во0%>яс*
+* *озй%>ас*
+* *озъ%>яс*
+* *ворссь%>а#*
+* *ворсс0%>я#*
+картопель+Sg+Ine+PxSg3
+* *картопель%>ас*
+* *картопел0%>яс*
+картопель+Pl+Nom
+* *картопель%>ъяс*
+* *картопел0%>0яс*
+
+**%{иі%} 2 і**
+
+
+
+**%{иі%} 2 и**
+* *ворссь%>%{иі%}#*
+* *ворсс0%>и#*
+* *ло%>%{иі%}#*
+* *ло%>и#*
+* *шу%>%{иі%}с*
+* *шу%>ис*
+* *вай%>%{иі%}с*
+* *вай%>ис*
+
+**%{ая%} 2 а**
+* *ло%>%{ая%}#*
+* *ло%>а#*
+* *шу%>%{ая%}с*
+* *шу%>ас*
+
+
+
+**%{ая%} 2 я**
+* *ворссь%>%{ая%}#*
+* *ворсс0%>я#*
+* *вай%>%{ая%}с*
+* *вай%>яс*
+
+
+**Soft Sign Deletion**
+* *нянь%>%^1Cnsэз*
+* *нян0%>нез*
+
+* *велӧдысь%>сянь*
+* *велӧдыс0%>сянь*
+* *велӧдысь%>сьыс*
+* *велӧдыс0%>сьыс*
+
+**Hard Sign Deletion**
+* *вой%>ъяс*
+* *вой%>0яс*
+* *выль%>ъяс*
+* *выль%>0яс*
+* *коми%>ъяс*
+* *коми%>0яс*
+* *автобус%>ъяс*
+* *автобус%>ъяс*
+* ★*автобус%>0яс* (is not standard language)
+
+**Hard Sign Palatalization**
+* *виддз%>ъяс*
+* *вид0з%>ьяс*
+
+**No triple letters**
+* *класс%>сянь*
+* *клас0%>сянь*
+* *Блатт%>тӧг*
+* *Блат0%>тӧг*
+* *металл%>лӧн*
+* *метал0%>лӧн*
+
+**IClitic**
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/propernouns.lexc)</small># Particles
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/phonology.twolc)</small># Adverb inflection
 ----
-Komi Particles
+Komi adverbs inflect for direction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * **LEXICON ADV-SPAT  **
+these are adverbs in spatial cases
+and they probably are equivalent in morphology to postpositions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1407,7 +1625,320 @@ Komi Particles
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/particles.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/particles.lexc)</small># Pronominal morphology                           
+<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/adverbs.lexc)</small>
+
+# Verbal morphology               
+
+
+
+
+
+## Closed class verbs
+
+
+
+
+
+
+
+## Open class verbs
+
+Some Flag diacritic lines are with regexes, other with aligned zeros. We want to migrate to
+regexes < … > , for readability reasons (sic!)
+
+ * **LEXICON V_LOKNY** One verb only, локны:лок
+
+Begin work with TV and IV
+
+
+
+ * **LEXICON VR_SHUNY** 
+
+ * **LEXICON V_SHUNY** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
+
+ * **LEXICON V_JUAYSHNY** is there ш : шт gradation
+
+ * **LEXICON V_AMNY** амны:ам Ending in -мны, -жны, -дзны,
+
+
+ * **LEXICON V_KYJNY** кыйны:кый Ending in -йны, 
+
+ * **LEXICON V_CHILOESNY** is there s : st alternation 2018-09-01
+
+
+ * **LEXICON V_KUTNY** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
+
+
+ * **LEXICON V_NUAVNY** нуавны:нуа
+Consonant-onset
+
+
+ * **LEXICON V_ARTASJNY** артасьны:артас -Cны.
+
+ * **LEXICON VR_LYDDJYNY** 
+
+ * **LEXICON V_LYDDJYNY** лыддьыны:лыддьы ! ярмыны. Multiple-syllable verb ending in -ыны.
+
+
+ * **LEXICON V_VOLYNY** волыны:волы ! ярмыны. Multiple-syllable verb ending in -ыны.
+
+
+
+
+
+
+
+
+## Verb conjugation 
+
+ * **LEXICON VerbConj-V**  суф б -- ы 
+
+ * **LEXICON VerbConj** суф а
+
+ * **LEXICON VerbConj_KYJNY** суф а
+
+ * **LEXICON VerbConj_AMNY** суф а
+
+ * **LEXICON VerbConj_KUTNY** суф а
+
+
+ * **LEXICON Finiteforms** Gives linking vowels for 3 tenses
+
+ * **LEXICON Finiteforms_KYJNY** Gives linking vowels for 3 tenses
+
+ * **LEXICON Finiteforms_AMNY** Gives linking vowels for 3 tenses
+
+ * **LEXICON Finiteforms_KUTNY** Gives linking vowels for 3 tenses
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * **@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@+Imprt+Pl2:@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@%>ӧ VerbEnd ;** kpv -ӧй
+
+
+
+
+
+
+
+
+
+
+
+
+
+Differs from kpv 2016-09-15
+
+
+
+
+
+
+
+
+
+## Derivation
+
+
+ * **LEXICON Verb-nyDer** 
+
+ * **LEXICON Verb-nyDer-ONSET-CONS** Derivation onset in consonant
+verb-to-verb
+
+This is fed by LEXICON V_SHUNY, and therefore certain corrections
+must be made 2012-01-18
+
+овсьыны
+пусьыштлывлыны
+босьтчыштлывлыны
+
+ * **LEXICON Verb-nyDer-ONSET-VOW** Derivation onset	in vowel
+
+ * **LEXICON Verb-nyDer-ONSET-Y** Derivation onset	in vowel
+
+ * **LEXICON Verb-nyDer-ONSET-A** Derivation onset	in vowel
+босьтасьны
+
+ * **LEXICON Verb-nyDer-ONSET-JA** Derivation onset	in vowel
+босьтасьны
+
+
+verb-to-noun
+
+ * **LEXICON VerbDer** 
+FIX THIS 2015-09-06
+
+ * **LEXICON VerbDer_KYJNY**
+ * **:й VerbDer-ONSET_OE ;**
+ * **:й VerbDer-ONSET_JA ;** 
+ * **:й VerbDer-ONSET_JI ;**
+
+ * **LEXICON VerbDer_KUTNY**
+ * **VerbDer-ONSET_OE ;**
+ * **VerbDer-ONSET_A ;** 
+ * **VerbDer-ONSET_JI ;**
+
+ * **LEXICON VerbDer_ARTASJNY**
+ * **: VerbDer-ONSET_OE ;**
+ * **: VerbDer-ONSET_JA ;** 
+ * **: VerbDer-ONSET_JI ;**
+
+ * **LEXICON VerbDer-ONSET_OE** 
+ * **+Der/ісь+ActPrsPtc:%>%{иі%}сь N_ ;** kpv ысь
+
+ * **LEXICON VerbDer-ONSET_JI** 
+
+
+ * **LEXICON VerbDer-ONSET_A** 
+
+ * **LEXICON VerbDer-ONSET_JA** 
+
+
+
+
+
+
+
+
+
+
+вевттьысьыны
+
+бертласьны
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/verbs.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/symbols.lexc)</small>
+
+# Numeral morphological lexica 
+
+
+
+
+
+
+
+
+
+
+
+LEXICON NUM-APPR ! 2011-11-03 This will need work
+
+
+
+## Inflectional lexica 
+
+All nouns follow one contlex "Noun1"
+to begin with here is simply a list of all variant
+with no more variants beyond:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Arabic numerals
+
+
+
+ * **LEXICON ARABIC          ** 
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/numerals.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/numerals.lexc)</small># Conjunctors
+----
+Komi conjunctors
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctors.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/conjunctors.lexc)</small># Pronominal morphology                           
 
 ## Closed class personal pronouns
 
@@ -1617,27 +2148,161 @@ Tagged in the src/morphology/stems/pronouns.xml file
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/pronouns.lexc)</small>Prefixes
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/pronouns.lexc)</small># Particles
+----
+Komi Particles
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/particles.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/particles.lexc)</small>Proper noun inflection
+
+Komi proper nouns inflect in the same cases as regular
+nouns.
+
+
+
+
+
+
+Russian type Surnames 
+
+Preparing for the template urj-Cyrl
+Beginning 2012-11-15
+
+
+
+
+
+ * :2 PropSur-kal ;  These are foreign Л words
+
+
+
+Абдеев:Абдеев
+
+Багрий:Багр
+
+
+Аморский:Аморск
+
+
+
+
+
+
+
+
+These are vowel-final stems
+They have previously received +Sem/Fem tags
+
+
+
+
+
+
+
+Should this be limited to +Sg? 2015-09-06
+
+Вили:Вил
+
+
+
+
+Андрей:Андре
+
+
+
+
+
+
+
+
+
+
+
+
+Ending 2012-11-15
+
+
+
+
+
+
+
+
+
+FEMALE NAMES FROM TEMPLATE
+
+
+
+
+
+ * **@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; ** This requires down-casing
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/propernouns.lexc)</small>Prefixes
 Prefixes in the Komi-Permyak language are bound to the beginning of other words.
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/prefixes.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/prefixes.lexc)</small># Conjunctors
+<small>This (part of) documentation was generated from [../src/fst/affixes/prefixes.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/prefixes.lexc)</small># Adjective inflection
 ----
-Komi conjunctors
+Komi (Permyak) adjectives compare.
+
+Continuation lexicon has been assigned according to <pos/> content
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * LEXICON A_PARAGOGIC-В/Л  юмов:юмо юмолӧсь
+Singular predicative 
 
 
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctors.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/conjunctors.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/adjectives.lexc)</small>
 # Noun morphological lexica !
 
 
@@ -1837,51 +2502,7 @@ PL3
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/nouns.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/symbols.lexc)</small># Adjective inflection
-----
-Komi (Permyak) adjectives compare.
-
-Continuation lexicon has been assigned according to <pos/> content
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- * LEXICON A_PARAGOGIC-В/Л  юмов:юмо юмолӧсь
-Singular predicative 
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/adjectives.lexc)</small># Postposition inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/nouns.lexc)</small># Postposition inflection
 ----
 
 Komi postpositions inflect for direction.
@@ -1954,627 +2575,6 @@ these are:
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/adpositions.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/adpositions.lexc)</small>
-
-# Verbal morphology               
-
-
-
-
-
-## Closed class verbs
-
-
-
-
-
-
-
-## Open class verbs
-
-Some Flag diacritic lines are with regexes, other with aligned zeros. We want to migrate to
-regexes < … > , for readability reasons (sic!)
-
- * **LEXICON V_LOKNY** One verb only, локны:лок
-
-Begin work with TV and IV
-
-
-
- * **LEXICON VR_SHUNY** 
-
- * **LEXICON V_SHUNY** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
-
- * **LEXICON V_JUAYSHNY** is there ш : шт gradation
-
- * **LEXICON V_AMNY** амны:ам Ending in -мны, -жны, -дзны,
-
-
- * **LEXICON V_KYJNY** кыйны:кый Ending in -йны, 
-
- * **LEXICON V_CHILOESNY** is there s : st alternation 2018-09-01
-
-
- * **LEXICON V_KUTNY** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
-
-
- * **LEXICON V_NUAVNY** нуавны:нуа
-Consonant-onset
-
-
- * **LEXICON V_ARTASJNY** артасьны:артас -Cны.
-
- * **LEXICON VR_LYDDJYNY** 
-
- * **LEXICON V_LYDDJYNY** лыддьыны:лыддьы ! ярмыны. Multiple-syllable verb ending in -ыны.
-
-
- * **LEXICON V_VOLYNY** волыны:волы ! ярмыны. Multiple-syllable verb ending in -ыны.
-
-
-
-
-
-
-
-
-## Verb conjugation 
-
- * **LEXICON VerbConj-V**  суф б -- ы 
-
- * **LEXICON VerbConj** суф а
-
- * **LEXICON VerbConj_KYJNY** суф а
-
- * **LEXICON VerbConj_AMNY** суф а
-
- * **LEXICON VerbConj_KUTNY** суф а
-
-
- * **LEXICON Finiteforms** Gives linking vowels for 3 tenses
-
- * **LEXICON Finiteforms_KYJNY** Gives linking vowels for 3 tenses
-
- * **LEXICON Finiteforms_AMNY** Gives linking vowels for 3 tenses
-
- * **LEXICON Finiteforms_KUTNY** Gives linking vowels for 3 tenses
-
-
-
-
-
-
-
-
-
-
-
-
-
- * **@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@+Imprt+Pl2:@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@%>ӧ VerbEnd ;** kpv -ӧй
-
-
-
-
-
-
-
-
-
-
-
-
-
-Differs from kpv 2016-09-15
-
-
-
-
-
-
-
-
-
-## Derivation
-
-
- * **LEXICON Verb-nyDer** 
-
- * **LEXICON Verb-nyDer-ONSET-CONS** Derivation onset in consonant
-verb-to-verb
-
-This is fed by LEXICON V_SHUNY, and therefore certain corrections
-must be made 2012-01-18
-
-овсьыны
-пусьыштлывлыны
-босьтчыштлывлыны
-
- * **LEXICON Verb-nyDer-ONSET-VOW** Derivation onset	in vowel
-
- * **LEXICON Verb-nyDer-ONSET-Y** Derivation onset	in vowel
-
- * **LEXICON Verb-nyDer-ONSET-A** Derivation onset	in vowel
-босьтасьны
-
- * **LEXICON Verb-nyDer-ONSET-JA** Derivation onset	in vowel
-босьтасьны
-
-
-verb-to-noun
-
- * **LEXICON VerbDer** 
-FIX THIS 2015-09-06
-
- * **LEXICON VerbDer_KYJNY**
- * **:й VerbDer-ONSET_OE ;**
- * **:й VerbDer-ONSET_JA ;** 
- * **:й VerbDer-ONSET_JI ;**
-
- * **LEXICON VerbDer_KUTNY**
- * **VerbDer-ONSET_OE ;**
- * **VerbDer-ONSET_A ;** 
- * **VerbDer-ONSET_JI ;**
-
- * **LEXICON VerbDer_ARTASJNY**
- * **: VerbDer-ONSET_OE ;**
- * **: VerbDer-ONSET_JA ;** 
- * **: VerbDer-ONSET_JI ;**
-
- * **LEXICON VerbDer-ONSET_OE** 
- * **+Der/ісь+ActPrsPtc:%>%{иі%}сь N_ ;** kpv ысь
-
- * **LEXICON VerbDer-ONSET_JI** 
-
-
- * **LEXICON VerbDer-ONSET_A** 
-
- * **LEXICON VerbDer-ONSET_JA** 
-
-
-
-
-
-
-
-
-
-
-вевттьысьыны
-
-бертласьны
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/verbs.lexc)</small># Adverb inflection
-----
-Komi adverbs inflect for direction.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- * **LEXICON ADV-SPAT  **
-these are adverbs in spatial cases
-and they probably are equivalent in morphology to postpositions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/adverbs.lexc)</small>
-
-# Numeral morphological lexica 
-
-
-
-
-
-
-
-
-
-
-
-LEXICON NUM-APPR ! 2011-11-03 This will need work
-
-
-
-## Inflectional lexica 
-
-All nouns follow one contlex "Noun1"
-to begin with here is simply a list of all variant
-with no more variants beyond:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Arabic numerals
-
-
-
- * **LEXICON ARABIC          ** 
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/numerals.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/numerals.lexc)</small>Pronouns
-Pronouns in KOMI PERMYAK language are references to things.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/pronouns.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-Абъячой+N+Prop+Sem/Plc:Абъячой PROP_ "(eng) fish/(fin) /(rus)" ;
-
-
-ADD NOUNS BELOW
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/kom-rus-propernouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/kom-rus-propernouns_newwords.lexc)</small>This is where new words from kpv are initially shown
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small>This is where new words from kpv are initially shown
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adverbs_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/adverbs_newwords.lexc)</small>Nouns
-Nouns in the Komi Permyak language are things.
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/nouns.lexc)</small>This is where new words from kpv are initially shown
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/numerals_newwords.lexc)</small>Adjectives
-Adjectives in Komi-Permyak language describe things.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/adjectives.lexc)</small>This is where new words from kpv are initially shown
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/pronouns_newwords.lexc)</small>Numerals
-Numerals in the KOMI-PERMYAK language are numbers.
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/numerals.lexc)</small>This is where new words from kpv are initially shown
-
-
-
-
-
-These are koi verbs
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/verbs_newwords.lexc)</small>This is where new words from kpv are initially shown
-
-2016-07-14
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>=================================== !
-The Komi-Permyak morphophonological/twolc rules file 
-=================================== !
-
-This file documents the [phonology.twolc file](http://github.com/giellalt/lang-koi/blob/main/src/fst/phonology.twolc) 
-
-## Alphabet, Sets and Definitions
-
-
-## Letters of the alphabet
-
- * а б в г д е ё ж з и і й к л м н о ӧ п р с т у ф х ц ч ш щ ъ ы ь э ю я 
- * А Б В Г Д Е Ё Ж З И І Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я 
-
-## Archiphonemes for vowels
-## Triggers
- * %^1Cns:0    Plural-initial; it allows for doubling of consonant
-
- * %^LVBound:0     boundary for LV change instead of Consonant or end of word
- * %^VowRM:0       vowel syncope
-
-## Boundary symbols
-
- *  %>  morpheme boundary
-* hash # word boundary
- *  %-  
- »7       * »
- «7       * «
- %[%>%]   * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
- %[%<%]   * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
-
-Diacritics
-
-
-
-
-## Sets 
-
-Vowel
-
-Palatal Vowel
-Cns-initial vowels
-
-All non-vowels, consonants and hard and soft signs
-
-All non-vowels with exception of soft sign
-
-All consonants with hard A
-
-All consonants followed by Cyrillic и
-Why is т2 here 2015-10-01
-
-
-Letters
-
-Dummy
-
-
-## Definitions
-
-
-
-## Rules
-
-
-**Double stem-final consonant**
-
-
-**Double stem-final consonant л:в**
-
-
-**%^1Cns to zero**
-
-**э:е**
-
-
-
-**The famous L/V**
-
-Paragogic consonants
-**mDeletion**
-
-Paragogic consonants
-**tDeletion**
-
-
-**jDeletion after vowel**
-
-**j to hard sign after consonant**
-* *кывй%>а#*
-* *кывъ%>я#*
-* *кӧсй%>а#*
-* *кӧсъ%>я#*
-
-**l deletion**
-
-**d deletion**
-
-Vowel Palatalisation
-**а 2 я, о 2 ё, у 2 ю**
-* *вой%>ас*
-* *во0%>яс*
-* *озй%>ас*
-* *озъ%>яс*
-* *ворссь%>а#*
-* *ворсс0%>я#*
-картопель+Sg+Ine+PxSg3
-* *картопель%>ас*
-* *картопел0%>яс*
-картопель+Pl+Nom
-* *картопель%>ъяс*
-* *картопел0%>0яс*
-
-**%{иі%} 2 і**
-
-
-
-**%{иі%} 2 и**
-* *ворссь%>%{иі%}#*
-* *ворсс0%>и#*
-* *ло%>%{иі%}#*
-* *ло%>и#*
-* *шу%>%{иі%}с*
-* *шу%>ис*
-* *вай%>%{иі%}с*
-* *вай%>ис*
-
-**%{ая%} 2 а**
-* *ло%>%{ая%}#*
-* *ло%>а#*
-* *шу%>%{ая%}с*
-* *шу%>ас*
-
-
-
-**%{ая%} 2 я**
-* *ворссь%>%{ая%}#*
-* *ворсс0%>я#*
-* *вай%>%{ая%}с*
-* *вай%>яс*
-
-
-**Soft Sign Deletion**
-* *нянь%>%^1Cnsэз*
-* *нян0%>нез*
-
-* *велӧдысь%>сянь*
-* *велӧдыс0%>сянь*
-* *велӧдысь%>сьыс*
-* *велӧдыс0%>сьыс*
-
-**Hard Sign Deletion**
-* *вой%>ъяс*
-* *вой%>0яс*
-* *выль%>ъяс*
-* *выль%>0яс*
-* *коми%>ъяс*
-* *коми%>0яс*
-* *автобус%>ъяс*
-* *автобус%>ъяс*
-* ★*автобус%>0яс* (is not standard language)
-
-**Hard Sign Palatalization**
-* *виддз%>ъяс*
-* *вид0з%>ьяс*
-
-**No triple letters**
-* *класс%>сянь*
-* *клас0%>сянь*
-* *Блатт%>тӧг*
-* *Блат0%>тӧг*
-* *металл%>лӧн*
-* *метал0%>лӧн*
-
-**IClitic**
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/phonology.twolc)</small>
 
 
 We describe here how abbreviations are in Komi-Permyak are read out, e.g.
