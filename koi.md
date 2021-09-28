@@ -1,250 +1,4 @@
-# Komi-Permyak disambiguator
 
-## Delimiters 
-
-Sentence delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
-
-
-## Tags and sets 
-
-
-
-### Beginning and end of sentence	
-BOS
-EOS
-
-### Miscellanous
-
-CmpTest
-Err
-Err
-вӧлі Sg3
-
-### Parts of speech tags
-N
-V
-A
-Adv
-CC
-CS
-Inter
-Pron
-Num
-Pcle
-Clt
-Po
-Dem
-Qnt
-Prop
-
-### Derivation tags
-Ex/A (former adj)
-Ex/N
-Ex/Num
-Ex/V
-Ex/WORD
-DerTag
-AspDerTag
-
-
-
-### Verbal categories
-Prs
-Fut
-Fut1
-Imprt
-Prt1
-Prt2
-Prf
-PrfIpf
-HstPrf
-PluPrf
-HstPluPrf
-Ind
-Imp
-Cond
-Opt
-
-Sg1
-Sg2
-...
-
-
-
-Nominal categories
-Sg
-Pl
-Nom
-Gen
-Abl
-Dat
-Com 
-Cns
-...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Verb sets
-VNEG (all Neg verbs)
-
-VFIN
-
-
-ASKI (tomorrow set)
-
-
-NOT-PRL (have no homograph Prolative pairs set)
-
-
-
-
-
-
-## Rule section
-
-
-* **NoDerIfPossible** removes all derivations
-
-* **Dem** selects Dem if N Nom to the right
-
-
-
-
-
-
-
-
-
-* **NoFinalCC** removes CC if competing Pcle and sentence-final
-* **NoABBR** removes ABBR for competing CC
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-koi/blob/main/../src/cg3/disambiguator.cg3)</small>
 
 
 
@@ -852,7 +606,346 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-koi/blob/main/../src/cg3/functions.cg3)</small>=================================== !
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-koi/blob/main/../src/cg3/functions.cg3)</small># Komi-Permyak disambiguator
+
+## Delimiters 
+
+Sentence delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
+
+
+## Tags and sets 
+
+
+
+### Beginning and end of sentence	
+BOS
+EOS
+
+### Miscellanous
+
+CmpTest
+Err
+Err
+вӧлі Sg3
+
+### Parts of speech tags
+N
+V
+A
+Adv
+CC
+CS
+Inter
+Pron
+Num
+Pcle
+Clt
+Po
+Dem
+Qnt
+Prop
+
+### Derivation tags
+Ex/A (former adj)
+Ex/N
+Ex/Num
+Ex/V
+Ex/WORD
+DerTag
+AspDerTag
+
+
+
+### Verbal categories
+Prs
+Fut
+Fut1
+Imprt
+Prt1
+Prt2
+Prf
+PrfIpf
+HstPrf
+PluPrf
+HstPluPrf
+Ind
+Imp
+Cond
+Opt
+
+Sg1
+Sg2
+...
+
+
+
+Nominal categories
+Sg
+Pl
+Nom
+Gen
+Abl
+Dat
+Com 
+Cns
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Verb sets
+VNEG (all Neg verbs)
+
+VFIN
+
+
+ASKI (tomorrow set)
+
+
+NOT-PRL (have no homograph Prolative pairs set)
+
+
+
+
+
+
+## Rule section
+
+
+* **NoDerIfPossible** removes all derivations
+
+* **Dem** selects Dem if N Nom to the right
+
+
+
+
+
+
+
+
+
+* **NoFinalCC** removes CC if competing Pcle and sentence-final
+* **NoABBR** removes ABBR for competing CC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-koi/blob/main/../src/cg3/disambiguator.cg3)</small>Nouns
+Nouns in the Komi Permyak language are things.
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/nouns.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+Абъячой+N+Prop+Sem/Plc:Абъячой PROP_ "(eng) fish/(fin) /(rus)" ;
+
+
+ADD NOUNS BELOW
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/kom-rus-propernouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/kom-rus-propernouns_newwords.lexc)</small>This is where new words from kpv are initially shown
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small>Adjectives
+Adjectives in Komi-Permyak language describe things.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/adjectives.lexc)</small>Numerals
+Numerals in the KOMI-PERMYAK language are numbers.
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/numerals.lexc)</small>This is where new words from kpv are initially shown
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adverbs_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/adverbs_newwords.lexc)</small>This is where new words from kpv are initially shown
+
+2016-07-14
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>This is where new words from kpv are initially shown
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/pronouns_newwords.lexc)</small>Pronouns
+Pronouns in KOMI PERMYAK language are references to things.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/pronouns.lexc)</small>This is where new words from kpv are initially shown
+
+
+
+
+
+These are koi verbs
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/verbs_newwords.lexc)</small>This is where new words from kpv are initially shown
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/numerals_newwords.lexc)</small>=================================== !
 The Komi-Permyak morphophonological/twolc rules file 
 =================================== !
 
@@ -1030,66 +1123,7 @@ Vowel Palatalisation
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/phonology.twolc)</small># Adverb inflection
-----
-Komi adverbs inflect for direction.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- * **LEXICON ADV-SPAT  **
-these are adverbs in spatial cases
-and they probably are equivalent in morphology to postpositions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/adverbs.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/phonology.twolc)</small>
 # Noun morphological lexica !
 
 
@@ -1289,35 +1323,34 @@ PL3
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/nouns.lexc)</small>Proper noun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/nouns.lexc)</small>Prefixes
+Prefixes in the Komi-Permyak language are bound to the beginning of other words.
 
-Komi proper nouns inflect in the same cases as regular
-nouns.
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/prefixes.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/prefixes.lexc)</small>
+# Symbol affixes
 
 
 
 
-Russian type Surnames 
 
-Preparing for the template urj-Cyrl
-Beginning 2012-11-15
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/symbols.lexc)</small># Adverb inflection
+----
+Komi adverbs inflect for direction.
 
 
 
 
 
- * :2 PropSur-kal ;  These are foreign Л words
 
 
 
-Абдеев:Абдеев
 
-Багрий:Багр
 
 
-Аморский:Аморск
 
 
 
@@ -1326,23 +1359,21 @@ Beginning 2012-11-15
 
 
 
-These are vowel-final stems
-They have previously received +Sem/Fem tags
 
 
 
+ * **LEXICON ADV-SPAT  **
+these are adverbs in spatial cases
+and they probably are equivalent in morphology to postpositions
 
 
 
 
-Should this be limited to +Sg? 2015-09-06
 
-Вили:Вил
 
 
 
 
-Андрей:Андре
 
 
 
@@ -1351,27 +1382,6 @@ Should this be limited to +Sg? 2015-09-06
 
 
 
-
-
-
-
-Ending 2012-11-15
-
-
-
-
-
-
-
-
-
-FEMALE NAMES FROM TEMPLATE
-
-
-
-
-
- * **@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; ** This requires down-casing
 
 
 
@@ -1386,7 +1396,43 @@ FEMALE NAMES FROM TEMPLATE
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/adverbs.lexc)</small># Adjective inflection
+----
+Komi (Permyak) adjectives compare.
+
+Continuation lexicon has been assigned according to <pos/> content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * LEXICON A_PARAGOGIC-В/Л  юмов:юмо юмолӧсь
+Singular predicative 
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/adjectives.lexc)</small>
 
 # Verbal morphology               
 
@@ -1592,115 +1638,7 @@ FIX THIS 2015-09-06
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/verbs.lexc)</small># Adjective inflection
-----
-Komi (Permyak) adjectives compare.
-
-Continuation lexicon has been assigned according to <pos/> content
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- * LEXICON A_PARAGOGIC-В/Л  юмов:юмо юмолӧсь
-Singular predicative 
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/adjectives.lexc)</small># Postposition inflection
-----
-
-Komi postpositions inflect for direction.
-
-Prep lexica
-
-Russian на
-
-
-Postp lexica 
-
-
-
-
-
-
-
-This contlex allows for relational word which, otherwise, are open 
-to extensive declension
-
-
- * **LEXICON POSTP1  **
-these are: 
-
-аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
-кузя, ног, ньылыд, паныдӧн, пӧлӧн, пыдди, пыр, понда, 
-ради, уліті, выліті, вывті, вомас, вомӧн
-пӧвст
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- * **LEXICON PO-SPAT_  **
-these are: 
-
-аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
-кузя, ног, ньылыд, паныдӧн, пӧлӧн, пыдди, пыр, понда, 
-ради, уліті, выліті, вывті, вомас, вомӧн
-пӧвст
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adpositions.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/adpositions.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/verbs.lexc)</small>
 
 # Numeral morphological lexica 
 
@@ -1785,21 +1723,7 @@ with no more variants beyond:
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/numerals.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/numerals.lexc)</small>Prefixes
-Prefixes in the Komi-Permyak language are bound to the beginning of other words.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/prefixes.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/prefixes.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/symbols.lexc)</small># Conjunctors
+<small>This (part of) documentation was generated from [../src/fst/affixes/numerals.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/numerals.lexc)</small># Conjunctors
 ----
 Komi conjunctors
 
@@ -1813,9 +1737,91 @@ Komi conjunctors
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctors.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/conjunctors.lexc)</small># Particles
-----
-Komi Particles
+<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctors.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/conjunctors.lexc)</small>Proper noun inflection
+
+Komi proper nouns inflect in the same cases as regular
+nouns.
+
+
+
+
+
+
+Russian type Surnames 
+
+Preparing for the template urj-Cyrl
+Beginning 2012-11-15
+
+
+
+
+
+ * :2 PropSur-kal ;  These are foreign Л words
+
+
+
+Абдеев:Абдеев
+
+Багрий:Багр
+
+
+Аморский:Аморск
+
+
+
+
+
+
+
+
+These are vowel-final stems
+They have previously received +Sem/Fem tags
+
+
+
+
+
+
+
+Should this be limited to +Sg? 2015-09-06
+
+Вили:Вил
+
+
+
+
+Андрей:Андре
+
+
+
+
+
+
+
+
+
+
+
+
+Ending 2012-11-15
+
+
+
+
+
+
+
+
+
+FEMALE NAMES FROM TEMPLATE
+
+
+
+
+
+ * **@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; ** This requires down-casing
+
+
 
 
 
@@ -1828,7 +1834,7 @@ Komi Particles
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/particles.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/particles.lexc)</small># Pronominal morphology                           
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/propernouns.lexc)</small># Pronominal morphology                           
 
 ## Closed class personal pronouns
 
@@ -2038,7 +2044,94 @@ Tagged in the src/morphology/stems/pronouns.xml file
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/pronouns.lexc)</small># Postposition inflection
+----
+
+Komi postpositions inflect for direction.
+
+Prep lexica
+
+Russian на
+
+
+Postp lexica 
+
+
+
+
+
+
+
+This contlex allows for relational word which, otherwise, are open 
+to extensive declension
+
+
+ * **LEXICON POSTP1  **
+these are: 
+
+аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
+кузя, ног, ньылыд, паныдӧн, пӧлӧн, пыдди, пыр, понда, 
+ради, уліті, выліті, вывті, вомас, вомӧн
+пӧвст
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * **LEXICON PO-SPAT_  **
+these are: 
+
+аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
+кузя, ног, ньылыд, паныдӧн, пӧлӧн, пыдди, пыр, понда, 
+ради, уліті, выліті, вывті, вомас, вомӧн
+пӧвст
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adpositions.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/adpositions.lexc)</small># Particles
+----
+Komi Particles
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/particles.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/particles.lexc)</small>
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Komi-Permyak LANGUAGE.
 
 
@@ -2481,100 +2574,7 @@ Incoming for conversion from kpv
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/root.lexc)</small>This is where new words from kpv are initially shown
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/numerals_newwords.lexc)</small>This is where new words from kpv are initially shown
-
-
-
-
-
-These are koi verbs
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/verbs_newwords.lexc)</small>Nouns
-Nouns in the Komi Permyak language are things.
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/nouns.lexc)</small>This is where new words from kpv are initially shown
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adverbs_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/adverbs_newwords.lexc)</small>Adjectives
-Adjectives in Komi-Permyak language describe things.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/adjectives.lexc)</small>Numerals
-Numerals in the KOMI-PERMYAK language are numbers.
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/numerals.lexc)</small>This is where new words from kpv are initially shown
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/pronouns_newwords.lexc)</small>This is where new words from kpv are initially shown
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-Абъячой+N+Prop+Sem/Plc:Абъячой PROP_ "(eng) fish/(fin) /(rus)" ;
-
-
-ADD NOUNS BELOW
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/kom-rus-propernouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/kom-rus-propernouns_newwords.lexc)</small>This is where new words from kpv are initially shown
-
-2016-07-14
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>Pronouns
-Pronouns in KOMI PERMYAK language are references to things.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/stems/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/root.lexc)</small>
 
 
 We describe here how abbreviations are in Komi-Permyak are read out, e.g.
