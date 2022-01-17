@@ -2,28 +2,28 @@
 
 ## Closed class personal pronouns
 
- * **LEXICON PERS** 
- * **ме+Pron+Pers+Sg1:ме perssg1decl ;** ...
+* **LEXICON PERS** 
+* **ме+Pron+Pers+Sg1:ме perssg1decl ;...** ...
 
- * **ачым+Pron+Refl+Sg1:а REFLSG1DECL ;** ...
-
-
-
-
- * **LEXICON perssg1decl** 
-
-
- * **LEXICON perspl1decl**
-
-
- * **LEXICON perssg2decl**
-
- * **LEXICON perspl2decl** 
+* **ачым+Pron+Refl+Sg1:а REFLSG1DECL ;...** ...
 
 
 
 
- * **LEXICON perssg3decl** 
+* **LEXICON perssg1decl** 
+
+
+* **LEXICON perspl1decl**@CODE@****
+
+
+* **LEXICON perssg2decl**@CODE@****
+
+* **LEXICON perspl2decl** 
+
+
+
+
+* **LEXICON perssg3decl** 
 
 
 ми мийӧ The 1st and 2nd persons have Oblique case stem strategies
@@ -31,14 +31,14 @@ that differ from the 3rd person:
 ті тійӧ nämä ovat aivan eri asioita?
 сы сійӧ tosin joskus 
 
- * **LEXICON perspl3decl**
+* **LEXICON perspl3decl**@CODE@****
 
 
- * **LEXICON perssg**
+* **LEXICON perssg**@CODE@****
 
 
 
- * **LEXICON persplobl**
+* **LEXICON persplobl**@CODE@****
 
 
 
