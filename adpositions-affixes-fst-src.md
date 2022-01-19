@@ -20,7 +20,7 @@ This contlex allows for relational word which, otherwise, are open
 to extensive declension
 
 
- * **LEXICON POSTP1  **
+* **LEXICON POSTP1  **
 these are: 
 
 аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
@@ -41,7 +41,7 @@ these are:
 
 
 
- * **LEXICON PO-SPAT_  **
+* **LEXICON PO-SPAT_  **
 these are: 
 
 аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 

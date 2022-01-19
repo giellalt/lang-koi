@@ -9,25 +9,25 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-k
 
 ## Letters of the alphabet
 
- * а б в г д е ё ж з и і й к л м н о ӧ п р с т у ф х ц ч ш щ ъ ы ь э ю я 
- * А Б В Г Д Е Ё Ж З И І Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я 
+* а б в г д е ё ж з и і й к л м н о ӧ п р с т у ф х ц ч ш щ ъ ы ь э ю я 
+* А Б В Г Д Е Ё Ж З И І Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я 
 
 ## Archiphonemes for vowels
 ## Triggers
- * %^1Cns:0    Plural-initial; it allows for doubling of consonant
+* %^1Cns:0    Plural-initial; it allows for doubling of consonant
 
- * %^LVBound:0     boundary for LV change instead of Consonant or end of word
- * %^VowRM:0       vowel syncope
+* %^LVBound:0     boundary for LV change instead of Consonant or end of word
+* %^VowRM:0       vowel syncope
 
 ## Boundary symbols
 
- *  %>  morpheme boundary
+*  %>  morpheme boundary
 * hash # word boundary
- *  %-  
- »7       * »
- «7       * «
- %[%>%]   * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
- %[%<%]   * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
+*  %-  
+ »7      * »
+ «7      * «
+ %[%>%]  * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
+ %[%<%]  * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
 
 Diacritics
 

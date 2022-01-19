@@ -7,9 +7,21 @@
 
 This page documents the work on the [Komi-Permyak language model](http://github.com/giellalt/lang-koi). 
 
+The lexicon is full-sized (it contains approximately 75000 entries,
+and the analyser is in use in a morphologically enriched Komi Permyak
+dictionary and a spellchecker in beta version.
+
+The analyser is built in cooperation between FU-lab in
+Syktyvkar, Giellatekno and Divvun at UiT in Norway, and
+AKU in Helsinki.
+
 # Project documentation
 
 * (Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.)
+
+!!!Resources
+* Generation of [paradigms|http://giellatekno.uit.no/cgi/p-koi.fi.html]
+* [Cyrillic keyboard|https://gtsvn.uit.no/langtech/trunk/techdoc/keyboards/download/KyrilliskQWERTY.zip]
 
 # In-source documentation
 

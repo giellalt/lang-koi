@@ -2,13 +2,13 @@
 # Noun morphological lexica !
 
 
-* **LEXICON Vocative**@CODE@****
+* **LEXICON Vocative**
 
-* **LEXICON Noun1-IS_PTC-OMtags** is to provide deverbal nouns with +Der/ӧм tags
+* **LEXICON Noun1-IS_PTC-OM** is to provide deverbal nouns with +Der/ӧм tags
 
-* **LEXICON Noun1-IS_PTC-AN**@CODE@****
+* **LEXICON Noun1-IS_PTC-AN**
 
-* **LEXICON Noun1-IS_PTC-YSJ**@CODE@****
+* **LEXICON Noun1-IS_PTC-YSJ**
 
 
 
@@ -36,29 +36,29 @@ This should be phased out 2013-05-07
 
 
 subsequent Cns vs Vow
- * LEXICON N_PARAGOGIC-V/L  ныв:ны нылыс
+* LEXICON N_PARAGOGIC-V/L  ныв:ны нылыс
 
 
- * LEXICON N_PARAGOGIC-J  ав:ав авйыс
+* LEXICON N_PARAGOGIC-J  ав:ав авйыс
 
- * LEXICON N_PARAGOGIC-K  кытш:кытш кытшкыс
+* LEXICON N_PARAGOGIC-K  кытш:кытш кытшкыс
 
- * LEXICON N_PARAGOGIC-M  зон:зон зонмыс
+* LEXICON N_PARAGOGIC-M  зон:зон зонмыс
 
- * LEXICON N_PARAGOGIC-T  зеп:зеп зептыс
+* LEXICON N_PARAGOGIC-T  зеп:зеп зептыс
 
- * LEXICON N_END-IN-J  абай:аба абайыс
+* LEXICON N_END-IN-J  абай:аба абайыс
 
- * LEXICON N_END-IN-ДДЬ  автомобиль:автомобил автомобильыс
- * +Pl:%>%^1Cnsэз CASEPOSSLEX ;  2015-09-04 change to ь%>яс after xfst rules are removed
+* LEXICON N_END-IN-ДДЬ  автомобиль:автомобил автомобильыс
+* +Pl:%>%^1Cnsэз CASEPOSSLEX ;  2015-09-04 change to ь%>яс after xfst rules are removed
 
- * LEXICON N_END-IN-ДДЗ  автомобиль:автомобил автомобильыс
+* LEXICON N_END-IN-ДДЗ  автомобиль:автомобил автомобильыс
 
- * LEXICON N_END-IN-ЛЛЬ  моль:мол молльӧ
+* LEXICON N_END-IN-ЛЛЬ  моль:мол молльӧ
 2015-09-04 change to ь%>яс after xfst rules are removed
 
- * LEXICON N_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
- * LEXICON NMN_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
+* LEXICON N_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
+* LEXICON NMN_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
 
 
 
@@ -84,7 +84,7 @@ with no more variants beyond:
 
 
 
-* **LEXICON CASEPOSSLEX**@CODE@****
+* **LEXICON CASEPOSSLEX**
 
 
 

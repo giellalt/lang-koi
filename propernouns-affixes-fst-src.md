@@ -17,7 +17,7 @@ Beginning 2012-11-15
 
 
 
- * :2 PropSur-kal ;  These are foreign Л words
+* :2 PropSur-kal ;  These are foreign Л words
 
 
 
@@ -80,7 +80,7 @@ FEMALE NAMES FROM TEMPLATE
 
 
 
- * **@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; ** This requires down-casing
+* **@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; ** This requires down-casing
 
 
 

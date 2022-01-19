@@ -73,7 +73,7 @@ with no more variants beyond:
 
 
 
- * **LEXICON ARABIC          ** 
+* **LEXICON ARABIC          ** 
 
 
 

@@ -3,9 +3,9 @@
 ## Closed class personal pronouns
 
 * **LEXICON PERS** 
-* **ме+Pron+Pers+Sg1:ме perssg1decl ;...** ...
+* **ме+Pron+Pers+Sg1:ме perssg1decl ;** ...
 
-* **ачым+Pron+Refl+Sg1:а REFLSG1DECL ;...** ...
+* **ачым+Pron+Refl+Sg1:а REFLSG1DECL ;** ...
 
 
 
@@ -13,10 +13,10 @@
 * **LEXICON perssg1decl** 
 
 
-* **LEXICON perspl1decl**@CODE@****
+* **LEXICON perspl1decl**
 
 
-* **LEXICON perssg2decl**@CODE@****
+* **LEXICON perssg2decl**
 
 * **LEXICON perspl2decl** 
 
@@ -31,14 +31,14 @@ that differ from the 3rd person:
 ті тійӧ nämä ovat aivan eri asioita?
 сы сійӧ tosin joskus 
 
-* **LEXICON perspl3decl**@CODE@****
+* **LEXICON perspl3decl**
 
 
-* **LEXICON perssg**@CODE@****
+* **LEXICON perssg**
 
 
 
-* **LEXICON persplobl**@CODE@****
+* **LEXICON persplobl**
 
 
 

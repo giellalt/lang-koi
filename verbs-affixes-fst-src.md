@@ -19,7 +19,7 @@
 Some Flag diacritic lines are with regexes, other with aligned zeros. We want to migrate to
 regexes < … > , for readability reasons (sic!)
 
-* **LEXICON V_LOKNYлокны:лок** One verb only, локны:лок
+* **LEXICON V_LOKNY** One verb only, локны:лок
 
 Begin work with TV and IV
 
@@ -27,33 +27,33 @@ Begin work with TV and IV
 
 * **LEXICON VR_SHUNY** 
 
-* **LEXICON V_SHUNY-Vны.** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
+* **LEXICON V_SHUNY** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
 
-* **LEXICON V_JUAYSHNYgradation** is there ш : шт gradation
+* **LEXICON V_JUAYSHNY** is there ш : шт gradation
 
-* **LEXICON V_AMNY-дзны,** амны:ам Ending in -мны, -жны, -дзны,
+* **LEXICON V_AMNY** амны:ам Ending in -мны, -жны, -дзны,
 
 
 * **LEXICON V_KYJNY** кыйны:кый Ending in -йны, 
 
-* **LEXICON V_CHILOESNY2018-09-01** is there s : st alternation 2018-09-01
+* **LEXICON V_CHILOESNY** is there s : st alternation 2018-09-01
 
 
-* **LEXICON V_KUTNY-Vны.** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
+* **LEXICON V_KUTNY** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
 
 
-* **LEXICON V_NUAVNYнуавны:нуа** нуавны:нуа
+* **LEXICON V_NUAVNY** нуавны:нуа
 Consonant-onset
 
 
-* **LEXICON V_ARTASJNY-Cны.** артасьны:артас -Cны.
+* **LEXICON V_ARTASJNY** артасьны:артас -Cны.
 
 * **LEXICON VR_LYDDJYNY** 
 
-* **LEXICON V_LYDDJYNY-ыны.** лыддьыны:лыддьы ! ярмыны. Multiple-syllable verb ending in -ыны.
+* **LEXICON V_LYDDJYNY** лыддьыны:лыддьы ! ярмыны. Multiple-syllable verb ending in -ыны.
 
 
-* **LEXICON V_VOLYNY-ыны.** волыны:волы ! ярмыны. Multiple-syllable verb ending in -ыны.
+* **LEXICON V_VOLYNY** волыны:волы ! ярмыны. Multiple-syllable verb ending in -ыны.
 
 
 
@@ -66,24 +66,22 @@ Consonant-onset
 
 * **LEXICON VerbConj-V**  суф б -- ы 
 
-* **LEXICON VerbConjа** суф а
+* **LEXICON VerbConj** суф а
 
-* **LEXICON VerbConj_KYJNYа** суф а
+* **LEXICON VerbConj_KYJNY** суф а
 
-* **LEXICON VerbConj_AMNYа** суф а
+* **LEXICON VerbConj_AMNY** суф а
 
-* **LEXICON VerbConj_KUTNYа** суф а
-
-
-* **LEXICON Finiteformstenses** Gives linking vowels for 3 tenses
-
-* **LEXICON Finiteforms_KYJNYtenses** Gives linking vowels for 3 tenses
-
-* **LEXICON Finiteforms_AMNYtenses** Gives linking vowels for 3 tenses
-
-* **LEXICON Finiteforms_KUTNYtenses** Gives linking vowels for 3 tenses
+* **LEXICON VerbConj_KUTNY** суф а
 
 
+* **LEXICON Finiteforms** Gives linking vowels for 3 tenses
+
+* **LEXICON Finiteforms_KYJNY** Gives linking vowels for 3 tenses
+
+* **LEXICON Finiteforms_AMNY** Gives linking vowels for 3 tenses
+
+* **LEXICON Finiteforms_KUTNY** Gives linking vowels for 3 tenses
 
 
 
@@ -95,7 +93,9 @@ Consonant-onset
 
 
 
-* **@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@+Imprt+Pl2:@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@%>ӧ VerbEnd ;-ӧй** kpv -ӧй
+
+
+* **@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@+Imprt+Pl2:@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@%>ӧ VerbEnd ;** kpv -ӧй
 
 
 
@@ -124,7 +124,7 @@ Differs from kpv 2016-09-15
 
 * **LEXICON Verb-nyDer** 
 
-* **LEXICON Verb-nyDer-ONSET-CONSconsonant** Derivation onset in consonant
+* **LEXICON Verb-nyDer-ONSET-CONS** Derivation onset in consonant
 verb-to-verb
 
 This is fed by LEXICON V_SHUNY, and therefore certain corrections
@@ -134,14 +134,14 @@ must be made 2012-01-18
 пусьыштлывлыны
 босьтчыштлывлыны
 
-* **LEXICON Verb-nyDer-ONSET-VOWvowel** Derivation onset	in vowel
+* **LEXICON Verb-nyDer-ONSET-VOW** Derivation onset	in vowel
 
-* **LEXICON Verb-nyDer-ONSET-Yvowel** Derivation onset	in vowel
+* **LEXICON Verb-nyDer-ONSET-Y** Derivation onset	in vowel
 
-* **LEXICON Verb-nyDer-ONSET-Avowel** Derivation onset	in vowel
+* **LEXICON Verb-nyDer-ONSET-A** Derivation onset	in vowel
 босьтасьны
 
-* **LEXICON Verb-nyDer-ONSET-JAvowel** Derivation onset	in vowel
+* **LEXICON Verb-nyDer-ONSET-JA** Derivation onset	in vowel
 босьтасьны
 
 
@@ -150,23 +150,23 @@ verb-to-noun
 * **LEXICON VerbDer** 
 FIX THIS 2015-09-06
 
-* **LEXICON VerbDer_KYJNY**@CODE@****
-* **:й VerbDer-ONSET_OE ;**@CODE@****
+* **LEXICON VerbDer_KYJNY**
+* **:й VerbDer-ONSET_OE ;**
 * **:й VerbDer-ONSET_JA ;** 
-* **:й VerbDer-ONSET_JI ;**@CODE@****
+* **:й VerbDer-ONSET_JI ;**
 
-* **LEXICON VerbDer_KUTNY**@CODE@****
-* **VerbDer-ONSET_OE ;**@CODE@****
+* **LEXICON VerbDer_KUTNY**
+* **VerbDer-ONSET_OE ;**
 * **VerbDer-ONSET_A ;** 
-* **VerbDer-ONSET_JI ;**@CODE@****
+* **VerbDer-ONSET_JI ;**
 
-* **LEXICON VerbDer_ARTASJNY**@CODE@****
-* **: VerbDer-ONSET_OE ;**@CODE@****
+* **LEXICON VerbDer_ARTASJNY**
+* **: VerbDer-ONSET_OE ;**
 * **: VerbDer-ONSET_JA ;** 
-* **: VerbDer-ONSET_JI ;**@CODE@****
+* **: VerbDer-ONSET_JI ;**
 
 * **LEXICON VerbDer-ONSET_OE** 
-* **+Der/ісь+ActPrsPtc:%>%{иі%}сь N_ ;ысь** kpv ысь
+* **+Der/ісь+ActPrsPtc:%>%{иі%}сь N_ ;** kpv ысь
 
 * **LEXICON VerbDer-ONSET_JI** 
 
