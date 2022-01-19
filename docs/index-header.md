@@ -20,8 +20,8 @@ AKU in Helsinki.
 * (Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.)
 
 !!!Resources
-* Generation of [paradigms|http://giellatekno.uit.no/cgi/p-koi.fi.html]
-* [Cyrillic keyboard|https://gtsvn.uit.no/langtech/trunk/techdoc/keyboards/download/KyrilliskQWERTY.zip]
+* Generation of [paradigms](http://giellatekno.uit.no/cgi/p-koi.fi.html)
+* [Cyrillic keyboard](https://gtsvn.uit.no/langtech/trunk/techdoc/keyboards/download/KyrilliskQWERTY.zip)
 
 # In-source documentation
 
