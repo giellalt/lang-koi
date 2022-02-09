@@ -7,24 +7,15 @@
 
 * **ачым+Pron+Refl+Sg1:а REFLSG1DECL ;** ...
 
-
-
-
 * **LEXICON perssg1decl** 
 
-
 * **LEXICON perspl1decl**
-
 
 * **LEXICON perssg2decl**
 
 * **LEXICON perspl2decl** 
 
-
-
-
 * **LEXICON perssg3decl** 
-
 
 ми мийӧ The 1st and 2nd persons have Oblique case stem strategies
 that differ from the 3rd person: 
@@ -33,179 +24,15 @@ that differ from the 3rd person:
 
 * **LEXICON perspl3decl**
 
-
 * **LEXICON perssg**
-
-
 
 * **LEXICON persplobl**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Tagged in the src/morphology/stems/pronouns.xml file
 
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/pronouns.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/pronouns.lexc)</small>
+
+---
+

@@ -6,7 +6,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-k
 
 ## Alphabet, Sets and Definitions
 
-
 ## Letters of the alphabet
 
 * а б в г д е ё ж з и і й к л м н о ӧ п р с т у ф х ц ч ш щ ъ ы ь э ю я 
@@ -31,9 +30,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-k
 
 Diacritics
 
-
-
-
 ## Sets 
 
 Vowel
@@ -50,30 +46,21 @@ All consonants with hard A
 All consonants followed by Cyrillic и
 Why is т2 here 2015-10-01
 
-
 Letters
 
 Dummy
 
-
 ## Definitions
-
-
 
 ## Rules
 
-
 **Double stem-final consonant**
 
-
 **Double stem-final consonant л:в**
-
 
 **%^1Cns to zero**
 
 **э:е**
-
-
 
 **The famous L/V**
 
@@ -82,7 +69,6 @@ Paragogic consonants
 
 Paragogic consonants
 **tDeletion**
-
 
 **jDeletion after vowel**
 
@@ -113,8 +99,6 @@ Vowel Palatalisation
 
 **%{иі%} 2 і**
 
-
-
 **%{иі%} 2 и**
 * *ворссь%>%{иі%}#*
 * *ворсс0%>и#*
@@ -131,14 +115,11 @@ Vowel Palatalisation
 * *шу%>%{ая%}с*
 * *шу%>ас*
 
-
-
 **%{ая%} 2 я**
 * *ворссь%>%{ая%}#*
 * *ворсс0%>я#*
 * *вай%>%{ая%}с*
 * *вай%>яс*
-
 
 **Soft Sign Deletion**
 * *нянь%>%^1Cnsэз*
@@ -174,6 +155,9 @@ Vowel Palatalisation
 
 **IClitic**
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/phonology.twolc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-koi/blob/main/src/fst/phonology.twolc)</small>
+
+---
+

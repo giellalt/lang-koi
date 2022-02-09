@@ -2,17 +2,7 @@
 
 # Verbal morphology               
 
-
-
-
-
 ## Closed class verbs
-
-
-
-
-
-
 
 ## Open class verbs
 
@@ -23,8 +13,6 @@ regexes < … > , for readability reasons (sic!)
 
 Begin work with TV and IV
 
-
-
 * **LEXICON VR_SHUNY** 
 
 * **LEXICON V_SHUNY** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
@@ -33,18 +21,14 @@ Begin work with TV and IV
 
 * **LEXICON V_AMNY** амны:ам Ending in -мны, -жны, -дзны,
 
-
 * **LEXICON V_KYJNY** кыйны:кый Ending in -йны, 
 
 * **LEXICON V_CHILOESNY** is there s : st alternation 2018-09-01
 
-
 * **LEXICON V_KUTNY** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
-
 
 * **LEXICON V_NUAVNY** нуавны:нуа
 Consonant-onset
-
 
 * **LEXICON V_ARTASJNY** артасьны:артас -Cны.
 
@@ -52,15 +36,7 @@ Consonant-onset
 
 * **LEXICON V_LYDDJYNY** лыддьыны:лыддьы ! ярмыны. Multiple-syllable verb ending in -ыны.
 
-
 * **LEXICON V_VOLYNY** волыны:волы ! ярмыны. Multiple-syllable verb ending in -ыны.
-
-
-
-
-
-
-
 
 ## Verb conjugation 
 
@@ -74,7 +50,6 @@ Consonant-onset
 
 * **LEXICON VerbConj_KUTNY** суф а
 
-
 * **LEXICON Finiteforms** Gives linking vowels for 3 tenses
 
 * **LEXICON Finiteforms_KYJNY** Gives linking vowels for 3 tenses
@@ -83,44 +58,11 @@ Consonant-onset
 
 * **LEXICON Finiteforms_KUTNY** Gives linking vowels for 3 tenses
 
-
-
-
-
-
-
-
-
-
-
-
-
 * **@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@+Imprt+Pl2:@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@%>ӧ VerbEnd ;** kpv -ӧй
-
-
-
-
-
-
-
-
-
-
-
-
 
 Differs from kpv 2016-09-15
 
-
-
-
-
-
-
-
-
 ## Derivation
-
 
 * **LEXICON Verb-nyDer** 
 
@@ -143,7 +85,6 @@ must be made 2012-01-18
 
 * **LEXICON Verb-nyDer-ONSET-JA** Derivation onset	in vowel
 босьтасьны
-
 
 verb-to-noun
 
@@ -170,38 +111,17 @@ FIX THIS 2015-09-06
 
 * **LEXICON VerbDer-ONSET_JI** 
 
-
 * **LEXICON VerbDer-ONSET_A** 
 
 * **LEXICON VerbDer-ONSET_JA** 
-
-
-
-
-
-
-
-
-
 
 вевттьысьыны
 
 бертласьны
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/verbs.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/verbs.lexc)</small>
+
+---
+

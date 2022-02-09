@@ -1,11 +1,7 @@
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Komi-Permyak LANGUAGE.
 
-
 # Definitions for Multichar_Symbols
-
-
-
 
 ## Analysis symbols
 The morphological analyses of wordforms for the Komi-Permyak
@@ -26,8 +22,6 @@ The parts-of-speech tags are:
 * **+Pron**:  pronoun
 * **+Qnt**:  Quantifier
 * **+V**:  verb
-
-
 
 The parts of speech are further split up into:
 Adjectives
@@ -77,7 +71,6 @@ NB! do not confuse with Komi case +Apr
 * **+Coord**:  Coordinates, i.e. 65˚36′8,30″ in numerals.lexc
 * **+Cop**:  this is for copula complement position with pl in -ӧсь Pred depricated
 
-
 ## Nominals are inflected for Number and Case
 ## Number
 singular
@@ -111,17 +104,12 @@ Terminative -ви
 Terminative -ӧдз
 Vocative
 
-
 transitive THIS should be removed 2019-11-01
 
 used when possessive marking occurs before case
 used when case occurs before possessive marking
 
-
-
-
 this will be used for marking complement forms such as кыкнан in collective numerals, сы , which can only appear with a following NP. DO WE NEED THIS 2019-10-22? jaska Niko
-
 
 ## Symbols that need to be escaped on the lower side (towards twolc):
 * **»7**:  Literal »
@@ -130,9 +118,6 @@ this will be used for marking complement forms such as кыкнан in collectiv
  %[%>%]  - Literal >
  %[%<%]  - Literal <
 ```
-
-
-
 
 The possession is marked as such:
 ODD
@@ -159,7 +144,6 @@ Verb personal forms are:
 Other verb forms are
 Gerund This is used with derivations
 
-
 * +Symbol = independent symbols in the text stream, like £, €, ©
 Special symbols are classified with:
 The verbs are syntactically split according to transitivity:
@@ -167,7 +151,6 @@ Special multiword units are analysed with:
 Non-dictionary words can be recognised with:
 
 Question and Focus particles:
-
 
 ### Tags distinguishing different versions of the same lemma (before POS)
 * +v1
@@ -191,7 +174,6 @@ The Usage extents are marked using following tags:
 Where do these come from source
 * **+Src/F** foreign source apparently 2015-09-08
 * **+Dim** diminutive
-
 
 * **+Sem/Act** Activity
 * **+Sem/Amount** Amount
@@ -295,50 +277,27 @@ Where do these come from source
 * **+Sem/Wpn** Weapon
 * **+Sem/Wthr** The Weather or the state of ground
 
-
-
-
-
 Semantics are classified with
 * **+Sem/Inanim**  Inanimate,
 * **+Sem/NonHum**  Nonhuman,
 
-
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
 
-
-
 * **+Der/ісь** Der/ысь
-
-
-
-
-
-
 
 *  **+Der/PrivMod** privative or abessive modifier -тӧм AbeMod
 *  **+Der/LocMod** locative modifier са - IneMod
 *  **+Der/ProprietiveMod** habeo modifier HabObjMod Der/а
 *  **+Der/TempMod** temporal modifier ся -
 
-
-
 2012-09-11 Perhaps this is only syntactic
 
-
-
-
-
 Tags for Ethymological Origin marking. This has initially used used with proper nouns
-
-
-
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
-
 
 And following triggers to control variation
 * %^1Cns    Plural-initial; it allows for doubling of consonant
@@ -378,67 +337,25 @@ given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
-
-
-
-
-
-
-
-
 FLAGS USED WITH COLLECTIVE NOUNS
-
-
-
-
-
-
-
 
 Removal
 
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj
 
-
 The word forms in the KOMI-PERMYAK language start from the lexeme roots of basic
 
 word classes, or optionally from prefixes:
 
-
 Incoming from akusanat
 Pron_koi2x ;
 
-
 Incoming for conversion from kpv
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/root.lexc)</small>
+
+---
+

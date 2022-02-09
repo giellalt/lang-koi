@@ -1,7 +1,6 @@
 
 # Noun morphological lexica !
 
-
 * **LEXICON Vocative**
 
 * **LEXICON Noun1-IS_PTC-OM** is to provide deverbal nouns with +Der/ӧм tags
@@ -10,34 +9,14 @@
 
 * **LEXICON Noun1-IS_PTC-YSJ**
 
-
-
-
-
-
-
-
 Basic nouns.
 
 The lexicon for basic nouns is N_ 
 
-
-
-
-
 This should be phased out 2013-05-07
-
-
-
-
-
-
-
-
 
 subsequent Cns vs Vow
 * LEXICON N_PARAGOGIC-V/L  ныв:ны нылыс
-
 
 * LEXICON N_PARAGOGIC-J  ав:ав авйыс
 
@@ -60,47 +39,24 @@ subsequent Cns vs Vow
 * LEXICON N_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
 * LEXICON NMN_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Inflectional lexica 
-
 
 All nouns follow one contlex "N_"
 to begin with here is simply a list of all variant
 with no more variants beyond:
 
-
-
 * **LEXICON CASEPOSSLEX**
 
-
-
 SG1
 
 SG2
-
 
 SG3
 
 PL1
 
-
 PL2
 PL3
-
 
 SG1
 SG2
@@ -116,8 +72,6 @@ PL1
 PL2
 PL3
 
-
-
 SG1
 
 SG2
@@ -128,74 +82,16 @@ PL1
 
 PL2
 PL3
-
 
 ## Case followed by possible clitic
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Case followed by word end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 +Der/A+Adv:%>а K ;
 
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-koi/blob/main/../src/fst/affixes/nouns.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/nouns.lexc)</small>
+
+---
+
