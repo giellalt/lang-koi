@@ -98,12 +98,7 @@ NOT-PRL (have no homograph Prolative pairs set)
 * **NoABBR** removes ABBR for competing CC
 
 * * *
-
 <small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/giellalt/lang-koi/blob/main/src/cg3/disambiguator.cg3)</small>
-
----
-
-
 
 * Sets for POS sub-categories
 
@@ -271,8 +266,429 @@ These were the set types.
 ## HNOUN MAPPING
 
 * * *
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-koi/blob/main/src/cg3/functions.cg3)</small># Adjective inflection
+----
+Komi (Permyak) adjectives compare.
 
-<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-koi/blob/main/src/cg3/functions.cg3)</small>
+Continuation lexicon has been assigned according to <pos/> content
+
+* LEXICON A_PARAGOGIC-В/Л  юмов:юмо юмолӧсь
+Singular predicative 
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/adjectives.lexc)</small>
+
+---
+
+# Postposition inflection
+----
+
+Komi postpositions inflect for direction.
+
+Prep lexica
+
+Russian на
+
+Postp lexica 
+
+This contlex allows for relational word which, otherwise, are open 
+to extensive declension
+
+* **LEXICON POSTP1  **
+these are: 
+
+аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
+кузя, ног, ньылыд, паныдӧн, пӧлӧн, пыдди, пыр, понда, 
+ради, уліті, выліті, вывті, вомас, вомӧн
+пӧвст
+
+* **LEXICON PO-SPAT_  **
+these are: 
+
+аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
+кузя, ног, ньылыд, паныдӧн, пӧлӧн, пыдди, пыр, понда, 
+ради, уліті, выліті, вывті, вомас, вомӧн
+пӧвст
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adpositions.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/adpositions.lexc)</small>
+
+---
+
+# Adverb inflection
+----
+Komi adverbs inflect for direction.
+
+* **LEXICON ADV-SPAT  **
+these are adverbs in spatial cases
+and they probably are equivalent in morphology to postpositions
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/adverbs.lexc)</small>
+
+---
+
+# Conjunctors
+----
+Komi conjunctors
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/conjunctors.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/conjunctors.lexc)</small>
+
+---
+
+
+# Noun morphological lexica !
+
+* **LEXICON Vocative**
+
+* **LEXICON Noun1-IS_PTC-OM** is to provide deverbal nouns with +Der/ӧм tags
+
+* **LEXICON Noun1-IS_PTC-AN**
+
+* **LEXICON Noun1-IS_PTC-YSJ**
+
+Basic nouns.
+
+The lexicon for basic nouns is N_ 
+
+This should be phased out 2013-05-07
+
+subsequent Cns vs Vow
+* LEXICON N_PARAGOGIC-V/L  ныв:ны нылыс
+
+* LEXICON N_PARAGOGIC-J  ав:ав авйыс
+
+* LEXICON N_PARAGOGIC-K  кытш:кытш кытшкыс
+
+* LEXICON N_PARAGOGIC-M  зон:зон зонмыс
+
+* LEXICON N_PARAGOGIC-T  зеп:зеп зептыс
+
+* LEXICON N_END-IN-J  абай:аба абайыс
+
+* LEXICON N_END-IN-ДДЬ  автомобиль:автомобил автомобильыс
+* +Pl:%>%^1Cnsэз CASEPOSSLEX ;  2015-09-04 change to ь%>яс after xfst rules are removed
+
+* LEXICON N_END-IN-ДДЗ  автомобиль:автомобил автомобильыс
+
+* LEXICON N_END-IN-ЛЛЬ  моль:мол молльӧ
+2015-09-04 change to ь%>яс after xfst rules are removed
+
+* LEXICON N_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
+* LEXICON NMN_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
+
+## Inflectional lexica 
+
+All nouns follow one contlex "N_"
+to begin with here is simply a list of all variant
+with no more variants beyond:
+
+* **LEXICON CASEPOSSLEX**
+
+SG1
+
+SG2
+
+SG3
+
+PL1
+
+PL2
+PL3
+
+SG1
+SG2
+SG3
+PL1
+PL2
+PL3
+
+SG1
+SG2
+SG3
+PL1
+PL2
+PL3
+
+SG1
+
+SG2
+
+SG3
+
+PL1
+
+PL2
+PL3
+
+## Case followed by possible clitic
+
+## Case followed by word end
+
++Der/A+Adv:%>а K ;
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/nouns.lexc)</small>
+
+---
+
+
+
+# Numeral morphological lexica 
+
+LEXICON NUM-APPR ! 2011-11-03 This will need work
+
+## Inflectional lexica 
+
+All nouns follow one contlex "Noun1"
+to begin with here is simply a list of all variant
+with no more variants beyond:
+
+## Arabic numerals
+
+* **LEXICON ARABIC          ** 
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/numerals.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/numerals.lexc)</small>
+
+---
+
+# Particles
+----
+Komi Particles
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/particles.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/particles.lexc)</small>
+
+---
+
+Prefixes
+Prefixes in the Komi-Permyak language are bound to the beginning of other words.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/prefixes.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/prefixes.lexc)</small>
+
+---
+
+# Pronominal morphology                           
+
+## Closed class personal pronouns
+
+* **LEXICON PERS** 
+* **ме+Pron+Pers+Sg1:ме perssg1decl ;** ...
+
+* **ачым+Pron+Refl+Sg1:а REFLSG1DECL ;** ...
+
+* **LEXICON perssg1decl** 
+
+* **LEXICON perspl1decl**
+
+* **LEXICON perssg2decl**
+
+* **LEXICON perspl2decl** 
+
+* **LEXICON perssg3decl** 
+
+ми мийӧ The 1st and 2nd persons have Oblique case stem strategies
+that differ from the 3rd person: 
+ті тійӧ nämä ovat aivan eri asioita?
+сы сійӧ tosin joskus 
+
+* **LEXICON perspl3decl**
+
+* **LEXICON perssg**
+
+* **LEXICON persplobl**
+
+Tagged in the src/morphology/stems/pronouns.xml file
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/pronouns.lexc)</small>
+
+---
+
+Proper noun inflection
+
+Komi proper nouns inflect in the same cases as regular
+nouns.
+
+Russian type Surnames 
+
+Preparing for the template urj-Cyrl
+Beginning 2012-11-15
+
+* :2 PropSur-kal ;  These are foreign Л words
+
+Абдеев:Абдеев
+
+Багрий:Багр
+
+Аморский:Аморск
+
+These are vowel-final stems
+They have previously received +Sem/Fem tags
+
+Should this be limited to +Sg? 2015-09-06
+
+Вили:Вил
+
+Андрей:Андре
+
+Ending 2012-11-15
+
+FEMALE NAMES FROM TEMPLATE
+
+* **@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; ** This requires down-casing
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/propernouns.lexc)</small>
+
+---
+
+
+# Symbol affixes
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/symbols.lexc)</small>
+
+---
+
+
+
+# Verbal morphology               
+
+## Closed class verbs
+
+## Open class verbs
+
+Some Flag diacritic lines are with regexes, other with aligned zeros. We want to migrate to
+regexes < … > , for readability reasons (sic!)
+
+* **LEXICON V_LOKNY** One verb only, локны:лок
+
+Begin work with TV and IV
+
+* **LEXICON VR_SHUNY** 
+
+* **LEXICON V_SHUNY** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
+
+* **LEXICON V_JUAYSHNY** is there ш : шт gradation
+
+* **LEXICON V_AMNY** амны:ам Ending in -мны, -жны, -дзны,
+
+* **LEXICON V_KYJNY** кыйны:кый Ending in -йны, 
+
+* **LEXICON V_CHILOESNY** is there s : st alternation 2018-09-01
+
+* **LEXICON V_KUTNY** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
+
+* **LEXICON V_NUAVNY** нуавны:нуа
+Consonant-onset
+
+* **LEXICON V_ARTASJNY** артасьны:артас -Cны.
+
+* **LEXICON VR_LYDDJYNY** 
+
+* **LEXICON V_LYDDJYNY** лыддьыны:лыддьы ! ярмыны. Multiple-syllable verb ending in -ыны.
+
+* **LEXICON V_VOLYNY** волыны:волы ! ярмыны. Multiple-syllable verb ending in -ыны.
+
+## Verb conjugation 
+
+* **LEXICON VerbConj-V**  суф б -- ы 
+
+* **LEXICON VerbConj** суф а
+
+* **LEXICON VerbConj_KYJNY** суф а
+
+* **LEXICON VerbConj_AMNY** суф а
+
+* **LEXICON VerbConj_KUTNY** суф а
+
+* **LEXICON Finiteforms** Gives linking vowels for 3 tenses
+
+* **LEXICON Finiteforms_KYJNY** Gives linking vowels for 3 tenses
+
+* **LEXICON Finiteforms_AMNY** Gives linking vowels for 3 tenses
+
+* **LEXICON Finiteforms_KUTNY** Gives linking vowels for 3 tenses
+
+* **@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@+Imprt+Pl2:@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@%>ӧ VerbEnd ;** kpv -ӧй
+
+Differs from kpv 2016-09-15
+
+## Derivation
+
+* **LEXICON Verb-nyDer** 
+
+* **LEXICON Verb-nyDer-ONSET-CONS** Derivation onset in consonant
+verb-to-verb
+
+This is fed by LEXICON V_SHUNY, and therefore certain corrections
+must be made 2012-01-18
+
+овсьыны
+пусьыштлывлыны
+босьтчыштлывлыны
+
+* **LEXICON Verb-nyDer-ONSET-VOW** Derivation onset	in vowel
+
+* **LEXICON Verb-nyDer-ONSET-Y** Derivation onset	in vowel
+
+* **LEXICON Verb-nyDer-ONSET-A** Derivation onset	in vowel
+босьтасьны
+
+* **LEXICON Verb-nyDer-ONSET-JA** Derivation onset	in vowel
+босьтасьны
+
+verb-to-noun
+
+* **LEXICON VerbDer** 
+FIX THIS 2015-09-06
+
+* **LEXICON VerbDer_KYJNY**
+* **:й VerbDer-ONSET_OE ;**
+* **:й VerbDer-ONSET_JA ;** 
+* **:й VerbDer-ONSET_JI ;**
+
+* **LEXICON VerbDer_KUTNY**
+* **VerbDer-ONSET_OE ;**
+* **VerbDer-ONSET_A ;** 
+* **VerbDer-ONSET_JI ;**
+
+* **LEXICON VerbDer_ARTASJNY**
+* **: VerbDer-ONSET_OE ;**
+* **: VerbDer-ONSET_JA ;** 
+* **: VerbDer-ONSET_JI ;**
+
+* **LEXICON VerbDer-ONSET_OE** 
+* **+Der/ісь+ActPrsPtc:%>%{иі%}сь N_ ;** kpv ысь
+
+* **LEXICON VerbDer-ONSET_JI** 
+
+* **LEXICON VerbDer-ONSET_A** 
+
+* **LEXICON VerbDer-ONSET_JA** 
+
+вевттьысьыны
+
+бертласьны
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/verbs.lexc)</small>
 
 ---
 
@@ -436,532 +852,6 @@ Vowel Palatalisation
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-koi/blob/main/src/fst/phonology.twolc)</small>
-
----
-
-Nouns
-Nouns in the Komi Permyak language are things.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/nouns.lexc)</small>
-
----
-
-This is where new words from kpv are initially shown
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/adjectives_newwords.lexc)</small>
-
----
-
-This is where new words from kpv are initially shown
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/pronouns_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/pronouns_newwords.lexc)</small>
-
----
-
-Pronouns
-Pronouns in KOMI PERMYAK language are references to things.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/pronouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/pronouns.lexc)</small>
-
----
-
-Numerals
-Numerals in the KOMI-PERMYAK language are numbers.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/numerals.lexc)</small>
-
----
-
-This is where new words from kpv are initially shown
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/numerals_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/numerals_newwords.lexc)</small>
-
----
-
-Adjectives
-Adjectives in Komi-Permyak language describe things.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/adjectives.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/adjectives.lexc)</small>
-
----
-
-This is where new words from kpv are initially shown
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/adverbs_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/adverbs_newwords.lexc)</small>
-
----
-
-This is where new words from kpv are initially shown
-
-These are koi verbs
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/verbs_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/verbs_newwords.lexc)</small>
-
----
-
-This is where new words from kpv are initially shown
-
-2016-07-14
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
-
----
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-Абъячой+N+Prop+Sem/Plc:Абъячой PROP_ "(eng) fish/(fin) /(rus)" ;
-
-ADD NOUNS BELOW
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/kom-rus-propernouns_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/kom-rus-propernouns_newwords.lexc)</small>
-
----
-
-
-# Noun morphological lexica !
-
-* **LEXICON Vocative**
-
-* **LEXICON Noun1-IS_PTC-OM** is to provide deverbal nouns with +Der/ӧм tags
-
-* **LEXICON Noun1-IS_PTC-AN**
-
-* **LEXICON Noun1-IS_PTC-YSJ**
-
-Basic nouns.
-
-The lexicon for basic nouns is N_ 
-
-This should be phased out 2013-05-07
-
-subsequent Cns vs Vow
-* LEXICON N_PARAGOGIC-V/L  ныв:ны нылыс
-
-* LEXICON N_PARAGOGIC-J  ав:ав авйыс
-
-* LEXICON N_PARAGOGIC-K  кытш:кытш кытшкыс
-
-* LEXICON N_PARAGOGIC-M  зон:зон зонмыс
-
-* LEXICON N_PARAGOGIC-T  зеп:зеп зептыс
-
-* LEXICON N_END-IN-J  абай:аба абайыс
-
-* LEXICON N_END-IN-ДДЬ  автомобиль:автомобил автомобильыс
-* +Pl:%>%^1Cnsэз CASEPOSSLEX ;  2015-09-04 change to ь%>яс after xfst rules are removed
-
-* LEXICON N_END-IN-ДДЗ  автомобиль:автомобил автомобильыс
-
-* LEXICON N_END-IN-ЛЛЬ  моль:мол молльӧ
-2015-09-04 change to ь%>яс after xfst rules are removed
-
-* LEXICON N_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
-* LEXICON NMN_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
-
-## Inflectional lexica 
-
-All nouns follow one contlex "N_"
-to begin with here is simply a list of all variant
-with no more variants beyond:
-
-* **LEXICON CASEPOSSLEX**
-
-SG1
-
-SG2
-
-SG3
-
-PL1
-
-PL2
-PL3
-
-SG1
-SG2
-SG3
-PL1
-PL2
-PL3
-
-SG1
-SG2
-SG3
-PL1
-PL2
-PL3
-
-SG1
-
-SG2
-
-SG3
-
-PL1
-
-PL2
-PL3
-
-## Case followed by possible clitic
-
-## Case followed by word end
-
-+Der/A+Adv:%>а K ;
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/nouns.lexc)</small>
-
----
-
-# Postposition inflection
-----
-
-Komi postpositions inflect for direction.
-
-Prep lexica
-
-Russian на
-
-Postp lexica 
-
-This contlex allows for relational word which, otherwise, are open 
-to extensive declension
-
-* **LEXICON POSTP1  **
-these are: 
-
-аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
-кузя, ног, ньылыд, паныдӧн, пӧлӧн, пыдди, пыр, понда, 
-ради, уліті, выліті, вывті, вомас, вомӧн
-пӧвст
-
-* **LEXICON PO-SPAT_  **
-these are: 
-
-аддза, бӧрті, бокиті, боксянь, дырйи, йитӧдын, 
-кузя, ног, ньылыд, паныдӧн, пӧлӧн, пыдди, пыр, понда, 
-ради, уліті, выліті, вывті, вомас, вомӧн
-пӧвст
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/adpositions.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/adpositions.lexc)</small>
-
----
-
-# Particles
-----
-Komi Particles
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/particles.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/particles.lexc)</small>
-
----
-
-# Adverb inflection
-----
-Komi adverbs inflect for direction.
-
-* **LEXICON ADV-SPAT  **
-these are adverbs in spatial cases
-and they probably are equivalent in morphology to postpositions
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/adverbs.lexc)</small>
-
----
-
-# Pronominal morphology                           
-
-## Closed class personal pronouns
-
-* **LEXICON PERS** 
-* **ме+Pron+Pers+Sg1:ме perssg1decl ;** ...
-
-* **ачым+Pron+Refl+Sg1:а REFLSG1DECL ;** ...
-
-* **LEXICON perssg1decl** 
-
-* **LEXICON perspl1decl**
-
-* **LEXICON perssg2decl**
-
-* **LEXICON perspl2decl** 
-
-* **LEXICON perssg3decl** 
-
-ми мийӧ The 1st and 2nd persons have Oblique case stem strategies
-that differ from the 3rd person: 
-ті тійӧ nämä ovat aivan eri asioita?
-сы сійӧ tosin joskus 
-
-* **LEXICON perspl3decl**
-
-* **LEXICON perssg**
-
-* **LEXICON persplobl**
-
-Tagged in the src/morphology/stems/pronouns.xml file
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/pronouns.lexc)</small>
-
----
-
-# Conjunctors
-----
-Komi conjunctors
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/conjunctors.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/conjunctors.lexc)</small>
-
----
-
-
-
-# Numeral morphological lexica 
-
-LEXICON NUM-APPR ! 2011-11-03 This will need work
-
-## Inflectional lexica 
-
-All nouns follow one contlex "Noun1"
-to begin with here is simply a list of all variant
-with no more variants beyond:
-
-## Arabic numerals
-
-* **LEXICON ARABIC          ** 
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/numerals.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/numerals.lexc)</small>
-
----
-
-Proper noun inflection
-
-Komi proper nouns inflect in the same cases as regular
-nouns.
-
-Russian type Surnames 
-
-Preparing for the template urj-Cyrl
-Beginning 2012-11-15
-
-* :2 PropSur-kal ;  These are foreign Л words
-
-Абдеев:Абдеев
-
-Багрий:Багр
-
-Аморский:Аморск
-
-These are vowel-final stems
-They have previously received +Sem/Fem tags
-
-Should this be limited to +Sg? 2015-09-06
-
-Вили:Вил
-
-Андрей:Андре
-
-Ending 2012-11-15
-
-FEMALE NAMES FROM TEMPLATE
-
-* **@U.Cap.Opt@+Sem/Plc+EOLang/KPV+Der+Der/LocMod:@U.Cap.Opt@%>са A_ ; ** This requires down-casing
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/propernouns.lexc)</small>
-
----
-
-# Adjective inflection
-----
-Komi (Permyak) adjectives compare.
-
-Continuation lexicon has been assigned according to <pos/> content
-
-* LEXICON A_PARAGOGIC-В/Л  юмов:юмо юмолӧсь
-Singular predicative 
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/adjectives.lexc)</small>
-
----
-
-Prefixes
-Prefixes in the Komi-Permyak language are bound to the beginning of other words.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/prefixes.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/prefixes.lexc)</small>
-
----
-
-
-
-# Verbal morphology               
-
-## Closed class verbs
-
-## Open class verbs
-
-Some Flag diacritic lines are with regexes, other with aligned zeros. We want to migrate to
-regexes < … > , for readability reasons (sic!)
-
-* **LEXICON V_LOKNY** One verb only, локны:лок
-
-Begin work with TV and IV
-
-* **LEXICON VR_SHUNY** 
-
-* **LEXICON V_SHUNY** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
-
-* **LEXICON V_JUAYSHNY** is there ш : шт gradation
-
-* **LEXICON V_AMNY** амны:ам Ending in -мны, -жны, -дзны,
-
-* **LEXICON V_KYJNY** кыйны:кый Ending in -йны, 
-
-* **LEXICON V_CHILOESNY** is there s : st alternation 2018-09-01
-
-* **LEXICON V_KUTNY** шуны:шу янӧдны, контролируйтны. Ending in -дны, -тны, -Cны, -Vны.
-
-* **LEXICON V_NUAVNY** нуавны:нуа
-Consonant-onset
-
-* **LEXICON V_ARTASJNY** артасьны:артас -Cны.
-
-* **LEXICON VR_LYDDJYNY** 
-
-* **LEXICON V_LYDDJYNY** лыддьыны:лыддьы ! ярмыны. Multiple-syllable verb ending in -ыны.
-
-* **LEXICON V_VOLYNY** волыны:волы ! ярмыны. Multiple-syllable verb ending in -ыны.
-
-## Verb conjugation 
-
-* **LEXICON VerbConj-V**  суф б -- ы 
-
-* **LEXICON VerbConj** суф а
-
-* **LEXICON VerbConj_KYJNY** суф а
-
-* **LEXICON VerbConj_AMNY** суф а
-
-* **LEXICON VerbConj_KUTNY** суф а
-
-* **LEXICON Finiteforms** Gives linking vowels for 3 tenses
-
-* **LEXICON Finiteforms_KYJNY** Gives linking vowels for 3 tenses
-
-* **LEXICON Finiteforms_AMNY** Gives linking vowels for 3 tenses
-
-* **LEXICON Finiteforms_KUTNY** Gives linking vowels for 3 tenses
-
-* **@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@+Imprt+Pl2:@U.CONJ-MX.IMP@@U.CONJ-NX.PL@@U.CONJ-PX.2@%>ӧ VerbEnd ;** kpv -ӧй
-
-Differs from kpv 2016-09-15
-
-## Derivation
-
-* **LEXICON Verb-nyDer** 
-
-* **LEXICON Verb-nyDer-ONSET-CONS** Derivation onset in consonant
-verb-to-verb
-
-This is fed by LEXICON V_SHUNY, and therefore certain corrections
-must be made 2012-01-18
-
-овсьыны
-пусьыштлывлыны
-босьтчыштлывлыны
-
-* **LEXICON Verb-nyDer-ONSET-VOW** Derivation onset	in vowel
-
-* **LEXICON Verb-nyDer-ONSET-Y** Derivation onset	in vowel
-
-* **LEXICON Verb-nyDer-ONSET-A** Derivation onset	in vowel
-босьтасьны
-
-* **LEXICON Verb-nyDer-ONSET-JA** Derivation onset	in vowel
-босьтасьны
-
-verb-to-noun
-
-* **LEXICON VerbDer** 
-FIX THIS 2015-09-06
-
-* **LEXICON VerbDer_KYJNY**
-* **:й VerbDer-ONSET_OE ;**
-* **:й VerbDer-ONSET_JA ;** 
-* **:й VerbDer-ONSET_JI ;**
-
-* **LEXICON VerbDer_KUTNY**
-* **VerbDer-ONSET_OE ;**
-* **VerbDer-ONSET_A ;** 
-* **VerbDer-ONSET_JI ;**
-
-* **LEXICON VerbDer_ARTASJNY**
-* **: VerbDer-ONSET_OE ;**
-* **: VerbDer-ONSET_JA ;** 
-* **: VerbDer-ONSET_JI ;**
-
-* **LEXICON VerbDer-ONSET_OE** 
-* **+Der/ісь+ActPrsPtc:%>%{иі%}сь N_ ;** kpv ысь
-
-* **LEXICON VerbDer-ONSET_JI** 
-
-* **LEXICON VerbDer-ONSET_A** 
-
-* **LEXICON VerbDer-ONSET_JA** 
-
-вевттьысьыны
-
-бертласьны
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/verbs.lexc)</small>
-
----
-
-
-# Symbol affixes
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/symbols.lexc)</small>
 
 ---
 
@@ -1326,6 +1216,106 @@ Incoming for conversion from kpv
 
 ---
 
+Adjectives
+Adjectives in Komi-Permyak language describe things.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/adjectives.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/adjectives.lexc)</small>
+
+---
+
+This is where new words from kpv are initially shown
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/adjectives_newwords.lexc)</small>
+
+---
+
+This is where new words from kpv are initially shown
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/adverbs_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/adverbs_newwords.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+Абъячой+N+Prop+Sem/Plc:Абъячой PROP_ "(eng) fish/(fin) /(rus)" ;
+
+ADD NOUNS BELOW
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/kom-rus-propernouns_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/kom-rus-propernouns_newwords.lexc)</small>
+
+---
+
+Nouns
+Nouns in the Komi Permyak language are things.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/nouns.lexc)</small>
+
+---
+
+This is where new words from kpv are initially shown
+
+2016-07-14
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
+
+---
+
+Numerals
+Numerals in the KOMI-PERMYAK language are numbers.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/numerals.lexc)</small>
+
+---
+
+This is where new words from kpv are initially shown
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/numerals_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/numerals_newwords.lexc)</small>
+
+---
+
+Pronouns
+Pronouns in KOMI PERMYAK language are references to things.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/pronouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/pronouns.lexc)</small>
+
+---
+
+This is where new words from kpv are initially shown
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/pronouns_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/pronouns_newwords.lexc)</small>
+
+---
+
+This is where new words from kpv are initially shown
+
+These are koi verbs
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/verbs_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/verbs_newwords.lexc)</small>
+
+---
+
 
 
 retroflex plosive, voiceless			t`  ʈ	    0288, 648 (` = ASCII 096)
@@ -1551,7 +1541,6 @@ CLB
 LEFT
 RIGHT
 WEB
-QMARK
 PPUNCT
 PUNCT
 
@@ -1665,9 +1654,6 @@ Sem/Txt
 
 HUMAN
 
-HAB-ACTOR
-HAB-ACTOR-NOT-HUMAN
-
 PROP-ATTR
 PROP-SUR
 
@@ -1756,8 +1742,6 @@ INITIAL
 ### Sets for word or not
 
 WORD
-REAL-WORD
-REAL-WORD-NOT-ABBR
 NOT-COMMA
 
 ### Case sets
@@ -1816,75 +1800,7 @@ expression **WORD - premodifiers**.
 ### Grammarchecker sets
 
 * * *
-
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-koi/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
-
----
-
-# Grammar checker tokenisation for koi
-
-Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
-Then just:
-```
-$ make
-$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-More usage examples:
-```
-$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
-
-Characters which have analyses in the lexicon, but can appear without spaces
-before/after, that is, with no context conditions, and adjacent to words:
-* Punct contains ASCII punctuation marks
-* The symbol after m-dash is soft-hyphen `U+00AD`
-* The symbol following {•} is byte-order-mark / zero-width no-break space
-`U+FEFF`.
-
-Whitespace contains ASCII white space and
-the List contains some unicode white space characters
-* En Quad U+2000 to Zero-Width Joiner U+200d'
-* Narrow No-Break Space U+202F
-* Medium Mathematical Space U+205F
-* Word joiner U+2060
-
-Apart from what's in our morphology, there are
-1) unknown word-like forms, and
-2) unmatched strings
-We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
-* select extended latin symbols
-* select symbols
-* various symbols from Private area (probably Microsoft),
-so far:
-* U+F0B7 for "x in box"
-
-TODO: Could use something like this, but built-in's don't include šžđčŋ:
-
-Simply give an empty reading when something is unknown:
-hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
-remove empty analyses from other readings. Empty readings are also
-legal in CG, they get a default baseform equal to the wordform, but
-no tag to check, so it's safer to let hfst-tokenise handle them.
-
-Finally we mark as a token any sequence making up a:
-* known word in context
-* unknown (OOV) token in context
-* sequence of word and punctuation
-* URL in context
-
-* * *
-
-<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-koi/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
-
----
-
-# Tokeniser for koi
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-koi/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small># Tokeniser for koi
 
 Usage:
 ```
@@ -1896,7 +1812,7 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 ```
 
 Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
+<https://github.com/hfst/hfst/wiki/HfstPmatch>
 
 Characters which have analyses in the lexicon, but can appear without spaces
 before/after, that is, with no context conditions, and adjacent to words:
@@ -1947,6 +1863,69 @@ Finally we mark as a token any sequence making up a:
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-koi/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
+
+---
+
+# Grammar checker tokenisation for koi
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+Then just:
+```
+$ make
+$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+More usage examples:
+```
+$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+Pmatch documentation:
+<https://github.com/hfst/hfst/wiki/HfstPmatch>
+
+Characters which have analyses in the lexicon, but can appear without spaces
+before/after, that is, with no context conditions, and adjacent to words:
+* Punct contains ASCII punctuation marks
+* The symbol after m-dash is soft-hyphen `U+00AD`
+* The symbol following {•} is byte-order-mark / zero-width no-break space
+`U+FEFF`.
+
+Whitespace contains ASCII white space and
+the List contains some unicode white space characters
+* En Quad U+2000 to Zero-Width Joiner U+200d'
+* Narrow No-Break Space U+202F
+* Medium Mathematical Space U+205F
+* Word joiner U+2060
+
+Apart from what's in our morphology, there are
+1) unknown word-like forms, and
+2) unmatched strings
+We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
+* select extended latin symbols
+* select symbols
+* various symbols from Private area (probably Microsoft),
+so far:
+* U+F0B7 for "x in box"
+
+TODO: Could use something like this, but built-in's don't include šžđčŋ:
+
+Simply give an empty reading when something is unknown:
+hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
+remove empty analyses from other readings. Empty readings are also
+legal in CG, they get a default baseform equal to the wordform, but
+no tag to check, so it's safer to let hfst-tokenise handle them.
+
+Finally we mark as a token any sequence making up a:
+* known word in context
+* unknown (OOV) token in context
+* sequence of word and punctuation
+* URL in context
+
+* * *
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-koi/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
 
 ---
 
