@@ -717,10 +717,10 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-k
 *  %>  morpheme boundary
 * hash # word boundary
 *  %-  
- »7      * »
- «7      * «
- %[%>%]  * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
- %[%<%]  * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
+* »
+* «
+* > (escaped with square brackets, to avoid collision with > as morpheme boundary)
+* < (escaped with square brackets, to avoid collision with < as morpheme boundary)
 
 Diacritics
 
