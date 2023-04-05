@@ -103,6 +103,30 @@ Citing
 
 <!-- Add language specific citation stuff here and to the CITATION.cff -->
 
+> Jack Rueter, Niko Partanen, and Larisa Ponomareva. 2020.
+  On the questions in developing computational infrastructure
+  for Komi-Permyak. In Proceedings of the Sixth International
+  Workshop on Computational Linguistics of Uralic Languages,
+  pages 15–25, Wien, Austria. Association for Computational Linguistics.
+
+```bibtex
+@inproceedings{rueter-etal-2020-questions,
+    title = "On the questions in developing computational infrastructure for {K}omi-Permyak",
+    author = "Rueter, Jack  and
+      Partanen, Niko  and
+      Ponomareva, Larisa",
+    booktitle = "Proceedings of the Sixth International Workshop on Computational Linguistics of {U}ralic Languages",
+    month = jan,
+    year = "2020",
+    address = "Wien, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.iwclul-1.3",
+    doi = "10.18653/v1/2020.iwclul-1.3",
+    pages = "15--25",
+}
+
+```
+
 If you use language data from more than one GiellaLT language, consider citing
 [our LREC 2022 article on whole
 infra](https://aclanthology.org/2022.lrec-1.125/):
