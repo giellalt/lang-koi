@@ -13,6 +13,8 @@ LEXICON PRONOUN-TYPES
 мӧдік+Pron+Indef:мӧдік NMN_ ;
 ӧтик+Pron+Indef:ӧтик NMN_ ;
 ӧтамӧд+Pron+Recipr:ӧтамӧд NMN_ ;
+этія+Pron+Dem:эт perssg3decl ;
+этӧ+Pron+Dem+Sg+Nom:этӧ K ;
 
 LEXICON PERS                        !!≈ * **@CODE@** 
 ме+Pron+Pers+Sg1:ме perssg1decl ;    !!≈ * **@CODE@** ...

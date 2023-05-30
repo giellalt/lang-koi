@@ -2572,6 +2572,14 @@ LEXICON ADV_NEWWORDS
 ежели+Adv:ежели ADV_ ;
 видно+Adv:видно ADV_ ;
 
+молодцеватӧя+Adv:молодцеватӧя ADV_ ;
+безнадёжнӧя+Adv:безнадёжнӧя ADV_ ;
+решительно+Adv:решительно ADV_ ;
+спокойно+Adv:спокойно ADV_ ;
+известно+Adv:известно ADV_ ;
+можот+Adv:можот ADV_ ;
+
+
 сыбӧрын+Adv:сыбӧрын ADV-TEMP_ ;
 
 ! vim: set ft=xfst-lexc:
