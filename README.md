@@ -1,6 +1,7 @@
 The Komi-Permyak morphology and tools
 ==========================================
 
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-koi%2Fgh-pages%2Flemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-koi)](https://github.com/giellalt/lang-koi/issues)
 [![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-koi/main/badge.svg)](https://github.com/giellalt/lang-koi/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-koi)](https://github.com/giellalt/lang-koi/blob/main/LICENSE)
