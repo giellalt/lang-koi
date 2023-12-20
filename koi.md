@@ -576,7 +576,7 @@ FEMALE NAMES FROM TEMPLATE
 Some Flag diacritic lines are with regexes, other with aligned zeros. We want to migrate to
 regexes < … > , for readability reasons (sic!)
 
-* **LEXICON V_LOKNY** One verb only, локны:лок
+* **LEXICON V_LOKNY** One verb only, локны:лок U9 — глагол локны
 
 Begin work with TV and IV
 
@@ -1030,7 +1030,7 @@ The Usage extents are marked using following tags:
 
 Where do these come from source
 * **+Src/F** foreign source apparently 2015-09-08
-* **+Dim** diminutive
+* **+Dim** diminutive,  words that are already -ok dimin
 
 * **+Sem/Act** Activity
 * **+Sem/Amount** Amount

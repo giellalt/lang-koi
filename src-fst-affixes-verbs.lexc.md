@@ -9,7 +9,7 @@
 Some Flag diacritic lines are with regexes, other with aligned zeros. We want to migrate to
 regexes < … > , for readability reasons (sic!)
 
-* **LEXICON V_LOKNY** One verb only, локны:лок
+* **LEXICON V_LOKNY** One verb only, локны:лок U9 — глагол локны
 
 Begin work with TV and IV
 
