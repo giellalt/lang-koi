@@ -173,7 +173,6 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 +Der/Dimin
 
 
-
 +Cmpl !! this will be used for marking complement forms such as кыкнан in collective numerals, сы , which can only appear with a following NP. DO WE NEED THIS 2019-10-22? jaska Niko
 
 
@@ -280,7 +279,8 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 !! Where do these come from source
 +Src/F         !!≈ * **@CODE@** foreign source apparently 2015-09-08
-+Dim         !!≈ * **@CODE@** diminutive
++Dim         !!≈ * **@CODE@** diminutive,  words that are already -ok dimin
+
 
 
 ! Semantic tags to help disambiguation & synt. analysis: (before POS)

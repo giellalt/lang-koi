@@ -54,6 +54,26 @@ LEXICON N-INAN_
 LEXICON N_   
 +Der/Ок+Der/Dimin+N:%>ок NMN_ ;
 : NMN_ ;
+LEXICON N_ok   
++Dim: NMN_ ;
+
+LEXICON N_err/orth
++Err/Orth: NMN_ ;
+
+LEXICON N_voc
++Voc: # ;
+LEXICON N_2 !Komi ethnic name
+: NMN_ ;
+LEXICON N_2R1O6 !ethnic name, Nearly Russian Plus?
+: NMN_ ;
+LEXICON N2R1_ !ethnic name, Nearly Russian
+: NMN_ ;
+LEXICON N2R2_ !ethnic name, Russian made Komi-like
+: NMN_ ;
+LEXICON N1R2_ ! made Komi-like
+: NMN_ ;
+LEXICON N_dial !
+: NMN_ ;
 
 LEXICON Noun1 !! This should be phased out 2013-05-07
  N_ ;
