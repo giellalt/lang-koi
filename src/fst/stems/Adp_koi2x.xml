@@ -297,8 +297,7 @@
    <lg>
      <l pos="Adp">бердланьӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-APRILL">бердлань</st>
-       <st Contlex="PO-SPAT-APRILL" geo="иньв.">бердвань</st>
+       <st Contlex="PO_APRILL">берд</st>
      </stg>
    </lg>
      <sources>
@@ -743,7 +742,7 @@
    <lg>
      <l pos="Adp">бердын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">берд</st>
+       <st Contlex="PO_INE">берд</st>
      </stg>
    </lg>
      <sources>
@@ -792,7 +791,7 @@
    <lg>
      <l pos="Adp">бердӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">берд</st>
+       <st Contlex="PO_ILL">берд</st>
      </stg>
    </lg>
      <sources>
@@ -1011,7 +1010,7 @@
    <lg>
      <l pos="Adp">бердӧт</l>
      <stg>
-       <st Contlex="ADP_">бердӧт</st>
+       <st Contlex="PO_PRL">берд</st>
      </stg>
    </lg>
      <sources>
@@ -1410,8 +1409,7 @@
    <lg>
      <l pos="Adp">боклань</l>
      <stg>
-       <st Contlex="ADP_">боклань</st>
-       <st Contlex="ADP_" geo="иньв.">боквань</st>
+       <st Contlex="PO_APR">бок</st>
      </stg>
    </lg>
      <sources>
@@ -1868,7 +1866,7 @@
    <lg>
      <l pos="Adp">бокын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">бок</st>
+       <st Contlex="PO_INE">бок</st>
      </stg>
    </lg>
      <sources>
@@ -1911,7 +1909,7 @@
    <lg>
      <l pos="Adp">бокӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">бок</st>
+       <st Contlex="PO_ILL">бок</st>
      </stg>
    </lg>
      <sources>
@@ -3244,7 +3242,7 @@
    <lg>
      <l pos="Adp">бӧрті</l>
      <stg>
-       <st Contlex="ADP_">бӧрті</st>
+       <st Contlex="PO-TRA">бӧр</st>
      </stg>
    </lg>
      <sources>
@@ -3275,7 +3273,7 @@
    <lg>
      <l pos="Adp">бӧрын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">бӧр</st>
+       <st Contlex="PO_INE">бӧр</st>
      </stg>
    </lg>
      <sources>
@@ -3338,7 +3336,7 @@
    <lg>
      <l pos="Adp">бӧрӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">бӧр</st>
+       <st Contlex="PO_ILL">бӧр</st>
      </stg>
    </lg>
      <sources>
@@ -3538,7 +3536,7 @@
    <lg>
      <l pos="Adp">бӧрӧт</l>
      <stg>
-       <st Contlex="ADP_">бӧрӧт</st>
+       <st Contlex="PO_PRL">бӧр</st>
      </stg>
    </lg>
      <sources>
@@ -4225,7 +4223,7 @@
    <lg>
      <l pos="Adp">вевдӧрын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">вевдӧр</st>
+       <st Contlex="PO_INE">вевдӧр</st>
      </stg>
    </lg>
      <sources>
@@ -4268,7 +4266,7 @@
    <lg>
      <l pos="Adp">вевдӧрӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">вевдӧр</st>
+       <st Contlex="PO_ILL">вевдӧр</st>
      </stg>
    </lg>
      <sources>
@@ -4333,7 +4331,7 @@
    <lg>
      <l pos="Adp">вевдӧрӧт</l>
      <stg>
-       <st Contlex="ADP_">вевдӧрӧт</st>
+       <st Contlex="PO_PRL">вевдӧр</st>
      </stg>
    </lg>
      <sources>
@@ -4609,7 +4607,7 @@
    <lg>
      <l pos="Adp">весьтын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">весьт</st>
+       <st Contlex="PO_INE">весьт</st>
      </stg>
    </lg>
      <sources>
@@ -4651,7 +4649,7 @@
    <lg>
      <l pos="Adp">весьтӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">весьт</st>
+       <st Contlex="PO_ILL">весьт</st>
      </stg>
    </lg>
      <sources>
@@ -4840,7 +4838,7 @@
    <lg>
      <l pos="Adp">весьтӧт</l>
      <stg>
-       <st Contlex="ADP_">весьтӧт</st>
+       <st Contlex="PO_PRL">весьт</st>
      </stg>
    </lg>
      <sources>
@@ -5723,7 +5721,7 @@
    <lg>
      <l hid="Hom2" pos="Adp">вылын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">выл</st>
+       <st Contlex="PO_INE">выл</st>
      </stg>
    </lg>
      <sources>
@@ -5816,9 +5814,9 @@
    <lg>
      <l pos="Adp">вылӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">выл</st>
-       <st Contlex="PO-SPAT-ILL" geo="иньв.">выв</st>
-       <st Contlex="PO-SPAT-ILL" geo="иньв.">вы</st>
+       <st Contlex="PO_ILL">выл</st>
+       <st Contlex="PO_ILL" geo="иньв.">выв</st>
+       <st Contlex="PO_ILL" geo="иньв.">вы</st>
      </stg>
    </lg>
      <sources>
@@ -6074,7 +6072,7 @@
    <lg>
      <l pos="Adp">вылӧт</l>
      <stg>
-       <st Contlex="ADP_">вылӧт</st>
+       <st Contlex="PO_PRL">выл</st>
        <st Contlex="ADP_" geo="иньв.">вывӧть</st>
        <st Contlex="ADP_" geo="иньв.">выӧть</st>
      </stg>
@@ -6708,7 +6706,7 @@
    <lg>
      <l pos="Adp">гӧгӧрӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">гӧгӧр</st>
+       <st Contlex="PO_ILL">гӧгӧр</st>
      </stg>
    </lg>
      <sources>
@@ -6779,7 +6777,7 @@
    <lg>
      <l pos="Adp">гӧгӧрӧт</l>
      <stg>
-       <st Contlex="ADP_">гӧгӧрӧт</st>
+       <st Contlex="PO_PRL">гӧгӧр</st>
      </stg>
    </lg>
      <sources>
@@ -7250,8 +7248,7 @@
    <lg>
      <l pos="Adp">дорланьӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-APRILL">дорлань</st>
-       <st Contlex="PO-SPAT-APRILL" geo="иньв.">дорвань</st>
+       <st Contlex="PO_APRILL">дор</st>
      </stg>
    </lg>
      <sources>
@@ -7623,7 +7620,7 @@
    <lg>
      <l pos="Adp">дорын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">дор</st>
+       <st Contlex="PO_INE">дор</st>
      </stg>
    </lg>
      <sources>
@@ -7659,7 +7656,7 @@
    <lg>
      <l pos="Adp">дорӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">дор</st>
+       <st Contlex="PO_ILL">дор</st>
      </stg>
    </lg>
      <sources>
@@ -7866,7 +7863,7 @@
    <lg>
      <l pos="Adp">дорӧт</l>
      <stg>
-       <st Contlex="ADP_">дорӧт</st>
+       <st Contlex="PO_PRL">дор</st>
      </stg>
    </lg>
      <sources>
@@ -8713,7 +8710,7 @@
    <lg>
      <l pos="Adp">дынын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">дын</st>
+       <st Contlex="PO_INE">дын</st>
      </stg>
    </lg>
      <sources>
@@ -8751,7 +8748,7 @@
    <lg>
      <l pos="Adp">дынӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">дын</st>
+       <st Contlex="PO_ILL">дын</st>
      </stg>
    </lg>
      <sources>
@@ -9298,7 +9295,7 @@
    <lg>
      <l pos="Adp">кежӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">кеж</st>
+       <st Contlex="PO_ILL">кеж</st>
      </stg>
    </lg>
      <sources>
@@ -9562,7 +9559,7 @@
    <lg>
      <l pos="Adp">коласын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">колас</st>
+       <st Contlex="PO_INE">колас</st>
      </stg>
    </lg>
      <sources>
@@ -9629,7 +9626,7 @@
    <lg>
      <l pos="Adp">коласӧт</l>
      <stg>
-       <st Contlex="ADP_">коласӧт</st>
+       <st Contlex="PO_PRL">колас</st>
      </stg>
    </lg>
      <sources>
@@ -10479,7 +10476,7 @@
    <lg>
      <l pos="Adp">одзті</l>
      <stg>
-       <st Contlex="ADP_">одзті</st>
+       <st Contlex="PO-TRA">одз</st>
      </stg>
    </lg>
      <sources>
@@ -10508,7 +10505,7 @@
    <lg>
      <l pos="Adp">одзын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">одз</st>
+       <st Contlex="PO_INE">одз</st>
      </stg>
    </lg>
      <sources>
@@ -10551,7 +10548,7 @@
    <lg>
      <l pos="Adp">одзӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">одз</st>
+       <st Contlex="PO_ILL">одз</st>
      </stg>
    </lg>
      <sources>
@@ -10666,7 +10663,7 @@
    <lg>
      <l pos="Adp">одзӧт</l>
      <stg>
-       <st Contlex="ADP_">одзӧт</st>
+       <st Contlex="PO_PRL">одз</st>
      </stg>
    </lg>
      <sources>
@@ -11734,7 +11731,7 @@
    <lg>
      <l pos="Adp">понын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">пон</st>
+       <st Contlex="PO_INE">пон</st>
      </stg>
    </lg>
      <sources>
@@ -11799,7 +11796,7 @@
    <lg>
      <l pos="Adp">понӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">пон</st>
+       <st Contlex="PO_ILL">пон</st>
      </stg>
    </lg>
      <sources>
@@ -11849,7 +11846,7 @@
    <lg>
      <l pos="Adp">понӧт</l>
      <stg>
-       <st Contlex="ADP_">понӧт</st>
+       <st Contlex="PO_PRL">пон</st>
      </stg>
    </lg>
      <sources>
@@ -11963,7 +11960,7 @@
    <lg>
      <l pos="Adp">пырйӧт</l>
      <stg>
-       <st Contlex="ADP_">пырйӧт</st>
+       <st Contlex="PO_PRL">пырй</st>
      </stg>
    </lg>
      <sources>
@@ -12224,7 +12221,7 @@
    <lg>
      <l pos="Adp">пытшкӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">пытшк</st>
+       <st Contlex="PO_ILL">пытшк</st>
      </stg>
    </lg>
      <sources>
@@ -12268,9 +12265,9 @@
    <lg>
      <l pos="Adp">пӧлӧн</l>
      <stg>
-       <st Contlex="ADP_">пӧлӧн</st>
-       <st Contlex="ADP_" geo="иньв.">пӧӧн</st>
-       <st Contlex="ADP_" geo="иньв.">пӧвӧн</st>
+       <st Contlex="PO_INS">пӧл</st>
+       <st Contlex="PO_INS" geo="иньв.">пӧ</st>
+       <st Contlex="PO_INS" geo="иньв.">пӧв</st>
      </stg>
    </lg>
      <sources>
@@ -12295,9 +12292,9 @@
    <lg>
      <l pos="Adp">пӧлӧт</l>
      <stg>
-       <st Contlex="ADP_">пӧлӧт</st>
-       <st Contlex="ADP_" geo="иньв.">пӧӧт</st>
-       <st Contlex="ADP_" geo="иньв.">пӧвӧт</st>
+       <st Contlex="PO_PRL">пӧл</st>
+       <st Contlex="PO_PRL" geo="иньв.">пӧ</st>
+       <st Contlex="PO_PRL" geo="иньв.">пӧв</st>
        <st Contlex="ADP_" geo="иньв.">пӧвӧть</st>
      </stg>
    </lg>
@@ -12639,8 +12636,8 @@
        <t>оттуда, с той стороны</t>
      </tg>
      <xg>
-       <x>сайсяняс пырӧ</x>
-       <xt xml:lang="rus">! заходите с той стороны!</xt>
+       <x>сайсяняс пырӧ!</x>
+       <xt xml:lang="rus">заходите с той стороны!</xt>
      </xg>
      <xg>
        <x>сайсяняс ковсяс уввесӧ пилитны</x>
@@ -12688,7 +12685,7 @@
    <lg>
      <l pos="Adp">сайын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">сай</st>
+       <st Contlex="PO_INE">сай</st>
      </stg>
    </lg>
      <sources>
@@ -12906,7 +12903,7 @@
    <lg>
      <l pos="Adp">сайӧт</l>
      <stg>
-       <st Contlex="ADP_">сайӧт</st>
+       <st Contlex="PO_PRL">сай</st>
      </stg>
    </lg>
      <sources>
@@ -13370,7 +13367,7 @@
        <t pos="Adp">пристав (прилипнув) {к кому-чему-либо}</t>
      </tg>
      <xg>
-       <x>нять пырӧкок сьӧр</x>
+       <x>нять пырӧ кок сьӧр</x>
        <xt xml:lang="rus">грязь заносится на ногах</xt>
      </xg>
      <xg>
@@ -13499,7 +13496,7 @@
    <lg>
      <l pos="Adp">сьӧрті</l>
      <stg>
-       <st Contlex="ADP_">сьӧрті</st>
+       <st Contlex="PO-TRA">сьӧр</st>
      </stg>
    </lg>
      <sources>
@@ -13619,7 +13616,7 @@
    <lg>
      <l pos="Adp">туйӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">туй</st>
+       <st Contlex="PO_ILL">туй</st>
      </stg>
    </lg>
      <sources>
@@ -14187,7 +14184,7 @@
    <lg>
      <l pos="Adp">увтӧт</l>
      <stg>
-       <st Contlex="ADP_">увтӧт</st>
+       <st Contlex="PO_PRL">увт</st>
      </stg>
    </lg>
      <sources>
@@ -14551,7 +14548,7 @@
    <lg>
      <l pos="Adp">шӧрын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">шӧр</st>
+       <st Contlex="PO_INE">шӧр</st>
      </stg>
    </lg>
      <sources>
@@ -14604,7 +14601,7 @@
    <lg>
      <l pos="Adp">шӧрӧ</l>
      <stg>
-       <st Contlex="PO-SPAT-ILL">шӧр</st>
+       <st Contlex="PO_ILL">шӧр</st>
      </stg>
    </lg>
      <sources>
@@ -14613,7 +14610,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adp">посреди, на середину</t>
+       <t pos="Adp">посреди</t>
+       <t pos="Adp">на середину</t>
      </tg>
      <xg>
        <x>посёлок шӧрӧ строитісӧ виль клуб</x>
@@ -14795,7 +14793,7 @@
    <lg>
      <l pos="Adp">шӧрӧт</l>
      <stg>
-       <st Contlex="ADP_">шӧрӧт</st>
+       <st Contlex="PO_PRL">шӧр</st>
      </stg>
    </lg>
      <sources>
@@ -14823,7 +14821,7 @@
      </xg> <sg> </sg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst" order="2">
    <lg>
      <l pos="Adp">шӧрӧттям</l>
      <stg>
@@ -14844,7 +14842,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst" order="2">
    <lg>
      <l pos="Adp">шӧрӧттяным</l>
      <stg>
@@ -14876,7 +14874,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst" order="2">
    <lg>
      <l pos="Adp">шӧрӧттяныс</l>
      <stg>
@@ -14912,7 +14910,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst" order="2">
    <lg>
      <l pos="Adp">шӧрӧттяныт</l>
      <stg>
@@ -14944,7 +14942,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst" order="2">
    <lg>
      <l pos="Adp">шӧрӧттяс</l>
      <stg>
@@ -14977,7 +14975,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst" order="2">
    <lg>
      <l pos="Adp">шӧрӧттят</l>
      <stg>
@@ -15216,7 +15214,7 @@
 <e order="2">
    <lg><l pos="Adp">гӧгӧрын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">гӧгӧр</st>
+       <st Contlex="PO_INE">гӧгӧр</st>
      </stg>
    </lg>
    <mg relId="0"><pos>послелог</pos> около, вокруг, {около чего-либо}; поблизости {от чего-либо}:
@@ -15260,7 +15258,7 @@
    <lg>
      <l pos="Adp">катын</l>
      <stg>
-       <st Contlex="PO-SPAT-INE">кат</st>
+       <st Contlex="PO_INE">кат</st>
      </stg>
    </lg>
    <mg relId="0">
@@ -15623,7 +15621,7 @@
    <lg>
      <l pos="Adp">сорӧн</l>
      <stg>
-       <st Contlex="ADP_">сорӧн</st>
+       <st Contlex="PO_INS">сор</st>
      </stg>
    </lg>
    <mg relId="0"><pos>послелог</pos> [в смеси] {с чем-либо}; ва
