@@ -77,7 +77,9 @@ LEXICON V_LOKNY !!≈ * **@CODE@** One verb only, локны:лок U9 — гл�
 @U.CONJ-INF.NO@@U.CONJ-MX.IMP@@U.CONJ-NX.SG@@U.CONJ-PX.2@+Imprt+Sg2:@U.CONJ-INF.NO@@U.CONJ-MX.IMP@@U.CONJ-NX.SG@@U.CONJ-PX.2@ VerbEnd ;
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@%>т VerbDer_KUTNY ; !
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@%>т VerbDer-V ; !
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@%>ты VerbDer-V ; !CHECK Which one to prefer 2023-12-20
 :т  VerbConj_KUTNY ; !а
+
 
 !! Begin work with TV and IV
 LEXICON BV_SHUNY
@@ -682,36 +684,39 @@ LEXICON VerbDer-V
 ! Page 346 in the Komi grammar
 +Der/мысьт:%>мысьт K ; ! gerund (after the action) !353
 +Der/мысь:%>мысь K ; ! !353
-+Der/тӧдз:%>тӧдз K ;
-+v1+Der/тӧдз+Ger+PxSg1:%>тӧдззам K ;
-+v2+Der/тӧдз+Ger+PxSg1:%>тӧдззим K ;
-+v1+Der/тӧдз+Ger+PxSg2:%>тӧдззат K ;
-+v2+Der/тӧдз+Ger+PxSg2:%>тӧдззит K ;
-+v1+Der/тӧдз+Ger+PxSg3:%>тӧдззас K ;
-+v2+Der/тӧдз+Ger+PxSg3:%>тӧдззис K ;
-+v1+Der/тӧдз+Ger+PxPl1:%>тӧдззаным K ;
-+v2+Der/тӧдз+Ger+PxPl1:%>тӧдззиным K ;
-+v1+Der/тӧдз+Ger+PxPl2:%>тӧдззаныт K ;
-+v2+Der/тӧдз+Ger+PxPl2:%>тӧдззиныт K ;
-+v1+Der/тӧдз+Ger+PxPl3:%>тӧдззаныс K ;
-+v2+Der/тӧдз+Ger+PxPl3:%>тӧдззиныс K ;
-!+Der/тӧдз:%>тӧдз PossessiveSuffixes_NoSg1 ; !396
 +Der/мӧн:%>мӧн PossessiveSuffixes_NoSg1 ; !399-403
 +Der/мӧнъя:%>мӧнъя WordEnd ; !399-403
-+Der/тӧм+VAbe:%>тӧм PossessiveSuffixes ;
-+Der/тӧг+Car+Ger:%>тӧг K ;
-+Der/тӧг+Car+Ger+PxSg1:%>тӧгъям K ;
-+Der/тӧг+Car+Ger+PxSg2:%>тӧгъят K ;
-+Der/тӧг+Car+Ger+PxSg3:%>тӧгъяс K ;
-+Der/тӧг+Car+Ger+PxPl1:%>тӧгъяным K ;
-+Der/тӧг+Car+Ger+PxPl2:%>тӧгъяныт K ;
-+Der/тӧг+Car+Ger+PxPl3:%>тӧгъяныс K ;
-!+Car:%>тӧг PossessiveSuffixes_NoSg1 ; ! 390
++Der/тӧм+VAbess:%>тӧм PossessiveSuffixes ;
++VCar:%>тӧг K ;
++VCar+PxSg1:%>тӧгъям K ;
++VCar+PxSg2:%>тӧгъят K ;
++VCar+PxSg3:%>тӧгъяс K ;
++VCar+PxPl1:%>тӧгъяным K ;
++VCar+PxPl2:%>тӧгъяныт K ;
++VCar+PxPl3:%>тӧгъяныс K ;
+!+VCar:%>тӧг PossessiveSuffixes_NoSg1 ; ! 390
 
-+Car+Err/Orth:%>тӧгъя K ; !387
-+Car+Err/Orth:%>тӧга K ; !387
-+Car+Der+Der/AdvCompMod:%>тӧгмоз PossessiveSuffixes_NoSg1 ; !
++VCar+Err/Orth:%>тӧгъя K ; !387
++VCar+Err/Orth:%>тӧга K ; !387
++VCar+Der+Der/AdvCompMod:%>тӧгмоз PossessiveSuffixes_NoSg1 ; !
++VAbess:%>тӧм A_tom ; 
+ VTERI ;
 
+LEXICON VTERI
++VTer:%>тӧдз K ;
++v1+VTer+PxSg1:%>тӧдззам K ;
++v2+VTer+PxSg1:%>тӧдззим K ;
++v1+VTer+PxSg2:%>тӧдззат K ;
++v2+VTer+PxSg2:%>тӧдззит K ;
++v1+VTer+PxSg3:%>тӧдззас K ;
++v2+VTer+PxSg3:%>тӧдззис K ;
++v1+VTer+PxPl1:%>тӧдззаным K ;
++v2+VTer+PxPl1:%>тӧдззиным K ;
++v1+VTer+PxPl2:%>тӧдззаныт K ;
++v2+VTer+PxPl2:%>тӧдззиныт K ;
++v1+VTer+PxPl3:%>тӧдззаныс K ;
++v2+VTer+PxPl3:%>тӧдззиныс K ;
+!+VTer:%>тӧдз PossessiveSuffixes_NoSg1 ; !396
 
 
 ! 2012-02-11 This is a problem; олан-вӧлан, овны-вӧвны
