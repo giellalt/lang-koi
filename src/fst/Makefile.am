@@ -50,6 +50,8 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/adverbs_newwords.lexc    \
 			 stems/conjunctors.lexc         \
 			 stems/conjunctors_newwords.lexc         \
+			 stems/descriptives.lexc         \
+			 stems/koi-propernouns.lexc         \
 			 stems/kom-rus-propernouns_newwords.lexc         \
 			 stems/nouns.lexc         \
 			 stems/nouns_newwords.lexc         \
