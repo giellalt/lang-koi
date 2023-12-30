@@ -1,25 +1,36 @@
 
 LEXICON Adverbs
 adverb ADV_ ;
-ятнӧя+Adv:ятнӧя ADV_ ;
-эшӧ+Adv:эшӧ ADV_ ;
-только+Adv:только ADV_ ;
+
+бытшӧма+Adv:мед«бытшӧма ADV_IS_SUPERL ;
+вдруг+Adv:вдруг ADV_ ;
+вевдӧрись+Adv:мед«вевдӧрись ADV_IS_SUPERL_ELA ;
+вылісь+Adv:мед«вылісь ADV_IS_SUPERL_ELA ;
+вылын+Adv:мед«вылын ADV_IS_SUPERL_INE ;
+вылына+Adv:мед«вылына ADV_IS_SUPERL ;
+дыр+Adv:мед«дыр  ADV_IS_SUPERL ;
 кӧда+Adv:кӧда ADV_ ;
-паныт+Adv:паныт ADV_ ;
+кӧркӧ+Adv:кӧркӧ ADV_ ;
+медодзза+Adv:медодзза ADV_ ;
+мӧдпӧв+Adv:мӧдпӧв ADV_ ;
+некӧр+Adv:некӧр ADV_ ;
+ни+Adv:ни ADV_ ;
+одзжык+Adv:одзжык ADV_ ;
 одзлань+Adv:одзлань ADV_ ;
 одзын+Adv:одзын ADV_ ;
-
-унажык+Adv:унажык ADV_ ;
 ордчӧн+Adv:ордчӧн ADV_ ;
-некӧр+Adv:некӧр ADV_ ;
-ӧтпырись+Adv:ӧтпырись ADV_ ;
-вдруг+Adv:вдруг ADV_ ;
 ӧтмӧдӧрӧ+Adv:ӧтмӧдӧрӧ ADV_ ;
-одзжык+Adv:одзжык ADV_ ;
-медодзза+Adv:медодзза ADV_ ;
-кӧркӧ+Adv:кӧркӧ ADV_ ;
-мӧдпӧв+Adv:мӧдпӧв ADV_ ;
-ни+Adv:ни ADV_ ;
+ӧтпырись+Adv:ӧтпырись ADV_ ;
+паныт+Adv:паныт ADV_ ;
+пырся-пыр+Adv:пырся-пыр ADV_ ;
+только+Adv:только ADV_ ;
+унажык+Adv:унажык ADV_ ;
+унася-уна+Adv:унася-уна ADV_ ;
+чочкомся-чочком+Adv:чочкомся-чочком ADV_ ;
+ылісь+Adv:мед«ылісь ADV_IS_SUPERL_ELA ;
+ылӧ+Adv:мед«ылӧ ADV_IS_SUPERL_ILL ;
+эшӧ+Adv:эшӧ ADV_ ;
+ятнӧя+Adv:ятнӧя ADV_ ;
 
 
 ! vim: set ft=xfst-lexc:
