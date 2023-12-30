@@ -18,6 +18,17 @@ LEXICON ADV-MULT-DIST_
 LEXICON ADV-ORD-MULT_
 +Ord+Mult: K ;
 
+LEXICON ADV_IS_SUPERL
++Superl: K ;
++Superl+Der/моз:%>моз K ;
++Superl+Der/CompMod:%>кодь K ;
+
+LEXICON ADV_IS_SUPERL_ELA
++Superl+Ela: K ;
+LEXICON ADV_IS_SUPERL_ILL
++Superl+Ill: K ;
+LEXICON ADV_IS_SUPERL_INE
++Superl+Ine: K ;
 
 LEXICON ADV-IS_GER-IGON ! these are checked as gerunds in +Der/иг
 +V+Der/иг+Ins: ADV_ ;
