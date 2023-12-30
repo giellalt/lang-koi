@@ -83,9 +83,7 @@ PL1
 PL2
 PL3
 
-## Case followed by possible clitic
-
-## Case followed by word end
+## Case followed by possible clitic OR WORDEND
 
 +Der/A+Adv:%>а K ;
 

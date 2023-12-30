@@ -295,6 +295,8 @@ Postp lexica
 This contlex allows for relational word which, otherwise, are open 
 to extensive declension
 
+* **LEXICON PO_ **
+
 * **LEXICON POSTP1  **
 these are: 
 
@@ -426,9 +428,7 @@ PL1
 PL2
 PL3
 
-## Case followed by possible clitic
-
-## Case followed by word end
+## Case followed by possible clitic OR WORDEND
 
 +Der/A+Adv:%>а K ;
 
@@ -766,6 +766,8 @@ Paragogic consonants
 
 **jDeletion after vowel**
 
+**j to soft sign after r**
+
 **j to hard sign after consonant**
 * *кывй%>а#*
 * *кывъ%>я#*
@@ -912,6 +914,7 @@ Postpositions
 * **+Recipr**:  reciprocal
 * **+Refl**:  reflexive
 * **+Rel**:  relative
+* **+Tot**:  universal
 
 ## Quantifiers (numerals)
 Quantifiers and Numerals are classified under:

@@ -12,6 +12,8 @@ Postp lexica
 This contlex allows for relational word which, otherwise, are open 
 to extensive declension
 
+* **LEXICON PO_ **
+
 * **LEXICON POSTP1  **
 these are: 
 

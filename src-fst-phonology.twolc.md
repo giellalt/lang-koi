@@ -72,6 +72,8 @@ Paragogic consonants
 
 **jDeletion after vowel**
 
+**j to soft sign after r**
+
 **j to hard sign after consonant**
 * *кывй%>а#*
 * *кывъ%>я#*
