@@ -75,29 +75,12 @@ LEXICON NumCASEPOSSLEX
 +Der/MWN+N+Pl:%>ъяс NumMWN ;
 
 LEXICON NumMWN
-+Nom: K ;
+CASE_THEN_K ;
 !+ZeroAcc: K ; !This needs something done to it. There should be a TAG distinction
           !between +Acc: and +Acc:%>ӧс
           ! Introducing +ZeroAcc
-+Acc:%>ӧс K ;
-+Gen:%>лӧн K ;
-+Abl:%>лысь K ;
-DAT_THEN-K ;
 +Acc+PxSg3:%>сӧ K ;
-+Ins:%>ӧн K ;
-+Com:%>кӧд K ;
-+Car:%>тӧг K ;
-+Cns:%>ла K ;
-+Cmpr:%>ся K ;
-+Ine:%>ын K ;
-+Ela:%>ысь K ;
-+Ill:%>ӧ K ;
-+Apr:%>лань K ;
-+Egr:%>сянь K ;
-+Prl:%>ӧд K ;
 !+Prl+Tra:%>ӧдті K ;
-+TerI:%>ӧдз K ;
-+TerII:%>ви K ;
 !149
 
 !1SG
