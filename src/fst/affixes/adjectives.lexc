@@ -28,21 +28,33 @@ A_ ;
 !+Use/SpellNoSugg:ӧй A_ ;
 !!+Use/SpellNoSugg:о%- adjectives-russian-like ;
 
-!LEXICON A_а
+LEXICON A_F1
++Use/SpellNoSugg: A_ ;
+
+LEXICON A_F1_skoj
++Use/SpellNoSugg: A_ ;
+
+LEXICON A_F1_oj
++Use/SpellNoSugg: A_ ;
+
+LEXICON A_a
+ A_ ;
+!LEXICON A-PL_a
 ! A_ ;
-!LEXICON A-PL_а
-! A_ ;
-!LEXICON A_я
-! A_ ;
-!LEXICON A_ӧсь
-! A_ ;
-!LEXICON A_тӧм
-! A_ ;
-!LEXICON A_са
-! A_ ;
-!LEXICON A-TOPO_са
-! A_ ;
-!LEXICON A_ся
+LEXICON A_ja
+ A_ ;
+LEXICON A_sja
+ A_ ;
+LEXICON A_sa
+ A_ ;
+LEXICON A_9
+ A_ ;
+
+LEXICON A_osj
+ A_ ;
+LEXICON A_tom
+ A_ ;
+!LEXICON A-TOPO_sa
 ! A_ ;
 !LEXICON A-RUS-ADD_
 ! A_ ;
@@ -100,6 +112,10 @@ LEXICON A_
 : AdjCompar ;
 +Der+Der/лун+N:%>лун N_ ; !Derivational suffix for A-N
 +Der+Der/A+Adv:%>а ADV_ ; ! Derivation for adjective-to-adverb
+
+LEXICON A_IS_SUPERL
++Superl: PredMonLex ;
++Superl: ADJ_FOR_DER/MWN ;
 
 LEXICON A_PARAGOGIC-В/Л !!= * @CODE@ юмов:юмо юмолӧсь
 :%^LVBound K ; !! Singular predicative 
