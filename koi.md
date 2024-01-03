@@ -914,7 +914,7 @@ Postpositions
 * **+Recipr**:  reciprocal
 * **+Refl**:  reflexive
 * **+Rel**:  relative
-* **+Tot**:  universal
+* **+Tot**:  universal кыкнан; кыкнанным
 
 ## Quantifiers (numerals)
 Quantifiers and Numerals are classified under:
