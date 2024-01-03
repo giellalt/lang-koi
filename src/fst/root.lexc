@@ -23,6 +23,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 ! TODO: Have a look at these:
 
++Der 
 +Cons
 +Der/ысь
 +Descr
@@ -110,7 +111,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Recipr !!≈ * **@CODE@**:  reciprocal
  +Refl   !!≈ * **@CODE@**:  reflexive
  +Rel    !!≈ * **@CODE@**:  relative
- +Tot    !!≈ * **@CODE@**:  universal
+ +Tot    !!≈ * **@CODE@**:  universal кыкнан; кыкнанным
 
 !! ## Quantifiers (numerals)
 !! Quantifiers and Numerals are classified under:
@@ -611,6 +612,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 ! Modifier without noun
 !! 2012-09-11 Perhaps this is only syntactic
 +Der/MWN
++Der/Pron	! Pronoun
 +Der/мед ! Superlative
 
 !Declaring Indefinite Pronoun derivations
