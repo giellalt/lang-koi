@@ -11,7 +11,7 @@ LEXICON Det_koi2x
 даскыкьямысӧт+Det:даскыкьямысӧт NUM-ORD_  "" ;
 даскыкӧдз+Det:даскыкӧдз NUM-ORD_  "" ;
 даскыкӧт+Det:даскыкӧт NUM-ORD_  "" ;
-даснан+Det:даснан NUM-TOT-CMPL_  "" ;
+даснан+Det:даснан NUM_TOT_CMPL  "" ;
 даснёльӧдз+Det:даснёльӧдз NUM-ORD_  "" ;
 даснёльӧт+Det:даснёльӧт NUM-ORD_  "" ;
 дассизимӧдз+Det:дассизимӧдз NUM-ORD_  "" ;
@@ -28,10 +28,10 @@ LEXICON Det_koi2x
 ӧкмысдасӧт+Det:ӧкмысдасӧт NUM-ORD_  "" ;
 ӧкмысӧдз+Det:ӧкмысӧдз NUM-ORD_  "" ;
 ӧкмысӧт+Det:ӧкмысӧт NUM-ORD_  "" ;
-витнан+Det:витнан NUM-TOT-CMPL_  "" ;
-кватьнан+Det:кватьнан NUM-TOT-CMPL_  "" ;
-куимнан+Det:куимнан NUM-TOT-CMPL_  "" ;
-кыкнан+Det:кыкнан NUM-TOT-CMPL_  "" ;
-нёльнан+Det:нёльнан NUM-TOT-CMPL_  "" ;
-сизимнан+Det:сизимнан NUM-TOT-CMPL_  "" ;
+витнан+Det:витнан NUM_TOT_CMPL  "" ;
+кватьнан+Det:кватьнан NUM_TOT_CMPL  "" ;
+куимнан+Det:куимнан NUM_TOT_CMPL  "" ;
+кыкнан+Det:кыкнан NUM_TOT_CMPL  "" ;
+нёльнан+Det:нёльнан NUM_TOT_CMPL  "" ;
+сизимнан+Det:сизимнан NUM_TOT_CMPL  "" ;
 этнія+Det:этнія DET_  "" ;
