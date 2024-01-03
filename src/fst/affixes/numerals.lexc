@@ -16,24 +16,30 @@ LEXICON NUM-DIST_
 !This has to be worked on 2012-01-19
 LEXICON QNT-CARD_
  CARD ;
-:%>ӧд ORD ;
-:%>нан COLL ;
++Der+Der/Ord+A:%>ӧт ORD ;
++Der+Der/AssocColl:%>нан COLL ;
 
 LEXICON CARD
 +Card: NumCASEPOSSLEX ;
 +Card+Der/кӧ+Presentational:%>%-кӧ WordEnd ;
-!+Ord:%>ӧд NumCASEPOSSLEX ;
+!+Ord:%>ӧт NumCASEPOSSLEX ;
 +Card+Iter:%>%{иі%}сь K ;
 +Card+Iter+Distr:%>%{иі%}сьӧн K ;
 +Card+Distr:%>ӧн K ;
 
 LEXICON COLL
-+Coll: NumCASEPOSSLEX ; ! _нан_ is already part of the stem
 +Coll+Iter:%>%{иі%}сь K ;
 +Coll+Iter+Distr:%>%{иі%}сьӧн K ;
+!+Coll: NumCASEPOSSLEX ; ! _нан_ is already part of the stem
++Tot+Cmpl: # ;
++Pron+Coll+Pl1:%>ным NumMWN ;
++Pron+Coll+Pl2:%>ныт NumMWN ;
++Pron+Coll+Pl3:%>ныс NumMWN ;
+
+
 
 LEXICON ORD
-+Ord: NumCASEPOSSLEX ; ! ӧд part of the stem
++Ord: NumCASEPOSSLEX ; ! ӧт part of the stem
 +Ord+Iter:%>%{иі%}сь K ;
 +Ord+Iter+Distr:%>%{иі%}сьӧн K ;!CHECKME 2019-11-04
 
