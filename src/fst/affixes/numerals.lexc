@@ -19,6 +19,12 @@ LEXICON QNT-CARD_
 +Der+Der/Ord+A:%>ӧт ORD ;
 +Der+Der/AssocColl:%>нан COLL ;
 
+LEXICON NUM_CARD
+CARD ;
+LEXICON NUM_CARD_ERR/ORTH
++Err/Orth: CARD ;
+LEXICON NUM_CARD_F2
++Use/SpellNoSugg: CARD ;
 LEXICON CARD
 +Card: NumCASEPOSSLEX ;
 +Card+Der/кӧ+Presentational:%>%-кӧ WordEnd ;
@@ -27,24 +33,44 @@ LEXICON CARD
 +Card+Iter+Distr:%>%{иі%}сьӧн K ;
 +Card+Distr:%>ӧн K ;
 
+
 LEXICON COLL
 +Coll+Iter:%>%{иі%}сь K ;
 +Coll+Iter+Distr:%>%{иі%}сьӧн K ;
 !+Coll: NumCASEPOSSLEX ; ! _нан_ is already part of the stem
-+Tot+Cmpl: # ;
++Coll+Cmpl: # ;
 +Pron+Coll+Pl1:%>ным NumMWN ;
 +Pron+Coll+Pl2:%>ныт NumMWN ;
 +Pron+Coll+Pl3:%>ныс NumMWN ;
 
+LEXICON NUM_ASSOCCOLL
++Coll+Cmpl: # ;
++Der+Der/Pron+Pron+Coll+Pl1:%>ным CASE_THEN_K ;
++Der+Der/Pron+Pron+Coll+Pl2:%>ныт CASE_THEN_K ;
++Der+Der/Pron+Pron+Coll+Pl3:%>ныс CASE_THEN_K ;
 
+LEXICON NUM_ASSOCCOLL_PL1 !кыкнанным
++Der+Der/Pron+Pron+Pl1: CASE_THEN_K ;
 
+LEXICON NUM_ASSOCCOLL_PL2 !кыкнанныт
++Der+Der/Pron+Pron+Pl2: CASE_THEN_K ;
+
+LEXICON NUM_ASSOCCOLL_PL3 !кыкнанныс
++Der+Der/Pron+Pron+Pl3: CASE_THEN_K ;
+!CHECKME 2024-01-03
+
+LEXICON NUM_ORD
+ORD ;
 LEXICON ORD
 +Ord: NumCASEPOSSLEX ; ! ӧт part of the stem
 +Ord+Iter:%>%{иі%}сь K ;
 +Ord+Iter+Distr:%>%{иі%}сьӧн K ;!CHECKME 2019-11-04
 
+LEXICON NUM_DISTR
+NUM-IS_DISTR ;
 LEXICON NUM-IS_DISTR
 +Distr: K ;
+
 
 LEXICON QNT_
 : NumCASEPOSSLEX ;
