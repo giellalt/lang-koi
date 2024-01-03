@@ -175,7 +175,7 @@
    <lg>
      <l pos="Det">даснан</l>
      <stg>
-       <st Contlex="NUM-TOT-CMPL_">даснан</st>
+       <st Contlex="NUM_TOT_CMPL">даснан</st>
      </stg>
    </lg>
      <sources>
@@ -519,7 +519,7 @@
    <lg>
      <l pos="Det">витнан</l>
      <stg>
-       <st Contlex="NUM-TOT-CMPL_">витнан</st>
+       <st Contlex="NUM_TOT_CMPL">витнан</st>
      </stg>
    </lg>
    <mg relId="0">
@@ -569,7 +569,7 @@
    <lg>
      <l pos="Det">кватьнан</l>
      <stg>
-       <st Contlex="NUM-TOT-CMPL_">кватьнан</st>
+       <st Contlex="NUM_TOT_CMPL">кватьнан</st>
      </stg>
    </lg>
    <mg relId="0">
@@ -607,7 +607,7 @@
    <lg>
      <l pos="Det">куимнан</l>
      <stg>
-       <st Contlex="NUM-TOT-CMPL_">куимнан</st>
+       <st Contlex="NUM_TOT_CMPL">куимнан</st>
      </stg>
    </lg>
    <mg relId="0">
@@ -657,7 +657,7 @@
    <lg>
      <l pos="Det">кыкнан</l>
      <stg>
-       <st Contlex="NUM-TOT-CMPL_">кыкнан</st>
+       <st Contlex="NUM_TOT_CMPL">кыкнан</st>
      </stg>
    </lg>
    <mg relId="0">
@@ -723,7 +723,7 @@
    <lg>
      <l pos="Det">нёльнан</l>
      <stg>
-       <st Contlex="NUM-TOT-CMPL_">нёльнан</st>
+       <st Contlex="NUM_TOT_CMPL">нёльнан</st>
      </stg>
    </lg>
    <mg relId="0">
@@ -773,7 +773,7 @@
    <lg>
      <l pos="Det">сизимнан</l>
      <stg>
-       <st Contlex="NUM-TOT-CMPL_">сизимнан</st>
+       <st Contlex="NUM_TOT_CMPL">сизимнан</st>
      </stg>
    </lg>
    <mg relId="0">

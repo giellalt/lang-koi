@@ -342,7 +342,7 @@
    <lg>
      <l pos="Det">даснан</l>
      <stg>
-       <st Contlex="NUM-TOT-CMPL_">даснан</st>
+       <st Contlex="NUM_TOT_CMPL">даснан</st>
      </stg>
    </lg>
      <sources>
