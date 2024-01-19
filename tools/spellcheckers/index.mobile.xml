@@ -2,7 +2,7 @@
 <hfstspeller dtdversion="1.0" hfstversion="3">
   <info>
     <locale>koi</locale>
-    <title>Giellatekno/Divvun/UiT fst-based speller for Komi-Permyak</title>
+    <title>Komi-Permyak</title>
     <description>This is an fst-based speller for Komi-Permyak. It is based
     on the normative subset of the morphological analyser for Komi-Permyak.
     The source code can be found at:
