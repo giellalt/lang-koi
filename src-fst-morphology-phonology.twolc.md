@@ -159,7 +159,7 @@ Vowel Palatalisation
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-koi/blob/main/src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/phonology.twolc)</small>
 
 ---
 

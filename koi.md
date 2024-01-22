@@ -277,7 +277,7 @@ Singular predicative
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/adjectives.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/affixes/adjectives.lexc)</small>
 
 ---
 
@@ -315,7 +315,7 @@ these are:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adpositions.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/adpositions.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/adpositions.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/affixes/adpositions.lexc)</small>
 
 ---
 
@@ -329,7 +329,7 @@ and they probably are equivalent in morphology to postpositions
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/adverbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/adverbs.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/affixes/adverbs.lexc)</small>
 
 ---
 
@@ -339,7 +339,7 @@ Komi conjunctors
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/conjunctors.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/conjunctors.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/conjunctors.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/affixes/conjunctors.lexc)</small>
 
 ---
 
@@ -434,7 +434,7 @@ PL3
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/nouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/affixes/nouns.lexc)</small>
 
 ---
 
@@ -456,7 +456,7 @@ with no more variants beyond:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/numerals.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/numerals.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/numerals.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/affixes/numerals.lexc)</small>
 
 ---
 
@@ -466,7 +466,7 @@ Komi Particles
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/particles.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/particles.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/particles.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/affixes/particles.lexc)</small>
 
 ---
 
@@ -475,7 +475,7 @@ Prefixes in the Komi-Permyak language are bound to the beginning of other words.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/prefixes.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/prefixes.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/prefixes.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/affixes/prefixes.lexc)</small>
 
 ---
 
@@ -513,7 +513,7 @@ Tagged in the src/morphology/stems/pronouns.xml file
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/pronouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/affixes/pronouns.lexc)</small>
 
 ---
 
@@ -552,7 +552,7 @@ FEMALE NAMES FROM TEMPLATE
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/propernouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/affixes/propernouns.lexc)</small>
 
 ---
 
@@ -561,7 +561,7 @@ FEMALE NAMES FROM TEMPLATE
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/symbols.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/affixes/symbols.lexc)</small>
 
 ---
 
@@ -688,7 +688,7 @@ FIX THIS 2015-09-06
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/affixes/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/affixes/verbs.lexc)</small>
 
 ---
 
@@ -853,7 +853,7 @@ Vowel Palatalisation
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-koi/blob/main/src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/phonology.twolc)</small>
 
 ---
 
@@ -1215,7 +1215,7 @@ Incoming for conversion from kpv
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/root.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/root.lexc)</small>
 
 ---
 
@@ -1224,7 +1224,7 @@ Adjectives in Komi-Permyak language describe things.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/adjectives.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/adjectives.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/adjectives.lexc)</small>
 
 ---
 
@@ -1232,7 +1232,7 @@ This is where new words from kpv are initially shown
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/adjectives_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/adjectives_newwords.lexc)</small>
 
 ---
 
@@ -1240,7 +1240,7 @@ This is where new words from kpv are initially shown
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/adverbs_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/adverbs_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/adverbs_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/adverbs_newwords.lexc)</small>
 
 ---
 
@@ -1252,7 +1252,7 @@ ADD NOUNS BELOW
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/kom-rus-propernouns_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/kom-rus-propernouns_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/kom-rus-propernouns_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/kom-rus-propernouns_newwords.lexc)</small>
 
 ---
 
@@ -1261,7 +1261,7 @@ Nouns in the Komi Permyak language are things.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/nouns.lexc)</small>
 
 ---
 
@@ -1271,7 +1271,7 @@ This is where new words from kpv are initially shown
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/nouns_newwords.lexc)</small>
 
 ---
 
@@ -1280,7 +1280,7 @@ Numerals in the KOMI-PERMYAK language are numbers.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/numerals.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
 
 ---
 
@@ -1288,7 +1288,7 @@ This is where new words from kpv are initially shown
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/numerals_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/numerals_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/numerals_newwords.lexc)</small>
 
 ---
 
@@ -1297,7 +1297,7 @@ Pronouns in KOMI PERMYAK language are references to things.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/pronouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/pronouns.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/pronouns.lexc)</small>
 
 ---
 
@@ -1305,7 +1305,7 @@ This is where new words from kpv are initially shown
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/pronouns_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/pronouns_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/pronouns_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/pronouns_newwords.lexc)</small>
 
 ---
 
@@ -1315,7 +1315,7 @@ These are koi verbs
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/verbs_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/stems/verbs_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/verbs_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/verbs_newwords.lexc)</small>
 
 ---
 
@@ -1482,7 +1482,7 @@ retracted tongue root			_q
 
 * * *
 
-<small>This (part of) documentation was generated from [src/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-koi/blob/main/src/phonetics/txt2ipa.xfscript)</small>
+<small>This (part of) documentation was generated from [src/fst/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-koi/blob/main/src/fst/phonetics/txt2ipa.xfscript)</small>
 
 ---
 
@@ -1502,7 +1502,7 @@ For example:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-koi/blob/main/src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 
 ---
 
