@@ -104,7 +104,7 @@ LEXICON CARD-ITER-APPR
 LEXICON NumCASEPOSSLEX
 +Cmpl: # ;
 +Der/MWN+N+Sg: NumMWN ;
-+Der/MWN+N+Pl:%>ъяс NumMWN ;
++Der/MWN+N+Pl:%>%^1Cnsэз NumMWN ;
 
 LEXICON NumMWN
 CASE_THEN_K ;
