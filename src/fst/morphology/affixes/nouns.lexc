@@ -756,6 +756,7 @@ LEXICON AdjCompar
 LEXICON ADJ_FOR_DER/MWN
 +Der+Der/MWN+N+Sg: CASEPOSSLEX-afterDerivation ; !This is for adjectives without nouns
 +Der+Der/MWN+N+Pl:%>%^1Cnsэз CASEPOSSLEX-afterDerivation ; !This is for adjectives without nouns
++Der+Der/MWN+N: PL-CASE-PX ; !2024-03-28
 
 LEXICON IllCompar
  K ;
