@@ -55,7 +55,7 @@ LEXICON N_
 +Der/Ок+Der/Dimin+N:%>ок NMN_ ;
 : NMN_ ;
 LEXICON N_ok   
-+Dim: NMN_ ;
++Dimin: NMN_ ;
 
 LEXICON N_err/orth
 +Err/Orth: NMN_ ;
