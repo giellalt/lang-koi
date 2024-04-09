@@ -174,7 +174,7 @@ The Usage extents are marked using following tags:
 
 Where do these come from source
 * **+Src/F** foreign source apparently 2015-09-08
-* **+Dim** diminutive,  words that are already -ok dimin
+* **+Dimin** diminutive,  words that are already -ok dimin
 
 * **+Sem/Act** Activity
 * **+Sem/Amount** Amount
@@ -357,6 +357,3 @@ Incoming for conversion from kpv
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/root.lexc)</small>
-
----
-
