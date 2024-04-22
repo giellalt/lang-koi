@@ -17650,7 +17650,7 @@
    <lg>
      <l pos="Adv">ӧтпыр</l>
      <stg>
-       <st Contlex="ADV_">ӧтпыр / ӧтпырiсь</st>
+       <st Contlex="ADV_">ӧтпыр</st>
      </stg>
    </lg>
      <sources>
@@ -17672,8 +17672,7 @@
    <lg>
      <l pos="Adv">ӧтпырись</l>
      <stg>
-       <st Contlex="ADV_">ӧтпыр</st>
-       <st Contlex="ADV-MULT_">ӧтпырiсь</st>
+       <st Contlex="ADV-MULT_">ӧтпырись</st>
      </stg>
    </lg>
      <sources>
@@ -17763,25 +17762,6 @@
        <x>ӧтпырся ме вӧлі вӧрын</x>
        <xt xml:lang="rus">как-то раз я был в лесу</xt>
      </xg>
-   </mg>
-</e>
-<e order="1">
-   <lg>
-     <l pos="Adv">ӧтпырись</l>
-     <stg>
-       <st Contlex="ADV-MULT_">ӧтпырись</st>
-       <st Contlex="ADV-MULT_">ӧтпыр</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="kpv">
-       <t pos="Adv">ӧтчыд</t>
-       <t pos="Adv">ӧтчыдысь</t>
-     </tg>
    </mg>
 </e>
 <e order="2">
