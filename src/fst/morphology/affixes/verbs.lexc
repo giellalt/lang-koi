@@ -262,6 +262,7 @@ LEXICON VR_LYDDJYNY !!≈ * **@CODE@**
 LEXICON V_LYDDJYNY !!≈ * **@CODE@** лыддьыны:лыддьы ! ярмыны. Multiple-syllable verb ending in -ыны.
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@%^VowRM Verb-ynyDer ; !
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@%^VowRM VerbDer ; !
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@%^VowRM VerbDer-ONSET_JI ; !2024-05-08
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@ VerbDer-V ; !
 :%^VowRM VerbConj ; ! check this!!!
 : VerbConj-V ; ! check this!!!
