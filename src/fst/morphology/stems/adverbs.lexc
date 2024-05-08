@@ -2,6 +2,13 @@
 LEXICON Adverbs
 adverb ADV_ ;
 
+одззамоз+Adv:одззамоз ADV_ ;
+мӧдпырись+Adv:мӧдпырись ADV_ ;
+мӧдмоза+Adv:мӧдмоза ADV_ ;
+бӧбсорӧн+Adv:бӧбсорӧн ADV_ ;
+унапӧв+Adv:унапӧв ADV_ ;
+мӧдмоз+Adv:мӧдмоз ADV_ ;
+куимдаспӧв+Adv:куимдаспӧв ADV_ ;
 бытшӧма+Adv:мед«бытшӧма ADV_IS_SUPERL ;
 вдруг+Adv:вдруг ADV_ ;
 вевдӧрись+Adv:мед«вевдӧрись ADV_IS_SUPERL_ELA ;
