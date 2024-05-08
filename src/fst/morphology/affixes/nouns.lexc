@@ -455,8 +455,8 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_А
 +Ine+PxSg1:%>ам SPAT-COMPARATIVE ;
 +Ill+PxSg1:%>ам IllCompar ; !
 !! SG2
-+Ine+PxSg2:%>ад SPAT-COMPARATIVE ;
-+Ill+PxSg2:%>ад IllCompar ; !
++Ine+PxSg2:%>ат SPAT-COMPARATIVE ;
++Ill+PxSg2:%>ат IllCompar ; !
 !! SG3
 +Ine+PxSg3:%>ас SPAT-COMPARATIVE ;
 +Ill+PxSg3:%>ас IllCompar ; !
@@ -475,8 +475,8 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Я
 +Ine+PxSg1:%>ям SPAT-COMPARATIVE ;
 +Ill+PxSg1:%>ям IllCompar ; !
 !! SG2
-+Ine+PxSg2:%>яд SPAT-COMPARATIVE ;
-+Ill+PxSg2:%>яд IllCompar ; !
++Ine+PxSg2:%>ят SPAT-COMPARATIVE ;
++Ill+PxSg2:%>ят IllCompar ; !
 !! SG3
 +Ine+PxSg3:%>яс SPAT-COMPARATIVE ;
 +Ill+PxSg3:%>яс IllCompar ; !
