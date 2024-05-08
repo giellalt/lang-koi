@@ -155,7 +155,7 @@ LEXICON N_PARAGOGIC-J !!= * @CODE@ ав:ав авйыс
 PL-CASE-PX ;
 
 LEXICON N-INAN_PARAGOGIC-K
-+Sem/Inanim:	N_PARAGOGIC-K ;
++Sem/Inanim: N_PARAGOGIC-K ;
 LEXICON N_PARAGOGIC-K !!= * @CODE@ кытш:кытш кытшкыс
 +Cmp: R ;
 +Sg: CASEPOSSLEX-AFTERDERIVATION_CNS/END ;
@@ -525,22 +525,23 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 !! SG2
 +Nom+PxSg2:%>ыт K ;
 +Gen+PxSg2:%>ытлӧн K ;
-+Abl+PxSg2:%>ытлісь K ;
-+Dat+PxSg2:%>ытлӧ K ;
-+Car+PxSg2+So/PC:%>ыттӧг K ;
-+Com+PxSg2:%>ыткӧт K ;
-+Cmpr+PxSg2:%>ытся K ;
-+Cns+PxSg2:%>ытла K ;
-+Prl+PxSg2:%>ӧттят K ;
-+Prl+PxSg2:%>ӧттит K ;
++Abl+PxSg2:%>ыт%>лісь K ;
++Car+PxSg2+So/PC:%>ыт%>тӧг K ;
++Cmpr+PxSg2:%>ыт%>ся K ;
++Cns+PxSg2:%>ыт%>ла K ;
++Com+PxSg2:%>ыт%>кӧт K ;
++Dat+PxSg2:%>ыт%>лӧ K ;
++Egr+PxSg2:%>ыт%>сянь K ;
++Prl+PxSg2:%>ӧт%>тят K ;
++Prl+PxSg2:%>ӧт%>тит K ;
 +TerI+PxSg2:%>ӧдззат K ;
 +TerI+PxSg2:%>ӧдззит K ;
-+TerII+PxSg2:%>ытви K ;
-+Apr+PxSg2+So/PC:%>ытлань K ;
-+AprEgr+PxSg2+So/PC:%>ытланьсянь SPAT-COMPARATIVE ;
-+AprPrl+PxSg2+So/PC:%>ытланьӧт K ;
-+AprTerI+PxSg2+So/PC:%>ытланьӧдз K ;
-+AprTerII+PxSg2+So/PC:%>ытланьви K ;
++TerII+PxSg2:%>ыт%>ви K ;
++Apr+PxSg2+So/PC:%>ыт%>лань K ;
++AprEgr+PxSg2+So/PC:%>ыт%>лань%>сянь SPAT-COMPARATIVE ;
++AprPrl+PxSg2+So/PC:%>ыт%>лань%>ӧт K ;
++AprTerI+PxSg2+So/PC:%>ыт%>лань%>ӧдз K ;
++AprTerII+PxSg2+So/PC:%>ыт%>лань%>ви K ;
 
 !! SG3
 +Nom+PxSg3:%>ыс K ;
@@ -551,6 +552,7 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 +Car+PxSg3+So/PC:%>ыстӧг K ;
 +Cns+PxSg3:%>ысла K ;
 +Cmpr+PxSg3:%>ысся K ;
++Egr+PxSg3:%>ыс%>сянь K ;
 +Prl+PxSg3:%>ӧттяс K ;
 +Prl+PxSg3:%>ӧттис K ;
 +TerI+PxSg3:%>ӧдззас K ;
@@ -583,9 +585,34 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 !! ## Case followed by possible clitic OR WORDEND
 LEXICON ABL_THEN_K
 +Abl:%>лісь K ;
+!LEXICON ABL_PXSG1_THEN_K
+!+Abl+PxSg1:%>ным%>лісь K ;
+LEXICON ABL_PXSG2_THEN_K
++Abl+PxSg2:%>ыт%>лісь K ;
+LEXICON ABL_PXSG3_THEN_K
++Abl+PxSg3:%>ыс%>лісь K ;
+LEXICON ABL_PXPL1_THEN_K
++Abl+PxPl1:%>ным%>лісь K ;
+LEXICON ABL_PXPL2_THEN_K
++Abl+PxPl2:%>ныт%>лісь K ;
+LEXICON ABL_PXPL3_THEN_K
++Abl+PxPl3:%>ныс%>лісь K ;
 
 LEXICON ABL_THEN_WORDEND
 +Abl:%>лісь WordEnd ;
+!LEXICON ABL_PXSG1_THEN_WORDEND
+!+Abl+PxSg1:%>ым%>лісь WordEnd ;
+LEXICON ABL_PXSG2_THEN_WORDEND
++Abl+PxSg2:%>ыт%>лісь WordEnd ;
+LEXICON ABL_PXSG3_THEN_WORDEND
++Abl+PxSg3:%>ыс%>лісь WordEnd ;
+
+LEXICON ABL_PXPL1_THEN_WORDEND
++Abl+PxPl1:%>ным%>лісь WordEnd ;
+LEXICON ABL_PXPL2_THEN_WORDEND
++Abl+PxPl2:%>ныт%>лісь WordEnd ;
+LEXICON ABL_PXPL3_THEN_WORDEND
++Abl+PxPl3:%>ныс%>лісь WordEnd ;
 
 LEXICON ACC_THEN_K
 +Acc:%>ӧс K ;
@@ -600,46 +627,46 @@ LEXICON APR_THEN_WORDEND
 +Apr:%>лань WordEnd ;
 
 LEXICON APR-EGR_THEN_K
-+AprEgr:ланьсянь K ;
++AprEgr:%>ланьсянь K ;
 
 LEXICON APR-EGR_THEN_WORDEND
-+AprEgr:ланьсянь WordEnd ;
++AprEgr:%>ланьсянь WordEnd ;
 
 LEXICON APR-ELA_THEN_K
-+AprEla:ланьысь K ;
++AprEla:%>ланьысь K ;
 
 LEXICON APR-ELA_THEN_WORDEND
-+AprEla:ланьысь WordEnd ;
++AprEla:%>ланьысь WordEnd ;
 
 LEXICON APR-ILL_THEN_K
-+AprIll:ланьӧ K ;
++AprIll:%>ланьӧ K ;
 
 LEXICON APR-ILL_THEN_WORDEND
-+AprIll:ланьӧ WordEnd ;
++AprIll:%>ланьӧ WordEnd ;
 
 LEXICON APR-INE_THEN_K
-+AprIne:ланьын K ;
++AprIne:%>ланьын K ;
 
 LEXICON APR-INE_THEN_WORDEND
-+AprIne:ланьын WordEnd ;
++AprIne:%>ланьын WordEnd ;
 
 LEXICON APR-PRL_THEN_K
-+AprPrl:ланьӧт K ;
++AprPrl:%>ланьӧт K ;
 
 LEXICON APR-PRL_THEN_WORDEND
-+AprPrl:ланьӧт WordEnd ;
++AprPrl:%>ланьӧт WordEnd ;
 
 LEXICON APR-TERI_THEN_K
-+AprTerI:ланьӧдз K ;
++AprTerI:%>ланьӧдз K ;
 
 LEXICON APR-TERI_THEN_WORDEND
-+AprTerI:ланьӧдз WordEnd ;
++AprTerI:%>ланьӧдз WordEnd ;
 
 LEXICON APR-TERII_THEN_K
-+AprTerII:ланьви K ;
++AprTerII:%>ланьви K ;
 
 LEXICON APR-TERII_THEN_WORDEND
-+AprTerII:ланьви WordEnd ;
++AprTerII:%>ланьви WordEnd ;
 
 LEXICON CAR_THEN_K
 +Car:%>тӧг K ;
@@ -768,7 +795,7 @@ LEXICON IllCompar
 
 LEXICON PredMonLex-Spat-Add-Morphology ! This allows consistency 
                                        ! with SPAT elsewhere
-+Cop+Pl:ӧсь K ; ! Plural predicative.
++Cop+Pl:%>ӧсь K ; ! Plural predicative.
 +Comp:%>жык K ; !ывлаынжык
 +Comp+Cop+Pl:%>жыкӧсь K ; !ывлаынжыкӧсь
 +Comp+Cop+Pl:%>ӧсьжык K ; !ывлаынжыкӧсь
@@ -776,7 +803,7 @@ LEXICON PredMonLex-Spat-Add-Morphology ! This allows consistency
 
 LEXICON PredMonLex
  K ;      ! Singular predicative
-+Cop+Pl:ӧсь K ; ! Plural predicative.
++Cop+Pl:%>ӧсь K ; ! Plural predicative.
 !! 2012-02-07 !!+Der/A+Adv:%>а K ;
  
 
