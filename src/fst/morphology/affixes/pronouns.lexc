@@ -140,11 +140,12 @@ LEXICON perssg3decl  !!≈ * **@CODE@**
 LEXICON perspl3decl !!≈ * **@CODE@**
 +Nom:ія WordEnd ;
 +Acc:ійӧ WordEnd ;
++Ins:ійӧн WordEnd ;
 :ы ABL_THEN_WORDEND ;
 :ы DAT_THEN_K ;
 :ы CMPR_THEN_WORDEND ;
 
-:на GEN_THEN_K ;
+:на GEN_THEN_K ;!CHECKME 2024-05-08
 :ы persplobl ; !This might be one solution for the different stem types
 :ы WordEnd ;
 !
