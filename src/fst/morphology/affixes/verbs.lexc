@@ -437,6 +437,7 @@ LEXICON PresPret1  ! First and second person
 @U.CONJ-NX.PL@@U.CONJ-PX.1@+Pl1+Err/Orth:@U.CONJ-NX.PL@@U.CONJ-PX.1@%>мӧ VerbEnd-Comparison ; 
 @U.CONJ-NX.PL@@U.CONJ-PX.1@+Pl1:@U.CONJ-NX.PL@@U.CONJ-PX.1@%>мӧй VerbEnd-Comparison ;  ! imperatiivi / optatiivi ??
 @U.CONJ-NX.PL@@U.CONJ-PX.2@+Pl2:@U.CONJ-NX.PL@@U.CONJ-PX.2@%>т VerbEnd-Comparison ; 
+@U.CONJ-NX.PL@@U.CONJ-PX.2@+Pl2+Use/NG:@U.CONJ-NX.PL@@U.CONJ-PX.2@%>тӧ VerbEnd-Comparison ; !2024-05-08
 
 LEXICON P3         
 @U.CONJ-PX.3@:@U.CONJ-PX.3@%>с FutPret1-SgPl3 ; ! This is regular
