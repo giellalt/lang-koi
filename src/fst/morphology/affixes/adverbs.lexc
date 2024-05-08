@@ -30,6 +30,17 @@ LEXICON ADV_IS_SUPERL_ILL
 LEXICON ADV_IS_SUPERL_INE
 +Superl+Ine: K ;
 
+LEXICON ADV_IS_ELA
++Ela: K ;
+
+LEXICON ADV_IS_ILL
++Ill: K ;
+
+LEXICON ADV_IS_INE
++Ine: K ;
+LEXICON ADV_IS_PRL
++Prl: K ;
+
 LEXICON ADV-IS_GER-IGON ! these are checked as gerunds in +Der/иг
 +V+Der/иг+Ins: ADV_ ;
 
