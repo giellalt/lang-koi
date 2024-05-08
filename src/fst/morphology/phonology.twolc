@@ -121,7 +121,6 @@ Rules
 "ы:0"
 ы:0 <=> Cns (ь:) _ %^VowRM: ;
 
-
 "The famous L/V"
 !! **@RULENAME@**
  л:в <=> Vow _ %^LVBound:0 ;
