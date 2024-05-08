@@ -14,6 +14,9 @@ LEXICON PRONOUN-TYPES
 ӧтик+Pron+Indef:ӧтик NMN_ ;
 ӧтамӧд+Pron+Recipr:ӧтамӧд NMN_ ;
 этія+Pron+Dem:эт perssg3decl ;
+эна+Pron+Dem+Pl+Nom:эна K ;!CHECKME 2024-05-08
+эна+Pron+Dem+Pl+Acc:энӧ K ;
+эна+Pron+Dem+Pl+Ins:энӧн K ;
 эта+Pron+Dem:эт KODA_ETA ;
 быдӧс+Pron+Tot:быдӧс NMN_ ;
 
