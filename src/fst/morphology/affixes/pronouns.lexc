@@ -316,7 +316,7 @@ LEXICON INTERR
 
 кӧда+Pron+Interr+Sg+Nom:кӧда  WordEnd ;
 кӧда+Pron+Interr+Sg+Gen:кӧдалӧн  WordEnd ;
-кӧда+Pron+Interr+Sg+Abl:кӧдалісь  WordEnd ;
+кӧда+Pron+Interr+Sg:кӧда ABL_THEN_WORDEND ;
 кӧда+Pron+Interr+Sg+Dat:кӧдалӧ  WordEnd ;
 кӧда+Pron+Interr+Sg+Acc:кӧдӧ  WordEnd ;
 кӧда+Pron+Interr+Sg+Ins:кӧдӧн  WordEnd ;
@@ -334,7 +334,7 @@ LEXICON INTERR
 
 кӧда+Pron+Interr+Pl+Nom:кӧдна  WordEnd ;
 кӧда+Pron+Interr+Pl+Gen:кӧдналӧн  WordEnd ;
-кӧда+Pron+Interr+Pl+Abl:кӧдналісь  WordEnd ;
+кӧда+Pron+Interr+Pl:кӧдна ABL_THEN_WORDEND ;
 кӧда+Pron+Interr+Pl+Dat:кӧдналӧ  WordEnd ;
 кӧда+Pron+Interr+Pl+Acc:кӧднӧ  WordEnd ;
 кӧда+Pron+Interr+Pl+Ins:кӧднӧн  WordEnd ;
@@ -352,7 +352,7 @@ LEXICON INTERR
 
 кӧда+Pron+Interr+Sg+Nom+PxPl1:кӧдным  WordEnd ;
 кӧда+Pron+Interr+Sg+Gen+PxPl1:кӧднымлӧн  WordEnd ;
-кӧда+Pron+Interr+Sg+Abl+PxPl1:кӧднымлісь  WordEnd ;
+кӧда+Pron+Interr+Sg:кӧд ABL_PXPL1_THEN_WORDEND ;
 кӧда+Pron+Interr+Sg+Dat+PxPl1:кӧднымлӧ  WordEnd ;
 кӧда+Pron+Interr+Sg+Acc+PxPl1:кӧднымӧс  WordEnd ;
 кӧда+Pron+Interr+Sg+Ins+PxPl1:кӧднымӧн  WordEnd ;
@@ -371,7 +371,7 @@ LEXICON INTERR
 
 кӧда+Pron+Interr+Sg+Nom+PxPl2:кӧдныт  WordEnd ;
 кӧда+Pron+Interr+Sg+Gen+PxPl2:кӧднытлӧн  WordEnd ;
-кӧда+Pron+Interr+Sg+Abl+PxPl2:кӧднытлісь  WordEnd ;
+кӧда+Pron+Interr+Sg:кӧд ABL_PXPL2_THEN_WORDEND ;
 кӧда+Pron+Interr+Sg+Dat+PxPl2:кӧднытлӧ  WordEnd ;
 кӧда+Pron+Interr+Sg+Acc+PxPl2:кӧднытӧ  WordEnd ;
 кӧда+Pron+Interr+Sg+Ins+PxPl2:кӧднытӧн  WordEnd ;
@@ -390,7 +390,7 @@ LEXICON INTERR
 
 кӧда+Pron+Interr+Sg+Nom+PxPl3:кӧдныс  WordEnd ;
 кӧда+Pron+Interr+Sg+Gen+PxPl3:кӧдныслӧн  WordEnd ;
-кӧда+Pron+Interr+Sg+Abl+PxPl3:кӧдныслісь  WordEnd ;
+кӧда+Pron+Interr+Sg:кӧд ABL_PXPL3_THEN_WORDEND ;
 кӧда+Pron+Interr+Sg+Dat+PxPl3:кӧдныслӧ  WordEnd ;
 кӧда+Pron+Interr+Sg+Acc+PxPl3:кӧднысӧ  WordEnd ;
 кӧда+Pron+Interr+Sg+Ins+PxPl3:кӧднысӧн  WordEnd ;
@@ -409,7 +409,7 @@ LEXICON INTERR
 
 кӧда+Pron+Rel+Sg+Nom:кӧда  WordEnd ;
 кӧда+Pron+Rel+Sg+Gen:кӧдалӧн  WordEnd ;
-кӧда+Pron+Rel+Sg+Abl:кӧдалісь  WordEnd ;
+кӧда+Pron+Rel+Sg:кӧда ABL_THEN_WORDEND ;
 кӧда+Pron+Rel+Sg+Dat:кӧдалӧ  WordEnd ;
 кӧда+Pron+Rel+Sg+Acc:кӧдӧ  WordEnd ;
 кӧда+Pron+Rel+Sg+Ins:кӧдӧн  WordEnd ;
@@ -427,7 +427,7 @@ LEXICON INTERR
 
 кӧда+Pron+Rel+Pl+Nom:кӧдна  WordEnd ;
 кӧда+Pron+Rel+Pl+Gen:кӧдналӧн  WordEnd ;
-кӧда+Pron+Rel+Pl+Abl:кӧдналісь  WordEnd ;
+кӧда+Pron+Rel+Pl:кӧдна ABL_THEN_WORDEND ;
 кӧда+Pron+Rel+Pl+Dat:кӧдналӧ  WordEnd ;
 кӧда+Pron+Rel+Pl+Acc:кӧднӧ  WordEnd ;
 кӧда+Pron+Rel+Pl+Ins:кӧднӧн  WordEnd ;
@@ -445,7 +445,7 @@ LEXICON INTERR
 
 кӧда+Pron+Rel+Sg+Nom+PxPl1:кӧдным  WordEnd ;
 кӧда+Pron+Rel+Sg+Gen+PxPl1:кӧднымлӧн  WordEnd ;
-кӧда+Pron+Rel+Sg+Abl+PxPl1:кӧднымлісь  WordEnd ;
+кӧда+Pron+Rel+Sg:кӧд ABL_PXPL1_THEN_WORDEND ;
 кӧда+Pron+Rel+Sg+Dat+PxPl1:кӧднымлӧ  WordEnd ;
 кӧда+Pron+Rel+Sg+Acc+PxPl1:кӧднымӧс  WordEnd ;
 кӧда+Pron+Rel+Sg+Ins+PxPl1:кӧднымӧн  WordEnd ;
@@ -464,7 +464,7 @@ LEXICON INTERR
 
 кӧда+Pron+Rel+Sg+Nom+PxPl2:кӧдныт  WordEnd ;
 кӧда+Pron+Rel+Sg+Gen+PxPl2:кӧднытлӧн  WordEnd ;
-кӧда+Pron+Rel+Sg+Abl+PxPl2:кӧднытлісь  WordEnd ;
+кӧда+Pron+Rel+Sg:кӧд ABL_PXPL2_THEN_WORDEND ;
 кӧда+Pron+Rel+Sg+Dat+PxPl2:кӧднытлӧ  WordEnd ;
 кӧда+Pron+Rel+Sg+Acc+PxPl2:кӧднытӧ  WordEnd ;
 кӧда+Pron+Rel+Sg+Ins+PxPl2:кӧднытӧн  WordEnd ;
@@ -483,7 +483,7 @@ LEXICON INTERR
 
 кӧда+Pron+Rel+Sg+Nom+PxPl3:кӧдныс  WordEnd ;
 кӧда+Pron+Rel+Sg+Gen+PxPl3:кӧдныслӧн  WordEnd ;
-кӧда+Pron+Rel+Sg+Abl+PxPl3:кӧдныслісь  WordEnd ;
+кӧда+Pron+Rel+Sg:кӧд ABL_PXPL3_THEN_WORDEND ;
 кӧда+Pron+Rel+Sg+Dat+PxPl3:кӧдныслӧ  WordEnd ;
 кӧда+Pron+Rel+Sg+Acc+PxPl3:кӧднысӧ  WordEnd ;
 кӧда+Pron+Rel+Sg+Ins+PxPl3:кӧднысӧн  WordEnd ;
@@ -566,38 +566,38 @@ LEXICON PRON-HUM
 LEXICON PRON-HUM-OBL
 ! 2000: 187
 +Cmpl: INTERR-REL-INDEF ;
-+Gen:лӧн INTERR-REL-INDEF ;
-+Abl:лісь INTERR-REL-INDEF ; !
-+Dat:лӧ INTERR-REL-INDEF ;
-+Acc+PxSg1:ӧс INTERR-REL-INDEF ;
-+Acc+PxSg3:сӧ INTERR-REL-INDEF ;
-+Ins:ӧн INTERR-REL-INDEF ;
-+Com:кӧт INTERR-REL-INDEF ;
-+Car:тӧг INTERR-REL-INDEF ;
-+Cns:ла INTERR-REL-INDEF ;
-+Ine:ын INTERR-REL-INDEF ;
-+Ela:ісь INTERR-REL-INDEF ; 
-+Ill:ӧ INTERR-REL-INDEF ; !
-+Apr:лань INTERR-REL-INDEF ;
-+Egr:сянь INTERR-REL-INDEF ;
-!+Tra:ті INTERR-REL-INDEF ;
-+TerI:ӧдз INTERR-REL-INDEF ;
++Gen:%>лӧн INTERR-REL-INDEF ;
++Abl:%>лісь INTERR-REL-INDEF ; !
++Dat:%>лӧ INTERR-REL-INDEF ;
++Acc+PxSg1:%>ӧс INTERR-REL-INDEF ;
++Acc+PxSg3:%>сӧ INTERR-REL-INDEF ;
++Ins:%>ӧн INTERR-REL-INDEF ;
++Com:%>кӧт INTERR-REL-INDEF ;
++Car:%>тӧг INTERR-REL-INDEF ;
++Cns:%>ла INTERR-REL-INDEF ;
++Ine:%>ын INTERR-REL-INDEF ;
++Ela:%>ісь INTERR-REL-INDEF ; 
++Ill:%>ӧ INTERR-REL-INDEF ; !
++Apr:%>лань INTERR-REL-INDEF ;
++Egr:%>сянь INTERR-REL-INDEF ;
+!+Tra:%>ті INTERR-REL-INDEF ;
++TerI:%>ӧдз INTERR-REL-INDEF ;
 
 LEXICON PRON-HUM-COLL
-+Coll:нан PRON-HUM-COLL-PERS ;
++Coll:%>нан PRON-HUM-COLL-PERS ;
 +ZeroColl: PRON-HUM-COLL-PERS ;
 !
-+ZeroColl+Acc+PxPl2:ныдтӧ INTERR-REL-INDEF ;
-+Coll+Acc+PxPl2:наннытӧ INTERR-REL-INDEF ;
++ZeroColl+Acc+PxPl2:%>ныдтӧ INTERR-REL-INDEF ;
++Coll+Acc+PxPl2:%>наннытӧ INTERR-REL-INDEF ;
 
 LEXICON PRON-HUM-COLL-PERS
-+PxPl1:ным PRON-HUM-COLL-CASES ;
-+PxPl2:ныд PRON-HUM-COLL-CASES ;
-+PxPl3:ныс PRON-HUM-COLL-CASES ;
++PxPl1:%>ным PRON-HUM-COLL-CASES ;
++PxPl2:%>ныд PRON-HUM-COLL-CASES ;
++PxPl3:%>ныс PRON-HUM-COLL-CASES ;
 !
-+Acc+PxPl1:нымӧс INTERR-REL-INDEF ;
-+Acc+PxPl2:нытӧ INTERR-REL-INDEF ;
-+Acc+PxPl3:ныссӧ INTERR-REL-INDEF ;
++Acc+PxPl1:%>нымӧс INTERR-REL-INDEF ;
++Acc+PxPl2:%>нытӧ INTERR-REL-INDEF ;
++Acc+PxPl3:%>ныссӧ INTERR-REL-INDEF ;
 
 LEXICON PRON-HUM-COLL-CASES
 +Nom: INTERR-REL-INDEF ;
@@ -605,23 +605,23 @@ LEXICON PRON-HUM-COLL-CASES
 
 LEXICON PRON-NONHUM
 +Nom: INTERR-REL-INDEF ;
-+Gen:лӧн INTERR-REL-INDEF ; !
-+Abl:лісь INTERR-REL-INDEF ; !
-+Dat:лӧ INTERR-REL-INDEF ; !
-+Acc+PxSg3:сӧ INTERR-REL-INDEF ;
-+Ins:ӧн INTERR-REL-INDEF ;
-+Com:кӧт INTERR-REL-INDEF ;
-+Car:тӧг INTERR-REL-INDEF ;
-+Cmpr:ся INTERR-REL-INDEF ;
-+Cns:ла INTERR-REL-INDEF ;
-+Ine:ын INTERR-REL-INDEF ;
++Gen:%>лӧн INTERR-REL-INDEF ; !
++Abl:%>лісь INTERR-REL-INDEF ; !
++Dat:%>лӧ INTERR-REL-INDEF ; !
++Acc+PxSg3:%>сӧ INTERR-REL-INDEF ;
++Ins:%>ӧн INTERR-REL-INDEF ;
++Com:%>кӧт INTERR-REL-INDEF ;
++Car:%>тӧг INTERR-REL-INDEF ;
++Cmpr:%>ся INTERR-REL-INDEF ;
++Cns:%>ла INTERR-REL-INDEF ;
++Ine:%>ын INTERR-REL-INDEF ;
 +Ela:%{иі%}сь INTERR-REL-INDEF ; 
-+Ill:ӧ INTERR-REL-INDEF ; !
-+Apr:лань INTERR-REL-INDEF ;
-+Egr:сянь INTERR-REL-INDEF ;
-+Prl:ӧт INTERR-REL-INDEF ;
-!+Tra:ті INTERR-REL-INDEF ;
-+TerI:ӧдз INTERR-REL-INDEF ;
++Ill:%>ӧ INTERR-REL-INDEF ; !
++Apr:%>лань INTERR-REL-INDEF ;
++Egr:%>сянь INTERR-REL-INDEF ;
++Prl:%>ӧт INTERR-REL-INDEF ;
+!+Tra:%>ті INTERR-REL-INDEF ;
++TerI:%>ӧдз INTERR-REL-INDEF ;
 
 LEXICON PRON_KIN
 +Sg: CASE_THEN_WORDEND ;
@@ -769,32 +769,32 @@ LEXICON PRON-RECIPR
 
 LEXICON PRON-RECIPR-CASE
 +Cmpl: WordEnd ;
-+PxSg2+Cmpl:ыд K ;
-+PxSg2+Cmpl:ыс K ;
-+PxPl1+Cmpl:ным K ;
-+PxPl2+Cmpl:ныд K ;
-+PxPl3+Cmpl:ныс K ;
++PxSg2+Cmpl:%>ыд K ;
++PxSg2+Cmpl:%>ыс K ;
++PxPl1+Cmpl:%>ным K ;
++PxPl2+Cmpl:%>ныд K ;
++PxPl3+Cmpl:%>ныс K ;
 GEN_THEN_K ;
-+PxSg3+Abl:ыслісь K ;
-+PxPl3+Abl:ныслісь K ;
++PxSg3:%>ыс ABL_THEN_K ;
++PxPl3:%>ныс  ABL_THEN_K ;
 DAT_THEN_K ;
-+PxSg3+Dat:ыслӧ K ;
-+PxPl3+Dat:ныслӧ K ;
-+Acc+PxSg1:ӧс K ;
-+Acc+PxPl1:нымӧс K ;
-+Acc+PxPl2:нытӧ K ;
-+Acc+PxPl3:ныссӧ K ;
-+Acc+PxSg3:сӧ K ;
-+PxSg3+Com:ыскӧт K ;
-+PxPl2+Com:ныдкӧт K ;
-+PxPl3+Com:ныскӧт K ;
-+Car+PxSg3:тӧгыс K ;
++PxSg3+Dat:%>ыслӧ K ;
++PxPl3+Dat:%>ныслӧ K ;
++Acc+PxSg1:%>ӧс K ;
++Acc+PxPl1:%>нымӧс K ;
++Acc+PxPl2:%>нытӧ K ;
++Acc+PxPl3:%>ныссӧ K ;
++Acc+PxSg3:%>сӧ K ;
++PxSg3+Com:%>ыскӧт K ;
++PxPl2+Com:%>ныдкӧт K ;
++PxPl3+Com:%>ныскӧт K ;
++Car+PxSg3:%>тӧгыс K ;
 ELA_THEN_K ;
-+Ela+PxSg3:сьыс K ;
-+Ela+PxPl3:сьыныс K ;
-+PxSg3+Ill:ас K ; ! Here is a good problem: Should there be a special tag
++Ela+PxSg3:%>сьыс K ;
++Ela+PxPl3:%>сьыныс K ;
++PxSg3+Ill:%>ас K ; ! Here is a good problem: Should there be a special tag
                 ! for the illative-inessive forms
-+PxPl3+Ill:нысӧ K ;
++PxPl3+Ill:%>нысӧ K ;
 
 
 LEXICON PRON-REL
@@ -808,94 +808,94 @@ LEXICON EndRefl
  PRON-REFL-OBL-CASES ;
 
 LEXICON PRON-REFL-OBL-CASES
-+Ela+PxSg1:сим K ;
-+Ela+PxSg2:сит K ;
-+Ela+PxSg3:сис K ;
-+Ela+PxPl1:синым K ;
-+Ela+PxPl1+Abl:синымлісь K ;
-+Ela+PxPl1+Ela:синымысь K ;
-+Ela+PxPl2:синыт K ;
-+Ela+PxPl3:синыс K ;
-+Dat+PxSg1:лым K ;
-+Dat+PxSg2:лыт K ;
-+Dat+PxSg3:лыс K ;
-+Dat+PxPl1:лыным K ;
-+Dat+PxPl2:лыныт K ;
-+Dat+PxPl2+Dat:лынытлӧ K ;
-+Dat+PxPl3:лыныс K ;
-+Dat+PxPl3+Dat:лыныслӧ K ;
-+PxPl3+Dat:ныслӧ K ;
-+Ins+PxSg1:ӧн K ; !There is no indication of person. = Sg1, Pl3
-+Ins+PxPl3:ӧн K ; !There is no indication of person. = Sg1, Pl3
-+Ins+PxSg1+Ins:намӧн K ;
-+Ins+PxSg2:над K ;
-+Ins+PxSg3:нас K ;
-+Ins+PxPl1:наным K ;
-+Ins+PxPl2:наныд K ;
-+Ins+PxPl3:наныс K ;
-+Com+PxSg1:кӧт K ; !There is no indication of person. = Sg1
-+Com+PxSg2:кӧтыд K ; !
-+Com+PxSg3:кӧтыс K ; !
-+Com+PxPl1:кӧтным K ; !
-+Com+PxPl2:кӧтныд K ; !
-+Com+PxPl2:ныдкӧт K ; !
-+Com+PxPl3:кӧтныс K ; !
-+Com+PxPl3:ныскӧт K ; !
-+Car+PxSg1:тӧг K ; !There is no indication of person. = Sg1
-+Car+PxSg2:тӧгыд K ; !
-+Car+PxSg3:тӧгыс K ; !
-+Car+PxPl1:тӧгным K ; !
-+Car+PxPl2:тӧгныд K ; !
-+Car+PxPl2:ныдтӧг K ; !
-+Car+PxPl3:тӧгныс K ; !
-+Car+PxPl3:ныстӧг K ; !
-+Cons+PxSg1:ла K ; !There is no indication of person. = Sg1
-+Cons+PxSg2:лаыд K ;
-+Cons+PxSg2:ыдла K ;
-+Cons+PxSg3:ысла K ;
-+Cons+PxPl2:ныдла K ;
-+Cons+PxPl3:нысла K ;
-+Ine+PxSg2:ад K ;
-+Ine+PxSg3:ас K ;
-+Ine+PxPl1:аным K ;
-+Ine+PxPl2:аныд K ;
-+Ine+PxPl3:аныс K ;
-+Ill+PxSg1:ӧ K ; !There is no indication of person. = Sg1
-+Ill+PxSg1:ам K ; !Ӧнія коми кыв gives this for illative only
-+Ill+PxSg2:ад K ; !
-+Ill+PxSg3:ас K ; !
-+Ill+PxPl1:аным K ; !
-+Ill+PxPl2:аныд K ; !
-+Ill+PxPl3:аныс K ; !
-+Apr+PxSg1:лань K ; !There is no indication of person. = Sg1
-+Apr+PxSg2:ланьыд K ;
-+Apr+PxSg3:ланьыс K ;
-+Apr+PxPl1:ланьным K ;
-+Apr+PxPl2:ланьныд K ;
-+Apr+PxPl3:ланьныс K ;
-+Sg1+Egr:сянь K ; !There is no indication of person. = Sg1
-+Egr+PxSg2:сяньыд K ;
-+Egr+PxSg3:сяньыс K ;
-+Egr+PxPl1:сяньным K ;
-+Egr+PxPl2:сяньныд K ;
-+Egr+PxPl3:сяньныс K ;
-!+Sg1+Tra:ті K ; !There is no indication of person. = Sg1
-!+Tra+PxSg2:тіыд K ;
-!+Tra+PxSg3:тіыс K ;
++Ela+PxSg1:%>сим K ;
++Ela+PxSg2:%>сит K ;
++Ela+PxSg3:%>сис K ;
++Ela+PxPl1:%>синым K ;
++Ela+PxPl1+Abl:%>синымлісь K ;
++Ela+PxPl1+Ela:%>синымысь K ;
++Ela+PxPl2:%>синыт K ;
++Ela+PxPl3:%>синыс K ;
++Dat+PxSg1:%>лым K ;
++Dat+PxSg2:%>лыт K ;
++Dat+PxSg3:%>лыс K ;
++Dat+PxPl1:%>лыным K ;
++Dat+PxPl2:%>лыныт K ;
++Dat+PxPl2+Dat:%>лынытлӧ K ;
++Dat+PxPl3:%>лыныс K ;
++Dat+PxPl3+Dat:%>лыныслӧ K ;
++PxPl3+Dat:%>ныслӧ K ;
++Ins+PxSg1:%>ӧн K ; !There is no indication of person. = Sg1, Pl3
++Ins+PxPl3:%>ӧн K ; !There is no indication of person. = Sg1, Pl3
++Ins+PxSg1+Ins:%>намӧн K ;
++Ins+PxSg2:%>над K ;
++Ins+PxSg3:%>нас K ;
++Ins+PxPl1:%>наным K ;
++Ins+PxPl2:%>наныд K ;
++Ins+PxPl3:%>наныс K ;
++Com+PxSg1:%>кӧт K ; !There is no indication of person. = Sg1
++Com+PxSg2:%>кӧтыд K ; !
++Com+PxSg3:%>кӧтыс K ; !
++Com+PxPl1:%>кӧтным K ; !
++Com+PxPl2:%>кӧтныд K ; !
++Com+PxPl2:%>ныдкӧт K ; !
++Com+PxPl3:%>кӧтныс K ; !
++Com+PxPl3:%>ныскӧт K ; !
++Car+PxSg1:%>тӧг K ; !There is no indication of person. = Sg1
++Car+PxSg2:%>тӧгыд K ; !
++Car+PxSg3:%>тӧгыс K ; !
++Car+PxPl1:%>тӧгным K ; !
++Car+PxPl2:%>тӧгныд K ; !
++Car+PxPl2:%>ныдтӧг K ; !
++Car+PxPl3:%>тӧгныс K ; !
++Car+PxPl3:%>ныстӧг K ; !
++Cons+PxSg1:%>ла K ; !There is no indication of person. = Sg1
++Cons+PxSg2:%>лаыд K ;
++Cons+PxSg2:%>ыдла K ;
++Cons+PxSg3:%>ысла K ;
++Cons+PxPl2:%>ныдла K ;
++Cons+PxPl3:%>нысла K ;
++Ine+PxSg2:%>ад K ;
++Ine+PxSg3:%>ас K ;
++Ine+PxPl1:%>аным K ;
++Ine+PxPl2:%>аныд K ;
++Ine+PxPl3:%>аныс K ;
++Ill+PxSg1:%>ӧ K ; !There is no indication of person. = Sg1
++Ill+PxSg1:%>ам K ; !Ӧнія коми кыв gives this for illative only
++Ill+PxSg2:%>ад K ; !
++Ill+PxSg3:%>ас K ; !
++Ill+PxPl1:%>аным K ; !
++Ill+PxPl2:%>аныд K ; !
++Ill+PxPl3:%>аныс K ; !
++Apr+PxSg1:%>лань K ; !There is no indication of person. = Sg1
++Apr+PxSg2:%>ланьыд K ;
++Apr+PxSg3:%>ланьыс K ;
++Apr+PxPl1:%>ланьным K ;
++Apr+PxPl2:%>ланьныд K ;
++Apr+PxPl3:%>ланьныс K ;
++Sg1+Egr:%>сянь K ; !There is no indication of person. = Sg1
++Egr+PxSg2:%>сяньыд K ;
++Egr+PxSg3:%>сяньыс K ;
++Egr+PxPl1:%>сяньным K ;
++Egr+PxPl2:%>сяньныд K ;
++Egr+PxPl3:%>сяньныс K ;
+!+Sg1+Tra:%>ті K ; !There is no indication of person. = Sg1
+!+Tra+PxSg2:%>тіыд K ;
+!+Tra+PxSg3:%>тіыс K ;
 ! Pl1 and Pl2 are not attested in Ӧнія коми кыв
-!+Tra+PxPl3:тіныс K ;
-+Sg1+TerI:ӧдз K ; !There is no indication of person. = Sg1
-+TerI+PxSg2:ӧдзыд K ;
-+TerI+PxSg3:ӧдзыс K ;
-+PxPl1+TerI:нымӧдз K ;
-+PxPl2+TerI:ныдӧдз K ;
-+PxPl3+TerI:нысӧдз K ;
+!+Tra+PxPl3:%>тіныс K ;
++Sg1+TerI:%>ӧдз K ; !There is no indication of person. = Sg1
++TerI+PxSg2:%>ӧдзыд K ;
++TerI+PxSg3:%>ӧдзыс K ;
++PxPl1+TerI:%>нымӧдз K ;
++PxPl2+TerI:%>ныдӧдз K ;
++PxPl3+TerI:%>нысӧдз K ;
 !Extras 2011-10-07
 
 
 LEXICON PRON-REFL-SG1-NOM
 +Pron+Refl+Sg1+Nom: WordEnd ;
-+Pron+Refl+Sg1+Acc:ӧс WordEnd ;
++Pron+Refl+Sg1+Acc:%>ӧс WordEnd ;
 +Pron+Refl+Sg1: INS_THEN_WORDEND ;
 +Pron+Refl+Sg1: COM_THEN_WORDEND ;
 +Pron+Refl+Sg1: CAR_THEN_WORDEND ;
@@ -916,7 +916,7 @@ LEXICON PRON-REFL-SG2-NOM
 
 LEXICON PRON-REFL-SG2-GEN
 +Pron+Refl+Sg2+Gen: WordEnd ;
-+Pron+Refl+Sg2+Erg:сянь WordEnd ;
++Pron+Refl+Sg2+Erg:%>сянь WordEnd ;
 
 LEXICON PRON-REFL-SG2-ACC
 +Pron+Refl+Sg2+Acc: WordEnd ;
@@ -938,7 +938,7 @@ LEXICON PRON-REFL-SG3-ACC
 
 LEXICON PRON-REFL-PL1-NOM
 +Pron+Refl+Pl1+Nom: WordEnd ;
-+Pron+Refl+Pl1+Acc:ӧс WordEnd ;
++Pron+Refl+Pl1+Acc:%>ӧс WordEnd ;
 +Pron+Refl+Pl1: COM_THEN_WORDEND ;
 +Pron+Refl+Pl1: CAR_THEN_WORDEND ;
 +Pron+Refl+Pl1: ELA_THEN_WORDEND ;
@@ -951,7 +951,7 @@ LEXICON PRON-REFL-PL1-GEN
 
 LEXICON PRON-REFL-PL2-NOM
 +Pron+Refl+Pl2+Nom: WordEnd ;
-+Pron+Refl+Pl2+Acc:тӧ WordEnd ;
++Pron+Refl+Pl2+Acc:%>тӧ WordEnd ;
 +Pron+Refl+Pl2: CNS_THEN_WORDEND ;
 +Pron+Refl+Pl2: CAR_THEN_WORDEND ;
 +Pron+Refl+Pl2: ELA_THEN_WORDEND ;
@@ -1027,7 +1027,7 @@ LEXICON PRONDEMTAGPL
 !+Pron+Dem+Pl: WordEnd ;
 +Nom: WordEnd ;
 GEN_THEN_K ;
-+Acc:ӧс WordEnd ;
++Acc:%>ӧс WordEnd ;
 INS_THEN_K ;
 COM_THEN_K ;
 CAR_THEN_K ;
@@ -1085,21 +1085,21 @@ LEXICON PRON-DEM-IS_ILL
 !LEXICON PRON-INTER-NONHUM
 !+Pron+Interr+Nom: WordEnd ;
 !+Pron+Interr: GEN_THEN_K ;
-!+Pron+Interr+Abl:лісь K ; !
+!+Pron+Interr: ABL_THEN_K ; !
 !+Pron+Interr: DAT_THEN_K ;
-!+Pron+Interr+Acc:сӧ WordEnd ;
-!+Pron+Interr+Ins:ӧн K ;
-!+Pron+Interr+Com:кӧт K ;
+!+Pron+Interr+Acc:%>сӧ WordEnd ;
+!+Pron+Interr+Ins:%>ӧн K ;
+!+Pron+Interr+Com:%>кӧт K ;
 !+Pron+Interr: CAR_THEN_K ;
-!+Pron+Interr+Cns:ла K ;
-!+Pron+Interr+Ine:ын K ;
+!+Pron+Interr+Cns:%>ла K ;
+!+Pron+Interr+Ine:%>ын K ;
 !+Pron+Interr: ELA_THEN_K ; 
-!+Pron+Interr+Ill:ӧ K ; !
+!+Pron+Interr+Ill:%>ӧ K ; !
 !+Pron+Interr: APR_THEN_K ;
-!+Pron+Interr+Egr:сянь K ;
-!+Pron+Prl:ӧд K ;
-!+Pron+Interr+Tra:ті K ;
-!+Pron+Interr+Ter:ӧдз K ;
+!+Pron+Interr+Egr:%>сянь K ;
+!+Pron+Prl:%>ӧд K ;
+!+Pron+Interr+Tra:%>ті K ;
+!+Pron+Interr+Ter:%>ӧдз K ;
 
 LEXICON PRON-NEG-HUM
 +Pron+Neg+Sg+Nom: WordEnd ;
@@ -1111,35 +1111,35 @@ LEXICON PRON-DUAL
 ! LEXICON PRON-INTER-REL-HUM-COLL
 ! +Coll:нан PRON-INTER-REL-HUM-COLL-PERS ;
 ! +ZeroColl: PRON-INTER-REL-HUM-COLL-PERS ;
-! +ZeroColl+PxPl2+Acc:ныдтӧ PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Coll+PxPl2+Acc:наннытӧ PRON-INTER-REL-HUM-COLL-INDEF ;
+! +ZeroColl+PxPl2+Acc:%>ныдтӧ PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Coll+PxPl2+Acc:%>наннытӧ PRON-INTER-REL-HUM-COLL-INDEF ;
 ! 
 ! LEXICON PRON-INTER-REL-HUM-COLL-PERS
-! +PxPl1:ным PRON-INTER-REL-HUM-COLL-CASES ;
-! +PxPl2:ныд PRON-INTER-REL-HUM-COLL-CASES ;
-! +PxPl3:ныс PRON-INTER-REL-HUM-COLL-CASES ;
-! +PxPl1+Acc:нымӧс PRON-INTER-REL-HUM-COLL-INDEF ;
-! +PxPl3+Acc:ныссӧ PRON-INTER-REL-HUM-COLL-INDEF ;
+! +PxPl1:%>ным PRON-INTER-REL-HUM-COLL-CASES ;
+! +PxPl2:%>ныд PRON-INTER-REL-HUM-COLL-CASES ;
+! +PxPl3:%>ныс PRON-INTER-REL-HUM-COLL-CASES ;
+! +PxPl1+Acc:%>нымӧс PRON-INTER-REL-HUM-COLL-INDEF ;
+! +PxPl3+Acc:%>ныссӧ PRON-INTER-REL-HUM-COLL-INDEF ;
 ! 
 ! LEXICON PRON-INTER-REL-HUM-COLL-CASES
 ! +Nom: PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Gen:лӧн PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Abl:лісь PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Dat:лӧ PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Ins:ӧн PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Com:кӧт PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Car:тӧг PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Cns:ла PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Ine:ын PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Ela:ысь PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Ill:ӧ PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Apr:лань PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Egr:сянь PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Tra:ті PRON-INTER-REL-HUM-COLL-INDEF ;
-! +Ter:ӧдз PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Gen:%>лӧн PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Abl:%>лісь PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Dat:%>лӧ PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Ins:%>ӧн PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Com:%>кӧт PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Car:%>тӧг PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Cns:%>ла PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Ine:%>ын PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Ela:%>ысь PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Ill:%>ӧ PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Apr:%>лань PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Egr:%>сянь PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Tra:%>ті PRON-INTER-REL-HUM-COLL-INDEF ;
+! +Ter:%>ӧдз PRON-INTER-REL-HUM-COLL-INDEF ;
 ! 
 ! LEXICON PRON-INTER-REL-HUM-COLL-INDEF
-! +Der/кӧ+Indef:кӧ K ;
+! +Der/кӧ+Indef:%>кӧ K ;
 !  K ;
 
 !Actually there might be reason to consider +Der/MWN
@@ -1157,113 +1157,114 @@ LEXICON PRONQ-STAV
 +Pron+Qnt+Sg: PRONQ-STAV-CASES ;
 
 LEXICON PRONQ-STAV-CASES
-+Nom+PxSg2:ыд K ;
-+Nom+PxSg3:ыс K ;
-+Nom+PxPl1:ным K ;
-+Nom+PxPl2:ныд K ;
-+Nom+PxPl3:ныс K ;
++Nom+PxSg2:%>ыд K ;
++Nom+PxSg3:%>ыс K ;
++Nom+PxPl1:%>ным K ;
++Nom+PxPl2:%>ныд K ;
++Nom+PxPl3:%>ныс K ;
 
-+Ins:ӧн K ;
-+Ins+PxSg1:нам K ;
-+Ins+PxSg2:над K ;
-+Ins+PxSg3:нас K ;
-+PxPl1+Ins:нымӧн K ; ! Should there be a Der/ӧн tag?
-+PxPl2+Ins:ныдӧн K ; ! Should there be a Der/ӧн tag?
-+PxPl3+Ins:нысӧн K ; ! Should there be a Der/ӧн tag?
++Ins:%>ӧн K ;
++Ins+PxSg1:%>нам K ;
++Ins+PxSg2:%>над K ;
++Ins+PxSg3:%>нас K ;
++PxPl1+Ins:%>нымӧн K ; ! Should there be a Der/ӧн tag?
++PxPl2+Ins:%>ныдӧн K ; ! Should there be a Der/ӧн tag?
++PxPl3+Ins:%>нысӧн K ; ! Should there be a Der/ӧн tag?
 
 ELA_THEN_K ;
-+Ela+PxSg3:сьыс K ;
-+Ela+PxPl1:сьыным K ;
-+PxPl1+Ela:нымысь K ;
-+Ela+PxPl2:сьыныд K ;
-+PxPl2+Ela:ныдысь K ;
-+Ela+PxPl3:сьыныс K ;
-+PxPl3+Ela:нысысь K ;
++Ela+PxSg3:%>сьыс K ;
++Ela+PxPl1:%>сьыным K ;
++PxPl1+Ela:%>нымысь K ;
++Ela+PxPl2:%>сьыныд K ;
++PxPl2+Ela:%>ныдысь K ;
++Ela+PxPl3:%>сьыныс K ;
++PxPl3+Ela:%>нысысь K ;
 
 GEN_THEN_K ;
-+PxSg3+Gen:ыслӧн K ;
-+PxPl1+Gen:нымлӧн K ;
-+PxPl2+Gen:ныдлӧн K ;
-+PxPl3+Gen:ныслӧн K ;
++PxSg3+Gen:%>ыслӧн K ;
++PxPl1+Gen:%>нымлӧн K ;
++PxPl2+Gen:%>ныдлӧн K ;
++PxPl3+Gen:%>ныслӧн K ;
 
-+Acc:ӧс K ;
-+Acc+PxSg1:ӧс K ;
-+Acc+PxSg2:тӧ K ;
-+Acc+PxSg3:сӧ K ;
-+Acc+PxPl1:нымӧс K ;
-+Acc+PxPl2:нытӧ K ;
-+Acc+PxPl3:нысӧ K ;
++Acc:%>ӧс K ;
++Acc+PxSg1:%>ӧс K ;
++Acc+PxSg2:%>тӧ K ;
++Acc+PxSg3:%>сӧ K ;
++Acc+PxPl1:%>нымӧс K ;
++Acc+PxPl2:%>нытӧ K ;
++Acc+PxPl3:%>нысӧ K ;
 
-+Dat+PxSg2:ыдлӧ K ;
-+Dat+PxSg3:ыслӧ K ;
-+Dat+PxPl1:нымлӧ K ;
-+Dat+PxPl2:ныдлӧ K ;
-+Dat+PxPl3:ныслӧ K ;
++Dat+PxSg2:%>ыдлӧ K ;
++Dat+PxSg3:%>ыслӧ K ;
++Dat+PxPl1:%>нымлӧ K ;
++Dat+PxPl2:%>ныдлӧ K ;
++Dat+PxPl3:%>ныслӧ K ;
 
-+Abl:лісь K ;
-+PxSg3+Abl:ыслісь K ;
-+PxPl1+Abl:нымлісь K ;
-+PxPl2+Abl:ныдлісь K ;
-+PxPl3+Abl:ныслісь K ;
+ABL_THEN_K ;
+ ABL_PXSG2_THEN_K ;
+ ABL_PXSG3_THEN_K ;
+ ABL_PXPL1_THEN_K ;
+ ABL_PXPL2_THEN_K ;
+ ABL_PXPL3_THEN_K ;
 
-+Com:кӧт K ;
-+PxSg3+Com:ыскӧт K ;
-+PxPl1+Com:нымкӧт K ;
-+PxPl2+Com:ныдкӧт K ;
-+PxPl3+Com:ныскӧт K ;
++Com:%>кӧт K ;
++PxSg3+Com:%>ыскӧт K ;
++PxPl1+Com:%>нымкӧт K ;
++PxPl2+Com:%>ныдкӧт K ;
++PxPl3+Com:%>ныскӧт K ;
 
 CAR_THEN_K ;
-+PxSg3+Car:ыстӧг K ;
-+PxPl1+Car:нымтӧг K ;
-+PxPl2+Car:ныдтӧг K ;
-+PxPl3+Car:ныстӧг K ;
++PxSg3+Car:%>ыстӧг K ;
++PxPl1+Car:%>нымтӧг K ;
++PxPl2+Car:%>ныдтӧг K ;
++PxPl3+Car:%>ныстӧг K ;
 
-+Cns:ла K ;
-+PxSg3+Cns:ысла K ;
-+PxPl1+Cns:нымла K ;
-+PxPl2+Cns:ныдла K ;
-+PxPl3+Cns:нысла K ;
++Cns:%>ла K ;
++PxSg3+Cns:%>ысла K ;
++PxPl1+Cns:%>нымла K ;
++PxPl2+Cns:%>ныдла K ;
++PxPl3+Cns:%>нысла K ;
 
-+Cmpr+PxSg3:сяыс K ;
++Cmpr+PxSg3:%>сяыс K ;
 
-+Ine:ын K ;
-+PxPl1+Ine:нымын K ;
-+PxPl2+Ine:ныдын K ;
-+PxPl3+Ine:нысын K ;
++Ine:%>ын K ;
++PxPl1+Ine:%>нымын K ;
++PxPl2+Ine:%>ныдын K ;
++PxPl3+Ine:%>нысын K ;
 
-+Ill:ӧ K ;
-+PxPl1+Ill:нымӧ K ;
-+PxPl2+Ill:ныдӧ K ;
-+PxPl3+Ill:нысӧ K ;
++Ill:%>ӧ K ;
++PxPl1+Ill:%>нымӧ K ;
++PxPl2+Ill:%>ныдӧ K ;
++PxPl3+Ill:%>нысӧ K ;
 
-+Egr:сянь K ;
-+Egr+PxSg3:сяньыс K ;
-+PxSg3+Egr:ыссянь K ;
-+Egr+PxPl1:сяньным K ;
-+PxPl1+Egr:нымсянь K ;
-+Egr+PxPl2:сяньныд K ;
-+PxPl2+Egr:ныдсянь K ;
-+PxPl3+Egr:ныссянь K ;
++Egr:%>сянь K ;
++Egr+PxSg3+So/CP:%>сяньыс K ;
++Egr+PxSg3+So/PC:%>ыссянь K ;
++Egr+PxPl1+So/CP:%>сяньным K ;
++Egr+PxPl1+So/PC:%>нымсянь K ;
++Egr+PxPl2+So/CP:%>сяньныт K ;
++Egr+PxPl2+So/PC:%>нытсянь K ;
++Egr+PxPl3+So/PC:%>ныссянь K ;
 
 APR_THEN_K ;
-+Apr+PxSg3:ланьыс K ;
-+Apr+PxSg3:ыслань K ;
-+Apr+PxPl1:нымлань K ;
-+Apr+PxPl2:ныдлань K ;
-+Apr+PxPl3:ныслань K ;
++Apr+PxSg3+So/CP:%>ланьыс K ;
++Apr+PxSg3+So/PC:%>ыслань K ;
++Apr+PxPl1+So/PC:%>нымлань K ;
++Apr+PxPl2+So/PC:%>нытлань K ;
++Apr+PxPl3+So/PC:%>ныслань K ;
 
-+Tra:ті K ;
-+Tra+PxSg3:тіыс K ;
-+Tra+PxSg3:ысті K ;
-+Tra+PxPl1:нымті K ;
-+Tra+PxPl2:ныдті K ;
-+Tra+PxPl3:нысті K ;
++Tra:%>ті K ;
++Tra+PxSg3+So/CP:%>тіыс K ;
++Tra+PxSg3+So/PC:%>ысті K ;
++Tra+PxPl1+So/PC:%>нымті K ;
++Tra+PxPl2+So/PC:%>нытті K ;
++Tra+PxPl3+So/PC:%>нысті K ;
 
-+TerI:ӧдз K ;
-+PxSg3+TerI:ысӧдз K ;
-+PxPl1+TerI:нымӧдз K ;
-+PxPl2+TerI:ныдӧдз K ;
-+PxPl3+TerI:нысӧдз K ;
++TerI:%>ӧдз K ;
++TerI+PxSg3+So/PC:%>ысӧдз K ;
++TerI+PxPl1+So/PC:%>нымӧдз K ;
++TerI+PxPl2+So/PC:%>нытӧдз K ;
++TerI+PxPl3+So/PC:%>нысӧдз K ;
 
 
 
@@ -1278,43 +1279,43 @@ LEXICON PRONQ-COLL-CASE
 !ӧнія коми кыв 2000: 183
 NOM_THEN_K ;
 GEN_THEN_K ;
-+PxSg2+Gen:ыдлӧн K ;
-+PxSg3+Gen:ыслӧн K ;
++PxSg2+Gen:%>ыдлӧн K ;
++PxSg3+Gen:%>ыслӧн K ;
 ABL_THEN_K ;
-+PxSg2+Abl:ыдлісь K ;
-+PxSg3+Abl:ыслісь K ;
+ ABL_PXSG2_THEN_K ;
+ ABL_PXSG3_THEN_K ;
 DAT_THEN_K ;
-+PxSg2+Dat:ыдлісь K ;
-+PxSg3+Dat:ыслісь K ;
++PxSg2+Dat:%>ыдлісь K ;
++PxSg3+Dat:%>ыслісь K ;
 ACC_THEN_K ;
-+PxSg2+Acc:тӧ K ;
-+PxSg3+Acc:сӧ K ;
++PxSg2+Acc:%>тӧ K ;
++PxSg3+Acc:%>сӧ K ;
 INS_THEN_K ;
 COM_THEN_K ;
-+Com+PxSg2:ыткӧт K ;
-+Com+PxSg3:ыскӧт K ;
++Com+PxSg2:%>ыткӧт K ;
++Com+PxSg3:%>ыскӧт K ;
 CAR_THEN_K ;
-+Car+PxSg2:тӧгыт K ;
-+Car+PxSg3:тӧгыс K ;
++Car+PxSg2:%>тӧгыт K ;
++Car+PxSg3:%>тӧгыс K ;
 CNS_THEN_K ;
-+Cns+PxSg2:ыдла K ;
-+Cns+PxSg3:ысла K ;
++Cns+PxSg2:%>ыдла K ;
++Cns+PxSg3:%>ысла K ;
 INE_THEN_K ;
 ELA_THEN_K ;
-+Ela+PxSg2:сит K ;
-+Ela+PxSg3:сис K ;
++Ela+PxSg2:%>сит K ;
++Ela+PxSg3:%>сис K ;
 ILL_THEN_K ;
 APR_THEN_K ;
-+Apr+PxSg2:ланьыт K ;
-+Apr+PxSg3:ланьыс K ;
++Apr+PxSg2:%>ланьыт K ;
++Apr+PxSg3:%>ланьыс K ;
 EGR_THEN_K ;
-+Egr+PxSg2:сяньыт K ;
-+Egr+PxSg3:сяньыс K ;
-+Egr+PxSg3:ыссянь K ;
++Egr+PxSg2:%>сяньыт K ;
++Egr+PxSg3:%>сяньыс K ;
++Egr+PxSg3:%>ыссянь K ;
 TRA_THEN_K ;
 TERI_THEN_K ;
-+TerI+PxSg2:ӧдзыт K ;
-+TerI+PxSg3:ӧдзыс K ;
++TerI+PxSg2:%>ӧдзыт K ;
++TerI+PxSg3:%>ӧдзыс K ;
 
 !LEXICON PRONQ-ATAG
 !+Pron+Qnt+A: K ;
@@ -1356,17 +1357,17 @@ LEXICON PRON-NEG-COLL
 +Coll:нан PRON-NEG-COLL-PERS ;
 +ZeroColl: PRON-NEG-COLL-PERS ;
 !
-+ZeroColl+Acc+PxPl2:ныдтӧ K ;
-+Coll+Acc+PxPl2:наннытӧ K ;
++ZeroColl+Acc+PxPl2:%>ныдтӧ K ;
++Coll+Acc+PxPl2:%>наннытӧ K ;
 
 LEXICON PRON-NEG-COLL-PERS
-+PxPl1:ным PRON-NEG-COLL-CASES ;
-+PxPl2:ныд PRON-NEG-COLL-CASES ;
-+PxPl3:ныс PRON-NEG-COLL-CASES ;
++PxPl1:%>ным PRON-NEG-COLL-CASES ;
++PxPl2:%>ныд PRON-NEG-COLL-CASES ;
++PxPl3:%>ныс PRON-NEG-COLL-CASES ;
 !
-+Acc+PxPl1:нымӧс K ;
-+Acc+PxPl2:нытӧ K ;
-+Acc+PxPl3:ныссӧ K ;
++Acc+PxPl1:%>нымӧс K ;
++Acc+PxPl2:%>нытӧ K ;
++Acc+PxPl3:%>ныссӧ K ;
 
 LEXICON PRON-NEG-COLL-CASES
 +Nom: K ;
@@ -1377,24 +1378,24 @@ LEXICON PRON-NEG-OBL
 ! also тэа-мэа inclusive 1Du, сыа-мэа exclusive 1Du
 +Cmpl: WordEnd ;
 GEN_THEN_K ;
-+Abl:лісь K ; !
+ABL_THEN_K ; !
 DAT_THEN_K ;
-+Acc+PxSg1:ӧс WordEnd ;
-+Acc+PxSg3:сӧ WordEnd ;
-+Ins:ӧн K ;
-+Com:кӧт K ;
++Acc+PxSg1:%>ӧс WordEnd ;
++Acc+PxSg3:%>сӧ WordEnd ;
++Ins:%>ӧн K ;
++Com:%>кӧт K ;
 CAR_THEN_K ;
-+Cns:ла K ;
++Cns:%>ла K ;
  PRON-NEG-SPAT ;
 
 LEXICON PRON-NEG-SPAT
-+Ine:ын K ;
++Ine:%>ын K ;
 ELA_THEN_K ;
-+Ill:ӧ K ; !
++Ill:%>ӧ K ; !
 APR_THEN_K ;
-+Egr:сянь K ;
-+Tra:ті K ;
-+TerI:ӧдз K ;
++Egr:%>сянь K ;
++Tra:%>ті K ;
++TerI:%>ӧдз K ;
  
 LEXICON PRON-NEG-IS_ILL
 +Pron+Neg+Ill: K ;
@@ -1427,49 +1428,49 @@ LEXICON INDEFINITE-PRON
 мый-нибудь+Pron+Indef+Pl+Acc:мыйез-нибудь # ;
 
 LEXICON INDEFINITE-PRON-CASE-KO
-+Abl:ліськӧ # ;
-+Apr:ланькӧ # ;
-+Apr:кӧлань # ;
-+Car:кӧтӧг # ;
-+Cmpr:сякӧ # ;
-+Cns:лакӧ # ;
-+Com:кӧткӧ # ;
-+Dat:лӧкӧ # ;
-+Egr:кӧсянь # ;
-+Egr:сянькӧ # ;
++Abl:%>ліськӧ # ;
++Apr:%>ланькӧ # ;
++Apr:%>кӧлань # ;
++Car:%>кӧтӧг # ;
++Cmpr:%>сякӧ # ;
++Cns:%>лакӧ # ;
++Com:%>кӧткӧ # ;
++Dat:%>лӧкӧ # ;
++Egr:%>кӧсянь # ;
++Egr:%>сянькӧ # ;
 +Ela:%{иі%}ськӧ # ;
-+Gen:лӧнкӧ # ;
-+Ill:ӧкӧ # ;
-+Ine:ынкӧ # ;
-+Ins:ӧнкӧ # ;
-+Nom:кӧ # ;
-+Prl:ӧткӧ # ;
-+TerI:ӧдзкӧ # ;
++Gen:%>лӧнкӧ # ;
++Ill:%>ӧкӧ # ;
++Ine:%>ынкӧ # ;
++Ins:%>ӧнкӧ # ;
++Nom:%>кӧ # ;
++Prl:%>ӧткӧ # ;
++TerI:%>ӧдзкӧ # ;
 
 LEXICON INDEFINITE-PRON-CASE-NIBUDJ
-+Abl:лісь-нибудь # ;
-+Apr:лань-нибудь # ;
++Abl:%>лісь-нибудь # ;
++Apr:%>лань-нибудь # ;
 +Apr:-нибудьлань # ;
 +Car:-нибудьтӧг # ;
-+Cmpr:ся-нибудь # ;
-+Cns:ла-нибудь # ;
-+Com:кӧт-нибудь # ;
-+Dat:лӧ-нибудь # ;
++Cmpr:%>ся-нибудь # ;
++Cns:%>ла-нибудь # ;
++Com:%>кӧт-нибудь # ;
++Dat:%>лӧ-нибудь # ;
 +Egr:-нибудьсянь # ;
-+Egr:сянь-нибудь # ;
++Egr:%>сянь-нибудь # ;
 +Ela:%{иі%}сь-нибудь # ;
-+Gen:лӧн-нибудь # ;
-+Ill:ӧ-нибудь # ;
-+Ine:ын-нибудь # ;
-+Ins:ӧн-нибудь # ;
++Gen:%>лӧн-нибудь # ;
++Ill:%>ӧ-нибудь # ;
++Ine:%>ын-нибудь # ;
++Ins:%>ӧн-нибудь # ;
 +Nom:-нибудь # ;
-+Prl:ӧт-нибудь # ;
-+TerI:ӧдз-нибудь # ;
++Prl:%>ӧт-нибудь # ;
++TerI:%>ӧдз-нибудь # ;
 
 LEXICON NEG-PRON
 некӧда+Pron+Neg+Sg+Nom:некӧда  WordEnd ;
 некӧда+Pron+Neg+Sg+Gen:некӧдалӧн  WordEnd ;
-некӧда+Pron+Neg+Sg+Abl:некӧдалісь  WordEnd ;
+некӧда+Pron+Neg+Sg:некӧда ABL_THEN_WORDEND ;
 некӧда+Pron+Neg+Sg+Dat:некӧдалӧ  WordEnd ;
 некӧда+Pron+Neg+Sg+Acc:некӧдӧ  WordEnd ;
 некӧда+Pron+Neg+Sg+Ins:некӧдӧн  WordEnd ;
@@ -1487,7 +1488,7 @@ LEXICON NEG-PRON
 
 некӧда+Pron+Neg+Pl+Nom:некӧдна  WordEnd ;
 некӧда+Pron+Neg+Pl+Gen:некӧдналӧн  WordEnd ;
-некӧда+Pron+Neg+Pl+Abl:некӧдналісь  WordEnd ;
+некӧда+Pron+Neg+Pl:некӧдна ABL_THEN_WORDEND ;
 некӧда+Pron+Neg+Pl+Dat:некӧдналӧ  WordEnd ;
 некӧда+Pron+Neg+Pl+Acc:некӧднӧ  WordEnd ;
 некӧда+Pron+Neg+Pl+Ins:некӧднӧн  WordEnd ;
@@ -1505,7 +1506,7 @@ LEXICON NEG-PRON
 
 некӧда+Pron+Neg+Sg+Nom+PxPl1:некӧдным  WordEnd ;
 некӧда+Pron+Neg+Sg+Gen+PxPl1:некӧднымлӧн  WordEnd ;
-некӧда+Pron+Neg+Sg+Abl+PxPl1:некӧднымлісь  WordEnd ;
+некӧда+Pron+Neg+Sg:некӧд ABL_PXPL1_THEN_WORDEND ;
 некӧда+Pron+Neg+Sg+Dat+PxPl1:некӧднымлӧ  WordEnd ;
 некӧда+Pron+Neg+Sg+Acc+PxPl1:некӧднымӧ  WordEnd ;
 некӧда+Pron+Neg+Sg+Ins+PxPl1:некӧднымӧн  WordEnd ;
@@ -1524,7 +1525,7 @@ LEXICON NEG-PRON
 
 некӧда+Pron+Neg+Sg+Nom+PxPl2:некӧдныт  WordEnd ;
 некӧда+Pron+Neg+Sg+Gen+PxPl2:некӧднытлӧн  WordEnd ;
-некӧда+Pron+Neg+Sg+Abl+PxPl2:некӧднытлісь  WordEnd ;
+некӧда+Pron+Neg+Sg:некӧд ABL_PXPL2_THEN_WORDEND ;
 некӧда+Pron+Neg+Sg+Dat+PxPl2:некӧднытлӧ  WordEnd ;
 некӧда+Pron+Neg+Sg+Acc+PxPl2:некӧднытӧ  WordEnd ;
 некӧда+Pron+Neg+Sg+Ins+PxPl2:некӧднытӧн  WordEnd ;
@@ -1543,7 +1544,7 @@ LEXICON NEG-PRON
 
 некӧда+Pron+Neg+Sg+Nom+PxPl3:некӧдныс  WordEnd ;
 некӧда+Pron+Neg+Sg+Gen+PxPl3:некӧдныслӧн  WordEnd ;
-некӧда+Pron+Neg+Sg+Abl+PxPl3:некӧдныслісь  WordEnd ;
+некӧда+Pron+Neg+Sg:некӧд ABL_PXPL3_THEN_WORDEND ;
 некӧда+Pron+Neg+Sg+Dat+PxPl3:некӧдныслӧ  WordEnd ;
 некӧда+Pron+Neg+Sg+Acc+PxPl3:некӧднысӧ  WordEnd ;
 некӧда+Pron+Neg+Sg+Ins+PxPl3:некӧднысӧн  WordEnd ;
