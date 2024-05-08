@@ -14,7 +14,7 @@ LEXICON PRONOUN-TYPES
 ӧтик+Pron+Indef:ӧтик NMN_ ;
 ӧтамӧд+Pron+Recipr:ӧтамӧд NMN_ ;
 этія+Pron+Dem:эт perssg3decl ;
-этӧ+Pron+Dem+Sg+Nom:этӧ K ;
+эта+Pron+Dem:эт KODA_ETA ;
 быдӧс+Pron+Tot:быдӧс NMN_ ;
 
 LEXICON PERS                        !!≈ * **@CODE@** 
@@ -314,41 +314,7 @@ LEXICON INTERR
 кодар+Pron+A+Der/MWN:кодар PRON-HUM-OBL ;
 кодар+Pron+A+Der/ладор:кодарладор PRON-HUM-OBL ;
 
-кӧда+Pron+Interr+Sg+Nom:кӧда  WordEnd ;
-кӧда+Pron+Interr+Sg+Gen:кӧдалӧн  WordEnd ;
-кӧда+Pron+Interr+Sg:кӧда ABL_THEN_WORDEND ;
-кӧда+Pron+Interr+Sg+Dat:кӧдалӧ  WordEnd ;
-кӧда+Pron+Interr+Sg+Acc:кӧдӧ  WordEnd ;
-кӧда+Pron+Interr+Sg+Ins:кӧдӧн  WordEnd ;
-кӧда+Pron+Interr+Sg+Com:кӧдакӧт  WordEnd ;
-кӧда+Pron+Interr+Sg+Car:кӧдатӧг  WordEnd ;
-кӧда+Pron+Interr+Sg+Cns:кӧдала  WordEnd ;
-кӧда+Pron+Interr+Sg+Cmpr:кӧдася  WordEnd ;
-кӧда+Pron+Interr+Sg+Ine:кӧдаын  WordEnd ;
-кӧда+Pron+Interr+Sg+Ela:кӧдаись  WordEnd ;
-кӧда+Pron+Interr+Sg+Ill:кӧдаӧ  WordEnd ;
-кӧда+Pron+Interr+Sg+Apr:кӧдалань  WordEnd ;
-кӧда+Pron+Interr+Sg+Egr:кӧдасянь  WordEnd ;
-кӧда+Pron+Interr+Sg+Prl:кӧдаӧт  WordEnd ;
-кӧда+Pron+Interr+Sg+TerI:кӧдаӧдз  WordEnd ;
-
-кӧда+Pron+Interr+Pl+Nom:кӧдна  WordEnd ;
-кӧда+Pron+Interr+Pl+Gen:кӧдналӧн  WordEnd ;
-кӧда+Pron+Interr+Pl:кӧдна ABL_THEN_WORDEND ;
-кӧда+Pron+Interr+Pl+Dat:кӧдналӧ  WordEnd ;
-кӧда+Pron+Interr+Pl+Acc:кӧднӧ  WordEnd ;
-кӧда+Pron+Interr+Pl+Ins:кӧднӧн  WordEnd ;
-кӧда+Pron+Interr+Pl+Com:кӧднакӧт  WordEnd ;
-кӧда+Pron+Interr+Pl+Car:кӧднатӧг  WordEnd ;
-кӧда+Pron+Interr+Pl+Cns:кӧднала  WordEnd ;
-кӧда+Pron+Interr+Pl+Cmpr:кӧднася  WordEnd ;
-кӧда+Pron+Interr+Pl+Ine:кӧднаын  WordEnd ;
-кӧда+Pron+Interr+Pl+Ela:кӧднаись  WordEnd ;
-кӧда+Pron+Interr+Pl+Ill:кӧднаӧ  WordEnd ;
-кӧда+Pron+Interr+Pl+Apr:кӧдналань  WordEnd ;
-кӧда+Pron+Interr+Pl+Egr:кӧднасянь  WordEnd ;
-кӧда+Pron+Interr+Pl+Prl:кӧднаӧт  WordEnd ;
-кӧда+Pron+Interr+Pl+TerI:кӧднаӧдз  WordEnd ;
+кӧда+Pron+Interr:кӧд  KODA_ETO ;
 
 кӧда+Pron+Interr+Sg+Nom+PxPl1:кӧдным  WordEnd ;
 кӧда+Pron+Interr+Sg+Gen+PxPl1:кӧднымлӧн  WordEnd ;
@@ -407,41 +373,7 @@ LEXICON INTERR
 кӧда+Pron+Interr+Sg+Prl+PxPl3:кӧднысӧт  WordEnd ;
 кӧда+Pron+Interr+Sg+TerI+PxPl3:кӧднысӧдз  WordEnd ;
 
-кӧда+Pron+Rel+Sg+Nom:кӧда  WordEnd ;
-кӧда+Pron+Rel+Sg+Gen:кӧдалӧн  WordEnd ;
-кӧда+Pron+Rel+Sg:кӧда ABL_THEN_WORDEND ;
-кӧда+Pron+Rel+Sg+Dat:кӧдалӧ  WordEnd ;
-кӧда+Pron+Rel+Sg+Acc:кӧдӧ  WordEnd ;
-кӧда+Pron+Rel+Sg+Ins:кӧдӧн  WordEnd ;
-кӧда+Pron+Rel+Sg+Com:кӧдакӧт  WordEnd ;
-кӧда+Pron+Rel+Sg+Car:кӧдатӧг  WordEnd ;
-кӧда+Pron+Rel+Sg+Cns:кӧдала  WordEnd ;
-кӧда+Pron+Rel+Sg+Cmpr:кӧдася  WordEnd ;
-кӧда+Pron+Rel+Sg+Ine:кӧдаын  WordEnd ;
-кӧда+Pron+Rel+Sg+Ela:кӧдаись  WordEnd ;
-кӧда+Pron+Rel+Sg+Ill:кӧдаӧ  WordEnd ;
-кӧда+Pron+Rel+Sg+Apr:кӧдалань  WordEnd ;
-кӧда+Pron+Rel+Sg+Egr:кӧдасянь  WordEnd ;
-кӧда+Pron+Rel+Sg+Prl:кӧдаӧт  WordEnd ;
-кӧда+Pron+Rel+Sg+TerI:кӧдаӧдз  WordEnd ;
-
-кӧда+Pron+Rel+Pl+Nom:кӧдна  WordEnd ;
-кӧда+Pron+Rel+Pl+Gen:кӧдналӧн  WordEnd ;
-кӧда+Pron+Rel+Pl:кӧдна ABL_THEN_WORDEND ;
-кӧда+Pron+Rel+Pl+Dat:кӧдналӧ  WordEnd ;
-кӧда+Pron+Rel+Pl+Acc:кӧднӧ  WordEnd ;
-кӧда+Pron+Rel+Pl+Ins:кӧднӧн  WordEnd ;
-кӧда+Pron+Rel+Pl+Com:кӧднакӧт  WordEnd ;
-кӧда+Pron+Rel+Pl+Car:кӧднатӧг  WordEnd ;
-кӧда+Pron+Rel+Pl+Cns:кӧднала  WordEnd ;
-кӧда+Pron+Rel+Pl+Cmpr:кӧднася  WordEnd ;
-кӧда+Pron+Rel+Pl+Ine:кӧднаын  WordEnd ;
-кӧда+Pron+Rel+Pl+Ela:кӧднаись  WordEnd ;
-кӧда+Pron+Rel+Pl+Ill:кӧднаӧ  WordEnd ;
-кӧда+Pron+Rel+Pl+Apr:кӧдналань  WordEnd ;
-кӧда+Pron+Rel+Pl+Egr:кӧднасянь  WordEnd ;
-кӧда+Pron+Rel+Pl+Prl:кӧднаӧт  WordEnd ;
-кӧда+Pron+Rel+Pl+TerI:кӧднаӧдз  WordEnd ;
+кӧда+Pron+Rel:кӧд KODA_ETA ;
 
 кӧда+Pron+Rel+Sg+Nom+PxPl1:кӧдным  WordEnd ;
 кӧда+Pron+Rel+Sg+Gen+PxPl1:кӧднымлӧн  WordEnd ;
@@ -552,7 +484,43 @@ LEXICON INTERR
 некытӧн+Pron+Neg+Spat+Ine:некытӧн K ;
 некӧн+Pron+Neg+Spat+Ine:некӧн K ;
 
+LEXICON KODA_ETA
++Sg+Nom:а WordEnd ;
++Sg+Acc:ӧ WordEnd ;
++Sg:а ABL_THEN_WORDEND ;
++Sg:а APR_THEN_WORDEND ;
++Sg:а CAR_THEN_WORDEND ;
++Sg:а CMPR_THEN_WORDEND ;
++Sg:а CNS_THEN_WORDEND ;
++Sg:а COM_THEN_WORDEND ;
++Sg:а DAT_THEN_WORDEND ;
++Sg:а EGR_THEN_WORDEND ;
++Sg:а ELA_THEN_WORDEND ;
++Sg:а GEN_THEN_WORDEND ;
++Sg:а ILL_THEN_WORDEND ;
++Sg:а INE_THEN_WORDEND ;
++Sg: INS_THEN_WORDEND ;
++Sg:а PRL_THEN_WORDEND ;
++Sg:а TERI_THEN_WORDEND ;
 
++Pl+Nom:на  WordEnd ;
++Pl:на ABL_THEN_WORDEND ;
++Pl+Acc:нӧ  WordEnd ;
+
++Pl:на APR_THEN_WORDEND ;
++Pl:на CAR_THEN_WORDEND ;
++Pl:на CMPR_THEN_WORDEND ;
++Pl:на CNS_THEN_WORDEND ;
++Pl:на COM_THEN_WORDEND ;
++Pl:на DAT_THEN_WORDEND ;
++Pl:на EGR_THEN_WORDEND ;
++Pl:на ELA_THEN_WORDEND ;
++Pl:на GEN_THEN_WORDEND ;!лӧн
++Pl:на ILL_THEN_WORDEND ;!ӧ
++Pl:на INE_THEN_WORDEND ;!ын
++Pl:н INS_THEN_WORDEND ;!ӧн
++Pl:на PRL_THEN_WORDEND ;!ӧт
++Pl:на TERI_THEN_WORDEND ;!ӧдз
 
 LEXICON PRON-HUM
 +Pron+Sg+Nom:і INTERR-REL ;
