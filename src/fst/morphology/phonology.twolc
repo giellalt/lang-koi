@@ -120,6 +120,7 @@ Rules
 
 "ы:0"
 ы:0 <=> Cns (ь:) _ %^VowRM: ;
+        р й: _ (%^VowRM:) %> %{ая%}: ;
 
 "The famous L/V"
 !! **@RULENAME@**
@@ -186,6 +187,10 @@ Rules
 "j to soft sign after r"
 !! **@RULENAME@**
  й:ь <=> [ б | в | г | к | м | п | р ] _ %> а: ;
+  [ б | в | г | ж | к | м | п | р | ч | ш ] _ ы: (%^VowRM:) %> %{ая%}: ;
+
+!!€ дорйы^VowRM>{ая}
+!!€ дорь00>я
 
 "j to hard sign after consonant"
 !! **@RULENAME@**
