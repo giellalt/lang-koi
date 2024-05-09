@@ -810,6 +810,9 @@ Paragogic consonants
 
 **j to soft sign after r**
 
+* *дорйы^VowRM>{ая}*
+* *дорь00>я*
+
 **j to hard sign after consonant**
 * *кывй%>а#*
 * *кывъ%>я#*
