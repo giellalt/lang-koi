@@ -38,7 +38,11 @@ Num
 Pcle
 Clt
 Po
+Adp just in case
 Dem
+Det
+Tot
+Coll
 Qnt
 Prop
 
