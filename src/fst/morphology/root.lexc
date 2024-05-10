@@ -176,6 +176,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 +Der
 +Der/Ок
 +Der/Dimin
++Der/AssocColl
 
 
 +Cmpl !! this will be used for marking complement forms such as кыкнан in collective numerals, сы , which can only appear with a following NP. DO WE NEED THIS 2019-10-22? jaska Niko
