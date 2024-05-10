@@ -8,6 +8,8 @@
 ! ============ !
 LEXICON ADP_
 +Po: K ;
+LEXICON PO_OR_PO_WITH_PX
++Po: PO-PX ;
 
 LEXICON PR_
 +Pr: WordEnd ; !! Russian на
