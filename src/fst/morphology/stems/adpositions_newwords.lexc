@@ -1,7 +1,7 @@
 
 LEXICON ADP_NEWWORDS
 
-аддза+Adp:аддза PO-PX  "vuoksi" ;
+аддза+Adp:аддза PO_OR_PO_WITH_PX  "vuoksi" ;
 берд+Adp:берд PO-SPAT_  "ääri" ;
 бердлань+Adp:берд PO-SPAT-APR  "" ;
 бердсянь+Adp:берд PO-SPAT-EGR  "" ;
@@ -33,7 +33,7 @@ LEXICON ADP_NEWWORDS
 бӧрланьӧ+Adp:бӧр PO-SPAT-APRILL  "" ;
 бӧрся+Adp:бӧр PO-SPAT-COMP  "jälkeen" ;
 бӧрсянь+Adp:бӧр PO-SPAT-EGR  "" ;
-бӧрти+Adp:бӧрти PO-PX  "" ;
+бӧрти+Adp:бӧрти PO_OR_PO_WITH_PX  "" ;
 бӧртинас+Adp:бӧртинас PO-TEMP-IS_TRA-INSTR-SG3  "" ;
 бӧрын+Adp:бӧр PO-SPAT-INE  "" ;
 бӧрыннас+Adp:бӧрыннас ADV_  "" ;
@@ -41,7 +41,7 @@ LEXICON ADP_NEWWORDS
 бӧрӧ+Adp:бӧр PO-SPAT-ILL  "" ;
 бӧрӧд+Adp:бӧр PO-SPAT-PROL  "" ;
 бӧрӧдзз+Adp:бӧр PO-TERI  "" ;
-вöсна+Adp:вöсна PO-PX  "vuoksi" ;
+вöсна+Adp:вöсна PO_OR_PO_WITH_PX  "vuoksi" ;
 вевдорсянь+Adp:вевдор PO-SPAT-EGR  "" ;
 вевдорті+Adp:вевдор PO-SPAT-TRA  "" ;
 вевдорын+Adp:вевдор PO-SPAT-INE  "" ;
@@ -86,8 +86,7 @@ LEXICON ADP_NEWWORDS
 выяысь+Adp:выя PO-SPAT-ELA  "" ;
 выяӧ+Adp:выя PO-SPAT-ILL  "" ;
 выяӧдзз+Adp:выя PO-SPAT-TERI  "" ;
-вӧсна+Adp:вӧсна PO-PX  "takia" ;
-вӧсна+Adp:вӧсна PO-PX  "" ;
+вӧсна+Adp:вӧсна PO_OR_PO_WITH_PX  "takia" ;
 горув+Adp:горул PO-SPAT_  "" ;
 гырся+Adp:гыр PO-COMP  "" ;
 гӧгӧр+Adp:гӧгӧр POSTP-NOUN  "ympärillä" ;
@@ -108,8 +107,8 @@ LEXICON ADP_NEWWORDS
 пырйӧ+Adp:пырй PO_ILL "" ;
 сьӧртӧт+Adp:сьӧрт PO_PRL "" ;
 
-дыра+Adp:дыра PO-PX  "" ;
-дырйи+Adp:дырйи PO-PX  "aikana" ;
+дыра+Adp:дыра PO_OR_PO_WITH_PX  "" ;
+дырйи+Adp:дырйи PO_OR_PO_WITH_PX  "aikana" ;
 дінсянь+Adp:дін PO-SPAT-EGR  "" ;
 дінті+Adp:дін PO-SPAT-TRA  "" ;
 дінын+Adp:дін PO-SPAT-INE  "" ;
@@ -129,7 +128,7 @@ LEXICON ADP_NEWWORDS
 кежысь+Adp:кеж PO-ELA  "" ;
 кежӧ+Adp:кеж PO_ILL  "" ;
 килоа+Adp:килоа PoATag  "" ;
-кодь+Adp:кодь PO-PX  "" ;
+кодь+Adp:кодь PO_OR_PO_WITH_PX  "" ;
 кодься+Adp:кодься PoATag  "" ;
 костын+Adp:кост PO-SPAT-INE  "" ;
 костысь+Adp:кост PO-SPAT-ELA  "" ;
@@ -137,8 +136,8 @@ LEXICON ADP_NEWWORDS
 костӧд+Adp:кост PO-SPAT-PROL  "" ;
 кузя+Adp:кузя PO-SPAT_  "pitkin" ;
 кузяла+Adp:кузяла POSTP1  "" ;
-кымын+Adp:кымын PO-PX  "" ;
-кындзи+Adp:кындзи PO-PX  "ohella" ;
+кымын+Adp:кымын PO_OR_PO_WITH_PX  "" ;
+кындзи+Adp:кындзи PO_OR_PO_WITH_PX  "ohella" ;
 кышӧда+Adp:кышӧда PoATag  "" ;
 лыд+Adp:лыд POSTP1  "joukossa" ;
 мат+Adp:мат POSTP1  "" ;
@@ -146,11 +145,11 @@ LEXICON ADP_NEWWORDS
 местісь+Adp:мест PO-ELA  "" ;
 местӧ+Adp:мест PO_ILL  "" ;
 могысь+Adp:мог PO-ELA  "" ;
-моз+Adp:моз PO-PX  "niin kuin" ;
+моз+Adp:моз PO_OR_PO_WITH_PX  "niin kuin" ;
 мозӧн+Adp:моз PO_INS  "niin kuin" ;
-мында+Adp:мында PO-PX  "niin paljon kuin" ;
-мысти+Adp:мысти PO-PX  "kuluttua" ;
-мысьт+Adp:мысьт PO-PX  "kuluttua" ;
+мында+Adp:мында PO_OR_PO_WITH_PX  "niin paljon kuin" ;
+мысти+Adp:мысти PO_OR_PO_WITH_PX  "kuluttua" ;
+мысьт+Adp:мысьт PO_OR_PO_WITH_PX  "kuluttua" ;
 мӧдар+Adp:мӧдар POSTP1  "toisella puolella" ;
 мӧдлапӧв+Adp:мӧдлапӧл POSTP1  "" ;
 на+Adp:на PR_  "" ;
@@ -181,25 +180,24 @@ LEXICON ADP_NEWWORDS
 помын+Adp:пом PO-SPAT-INE  "" ;
 помысь+Adp:пом PO-SPAT-ELA  "" ;
 помӧ+Adp:пом PO-SPAT-ILL  "" ;
-понда+Adp:понда PO-PX  "jstak syystä" ;
 пондаись+Adp:понда PO-ELA "" ; 
-пуд+Adp:пуд PO-PX  "" ;
-пуджыд+Adp:пуджыд PO-PX  "" ;
+пуд+Adp:пуд PO_OR_PO_WITH_PX  "" ;
+пуджыд+Adp:пуджыд PO_OR_PO_WITH_PX  "" ;
 пыдди+Adp:пыдди POSTP_  "asemesta" ;
-пыдди+Adp:пыдди PO-PX  "" ;
-пыр+Adp:пыр PO-PX  "läpi" ;
+пыдди+Adp:пыдди PO_OR_PO_WITH_PX  "" ;
+пыр+Adp:пыр PO_OR_PO_WITH_PX  "läpi" ;
 пырся+Adp:пыр PO-COMP  "" ;
 пытш+Adp:пытшк PO-SPAT_  "sisällä" ;
 пӧвст+Adp:пӧвст PO-SPAT_  "" ;
 пӧвстті+Adp:пӧвстті POSTP1  "" ;
 пӧлӧн+Adp:пӧлӧн POSTP-NOUN  "pitkin" ;
-пӧперег+Adp:пӧперег PO-PX  "" ;
-ради+Adp:ради PO-PX  "" ;
+пӧперег+Adp:пӧперег PO_OR_PO_WITH_PX  "" ;
+ради+Adp:ради PO_OR_PO_WITH_PX  "" ;
 сай+Adp:сай PO-SPAT_  "" ;
-серти+Adp:серти PO-PX  "mukaan" ;
+серти+Adp:серти PO_OR_PO_WITH_PX  "mukaan" ;
 сорӧн+Adp:сор PO_INS  "" ;
 суда+Adp:суда POSTP_  "" ;
-сьӧр+Adp:сьӧр PO-PX  "" ;
+сьӧр+Adp:сьӧр PO_OR_PO_WITH_PX  "" ;
 сьӧрын+Adp:сьӧр PO_INE  "" ;
 сьӧрысь+Adp:сьӧр PO-ELA  "" ;
 сьӧрӧ+Adp:сьӧр PO_ILL  "" ;
@@ -230,6 +228,6 @@ LEXICON ADP_NEWWORDS
 шӧрӧдзз+Adp:шӧр PO-SPAT-TERI  "" ;
 ылӧс+Adp:ылӧс POSTP_  "" ;
 ылӧс+Adp:ылӧс POSTP1  "" ;
-ӧприч+Adp:ӧприч PO-PX  "" ;
+ӧприч+Adp:ӧприч PO_OR_PO_WITH_PX  "" ;
 ӧтдор+Adp:ӧтдор POSTP1  "paitsi" ;
-ӧтсор+Adp:ӧтсор PO-PX  "" ;
+ӧтсор+Adp:ӧтсор PO_OR_PO_WITH_PX  "" ;
