@@ -1550,4 +1550,422 @@
      </xg>
    </mg>
 </e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасвитӧдз</l>
+     <stg>
+       <st Contlex="NUM-ORD_">дасвитӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасвитӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">дасвитӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>пятнадцатый</t>
+     </tg>
+     <xg>
+       <x>меным муніс дасвитӧт год</x>
+       <xt xml:lang="rus">мне пошёл пятнадцатый год</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даскватьӧдз</l>
+     <stg>
+       <st Contlex="NUM-ORD_">даскватьӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даскватьӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">даскватьӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>шестнадцатый</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даскуимӧдз</l>
+     <stg>
+       <st Contlex="NUM-ORD_">даскуимӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даскуимӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">даскуимӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>тринадцатый</t>
+     </tg>
+     <xg>
+       <x>даскуимӧт лун</x>
+       <xt xml:lang="rus">тринадцатый день</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даскыкьямысӧдз</l>
+     <stg>
+       <st Contlex="NUM-ORD_">даскыкьямысӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даскыкьямысӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">даскыкьямысӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>восемнадцатый</t>
+     </tg>
+     <xg>
+       <x>сылӧ мунісдаскыкьямысӧт год</x>
+       <xt xml:lang="rus">ему пошёл восемнадцатый год</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даскыкӧдз</l>
+     <stg>
+       <st Contlex="NUM-ORD_">даскыкӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даскыкӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">даскыкӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>двенадцатый</t>
+     </tg>
+     <xg>
+       <x>даскыкӧт лун</x>
+       <xt xml:lang="rus">двенадцатый день</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даснёльӧдз</l>
+     <stg>
+       <st Contlex="NUM-ORD_">даснёльӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">даснёльӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">даснёльӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>четырнадцатый</t>
+     </tg>
+     <xg>
+       <x>чулаліс даснёльӧт лун</x>
+       <xt xml:lang="rus">прошёл четырнадцатый день</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дассизимӧдз</l>
+     <stg>
+       <st Contlex="NUM-ORD_">дассизимӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дассизимӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">дассизимӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>семнадцатый</t>
+     </tg>
+     <xg>
+       <x>вонӧлӧ мунӧ дассизимӧт год</x>
+       <xt xml:lang="rus">моему брату идёт семнадцатый год</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дассэсдасӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">дассэсдасӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>сотый</t>
+     </tg> <geo>Рог.</geo>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасӧдз</l>
+     <stg>
+       <st Contlex="NUM-ORD_">дасӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасӧкмысӧдз</l>
+     <stg>
+       <st Contlex="NUM-ORD_">дасӧкмысӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасӧкмысӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">дасӧкмысӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>девятнадцатый</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">дасӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>десятый</t>
+     </tg>
+     <xg>
+       <x>дасӧт лун ни кисьтӧ-зэрӧ</x>
+       <xt xml:lang="rus">уже десятый день идёт проливной дождь</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасӧтікӧдз</l>
+     <stg>
+       <st Contlex="NUM-ORD_">дасӧтікӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">дасӧтікӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">дасӧтікӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Num" type="Ord">одиннадцатый</t>
+     </tg>
+     <xg>
+       <x>сойӧлӧ тырис дасӧтікӧт год</x>
+       <xt xml:lang="rus">моей сестре исполнилось одиннадцать лет</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ӧкмысдасӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">ӧкмысдасӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Num">девяностый</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ӧкмысӧдз</l>
+     <stg>
+       <st Contlex="NUM-ORD_">ӧкмысӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Num">девятый</t>
+     </tg>
+     <xg>
+       <x>зоныс ӧкмысӧдзвас</x>
+       <xt xml:lang="rus">его сыну пошёл девятый [год]</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ӧкмысӧт</l>
+     <stg>
+       <st Contlex="NUM-ORD_">ӧкмысӧт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Num" type="Ord">девятый</t>
+     </tg>
+     <xg>
+       <x>январь ӧкмысӧт лунӧ</x>
+       <xt xml:lang="rus">девятого января</xt>
+     </xg>
+   </mg>
+</e>
 </r> 
