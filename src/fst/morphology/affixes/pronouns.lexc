@@ -318,7 +318,7 @@ LEXICON INTERR
 кодар+Pron+A+Der/MWN:кодар PRON-HUM-OBL ;
 кодар+Pron+A+Der/ладор:кодарладор PRON-HUM-OBL ;
 
-кӧда+Pron+Interr:кӧд  KODA_ETO ;
+кӧда+Pron+Interr:кӧд  KODA_ETA ;
 
 кӧда+Pron+Interr+Sg+Nom+PxPl1:кӧдным  WordEnd ;
 кӧда+Pron+Interr+Sg+Gen+PxPl1:кӧднымлӧн  WordEnd ;
