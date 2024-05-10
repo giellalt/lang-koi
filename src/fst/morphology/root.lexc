@@ -535,6 +535,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! source and target part-of-speech.
  +V→N +V→V +V→A
  +Der/xxx
+ +Der/Ord
 ! tags
 +AN ! Process Participle
 +ANA !Process Participle
