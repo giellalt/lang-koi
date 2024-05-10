@@ -602,10 +602,10 @@ LEXICON ABL_THEN_WORDEND
 +Abl:%>лісь WordEnd ;
 !LEXICON ABL_PXSG1_THEN_WORDEND
 !+Abl+PxSg1:%>ым%>лісь WordEnd ;
-LEXICON ABL_PXSG2_THEN_WORDEND
-+Abl+PxSg2:%>ыт%>лісь WordEnd ;
-LEXICON ABL_PXSG3_THEN_WORDEND
-+Abl+PxSg3:%>ыс%>лісь WordEnd ;
+!LEXICON ABL_PXSG2_THEN_WORDEND
+!+Abl+PxSg2:%>ыт%>лісь WordEnd ;
+!LEXICON ABL_PXSG3_THEN_WORDEND
+!+Abl+PxSg3:%>ыс%>лісь WordEnd ;
 
 LEXICON ABL_PXPL1_THEN_WORDEND
 +Abl+PxPl1:%>ным%>лісь WordEnd ;
@@ -787,7 +787,7 @@ LEXICON ADJ_FOR_DER/MWN
 
 LEXICON IllCompar
  K ;
-+Der/Comp:%>жык K ;
+ COMP_AND_THEN_K ;
 
 !LEXICON PredMonLex-Spat
 ! K ;      ! Singular predicative
@@ -796,9 +796,12 @@ LEXICON IllCompar
 LEXICON PredMonLex-Spat-Add-Morphology ! This allows consistency 
                                        ! with SPAT elsewhere
 +Cop+Pl:%>ӧсь K ; ! Plural predicative.
-+Comp:%>жык K ; !ывлаынжык
 +Comp+Cop+Pl:%>жыкӧсь K ; !ывлаынжыкӧсь
 +Comp+Cop+Pl:%>ӧсьжык K ; !ывлаынжыкӧсь
+ COMP_AND_THEN_K ;
+
+LEXICON COMP_AND_THEN_K
++Der/Comp:%>жык K ; !ывлаынжык
 
 
 LEXICON PredMonLex
