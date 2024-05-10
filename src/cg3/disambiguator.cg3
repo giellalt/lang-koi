@@ -42,6 +42,7 @@ LIST Num = Num ; #!! Num
 LIST Pcle = Pcle ; #!! Pcle
 LIST Clt = Clt ; #!! Clt
 LIST Po = Po ; #!! Po
+LIST Adp = Adp ; #!! Adp just in case
 LIST Dem = Dem ; #!! Dem
 LIST Qnt = Qnt ; #!! Qnt
 LIST Prop = Prop ; #!! Prop
@@ -241,6 +242,10 @@ SECTION
 SUBSTITUTE (TV) (*) TARGET (*) ;
 SUBSTITUTE (IV) (*) TARGET (*) ;
 
+SUBSTITUTE:PreferMunnyOverIns (<W:0.0>) (<W:1.0>) TARGET ("му" Sg Ins PxSg1) OR ("му" Sg Ins PxSg2) ;# мунам
+SUBSTITUTE:PreferPanyt (<W:0.0>) (<W:2.0>) TARGET ("пан" Sg Nom PxSg2) OR ("па" Sg Nom PxPl2) ;# паныт
+
+
 #!! * **NoDerIfPossible** removes all derivations
 REMOVE Err/Orth ;# remove if possible
 
@@ -305,6 +310,9 @@ SELECT:Cmpl1 Cmpl IF (1 Po) ;
 REMOVE Relat IF (-1 Cmpl);
 # Та йылысь юӧртліс «Коми му»
 
+REMOVE ("йы") IF (-1 Cmpl OR Nom) (0 ("йылісь"));
+   # сы йылісь
+
 REMOVE:Cmpl2 Cmpl ;
 
 # Numerals
@@ -367,6 +375,9 @@ SELECT:AdvWhenPreviousPx Adv IF ((-1 PxSg2) OR (-1 PxSg3)) ;
 
 REMOVE:RelatWhenjylysjVerb Relat IF (0 Po)(*1 V-jylysj BARRIER CLB);
 
+REMOVE:NoAdpWhenNoComplement Po OR Adp IF (NOT -1 Nom OR Cmpl) (NOT 0 PxTag);
+ # мунам матісь посаддэзӧт
+
 # Verbs
 # =====
 
@@ -389,6 +400,9 @@ REMOVE:NegSgIfNotConNegPl Neg + Pl3 IF (NOT 1 ConNeg + Pl3);
 
 SELECT:NegIfConNeg Neg IF (1 ConNeg OR Adv);
 	# оз тырмы
+
+REMOVE:NotConNegWhenPcle ("оз" V Neg) IF (-1 BOS OR CLB) (0 ("эд" Pcle)) (NOT 1 CLB OR ConNeg OR EOS);
+  # бур юӧр, эд ме сы понда
 
 REMOVE:ConNegWhenNextNeg ConNeg OR Imprt IF (1 Neg);	
 # миянлы ни ӧти кыв эз на шулы
@@ -612,7 +626,8 @@ REMOVE:UnaAdv (Qnt "уна") IF (0 Adv) ;
 
 # We disambiguate all N Sg Nom / Acc + N combinations as 
 # Nom for the first element
-SELECT:nmodNotAcc (N Sg Nom) IF (0 Nom) (1 N) ;
+SELECT:nmodNotAcc (N Sg Nom) IF (0 Nom LINK NOT 0 A ) (1 N) ;
+	# бур юӧр
 
 # This is just a test, doesn't work
 # SELECT:AisNomNotAccIfFollowedByN Nom IF (1 (N Nom)) ;
