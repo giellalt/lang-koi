@@ -776,7 +776,7 @@ LEXICON PRON-REFL-IN_LADOR
 +Pron+Refl+Der/ладор: Noun1 ; !2011-11-22
 
 LEXICON EndRefl
-+Pron+Refl+Cmpl: WordEnd ; !ас is an absolute-form modifer
++Refl+Cmpl: WordEnd ; !ас is an absolute-form modifer
  PRON-REFL-OBL-CASES ;
 
 LEXICON PRON-REFL-OBL-CASES
