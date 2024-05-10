@@ -202,10 +202,12 @@ define giella_generators
 .generated/generator-gt-%.$(1): .generated/generator-gt-%.tmp.$(1) \
 					 filters/remove-derivation-position-tags.$(1)      \
 					 filters/remove-norm-comp-tags.$(1)                \
+					 filters/rename_optional-POS_before_Der-tags.$(1) \
 					 filters/remove-usage-tags.$(1)
 	$$(AM_V_XFST_TOOL)$$(PRINTF) "read regex \
 				@\"filters/remove-usage-tags.$(1)\"                    \
 			.o. @\"filters/remove-derivation-position-tags.$(1)\"      \
+			.o. @\"filters/rename_optional-POS_before_Der-tags.$(1)\" \
 			.o. @\"filters/remove-norm-comp-tags.$(1)\"                \
 			.o. @\"$$<\"                                               \
 			;\n\
@@ -220,9 +222,11 @@ $(foreach fst,hfst xfst foma,$(eval $(call giella_generators,$(fst))))
 .generated/generator-dict-gt-norm.%: .generated/generator-dict-gt-norm.tmp.% \
 					filters/remove-derivation-position-tags.% \
 					filters/remove-norm-comp-tags.%      \
+					filters/rename_optional-POS_before_Der-tags.%  \
 					filters/remove-usage-tags.%
 	$(AM_V_XFST_TOOL)$(PRINTF) "read regex \
 				@\"filters/remove-usage-tags.$*\"               \
+			.o. @\"filters/rename_optional-POS_before_Der-tags.$*\" \
 			.o. @\"filters/remove-derivation-position-tags.$*\" \
 			.o. @\"filters/remove-norm-comp-tags.$*\"           \
 			.o. @\"$<\"                                         \
