@@ -35,19 +35,19 @@ LEXICON CARD
 
 
 LEXICON COLL
-+Coll+Iter:%>%{иі%}сь K ;
-+Coll+Iter+Distr:%>%{иі%}сьӧн K ;
-!+Coll: NumCASEPOSSLEX ; ! _нан_ is already part of the stem
-+Coll+Cmpl: # ;
-+Pron+Coll+Pl1:%>ным NumMWN ;
-+Pron+Coll+Pl2:%>ныт NumMWN ;
-+Pron+Coll+Pl3:%>ныс NumMWN ;
++AssocColl+Iter:%>%{иі%}сь K ;
++AssocColl+Iter+Distr:%>%{иі%}сьӧн K ;
+!+AssocColl: NumCASEPOSSLEX ; ! _нан_ is already part of the stem
++AssocColl+Sg+Nom: # ;
++Pron+AssocColl+Pl1:%>ным NumMWN ;
++Pron+AssocColl+Pl2:%>ныт NumMWN ;
++Pron+AssocColl+Pl3:%>ныс NumMWN ;
 
-LEXICON NUM_ASSOCCOLL
-+Coll+Cmpl: # ;
-+Der+Der/Pron+Pron+Coll+Pl1:%>ным CASE_THEN_K ;
-+Der+Der/Pron+Pron+Coll+Pl2:%>ныт CASE_THEN_K ;
-+Der+Der/Pron+Pron+Coll+Pl3:%>ныс CASE_THEN_K ;
+LEXICON NUM_ASSOCCOLL !куимнан
++AssocColl+Sg+Nom: # ;
++Der+Der/Pron+Pron+AssocColl+Pl1:%>ным CASE_THEN_K ;
++Der+Der/Pron+Pron+AssocColl+Pl2:%>ныт CASE_THEN_K ;
++Der+Der/Pron+Pron+AssocColl+Pl3:%>ныс CASE_THEN_K ;
 
 LEXICON NUM_ASSOCCOLL_PL1 !кыкнанным
 +Der+Der/Pron+Pron+Pl1: CASE_THEN_K ;

@@ -14,10 +14,10 @@ LEXICON DET_
 LEXICON NUM-ORD_
 +Der+Der/Ord+A: K ;!CHECKME 2024-05-10
 LEXICON NUM_TOT_CMPL !даснан
-+Tot+Cmpl: K ; !AssocColl
-+Der+Der/Pron+Pron+Tot+Pl1:%>ным NumMWN ;
-+Der+Der/Pron+Pron+Tot+Pl2:%>ныт NumMWN ;
-+Der+Der/Pron+Pron+Tot+Pl3:%>ныс NumMWN ;
++AssocColl+Cmpl: K ; !AssocColl
++Der+Der/Pron+Pron+AssocColl+Pl1:%>ным NumMWN ;
++Der+Der/Pron+Pron+AssocColl+Pl2:%>ныт NumMWN ;
++Der+Der/Pron+Pron+AssocColl+Pl3:%>ныс NumMWN ;
 
 
 LEXICON PRC_

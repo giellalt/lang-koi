@@ -556,11 +556,11 @@ LEXICON PRON-HUM-OBL
 +TerI:%>ӧдз INTERR-REL-INDEF ;
 
 LEXICON PRON-HUM-COLL
-+Coll:%>нан PRON-HUM-COLL-PERS ;
++AssocColl:%>нан PRON-HUM-COLL-PERS ;
 +ZeroColl: PRON-HUM-COLL-PERS ;
 !
 +ZeroColl+Acc+PxPl2:%>ныдтӧ INTERR-REL-INDEF ;
-+Coll+Acc+PxPl2:%>наннытӧ INTERR-REL-INDEF ;
++AssocColl+Acc+PxPl2:%>наннытӧ INTERR-REL-INDEF ;
 
 LEXICON PRON-HUM-COLL-PERS
 +PxPl1:%>ным PRON-HUM-COLL-CASES ;
@@ -1081,7 +1081,7 @@ LEXICON PRON-DUAL
 +Pron+Du: PRON-NEG-OBL ;
 
 ! LEXICON PRON-INTER-REL-HUM-COLL
-! +Coll:нан PRON-INTER-REL-HUM-COLL-PERS ;
+! +AssocColl:нан PRON-INTER-REL-HUM-COLL-PERS ;
 ! +ZeroColl: PRON-INTER-REL-HUM-COLL-PERS ;
 ! +ZeroColl+PxPl2+Acc:%>ныдтӧ PRON-INTER-REL-HUM-COLL-INDEF ;
 ! +Coll+PxPl2+Acc:%>наннытӧ PRON-INTER-REL-HUM-COLL-INDEF ;
@@ -1326,11 +1326,11 @@ LEXICON PRON-NEG
 
 
 LEXICON PRON-NEG-COLL
-+Coll:нан PRON-NEG-COLL-PERS ;
++AssocColl:нан PRON-NEG-COLL-PERS ;
 +ZeroColl: PRON-NEG-COLL-PERS ;
 !
 +ZeroColl+Acc+PxPl2:%>ныдтӧ K ;
-+Coll+Acc+PxPl2:%>наннытӧ K ;
++AssocColl+Acc+PxPl2:%>наннытӧ K ;
 
 LEXICON PRON-NEG-COLL-PERS
 +PxPl1:%>ным PRON-NEG-COLL-CASES ;
