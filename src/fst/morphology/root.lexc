@@ -947,7 +947,7 @@ LEXICON COMPARATIVE
                         K ;
 +Der/Comp:%>жык K ;
 +Der/моз:%>моз K ;
-+Der+Der/CompMod:%>кодь K ;
++Der/CompMod:%>кодь K ;
 
 ! TODO: Integrate this in xml-files in working…
 
