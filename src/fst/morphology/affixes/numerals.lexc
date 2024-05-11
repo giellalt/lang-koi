@@ -37,7 +37,7 @@ LEXICON CARD
 LEXICON COLL ! already has Der+Der/AssocColl
 +Adv+Iter:%>%{иі%}сь K ;
 +Adv+Iter+Distr:%>%{иі%}сьӧн K ;
-+Det+Sg+Nom: # ;
++Pron+Sg+Nom: # ;
 +Pron+AssocColl+Pl1:%>ным NumMWN ;
 +Pron+AssocColl+Pl2:%>ныт NumMWN ;
 +Pron+AssocColl+Pl3:%>ныс NumMWN ;
