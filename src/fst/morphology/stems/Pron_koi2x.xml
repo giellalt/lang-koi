@@ -1593,6 +1593,35 @@
      </xg>
    </mg>
 </e>
+  <e exclude="fst">
+   <lg>
+     <l hid="Hom1" pos="Pron">нія</l>
+     <stg>
+       <st Contlex="">ны</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="V"><i>краткая основа от нія</i></t>
+     </tg>
+     <xg>
+       <x>басниыс мунӧ ны йылісь</x>
+       <xt xml:lang="rus">речь идёт о них</xt>
+     </xg>
+     <xg>
+       <x>надейтчыны ны вылӧ</x>
+       <xt xml:lang="rus">надеяться на них</xt>
+     </xg>
+     <xg>
+       <x>быдӧс эта шогмис ны увья</x>
+       <xt xml:lang="rus">всё это случилось из-за них</xt>
+     </xg>
+     <xg>
+       <x>ны коласӧт котортӧм сьӧд кань</x>
+       <xt xml:lang="rus">между ними пробежала чёрная кошка</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Pron">ныись</l>
