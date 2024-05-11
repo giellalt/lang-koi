@@ -621,7 +621,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 +Der/сюрӧ +Der/кӧ
 
 !Declaring Comparison particles
-+Der/жык ! Comparitive 2016-07-14
++Der/Comp  ! жык  Comparitive 2016-07-14
 
 !Declaring Noun derivations
 +Der/лун ! adjective-to-noun
@@ -945,7 +945,7 @@ LEXICON SPAT-COMPARATIVE
 
 LEXICON COMPARATIVE
                         K ;
-+Der/жык+Comp:%>жык K ;
++Der/Comp:%>жык K ;
 +Der/моз:%>моз K ;
 +Der+Der/CompMod:%>кодь K ;
 
