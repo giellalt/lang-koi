@@ -34,11 +34,10 @@ LEXICON CARD
 +Card+Distr:%>ӧн K ;
 
 
-LEXICON COLL
-+AssocColl+Iter:%>%{иі%}сь K ;
-+AssocColl+Iter+Distr:%>%{иі%}сьӧн K ;
-!+AssocColl: NumCASEPOSSLEX ; ! _нан_ is already part of the stem
-+AssocColl+Sg+Nom: # ;
+LEXICON COLL ! already has Der+Der/AssocColl
++Adv+Iter:%>%{иі%}сь K ;
++Adv+Iter+Distr:%>%{иі%}сьӧн K ;
++Det+Sg+Nom: # ;
 +Pron+AssocColl+Pl1:%>ным NumMWN ;
 +Pron+AssocColl+Pl2:%>ныт NumMWN ;
 +Pron+AssocColl+Pl3:%>ныс NumMWN ;

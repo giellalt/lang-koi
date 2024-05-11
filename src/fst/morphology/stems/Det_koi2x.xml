@@ -44,11 +44,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="Det">эта</l>
      <stg>
-       <st Contlex="DET_">эта</st>
+       <st Contlex="KODA_ETA">эт</st>
      </stg>
    </lg>
      <sources>
@@ -57,7 +57,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="kpv">
-       <t pos="Det">тайӧ</t>
+       <t pos="Pron">тайӧ</t>
      </tg>
      <tg xml:lang="rus">
        <t>этот</t>
@@ -71,7 +71,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="Det">этна</l>
      <stg>

@@ -2,8 +2,6 @@
 LEXICON Det_koi2x
 
 даснан+Det:даснан NUM_TOT_CMPL  "" ;
-эта+Det:эта DET_  "" ;
-этна+Det:этна DET_  "" ;
 витнан+Det:витнан NUM_TOT_CMPL  "" ;
 кватьнан+Det:кватьнан NUM_TOT_CMPL  "" ;
 куимнан+Det:куимнан NUM_TOT_CMPL  "" ;

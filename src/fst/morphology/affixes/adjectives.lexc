@@ -14,7 +14,7 @@ LEXICON DET_
 LEXICON NUM-ORD_
 +Der+Der/Ord+A: K ;!CHECKME 2024-05-10
 LEXICON NUM_TOT_CMPL !даснан
-+AssocColl+Cmpl: K ; !AssocColl
++AssocColl: K ; !AssocColl
 +Der+Der/Pron+Pron+AssocColl+Pl1:%>ным NumMWN ;
 +Der+Der/Pron+Pron+AssocColl+Pl2:%>ныт NumMWN ;
 +Der+Der/Pron+Pron+AssocColl+Pl3:%>ныс NumMWN ;
