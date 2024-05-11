@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+  <e>
+   <lg>
+     <l hid="Hom2" pos="Interj">ны</l>
+     <stg>
+       <st Contlex="INTERJ_">ны</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="V">но-о (возглас, которым понукают лошадь)</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Interj">а</l>
