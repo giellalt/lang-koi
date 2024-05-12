@@ -123,6 +123,8 @@ LIST Cmpl = Cmpl ;
 LIST Abs = Abs ;
 LIST Attr = Attr ;
 LIST Relat = Relat ;
+LIST VAbe = VAbe ;
+LIST VCar = VCar ;
 
 LIST HabObj = HabObj ; 
 LIST Instr = Instr ; 
