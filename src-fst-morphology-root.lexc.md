@@ -172,6 +172,8 @@ Question and Focus particles:
 
 The Usage extents are marked using following tags:
 
+* +URL * For tagging URLs
+
 Where do these come from source
 * **+Src/F** foreign source apparently 2015-09-08
 * **+Dimin** diminutive,  words that are already -ok dimin
