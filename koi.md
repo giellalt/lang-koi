@@ -1081,6 +1081,8 @@ Question and Focus particles:
 * +v15
 
 The Usage extents are marked using following tags:
+* **+Use/GC** – **only** retained in the HFST Grammar Checker disambiguation analyser
+* **+Use/-GC** – **never** retained in the HFST Grammar Checker disambiguation analyser
 
 * +URL * For tagging URLs
 
