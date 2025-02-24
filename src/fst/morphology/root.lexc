@@ -282,6 +282,8 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Err/Orth
  +Use/-Spell
  +Use/SpellNoSugg
+ +Use/GC           !!≈ * **@CODE@** – **only** retained in the HFST Grammar Checker disambiguation analyser
+ +Use/-GC          !!≈ * **@CODE@** – **never** retained in the HFST Grammar Checker disambiguation analyser
 
  +URL !!≈ * @CODE@ * For tagging URLs
 
