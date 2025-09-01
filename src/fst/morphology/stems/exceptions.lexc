@@ -1,0 +1,17 @@
+!! Exceptions are quite strange word-forms. the ones that do not fit anywhere
+!! else. This file contains all enumerated word forms that cannot reasonably be
+!! created from lexical data by regular inflection. Usually there should be next
+!! to none exceptions, it's always better to have a paradigm that covers only
+!! one or few words than an exception since these will not work nicely with e.g.
+!! compounding scheme or possibly many end applications.
+
+LEXICON EXCEPTIONS
+
+!! The pair verb овны-вывны conjugates in more forms than are attested for
+!! the single verb вывны:
+!!€gt-norm: овны-вывны
+!!€ олан-вылан: овны-вывны+V+Ind+Prs+Sg2
+овны-вывны+V+IV+Ind+Prs+Sg1:ола-выла K ;
+
+!! Russian-type
+Ерусалим+N+Prop+Sem/Plc:Ерусалим PROP_ ;
