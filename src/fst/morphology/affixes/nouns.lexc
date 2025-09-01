@@ -297,8 +297,10 @@ ELA_THEN_K ;
 +Car:%>тӧг K ;
 +Cns:%>ла K ;
 +Cmpr:%>ся K ;
++Cmpr+Orth/Bible:%^SoftRet%>ся K ;
 +Apr:%>лань SPAT-COMPARATIVE ;
 +Egr:%>сянь SPAT-COMPARATIVE ;
++Egr+Orth/Bible:%^SoftRet%>сянь SPAT-COMPARATIVE ;
 !+Tra:%>ті K ;
 +TerII:%>ви K ;
 +AprIne:%>ланин SPAT-COMPARATIVE ;  ! New cases in last grammar
@@ -312,6 +314,7 @@ ELA_THEN_K ;
 !+Tra+PxSg1:%>тіым K ;
 +Car+PxSg1+So/CP:%>тӧгьям K ;
 +Egr+PxSg1+So/CP:%>сяням SPAT-COMPARATIVE ;
++Egr+PxSg1+So/CP+Orth/Bible:%^SoftRet%>сяням SPAT-COMPARATIVE ;
 +AprIne+PxSg1:%>ланям SPAT-COMPARATIVE ;
 +AprEla+PxSg1:%>ланьсим SPAT-COMPARATIVE ;
 +AprIll+PxSg1:%>ланям IllCompar ; !
@@ -327,6 +330,7 @@ ELA_THEN_K ;
 +Ela+PxSg2:%>сит SPAT-COMPARATIVE ;
 +Apr+PxSg2+So/CP:%>ланят SPAT-COMPARATIVE ;
 +Egr+PxSg2+So/CP:%>сянят SPAT-COMPARATIVE ;
++Egr+PxSg2+So/CP+Orth/Bible:%^SoftRet%>сянят SPAT-COMPARATIVE ;
 +Acc+PxSg2:%>тӧ K ;
 +AprIne+PxSg2:%>ланят SPAT-COMPARATIVE ;
 +AprEla+PxSg2:%>ланьсит SPAT-COMPARATIVE ;
@@ -345,6 +349,7 @@ ELA_THEN_K ;
 +Ela+PxSg3:%>сис SPAT-COMPARATIVE ;
 +Apr+PxSg3+So/CP:%>ланяс SPAT-COMPARATIVE ;
 +Egr+PxSg3+So/CP:%>сяняс SPAT-COMPARATIVE ;
++Egr+PxSg3+So/CP+Orth/Bible:%^SoftRet%>сяняс SPAT-COMPARATIVE ;
 +AprIne+PxSg3:%>ланяс SPAT-COMPARATIVE ;
 +AprEla+PxSg3:%>ланьсис SPAT-COMPARATIVE ;
 +AprIll+PxSg3:%>ланяс IllCompar ; !
@@ -371,6 +376,7 @@ ELA_THEN_K ;
 +Apr+PxPl1+So/CP:%>ланяным SPAT-COMPARATIVE ;
 +Apr+PxPl1+So/PC:%>нымлань SPAT-COMPARATIVE ;
 +Egr+PxPl1+So/CP:%>сяняным SPAT-COMPARATIVE ; ! _ставсяньным_
++Egr+PxPl1+So/CP+Orth/Bible:%^SoftRet%>сяняным SPAT-COMPARATIVE ; ! _ставсяньным_
 +Egr+PxPl1+So/PC:%>нымсянь SPAT-COMPARATIVE ; ! _ставнымсянь_
 +AprIne+PxPl1:%>ланяным SPAT-COMPARATIVE ;
 +AprEla+PxPl1:%>ланьсьыным SPAT-COMPARATIVE ;
@@ -401,6 +407,7 @@ ELA_THEN_K ;
 +Apr+PxPl2+So/PC:%>нытлань SPAT-COMPARATIVE ;
 +Apr+PxPl2+So/CP:%>ланяныт SPAT-COMPARATIVE ;
 +Egr+PxPl2+So/CP:%>сяняныт SPAT-COMPARATIVE ;
++Egr+PxPl2+So/CP+Orth/Bible:%^SoftRet%>сяняныт SPAT-COMPARATIVE ;
 +Egr+PxPl2+So/PC:%>нытсянь SPAT-COMPARATIVE ;
 +TerII+PxPl2:%>нытви K ;
 +AprIne+PxPl2:%>ланяныт SPAT-COMPARATIVE ;
@@ -432,6 +439,7 @@ ELA_THEN_K ;
 +Apr+PxPl3+So/CP:%>ланяныс SPAT-COMPARATIVE ;
 +Egr+PxPl3+So/PC:%>ныссянь SPAT-COMPARATIVE ;
 +Egr+PxPl3+So/CP:%>сяняныс SPAT-COMPARATIVE ;
++Egr+PxPl3+So/CP+Orth/Bible:%^SoftRet%>сяняныс SPAT-COMPARATIVE ;
 +TerII+PxPl3:%>нысви K ;
 +AprIne+PxPl3:%>ланяныс SPAT-COMPARATIVE ;
 +AprEla+PxPl3:%>ланьсиныс SPAT-COMPARATIVE ;
@@ -676,9 +684,11 @@ LEXICON CAR_THEN_WORDEND
 
 LEXICON CMPR_THEN_K
 +Cmpr:%>ся K ;
++Cmpr+Orth/Bible:%^SoftRet%>ся K ;
 
 LEXICON CMPR_THEN_WORDEND
 +Cmpr:%>ся WordEnd ;
++Cmpr+Orth/Bible:%^SoftRet%>ся WordEnd ;
 
 LEXICON CNS_THEN_K
 +Cns:%>ла K ;
@@ -700,9 +710,11 @@ LEXICON DAT_THEN_WORDEND
 
 LEXICON EGR_THEN_K
 +Egr:%>сянь K ;
++Egr+Orth/Bible:%^SoftRet%>сянь K ;
 
 LEXICON EGR_THEN_WORDEND
 +Egr:%>сянь WordEnd ;
++Egr+Orth/Bible:%^SoftRet%>сянь WordEnd ;
 
 LEXICON ELA_THEN_K
 +Ela:%>%{иі%}сь K ;
@@ -773,6 +785,7 @@ LEXICON DERIVEDADJ
 +Der+Der/PrivMod+A:%>тӧм A_ ;
 +Der+Der/ProprietiveMod+A:%>а A_ ;
 +Der+Der/TempMod+A:%>ся A_ ; 
++Der+Der/TempMod+A+Orth/Bible:%^SoftRet%>ся A_ ; 
 
 LEXICON AdjCompar
 +Der/Comp:%>жык PredMonLex ;
