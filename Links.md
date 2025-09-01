@@ -23,6 +23,7 @@
                 * [adjectives.lexc](src-fst-morphology-stems-adjectives.lexc.html) ([src](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/adjectives.lexc))
                 * [adjectives_newwords.lexc](src-fst-morphology-stems-adjectives_newwords.lexc.html) ([src](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/adjectives_newwords.lexc))
                 * [adverbs_newwords.lexc](src-fst-morphology-stems-adverbs_newwords.lexc.html) ([src](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/adverbs_newwords.lexc))
+                * [exceptions.lexc](src-fst-morphology-stems-exceptions.lexc.html) ([src](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/exceptions.lexc))
                 * [kom-rus-propernouns_newwords.lexc](src-fst-morphology-stems-kom-rus-propernouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/kom-rus-propernouns_newwords.lexc))
                 * [nouns.lexc](src-fst-morphology-stems-nouns.lexc.html) ([src](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/nouns.lexc))
                 * [nouns_newwords.lexc](src-fst-morphology-stems-nouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/nouns_newwords.lexc))

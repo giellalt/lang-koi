@@ -173,6 +173,7 @@ Question and Focus particles:
 The Usage extents are marked using following tags:
 * **+Use/GC** – **only** retained in the HFST Grammar Checker disambiguation analyser
 * **+Use/-GC** – **never** retained in the HFST Grammar Checker disambiguation analyser
+Дӧсвидзисьсянь, prevents soft sign loss
 
 * +URL * For tagging URLs
 
@@ -308,6 +309,7 @@ And following triggers to control variation
 * %^1Cns    Plural-initial; it allows for doubling of consonant
 * %^LVBound     boundary for LV change instead of Consonant or end of word
 * %^VowRM       vowel syncope
+* %^SoftRet     soft sign retention Дӧсвидзисьсянь (Bible); literary norm Дӧсвидзиссянь (possibly ambiguous somewhere)
 
 * »
 * «

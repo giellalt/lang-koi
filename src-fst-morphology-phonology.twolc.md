@@ -17,6 +17,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-k
 
 * %^LVBound:0     boundary for LV change instead of Consonant or end of word
 * %^VowRM:0       vowel syncope
+* %^SoftRet:0     soft sign retention Дӧсвидзисьсянь (Bible); literary norm Дӧсвидзиссянь (possibly ambiguous somewhere)
 
 ## Boundary symbols
 
@@ -159,6 +160,8 @@ Vowel Palatalisation
 * *метал0%>лӧн*
 
 **IClitic**
+
+**Disallow soft retention when not сь or зь**  
 
 * * *
 

@@ -757,6 +757,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-k
 
 * %^LVBound:0     boundary for LV change instead of Consonant or end of word
 * %^VowRM:0       vowel syncope
+* %^SoftRet:0     soft sign retention Дӧсвидзисьсянь (Bible); literary norm Дӧсвидзиссянь (possibly ambiguous somewhere)
 
 ## Boundary symbols
 
@@ -899,6 +900,8 @@ Vowel Palatalisation
 * *метал0%>лӧн*
 
 **IClitic**
+
+**Disallow soft retention when not сь or зь**  
 
 * * *
 
@@ -1083,6 +1086,7 @@ Question and Focus particles:
 The Usage extents are marked using following tags:
 * **+Use/GC** – **only** retained in the HFST Grammar Checker disambiguation analyser
 * **+Use/-GC** – **never** retained in the HFST Grammar Checker disambiguation analyser
+Дӧсвидзисьсянь, prevents soft sign loss
 
 * +URL * For tagging URLs
 
@@ -1218,6 +1222,7 @@ And following triggers to control variation
 * %^1Cns    Plural-initial; it allows for doubling of consonant
 * %^LVBound     boundary for LV change instead of Consonant or end of word
 * %^VowRM       vowel syncope
+* %^SoftRet     soft sign retention Дӧсвидзисьсянь (Bible); literary norm Дӧсвидзиссянь (possibly ambiguous somewhere)
 
 * »
 * «
@@ -1302,6 +1307,29 @@ This is where new words from kpv are initially shown
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/adverbs_newwords.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/adverbs_newwords.lexc)</small>
+
+---
+
+# src-fst-morphology-stems-exceptions.lexc.md 
+
+Exceptions are quite strange word-forms. the ones that do not fit anywhere
+else. This file contains all enumerated word forms that cannot reasonably be
+created from lexical data by regular inflection. Usually there should be next
+to none exceptions, it's always better to have a paradigm that covers only
+one or few words than an exception since these will not work nicely with e.g.
+compounding scheme or possibly many end applications.
+
+The pair verb овны-вывны conjugates in more forms than are attested for
+the single verb вывны:
+
+* овны-вывны examples:*
+* *олан-вылан:* `овны-вывны+V+Ind+Prs+Sg2`
+
+Russian-type
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/exceptions.lexc](https://github.com/giellalt/lang-koi/blob/main/src/fst/morphology/stems/exceptions.lexc)</small>
 
 ---
 
