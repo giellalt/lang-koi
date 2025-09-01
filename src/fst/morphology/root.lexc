@@ -284,6 +284,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Use/SpellNoSugg
  +Use/GC           !!≈ * **@CODE@** – **only** retained in the HFST Grammar Checker disambiguation analyser
  +Use/-GC          !!≈ * **@CODE@** – **never** retained in the HFST Grammar Checker disambiguation analyser
+ +Orth/Bible  !! Дӧсвидзисьсянь, prevents soft sign loss
 
  +URL !!≈ * @CODE@ * For tagging URLs
 
@@ -675,6 +676,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 %^1Cns   !!= * @CODE@ Plural-initial; it allows for doubling of consonant
 %^LVBound    !!= * @CODE@ boundary for LV change instead of Consonant or end of word
 %^VowRM      !!= * @CODE@ vowel syncope
+%^SoftRet    !!= * @CODE@ soft sign retention Дӧсвидзисьсянь (Bible); literary norm Дӧсвидзиссянь (possibly ambiguous somewhere)
 
  »7     !! * »
  «7     !! * «
