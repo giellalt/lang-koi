@@ -4,28 +4,28 @@ All doc-comment documentation in one large file.
 
 ---
 
-# src-cg3-disambiguator.cg3.md 
+## src-cg3-disambiguator.cg3.md 
 
-# Komi-Permyak disambiguator
+## Komi-Permyak disambiguator
 
-## Delimiters 
+### Delimiters 
 
 Sentence delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
 
-## Tags and sets 
+### Tags and sets 
 
-### Beginning and end of sentence	
+#### Beginning and end of sentence	
 BOS
 EOS
 
-### Miscellanous
+#### Miscellanous
 
 CmpTest
 Err
 Err
 вӧлі Sg3
 
-### Parts of speech tags
+#### Parts of speech tags
 N
 V
 A
@@ -46,7 +46,7 @@ Coll
 Qnt
 Prop
 
-### Derivation tags
+#### Derivation tags
 Ex/A (former adj)
 Ex/N
 Ex/Num
@@ -55,7 +55,7 @@ Ex/WORD
 DerTag
 AspDerTag
 
-### Verbal categories
+#### Verbal categories
 Prs
 Fut
 Fut1
@@ -87,7 +87,7 @@ Com
 Cns
 ...
 
-### Verb sets
+#### Verb sets
 VNEG (all Neg verbs)
 
 VFIN
@@ -96,7 +96,7 @@ ASKI (tomorrow set)
 
 NOT-PRL (have no homograph Prolative pairs set)
 
-## Rule section
+### Rule section
 
 * **NoDerIfPossible** removes all derivations
 
@@ -111,7 +111,7 @@ NOT-PRL (have no homograph Prolative pairs set)
 
 ---
 
-# src-cg3-functions.cg3.md 
+## src-cg3-functions.cg3.md 
 
 
 
@@ -150,7 +150,7 @@ part of the noun phrase of that noun (i.e., "scan to the next NP head")
 
 These were the set types.
 
-## HABITIVE MAPPING
+### HABITIVE MAPPING
 
 * **hab1** 
 
@@ -269,16 +269,16 @@ These were the set types.
 
 * **<opredAAcc** (@<OPRED) for A Acc; if an other accusative to the left, and a transtive verb to the left of it. OR: if a transitive verb to the left, and an accusative to the left of it.
 
-### sma object
+#### sma object
 
 * **<advlEss** (@<ADVL) for ESS-ADVL if; FMAINV to the left
 * **<spredEss** (@<SPRED) for N Ess if; FMAINV to the left is intransitive or bargat
 
-## SUBJ MAPPING - leftovers
+### SUBJ MAPPING - leftovers
 
-## OBJ MAPPING - leftovers
+### OBJ MAPPING - leftovers
 
-## HNOUN MAPPING
+### HNOUN MAPPING
 
 * * *
 
@@ -286,9 +286,9 @@ These were the set types.
 
 ---
 
-# src-fst-morphology-affixes-adjectives.lexc.md 
+## src-fst-morphology-affixes-adjectives.lexc.md 
 
-# Adjective inflection
+## Adjective inflection
 ----
 Komi (Permyak) adjectives compare.
 
@@ -303,9 +303,9 @@ Singular predicative
 
 ---
 
-# src-fst-morphology-affixes-adpositions.lexc.md 
+## src-fst-morphology-affixes-adpositions.lexc.md 
 
-# Postposition inflection
+## Postposition inflection
 ----
 
 Komi postpositions inflect for direction.
@@ -343,9 +343,9 @@ these are:
 
 ---
 
-# src-fst-morphology-affixes-adverbs.lexc.md 
+## src-fst-morphology-affixes-adverbs.lexc.md 
 
-# Adverb inflection
+## Adverb inflection
 ----
 Komi adverbs inflect for direction.
 
@@ -359,9 +359,9 @@ and they probably are equivalent in morphology to postpositions
 
 ---
 
-# src-fst-morphology-affixes-conjunctors.lexc.md 
+## src-fst-morphology-affixes-conjunctors.lexc.md 
 
-# Conjunctors
+## Conjunctors
 ----
 Komi conjunctors
 
@@ -371,10 +371,10 @@ Komi conjunctors
 
 ---
 
-# src-fst-morphology-affixes-nouns.lexc.md 
+## src-fst-morphology-affixes-nouns.lexc.md 
 
 
-# Noun morphological lexica !
+## Noun morphological lexica !
 
 * **LEXICON Vocative**
 
@@ -414,7 +414,7 @@ subsequent Cns vs Vow
 * LEXICON N_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
 * LEXICON NMN_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
 
-## Inflectional lexica 
+### Inflectional lexica 
 
 All nouns follow one contlex "N_"
 to begin with here is simply a list of all variant
@@ -458,7 +458,7 @@ PL1
 PL2
 PL3
 
-## Case followed by possible clitic OR WORDEND
+### Case followed by possible clitic OR WORDEND
 
 +Der/A+Adv:%>а K ;
 
@@ -468,21 +468,21 @@ PL3
 
 ---
 
-# src-fst-morphology-affixes-numerals.lexc.md 
+## src-fst-morphology-affixes-numerals.lexc.md 
 
 
 
-# Numeral morphological lexica 
+## Numeral morphological lexica 
 
 LEXICON NUM-APPR ! 2011-11-03 This will need work
 
-## Inflectional lexica 
+### Inflectional lexica 
 
 All nouns follow one contlex "Noun1"
 to begin with here is simply a list of all variant
 with no more variants beyond:
 
-## Arabic numerals
+### Arabic numerals
 
 * **LEXICON ARABIC          ** 
 
@@ -492,9 +492,9 @@ with no more variants beyond:
 
 ---
 
-# src-fst-morphology-affixes-particles.lexc.md 
+## src-fst-morphology-affixes-particles.lexc.md 
 
-# Particles
+## Particles
 ----
 Komi Particles
 
@@ -504,7 +504,7 @@ Komi Particles
 
 ---
 
-# src-fst-morphology-affixes-prefixes.lexc.md 
+## src-fst-morphology-affixes-prefixes.lexc.md 
 
 Prefixes
 Prefixes in the Komi-Permyak language are bound to the beginning of other words.
@@ -515,11 +515,11 @@ Prefixes in the Komi-Permyak language are bound to the beginning of other words.
 
 ---
 
-# src-fst-morphology-affixes-pronouns.lexc.md 
+## src-fst-morphology-affixes-pronouns.lexc.md 
 
-# Pronominal morphology                           
+## Pronominal morphology                           
 
-## Closed class personal pronouns
+### Closed class personal pronouns
 
 * **LEXICON PERS** 
 * **ме+Pron+Pers+Sg1:ме perssg1decl ;** ...
@@ -555,7 +555,7 @@ Tagged in the src/morphology/stems/pronouns.xml file
 
 ---
 
-# src-fst-morphology-affixes-propernouns.lexc.md 
+## src-fst-morphology-affixes-propernouns.lexc.md 
 
 Proper noun inflection
 
@@ -596,10 +596,10 @@ FEMALE NAMES FROM TEMPLATE
 
 ---
 
-# src-fst-morphology-affixes-symbols.lexc.md 
+## src-fst-morphology-affixes-symbols.lexc.md 
 
 
-# Symbol affixes
+## Symbol affixes
 
 * * *
 
@@ -607,15 +607,15 @@ FEMALE NAMES FROM TEMPLATE
 
 ---
 
-# src-fst-morphology-affixes-verbs.lexc.md 
+## src-fst-morphology-affixes-verbs.lexc.md 
 
 
 
-# Verbal morphology               
+## Verbal morphology               
 
-## Closed class verbs
+### Closed class verbs
 
-## Open class verbs
+### Open class verbs
 
 Some Flag diacritic lines are with regexes, other with aligned zeros. We want to migrate to
 regexes < … > , for readability reasons (sic!)
@@ -649,7 +649,7 @@ Consonant-onset
 
 * **LEXICON V_VOLYNY** волыны:волы ! ярмыны. Multiple-syllable verb ending in -ыны.
 
-## Verb conjugation 
+### Verb conjugation 
 
 * **LEXICON VerbConj-V**  суф б -- ы 
 
@@ -673,7 +673,7 @@ Consonant-onset
 
 Differs from kpv 2016-09-15
 
-## Derivation
+### Derivation
 
 * **LEXICON Verb-nyDer** 
 
@@ -736,7 +736,7 @@ FIX THIS 2015-09-06
 
 ---
 
-# src-fst-morphology-phonology.twolc.md 
+## src-fst-morphology-phonology.twolc.md 
 
 =================================== !
 The Komi-Permyak morphophonological/twolc rules file 
@@ -744,22 +744,22 @@ The Komi-Permyak morphophonological/twolc rules file
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-koi/blob/main/src/fst/phonology.twolc) 
 
-## Alphabet, Sets and Definitions
+### Alphabet, Sets and Definitions
 
-## Letters of the alphabet
+### Letters of the alphabet
 
 * а б в г д е ё ж з и і й к л м н о ӧ п р с т у ф х ц ч ш щ ъ ы ь э ю я 
 * А Б В Г Д Е Ё Ж З И І Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я 
 
-## Archiphonemes for vowels
-## Triggers
+### Archiphonemes for vowels
+### Triggers
 * %^1Cns:0    Plural-initial; it allows for doubling of consonant
 
 * %^LVBound:0     boundary for LV change instead of Consonant or end of word
 * %^VowRM:0       vowel syncope
 * %^SoftRet:0     soft sign retention Дӧсвидзисьсянь (Bible); literary norm Дӧсвидзиссянь (possibly ambiguous somewhere)
 
-## Boundary symbols
+### Boundary symbols
 
 *  %>  morpheme boundary
 * hash # word boundary
@@ -771,7 +771,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-k
 
 Diacritics
 
-## Sets 
+### Sets 
 
 Vowel
 
@@ -791,9 +791,9 @@ Letters
 
 Dummy
 
-## Definitions
+### Definitions
 
-## Rules
+### Rules
 
 **Double stem-final consonant**
 
@@ -909,14 +909,14 @@ Vowel Palatalisation
 
 ---
 
-# src-fst-morphology-root.lexc.md 
+## src-fst-morphology-root.lexc.md 
 
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Komi-Permyak LANGUAGE.
 
-# Definitions for Multichar_Symbols
+## Definitions for Multichar_Symbols
 
-## Analysis symbols
+### Analysis symbols
 The morphological analyses of wordforms for the Komi-Permyak
 language are presented in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
@@ -960,7 +960,7 @@ used with paired nouns **collective nouns**
 
 Postpositions
 
-## Pronouns
+### Pronouns
 * **+Dem**:  demonstrative
 * **+Indef**:  indefinite
 * **+Interr**:  interrogative
@@ -970,7 +970,7 @@ Postpositions
 * **+Rel**:  relative
 * **+Tot**:  universal кыкнан; кыкнанным
 
-## Quantifiers (numerals)
+### Quantifiers (numerals)
 Quantifiers and Numerals are classified under:
 * **+Num**:  numeral
 * **+Appr**:  Approximative numeral кавто-колмо, колмошка *two or three*
@@ -985,11 +985,11 @@ NB! do not confuse with Komi case +Apr
 * **+Coord**:  Coordinates, i.e. 65˚36′8,30″ in numerals.lexc
 * **+Cop**:  this is for copula complement position with pl in -ӧсь Pred depricated
 
-## Nominals are inflected for Number and Case
-## Number
+### Nominals are inflected for Number and Case
+### Number
 singular
 plural
-## Case
+### Case
 accusative -ӧс
 ablative case -лісь
 approximative -лань
@@ -1025,7 +1025,7 @@ used when case occurs before possessive marking
 
 this will be used for marking complement forms such as кыкнан in collective numerals, сы , which can only appear with a following NP. DO WE NEED THIS 2019-10-22? jaska Niko
 
-## Symbols that need to be escaped on the lower side (towards twolc):
+### Symbols that need to be escaped on the lower side (towards twolc):
 * **»7**:  Literal »
 * **«7**:  Literal «
 ```
@@ -1066,7 +1066,7 @@ Non-dictionary words can be recognised with:
 
 Question and Focus particles:
 
-### Tags distinguishing different versions of the same lemma (before POS)
+#### Tags distinguishing different versions of the same lemma (before POS)
 * +v1
 * +v2
 * +v3
@@ -1229,7 +1229,7 @@ And following triggers to control variation
 * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
 * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
 
-## Flag diacritics
+### Flag diacritics
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
@@ -1279,7 +1279,7 @@ Incoming for conversion from kpv
 
 ---
 
-# src-fst-morphology-stems-adjectives.lexc.md 
+## src-fst-morphology-stems-adjectives.lexc.md 
 
 Adjectives
 Adjectives in Komi-Permyak language describe things.
@@ -1290,7 +1290,7 @@ Adjectives in Komi-Permyak language describe things.
 
 ---
 
-# src-fst-morphology-stems-adjectives_newwords.lexc.md 
+## src-fst-morphology-stems-adjectives_newwords.lexc.md 
 
 This is where new words from kpv are initially shown
 
@@ -1300,7 +1300,7 @@ This is where new words from kpv are initially shown
 
 ---
 
-# src-fst-morphology-stems-adverbs_newwords.lexc.md 
+## src-fst-morphology-stems-adverbs_newwords.lexc.md 
 
 This is where new words from kpv are initially shown
 
@@ -1310,7 +1310,7 @@ This is where new words from kpv are initially shown
 
 ---
 
-# src-fst-morphology-stems-exceptions.lexc.md 
+## src-fst-morphology-stems-exceptions.lexc.md 
 
 Exceptions are quite strange word-forms. the ones that do not fit anywhere
 else. This file contains all enumerated word forms that cannot reasonably be
@@ -1333,7 +1333,7 @@ Russian-type
 
 ---
 
-# src-fst-morphology-stems-kom-rus-propernouns_newwords.lexc.md 
+## src-fst-morphology-stems-kom-rus-propernouns_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
@@ -1347,7 +1347,7 @@ ADD NOUNS BELOW
 
 ---
 
-# src-fst-morphology-stems-nouns.lexc.md 
+## src-fst-morphology-stems-nouns.lexc.md 
 
 Nouns
 Nouns in the Komi Permyak language are things.
@@ -1358,7 +1358,7 @@ Nouns in the Komi Permyak language are things.
 
 ---
 
-# src-fst-morphology-stems-nouns_newwords.lexc.md 
+## src-fst-morphology-stems-nouns_newwords.lexc.md 
 
 This is where new words from kpv are initially shown
 
@@ -1370,7 +1370,7 @@ This is where new words from kpv are initially shown
 
 ---
 
-# src-fst-morphology-stems-numerals.lexc.md 
+## src-fst-morphology-stems-numerals.lexc.md 
 
 Numerals
 Numerals in the KOMI-PERMYAK language are numbers.
@@ -1381,7 +1381,7 @@ Numerals in the KOMI-PERMYAK language are numbers.
 
 ---
 
-# src-fst-morphology-stems-numerals_newwords.lexc.md 
+## src-fst-morphology-stems-numerals_newwords.lexc.md 
 
 This is where new words from kpv are initially shown
 
@@ -1391,7 +1391,7 @@ This is where new words from kpv are initially shown
 
 ---
 
-# src-fst-morphology-stems-pronouns.lexc.md 
+## src-fst-morphology-stems-pronouns.lexc.md 
 
 Pronouns
 Pronouns in KOMI PERMYAK language are references to things.
@@ -1402,7 +1402,7 @@ Pronouns in KOMI PERMYAK language are references to things.
 
 ---
 
-# src-fst-morphology-stems-pronouns_newwords.lexc.md 
+## src-fst-morphology-stems-pronouns_newwords.lexc.md 
 
 This is where new words from kpv are initially shown
 
@@ -1412,7 +1412,7 @@ This is where new words from kpv are initially shown
 
 ---
 
-# src-fst-morphology-stems-verbs_newwords.lexc.md 
+## src-fst-morphology-stems-verbs_newwords.lexc.md 
 
 This is where new words from kpv are initially shown
 
@@ -1424,7 +1424,7 @@ These are koi verbs
 
 ---
 
-# src-fst-phonetics-txt2ipa.xfscript.md 
+## src-fst-phonetics-txt2ipa.xfscript.md 
 
 
 
@@ -1593,7 +1593,7 @@ retracted tongue root			_q
 
 ---
 
-# src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
+## src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
 
 
 
@@ -1615,26 +1615,26 @@ For example:
 
 ---
 
-# tools-grammarcheckers-grammarchecker.cg3.md 
+## tools-grammarcheckers-grammarchecker.cg3.md 
 
 
 [ L A N G U A G E ]  G R A M M A R   C H E C K E R
 
-# DELIMITERS
+## DELIMITERS
 
-# TAGS AND SETS
+## TAGS AND SETS
 
-## Tags
+### Tags
 
 This section lists all the tags inherited from the fst, and used as tags
 in the syntactic analysis. The next section, **Sets**, contains sets defined
 on the basis of the tags listed here, those set names are not visible in the output.
 
-### Beginning and end of sentence
+#### Beginning and end of sentence
 BOS
 EOS
 
-### Parts of speech tags
+#### Parts of speech tags
 
 N
 A
@@ -1661,7 +1661,7 @@ PUNCT
 COMMA
 ¶
 
-### Tags for POS sub-categories
+#### Tags for POS sub-categories
 
 Pers
 Dem
@@ -1677,7 +1677,7 @@ Allegro
 Arab
 Romertall
 
-### Tags for morphosyntactic properties
+#### Tags for morphosyntactic properties
 
 Nom
 Acc
@@ -1740,7 +1740,7 @@ VAbess
 
 Err/Orth
 
-### Semantic tags
+#### Semantic tags
 
 Sem/Act
 Sem/Ani
@@ -1773,7 +1773,7 @@ PROP-SUR
 
 TIME-N-SET
 
-###  Syntactic tags
+####  Syntactic tags
 
 @+FAUXV
 @+FMAINV
@@ -1843,22 +1843,22 @@ OBJ>-OTHERS
 SYN-V
 @X
 
-## Sets containing sets of lists and tags
+### Sets containing sets of lists and tags
 
 This part of the file lists a large number of sets based partly upon the tags defined above, and
 partly upon lexemes drawn from the lexicon.
 See the sourcefile itself to inspect the sets, what follows here is an overview of the set types.
 
-### Sets for Single-word sets
+#### Sets for Single-word sets
 
 INITIAL
 
-### Sets for word or not
+#### Sets for word or not
 
 WORD
 NOT-COMMA
 
-### Case sets
+#### Case sets
 
 ADLVCASE
 
@@ -1869,11 +1869,11 @@ NOT-NOM
 NOT-GEN
 NOT-ACC
 
-### Verb sets
+#### Verb sets
 
 NOT-V
 
-### Sets for finiteness and mood
+#### Sets for finiteness and mood
 
 REAL-NEG
 
@@ -1881,7 +1881,7 @@ MOOD-V
 
 NOT-PRFPRC
 
-### Sets for person
+#### Sets for person
 
 SG1-V
 SG2-V
@@ -1893,25 +1893,25 @@ PL1-V
 PL2-V
 PL3-V
 
-### Pronoun sets
+#### Pronoun sets
 
-### Adjectival sets and their complements
+#### Adjectival sets and their complements
 
-### Adverbial sets and their complements
+#### Adverbial sets and their complements
 
-### Sets of elements with common syntactic behaviour
+#### Sets of elements with common syntactic behaviour
 
-### NP sets defined according to their morphosyntactic features
+#### NP sets defined according to their morphosyntactic features
 
-### The PRE-NP-HEAD family of sets
+#### The PRE-NP-HEAD family of sets
 
 These sets model noun phrases (NPs). The idea is to first define whatever can
 occur in front of the head of the NP, and thereafter negate that with the
 expression **WORD - premodifiers**.
 
-### Border sets and their complements
+#### Border sets and their complements
 
-### Grammarchecker sets
+#### Grammarchecker sets
 
 * * *
 
@@ -1919,9 +1919,9 @@ expression **WORD - premodifiers**.
 
 ---
 
-# tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
 
-# Tokeniser for koi
+## Tokeniser for koi
 
 Usage:
 ```
@@ -1968,7 +1968,7 @@ ASCII digits
 so far:
 * U+F0B7 for "x in box"
 
-## Unknown handling
+### Unknown handling
 Unknowns are tagged ?? and treated specially with `hfst-tokenise`
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
@@ -1987,9 +1987,9 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
-# tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
 
-# Grammar checker tokenisation for koi
+## Grammar checker tokenisation for koi
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
@@ -2052,9 +2052,9 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
-# tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
 
-# TTS tokenisation for smj
+## TTS tokenisation for smj
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
