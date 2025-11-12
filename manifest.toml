@@ -1,6 +1,3 @@
-spellername = "Komi-Permyak"
-spellerversion = "0.1.1"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -22,3 +19,15 @@ legacy_product_codes = [
     { value = "13770337-3C66-4383-8E0A-AF1F40E9C84F", kind = "nsis" },
     { value = "184C3A8C-4E53-4D12-8BE4-0CC548EC56A1", kind = "nsis" }
 ]
+
+[package.speller]
+name = "Komi-Permyak"
+version = "0.1.1"
+
+[package.grammar]
+name = "Komi-Permyak"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Komi-Permyak"
+version = "0.1.0"
