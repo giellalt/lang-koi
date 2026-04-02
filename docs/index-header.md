@@ -18,6 +18,7 @@ Center location data taken from [Glottolog](https://glottolog.org/). Area extent
 
 </div>
 
+
 This page documents the work on the [Komi-Permyak language model](http://github.com/giellalt/lang-koi). 
 
 The lexicon is full-sized (it contains approximately 75000 entries,
