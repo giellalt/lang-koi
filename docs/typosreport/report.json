@@ -49,7 +49,7 @@
   },
   "summary": {
     "total_words": 17,
-    "first_position": 3,
+    "first_position": 0,
     "top_five": 3,
     "any_position": 3,
     "no_suggestions": 0,
@@ -60,21 +60,21 @@
     "true_negative": 0,
     "slowest_lookup": {
       "secs": 0,
-      "subsec_nanos": 7579917
+      "subsec_nanos": 10761166
     },
     "fastest_lookup": {
       "secs": 0,
-      "subsec_nanos": 181792
+      "subsec_nanos": 8042
     },
     "average_time": {
       "secs": 0,
-      "subsec_nanos": 1561107
+      "subsec_nanos": 1577938
     },
     "average_time_95pc": {
       "secs": 0,
-      "subsec_nanos": 1561107
+      "subsec_nanos": 1577938
     },
-    "average_position_of_correct": 1.0,
+    "average_position_of_correct": 2.6666667,
     "average_suggestions_for_correct": 10.0
   },
   "results": [
@@ -86,7 +86,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 278666
+        "subsec_nanos": 75666
       },
       "false_accept": true
     },
@@ -98,7 +98,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 883833
+        "subsec_nanos": 29750
       },
       "false_accept": true
     },
@@ -110,7 +110,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 498625
+        "subsec_nanos": 34834
       },
       "false_accept": true
     },
@@ -122,7 +122,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 546375
+        "subsec_nanos": 35375
       },
       "false_accept": true
     },
@@ -134,7 +134,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 881042
+        "subsec_nanos": 34375
       },
       "false_accept": true
     },
@@ -146,7 +146,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 458791
+        "subsec_nanos": 93875
       },
       "false_accept": true
     },
@@ -158,7 +158,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 425875
+        "subsec_nanos": 105667
       },
       "false_accept": true
     },
@@ -170,7 +170,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 256667
+        "subsec_nanos": 70458
       },
       "false_accept": true
     },
@@ -182,7 +182,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 450167
+        "subsec_nanos": 83125
       },
       "false_accept": true
     },
@@ -194,7 +194,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 881083
+        "subsec_nanos": 11375
       },
       "false_accept": true
     },
@@ -206,7 +206,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 505708
+        "subsec_nanos": 8042
       },
       "false_accept": true
     },
@@ -218,7 +218,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 789459
+        "subsec_nanos": 27917
       },
       "false_accept": true
     },
@@ -230,7 +230,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 907792
+        "subsec_nanos": 181459
       },
       "false_accept": true
     },
@@ -242,7 +242,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 181792
+        "subsec_nanos": 36917
       },
       "false_accept": true
     },
@@ -252,18 +252,18 @@
       "distance": 1,
       "suggestions": [
         {
-          "value": "дзебисӧ",
-          "weight": 9.0,
+          "value": "дзебасӧ",
+          "weight": 15.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 4.0,
+            "mutator_weight": 10.0,
             "reweight_start": 0.0,
             "reweight_mid": 5.0,
             "reweight_end": 0.0
           }
         },
         {
-          "value": "дзебасӧ",
+          "value": "дзебисӧ",
           "weight": 15.0,
           "weight_details": {
             "lexicon_weight": 0.0,
@@ -285,87 +285,87 @@
           }
         },
         {
-          "value": "дзебӧмсӧ",
-          "weight": 21.0,
+          "value": "дебсӧ",
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 11.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
             "reweight_mid": 10.0,
             "reweight_end": 0.0
           }
         },
         {
-          "value": "дзебӧмӧ",
-          "weight": 21.0,
+          "value": "джебсӧ",
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 11.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
             "reweight_mid": 10.0,
             "reweight_end": 0.0
           }
         },
         {
-          "value": "дзеб-ӧсӧ",
-          "weight": 23.0,
+          "value": "дзебалісӧ",
+          "weight": 30.0,
           "weight_details": {
-            "lexicon_weight": 2.0,
-            "mutator_weight": 11.0,
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
             "reweight_mid": 10.0,
             "reweight_end": 0.0
           }
         },
         {
-          "value": "дзебисьӧ",
-          "weight": 24.0,
+          "value": "дзебалӧ",
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 14.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
             "reweight_mid": 10.0,
             "reweight_end": 0.0
           }
         },
         {
-          "value": "дзебитӧ",
-          "weight": 24.0,
+          "value": "дзебас",
+          "weight": 35.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 14.0,
-            "reweight_start": 0.0,
-            "reweight_mid": 10.0,
-            "reweight_end": 0.0
-          }
-        },
-        {
-          "value": "дзебис",
-          "weight": 29.0,
-          "weight_details": {
-            "lexicon_weight": 0.0,
-            "mutator_weight": 14.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
             "reweight_mid": 5.0,
             "reweight_end": 10.0
           }
         },
         {
-          "value": "дзебись",
-          "weight": 29.0,
+          "value": "дзебаси",
+          "weight": 35.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 14.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "дзебась",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
             "reweight_mid": 5.0,
             "reweight_end": 10.0
           }
         }
       ],
-      "position": 0,
+      "position": 1,
       "time": {
         "secs": 0,
-        "subsec_nanos": 4955375
+        "subsec_nanos": 4531417
       },
       "false_accept": false
     },
@@ -374,17 +374,6 @@
       "expected": "иньдӧтчис",
       "distance": 1,
       "suggestions": [
-        {
-          "value": "иньдӧтчис",
-          "weight": 9.0,
-          "weight_details": {
-            "lexicon_weight": 0.0,
-            "mutator_weight": 4.0,
-            "reweight_start": 0.0,
-            "reweight_mid": 5.0,
-            "reweight_end": 0.0
-          }
-        },
         {
           "value": "иньдӧтліс",
           "weight": 15.0,
@@ -408,6 +397,17 @@
           }
         },
         {
+          "value": "иньдӧтчис",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
           "value": "иньдӧтіс",
           "weight": 15.0,
           "weight_details": {
@@ -419,76 +419,76 @@
           }
         },
         {
-          "value": "иньдӧтчисӧ",
-          "weight": 20.0,
+          "value": "индӧтчас",
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 5.0,
-            "reweight_start": 0.0,
-            "reweight_mid": 5.0,
-            "reweight_end": 10.0
-          }
-        },
-        {
-          "value": "иньдӧтчӧ",
-          "weight": 21.0,
-          "weight_details": {
-            "lexicon_weight": 0.0,
-            "mutator_weight": 11.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
             "reweight_mid": 10.0,
             "reweight_end": 0.0
           }
         },
         {
-          "value": "иньдӧтчӧм",
-          "weight": 21.0,
+          "value": "индӧтчис",
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 11.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
             "reweight_mid": 10.0,
             "reweight_end": 0.0
           }
         },
         {
-          "value": "иньдӧтлісӧ",
-          "weight": 26.0,
+          "value": "индӧтіс",
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 11.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
-            "reweight_mid": 5.0,
-            "reweight_end": 10.0
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
           }
         },
         {
-          "value": "иньдӧтчасӧ",
-          "weight": 26.0,
+          "value": "инъдӧтіс",
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 11.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
-            "reweight_mid": 5.0,
-            "reweight_end": 10.0
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
           }
         },
         {
-          "value": "иньдӧтісӧ",
-          "weight": 26.0,
+          "value": "иньдӧталіс",
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 11.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "виньдӧтіс",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 10.0,
             "reweight_mid": 5.0,
-            "reweight_end": 10.0
+            "reweight_end": 0.0
           }
         }
       ],
-      "position": 0,
+      "position": 2,
       "time": {
         "secs": 0,
-        "subsec_nanos": 6057667
+        "subsec_nanos": 10761166
       },
       "false_accept": false
     },
@@ -497,17 +497,6 @@
       "expected": "горӧтчис",
       "distance": 1,
       "suggestions": [
-        {
-          "value": "горӧтчис",
-          "weight": 9.0,
-          "weight_details": {
-            "lexicon_weight": 0.0,
-            "mutator_weight": 4.0,
-            "reweight_start": 0.0,
-            "reweight_mid": 5.0,
-            "reweight_end": 0.0
-          }
-        },
         {
           "value": "горӧтліс",
           "weight": 15.0,
@@ -531,6 +520,17 @@
           }
         },
         {
+          "value": "горӧтчис",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
           "value": "горӧтіс",
           "weight": 15.0,
           "weight_details": {
@@ -542,86 +542,86 @@
           }
         },
         {
-          "value": "горӧтчисӧ",
-          "weight": 20.0,
+          "value": "гарӧтліс",
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 5.0,
-            "reweight_start": 0.0,
-            "reweight_mid": 5.0,
-            "reweight_end": 10.0
-          }
-        },
-        {
-          "value": "горӧтчӧ",
-          "weight": 21.0,
-          "weight_details": {
-            "lexicon_weight": 0.0,
-            "mutator_weight": 11.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
             "reweight_mid": 10.0,
             "reweight_end": 0.0
           }
         },
         {
-          "value": "горӧтчӧм",
-          "weight": 21.0,
+          "value": "гарӧтіс",
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 11.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
             "reweight_mid": 10.0,
             "reweight_end": 0.0
           }
         },
         {
-          "value": "горӧтлісӧ",
-          "weight": 26.0,
+          "value": "горзӧтіс",
+          "weight": 30.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 11.0,
+            "mutator_weight": 20.0,
             "reweight_start": 0.0,
-            "reweight_mid": 5.0,
-            "reweight_end": 10.0
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
           }
         },
         {
-          "value": "горӧтчасӧ",
-          "weight": 26.0,
+          "value": "борӧтчас",
+          "weight": 35.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 11.0,
-            "reweight_start": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 10.0,
             "reweight_mid": 5.0,
-            "reweight_end": 10.0
+            "reweight_end": 0.0
           }
         },
         {
-          "value": "горӧтісӧ",
-          "weight": 26.0,
+          "value": "борӧтчис",
+          "weight": 35.0,
           "weight_details": {
             "lexicon_weight": 0.0,
-            "mutator_weight": 11.0,
-            "reweight_start": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 10.0,
             "reweight_mid": 5.0,
-            "reweight_end": 10.0
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "борӧтіс",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
           }
         }
       ],
-      "position": 0,
+      "position": 2,
       "time": {
         "secs": 0,
-        "subsec_nanos": 7579917
+        "subsec_nanos": 10703542
       },
       "false_accept": false
     }
   ],
   "start_timestamp": {
-    "secs": 1775593404,
-    "subsec_nanos": 840121000
+    "secs": 1775651709,
+    "subsec_nanos": 232195000
   },
   "total_time": {
     "secs": 0,
-    "subsec_nanos": 8285791
+    "subsec_nanos": 26432750
   }
 }
