@@ -984,9 +984,9 @@ LEXICON V_koi2x
 вӧвдчыны+V:вӧвдчы IV_LYDDJYNY  "" ;
 вӧвдісьны+V:вӧвдісь BV_ARTASJNY  "" ;
 вӧвлывлыны+V:вӧвлывлы BV_VOLYNY  "" ;
-вӧвлыны+V:вӧвлы BV_VOLYNY  "" ;
-вӧвны+v1+V:вӧл BV_NUAVNY  "" ;
-вӧвны+v2+V+Err/Orth:вӧл BV_KUTNY  "" ;
+вӧвлыны+V:вӧвлы IV_VOLYNY  "" ;
+вӧвны+v1+V:вӧл IV_NUAVNY  "" ;
+вӧвны+v2+V:вӧл IV_NUALNY  "" ;
 вӧджжисьны+V:вӧджжись IV_ARTASJNY  "" ;
 вӧджжыны+V:вӧджжы BV_LYDDJYNY  "" ;
 вӧдитлыны+v1+V:вӧдитлы BV_VOLYNY  "" ;

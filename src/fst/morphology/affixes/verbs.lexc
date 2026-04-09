@@ -103,6 +103,9 @@ IV_KUTNY ;
 LEXICON BV_NUAVNY !U7 — глагол вны
 TV_NUAVNY ;
 IV_NUAVNY ;
+!LEXICON BV_NUALNY !U7 (e.g. in geo="сев.") — глагол вны
+!TV_NUALNY ;
+!IV_NUALNY ;
 LEXICON BV_ARTASJNY
 TV_ARTASJNY ;
 IV_ARTASJNY ;
@@ -127,6 +130,8 @@ LEXICON TV_KUTNY
 +TV: V_KUTNY ;
 LEXICON TV_NUAVNY
 +TV: V_NUAVNY ;
+!LEXICON TV_NUALNY !U7 (e.g. in geo="сев.") — глагол вны:...лны
+!+TV: V_NUALNY ;
 LEXICON TV_ARTASJNY
 +TV: V_ARTASJNY ;
 LEXICON TV_LYDDJYNY
@@ -148,6 +153,8 @@ LEXICON IV_KUTNY
 +IV: V_KUTNY ;
 LEXICON IV_NUAVNY
 +IV: V_NUAVNY ;
+LEXICON IV_NUALNY !U7 (e.g. in geo="сев.") — глагол вны:...лны
++IV: V_NUALNY ;
 LEXICON IV_ARTASJNY
 +IV: V_ARTASJNY ;
 LEXICON IV_LYDDJYNY
@@ -235,6 +242,15 @@ LEXICON V_NUAVNY !!≈ * **@CODE@** нуавны:нуа
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@%^LVBound VerbDer-V ; !
 : VerbConj_KUTNY ; !а
 :%^LVBound VerbConj-V ; !! Consonant-onset
+
+LEXICON V_NUALNY !!≈ * **@CODE@** нуавны:нуал
+!@U.CONJ-INF.YES@:@U.CONJ-INF.YES@%^LVBound Verb-nyDer-ONSET-CONS ; !
+!@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Verb-nyDer-ONSET-VOW ; !
+!@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ VerbDer_KUTNY ; !
+!@U.CONJ-INF.YES@:@U.CONJ-INF.YES@%^LVBound VerbDer-V ; !
+!: VerbConj_KUTNY ; !а
+!:%^LVBound VerbConj-V ; !! Consonant-onset
++Err/Orth-l-retension: VerbConj-V ; !! Consonant-onset allows for l retension here
 
 !LEXICON VR_ARTASJNY !!≈ * __@CODE@__
 !@U.CONJ-INF.YES@+Refl:@U.CONJ-INF.YES@ь Verb-nyDer-ONSET-CONS ; !

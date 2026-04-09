@@ -280,6 +280,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 !! The Usage extents are marked using following tags:
  +Err/Orth
+ +Err/Orth-l-retension
  +Use/-Spell
  +Use/SpellNoSugg
  +Use/GC           !!≈ * **@CODE@** – **only** retained in the HFST Grammar Checker disambiguation analyser
