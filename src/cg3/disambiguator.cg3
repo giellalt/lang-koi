@@ -318,6 +318,9 @@ REMOVE Relat IF (-1 Cmpl);
 REMOVE ("йы") IF (-1 Cmpl OR Nom) (0 ("йылісь"));
    # сы йылісь
 
+REMOVE:NotNWhenFollowedByN N IF (0 ("ас" Pron Refl Cmpl)) (1 N) ;
+   #Быд кывлӧн вӧлі ас анализзэз.
+
 REMOVE:Cmpl2 Cmpl ;
 
 # Numerals
