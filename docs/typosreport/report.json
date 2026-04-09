@@ -60,19 +60,19 @@
     "true_negative": 0,
     "slowest_lookup": {
       "secs": 0,
-      "subsec_nanos": 10761166
+      "subsec_nanos": 11855500
     },
     "fastest_lookup": {
       "secs": 0,
-      "subsec_nanos": 8042
+      "subsec_nanos": 26166
     },
     "average_time": {
       "secs": 0,
-      "subsec_nanos": 1577938
+      "subsec_nanos": 2700588
     },
     "average_time_95pc": {
       "secs": 0,
-      "subsec_nanos": 1577938
+      "subsec_nanos": 2700588
     },
     "average_position_of_correct": 2.6666667,
     "average_suggestions_for_correct": 10.0
@@ -86,7 +86,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 75666
+        "subsec_nanos": 1258167
       },
       "false_accept": true
     },
@@ -98,7 +98,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 29750
+        "subsec_nanos": 37666
       },
       "false_accept": true
     },
@@ -110,7 +110,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 34834
+        "subsec_nanos": 1394166
       },
       "false_accept": true
     },
@@ -122,7 +122,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 35375
+        "subsec_nanos": 1636042
       },
       "false_accept": true
     },
@@ -134,7 +134,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 34375
+        "subsec_nanos": 1481125
       },
       "false_accept": true
     },
@@ -146,7 +146,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 93875
+        "subsec_nanos": 1302791
       },
       "false_accept": true
     },
@@ -158,7 +158,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 105667
+        "subsec_nanos": 1298875
       },
       "false_accept": true
     },
@@ -170,7 +170,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 70458
+        "subsec_nanos": 1248875
       },
       "false_accept": true
     },
@@ -182,7 +182,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 83125
+        "subsec_nanos": 1677042
       },
       "false_accept": true
     },
@@ -194,7 +194,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 11375
+        "subsec_nanos": 49708
       },
       "false_accept": true
     },
@@ -206,7 +206,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 8042
+        "subsec_nanos": 26166
       },
       "false_accept": true
     },
@@ -218,7 +218,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 27917
+        "subsec_nanos": 71541
       },
       "false_accept": true
     },
@@ -230,7 +230,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 181459
+        "subsec_nanos": 1317083
       },
       "false_accept": true
     },
@@ -242,7 +242,7 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 36917
+        "subsec_nanos": 1369500
       },
       "false_accept": true
     },
@@ -365,7 +365,7 @@
       "position": 1,
       "time": {
         "secs": 0,
-        "subsec_nanos": 4531417
+        "subsec_nanos": 10511834
       },
       "false_accept": false
     },
@@ -488,7 +488,7 @@
       "position": 2,
       "time": {
         "secs": 0,
-        "subsec_nanos": 10761166
+        "subsec_nanos": 9373917
       },
       "false_accept": false
     },
@@ -611,17 +611,17 @@
       "position": 2,
       "time": {
         "secs": 0,
-        "subsec_nanos": 10703542
+        "subsec_nanos": 11855500
       },
       "false_accept": false
     }
   ],
   "start_timestamp": {
-    "secs": 1775651709,
-    "subsec_nanos": 232195000
+    "secs": 1775722479,
+    "subsec_nanos": 94592000
   },
   "total_time": {
     "secs": 0,
-    "subsec_nanos": 26432750
+    "subsec_nanos": 13905250
   }
 }
