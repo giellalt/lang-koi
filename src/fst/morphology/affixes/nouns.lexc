@@ -503,7 +503,7 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 +Acc:%>ӧс K ;
 +Ins:%>ӧн K ;
 +Ine:%>ын SPAT-COMPARATIVE ;
-+Ela:%>%{иі%}сь SPAT-COMPARATIVE ;
++Ela:%>{иі}сь SPAT-COMPARATIVE ;
 +Ill:%>ӧ IllCompar ;
 +Prl:%>ӧт K ;
 +TerI:%>ӧдз K ;
@@ -717,10 +717,10 @@ LEXICON EGR_THEN_WORDEND
 +Egr+Orth/Bible:%^SoftRet%>сянь WordEnd ;
 
 LEXICON ELA_THEN_K
-+Ela:%>%{иі%}сь K ;
++Ela:%>{иі}сь K ;
 
 LEXICON ELA_THEN_WORDEND
-+Ela:%>%{иі%}сь WordEnd ;
++Ela:%>{иі}сь WordEnd ;
 
 LEXICON GEN_THEN_K
 +Gen:%>лӧн K ;

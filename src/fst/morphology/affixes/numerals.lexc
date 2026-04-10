@@ -29,14 +29,14 @@ LEXICON CARD
 +Card: NumCASEPOSSLEX ;
 +Card+Der/кӧ+Presentational:%>%-кӧ WordEnd ;
 !+Ord:%>ӧт NumCASEPOSSLEX ;
-+Card+Iter:%>%{иі%}сь K ;
-+Card+Iter+Distr:%>%{иі%}сьӧн K ;
++Card+Iter:%>{иі}сь K ;
++Card+Iter+Distr:%>{иі}сьӧн K ;
 +Card+Distr:%>ӧн K ;
 
 
 LEXICON COLL ! already has Der+Der/AssocColl
-+Adv+Iter:%>%{иі%}сь K ;
-+Adv+Iter+Distr:%>%{иі%}сьӧн K ;
++Adv+Iter:%>{иі}сь K ;
++Adv+Iter+Distr:%>{иі}сьӧн K ;
 +Pron+Sg+Nom: # ;
 +Pron+AssocColl+Pl1:%>ным NumMWN ;
 +Pron+AssocColl+Pl2:%>ныт NumMWN ;
@@ -62,8 +62,8 @@ LEXICON NUM_ORD
 ORD ;
 LEXICON ORD
 +Ord: NumCASEPOSSLEX ; ! ӧт part of the stem
-+Ord+Iter:%>%{иі%}сь K ;
-+Ord+Iter+Distr:%>%{иі%}сьӧн K ;!CHECKME 2019-11-04
++Ord+Iter:%>{иі}сь K ;
++Ord+Iter+Distr:%>{иі}сьӧн K ;!CHECKME 2019-11-04
 
 LEXICON NUM_DISTR
 NUM-IS_DISTR ;
@@ -73,8 +73,8 @@ LEXICON NUM-IS_DISTR
 
 LEXICON QNT_
 : NumCASEPOSSLEX ;
-+Card+Iter:%>%{иі%}сь K ;
-+Card+Iter+Distr:%>%{иі%}сьӧн K ;
++Card+Iter:%>{иі}сь K ;
++Card+Iter+Distr:%>{иі}сьӧн K ;
 +Card+Distr:%>ӧн K ;
 
 LEXICON ITER_

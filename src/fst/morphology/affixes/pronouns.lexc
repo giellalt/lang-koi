@@ -587,7 +587,7 @@ LEXICON PRON-NONHUM
 +Cmpr:%>ся INTERR-REL-INDEF ;
 +Cns:%>ла INTERR-REL-INDEF ;
 +Ine:%>ын INTERR-REL-INDEF ;
-+Ela:%{иі%}сь INTERR-REL-INDEF ; 
++Ela:{иі}сь INTERR-REL-INDEF ; 
 +Ill:%>ӧ INTERR-REL-INDEF ; !
 +Apr:%>лань INTERR-REL-INDEF ;
 +Egr:%>сянь INTERR-REL-INDEF ;
@@ -1410,7 +1410,7 @@ LEXICON INDEFINITE-PRON-CASE-KO
 +Dat:%>лӧкӧ # ;
 +Egr:%>кӧсянь # ;
 +Egr:%>сянькӧ # ;
-+Ela:%{иі%}ськӧ # ;
++Ela:{иі}ськӧ # ;
 +Gen:%>лӧнкӧ # ;
 +Ill:%>ӧкӧ # ;
 +Ine:%>ынкӧ # ;
@@ -1430,7 +1430,7 @@ LEXICON INDEFINITE-PRON-CASE-NIBUDJ
 +Dat:%>лӧ-нибудь # ;
 +Egr:-нибудьсянь # ;
 +Egr:%>сянь-нибудь # ;
-+Ela:%{иі%}сь-нибудь # ;
++Ela:{иі}сь-нибудь # ;
 +Gen:%>лӧн-нибудь # ;
 +Ill:%>ӧ-нибудь # ;
 +Ine:%>ын-нибудь # ;

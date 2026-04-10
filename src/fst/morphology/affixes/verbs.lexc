@@ -379,40 +379,40 @@ LEXICON Finiteforms_KUTNY  !!≈ * **@CODE@** Gives linking vowels for 3 tenses
  imperative ;
 
 LEXICON present
-@U.CONJ-MX.IND@@U.CONJ-TX.PRES@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.PRES@%>%{ая%} PresPret1 ; ! 1,2  Present
+@U.CONJ-MX.IND@@U.CONJ-TX.PRES@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.PRES@%>{ая} PresPret1 ; ! 1,2  Present
 @U.CONJ-MX.IND@@U.CONJ-TX.PRES@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.PRES@%>ӧ PresPret1-SgPl3 ; ! 3
 
 LEXICON present_KYJNY
-@U.CONJ-MX.IND@@U.CONJ-TX.PRES@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.PRES@%>%{ая%} PresPret1 ; ! 1,2  Present
+@U.CONJ-MX.IND@@U.CONJ-TX.PRES@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.PRES@%>{ая} PresPret1 ; ! 1,2  Present
 @U.CONJ-MX.IND@@U.CONJ-TX.PRES@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.PRES@%>ӧ PresPret1-SgPl3 ; ! 3
 
 LEXICON present_AMNY
-@U.CONJ-MX.IND@@U.CONJ-TX.PRES@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.PRES@%>%{ая%} PresPret1 ; ! 1,2  Present
+@U.CONJ-MX.IND@@U.CONJ-TX.PRES@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.PRES@%>{ая} PresPret1 ; ! 1,2  Present
 @U.CONJ-MX.IND@@U.CONJ-TX.PRES@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.PRES@%>ӧ PresPret1-SgPl3 ; ! 3
 
 LEXICON present_KUTNY
-@U.CONJ-MX.IND@@U.CONJ-TX.PRES@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.PRES@%>%{ая%} PresPret1 ; ! 1,2  Present
+@U.CONJ-MX.IND@@U.CONJ-TX.PRES@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.PRES@%>{ая} PresPret1 ; ! 1,2  Present
 @U.CONJ-MX.IND@@U.CONJ-TX.PRES@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.PRES@%>ӧ PresPret1-SgPl3 ; ! 3
 
 LEXICON future
-@U.CONJ-MX.IND@@U.CONJ-TX.FUT@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@%>%{ая%} PresPret1 ; ! 1,2  Future
-@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@%>%{ая%}с FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
+@U.CONJ-MX.IND@@U.CONJ-TX.FUT@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@%>{ая} PresPret1 ; ! 1,2  Future
+@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@%>{ая}с FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
 
 LEXICON future_KYJNY
-@U.CONJ-MX.IND@@U.CONJ-TX.FUT@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@%>%{ая%} PresPret1 ; ! 1,2  Future
-@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@%>%{ая%}с FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
+@U.CONJ-MX.IND@@U.CONJ-TX.FUT@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@%>{ая} PresPret1 ; ! 1,2  Future
+@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@%>{ая}с FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
 
 LEXICON future_AMNY
-@U.CONJ-MX.IND@@U.CONJ-TX.FUT@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@%>%{ая%} PresPret1 ; ! 1,2  Future
-@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@%>%{ая%}с FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
+@U.CONJ-MX.IND@@U.CONJ-TX.FUT@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@%>{ая} PresPret1 ; ! 1,2  Future
+@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@%>{ая}с FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
 
 LEXICON future_KUTNY
-@U.CONJ-MX.IND@@U.CONJ-TX.FUT@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@%>%{ая%} PresPret1 ; ! 1,2  Future
-@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@%>%{ая%}с FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
+@U.CONJ-MX.IND@@U.CONJ-TX.FUT@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@%>{ая} PresPret1 ; ! 1,2  Future
+@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@+Ind+Fut:@U.CONJ-MX.IND@@U.CONJ-TX.FUT@@U.CONJ-PX.3@%>{ая}с FutPret1-SgPl3 ; ! 3 FutPret1-SgPl3   ХХХ check this
 
 LEXICON preterite
-@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@+Ind+Prt1:@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@%>%{иі%} PresPret1 ; 
-@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@+Ind+Prt1:@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@%>%{иі%}  P3 ; ! 3 
+@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@+Ind+Prt1:@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@%>{иі} PresPret1 ; 
+@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@+Ind+Prt1:@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@%>{иі}  P3 ; ! 3 
 @U.CONJ-MX.IND@@U.CONJ-TX.PRET2@+Ind+Prt2:@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@%>ӧм Pret2a ;
 
 LEXICON preterite_KYJNY
@@ -426,8 +426,8 @@ LEXICON preterite_AMNY
 @U.CONJ-MX.IND@@U.CONJ-TX.PRET2@+Ind+Prt2:@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@%>ӧм Pret2a ;
 
 LEXICON preterite_KUTNY
-@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@+Ind+Prt1:@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@%>%{иі%} PresPret1 ; 
-@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@+Ind+Prt1:@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@%>%{иі%}  P3 ; ! 3 
+@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@+Ind+Prt1:@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@%>{иі} PresPret1 ; 
+@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@+Ind+Prt1:@U.CONJ-MX.IND@@U.CONJ-TX.PRET1@%>{иі}  P3 ; ! 3 
 @U.CONJ-MX.IND@@U.CONJ-TX.PRET2@+Ind+Prt2:@U.CONJ-MX.IND@@U.CONJ-TX.PRET2@%>ӧм Pret2a ;
 
 LEXICON imperative
@@ -494,7 +494,7 @@ LEXICON Pret2a
 
 LEXICON PRET2PL2
 @U.CONJ-NX.SG@@U.CONJ-PX.2@+Sg2:@U.CONJ-NX.SG@@U.CONJ-PX.2@%>ыт VerbEnd-Comparison ;
-@U.CONJ-NX.SG@@U.CONJ-PX.2@+Sg2:@U.CONJ-NX.SG@@U.CONJ-PX.2@%>%{ая%}т VerbEnd-Comparison ;
+@U.CONJ-NX.SG@@U.CONJ-PX.2@+Sg2:@U.CONJ-NX.SG@@U.CONJ-PX.2@%>{ая}т VerbEnd-Comparison ;
 @U.CONJ-NX.PL@@U.CONJ-PX.2@+Pl2:@U.CONJ-NX.PL@@U.CONJ-PX.2@%>ныт VerbEnd-Comparison ;
 @U.CONJ-NX.SG@@U.CONJ-PX.3@+Sg3:@U.CONJ-NX.SG@@U.CONJ-PX.3@ VerbEnd-Comparison ; !2016.10.25 Цыпанов 1999: 64
 !+Pl2000000@U.CONJ-NX.PL@@U.CONJ-PX.2@:%>нытӧсь@U.CONJ-NX.PL@@U.CONJ-PX.2@ VerbEnd-Comparison ; !224
@@ -606,30 +606,30 @@ LEXICON VerbDer-ONSET_OE !!≈ * **@CODE@**
 +Der/ӧм+Event+N+Ins:%>ӧмӧн K ;
 +Der/Omon+Ger:%>ӧмӧн K ;
 +Der/Omon+Ger+Comp:%>ӧмӧнжык K ;
-+Der/ісь+ActPrsPtc:%>%{иі%}сь N_ ; !!≈ * **@CODE@** kpv ысь
++Der/ісь+ActPrsPtc:%>{иі}сь N_ ; !!≈ * **@CODE@** kpv ысь
 
 LEXICON VerbDer-ONSET_JI !!≈ * **@CODE@** 
   ! nonfinites
-+Der/Ik+Ger+Cmpl:%>%{иі%}к K ; ! gerund no plural as in kpv (at the same time as the action)
++Der/Ik+Ger+Cmpl:%>{иі}к K ; ! gerund no plural as in kpv (at the same time as the action)
 !352 Pl
-+Der/Ik+Ger+Ill:%>%{иі%}кӧ K ;
-+Der/Ik+Ger+Ill+PxSg1:%>%{иі%}кам K ;
-+Der/Ik+Ger+Ill+PxSg2:%>%{иі%}кат K ;
-+Der/Ik+Ger+Ill+PxSg3:%>%{иі%}кас K ;
-+Der/Ik+Ger+Ill+PxPl1:%>%{иі%}каным K ;
-+Der/Ik+Ger+Ill+PxPl2:%>%{иі%}каныт K ;
-+Der/Ik+Ger+Ill+PxPl3:%>%{иі%}каныс K ;
++Der/Ik+Ger+Ill:%>{иі}кӧ K ;
++Der/Ik+Ger+Ill+PxSg1:%>{иі}кам K ;
++Der/Ik+Ger+Ill+PxSg2:%>{иі}кат K ;
++Der/Ik+Ger+Ill+PxSg3:%>{иі}кас K ;
++Der/Ik+Ger+Ill+PxPl1:%>{иі}каным K ;
++Der/Ik+Ger+Ill+PxPl2:%>{иі}каныт K ;
++Der/Ik+Ger+Ill+PxPl3:%>{иі}каныс K ;
 
 
 LEXICON VerbDer-ONSET_A !!≈ * **@CODE@** 
-+ANA+Adv:%>%{ая%}на K ;
-+ANAA+Adv:%>%{ая%}наа K ; !Adding after attestation in Komi Grammar 2000: 381
-+AN+Der+Der/AdvCompMod:%>%{ая%}нмоз PossessiveSuffixes_NoSg1 ; !383
++ANA+Adv:%>{ая}на K ;
++ANAA+Adv:%>{ая}наа K ; !Adding after attestation in Komi Grammar 2000: 381
++AN+Der+Der/AdvCompMod:%>{ая}нмоз PossessiveSuffixes_NoSg1 ; !383
 
 LEXICON VerbDer-ONSET_JA !!≈ * **@CODE@** 
-+ANA+Adv:%>%{ая%}на K ;
-+ANAA+Adv:%>%{ая%}наа K ; !Adding after attestation in Komi Grammar 2000: 381
-+AN+Der+Der/AdvCompMod:%>%{ая%}нмоз PossessiveSuffixes_NoSg1 ; !383
++ANA+Adv:%>{ая}на K ;
++ANAA+Adv:%>{ая}наа K ; !Adding after attestation in Komi Grammar 2000: 381
++AN+Der+Der/AdvCompMod:%>{ая}нмоз PossessiveSuffixes_NoSg1 ; !383
 
 
 
