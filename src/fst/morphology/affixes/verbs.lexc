@@ -103,9 +103,9 @@ IV_KUTNY ;
 LEXICON BV_NUAVNY !U7 — глагол вны
 TV_NUAVNY ;
 IV_NUAVNY ;
-!LEXICON BV_NUALNY !U7 (e.g. in geo="сев.") — глагол вны
-!TV_NUALNY ;
-!IV_NUALNY ;
+LEXICON BV_NUALNY !U7 (e.g. in geo="сев.") — глагол вны
+TV_NUALNY ;
+IV_NUALNY ;
 LEXICON BV_ARTASJNY
 TV_ARTASJNY ;
 IV_ARTASJNY ;
@@ -130,8 +130,8 @@ LEXICON TV_KUTNY
 +TV: V_KUTNY ;
 LEXICON TV_NUAVNY
 +TV: V_NUAVNY ;
-!LEXICON TV_NUALNY !U7 (e.g. in geo="сев.") — глагол вны:...лны
-!+TV: V_NUALNY ;
+LEXICON TV_NUALNY !U7 (e.g. in geo="сев.") — глагол вны:...лны
++TV: V_NUALNY ;
 LEXICON TV_ARTASJNY
 +TV: V_ARTASJNY ;
 LEXICON TV_LYDDJYNY
