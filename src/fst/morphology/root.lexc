@@ -826,6 +826,8 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  @U.Cap.Obl@      !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj
  @U.Cap.Opt@      !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj
 
+!! Accented Russian letters from shared-urj_Cyrl
+а́ и́ о́ е́ у́ !!≈ @CODE@
 
 LEXICON Root
 !! The word forms in the KOMI-PERMYAK language start from the lexeme roots of basic
