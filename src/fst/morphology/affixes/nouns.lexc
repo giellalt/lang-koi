@@ -88,6 +88,7 @@ LEXICON PL-CASE-PX
 +Pl+Nom+PxSg2:%>%^1Cnsэт K ;
 +Pl+Gen+PxSg2:%>%^1Cnsэтлӧн K ;
 +Pl+Abl+PxSg2:%>%^1Cnsэтлісь K ;
++Pl+Abl+PxSg2+Dial/-l:%>%^1Cnsэтвись K ;
 +Pl+Dat+PxSg2:%>%^1Cnsэтлӧ K ;
 +Pl+Dat+PxSg2+Dial/-l:%>%^1Cnsэтвӧ K ;
 
@@ -113,6 +114,7 @@ LEXICON PL-CASE-PX
 +Pl+Nom+PxSg3:%>%^1Cnsэс K ;
 +Pl+Gen+PxSg3:%>%^1Cnsэслӧн K ;
 +Pl+Abl+PxSg3:%>%^1Cnsэслісь K ;
++Pl+Abl+PxSg3+Dial/-l:%>%^1Cnsэсвись K ;
 +Pl+Dat+PxSg3:%>%^1Cnsэслӧ K ;
 +Pl+Dat+PxSg3+Dial/-l:%>%^1Cnsэсвӧ K ;
 
@@ -308,6 +310,7 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_CNS/END
 !+ZeroAcc: K ;
 GEN_THEN_K ;
 +Abl:%>лісь K ;
++Abl+Dial/-l:%>вись K ;
 DAT_THEN_K ;
 ELA_THEN_K ;
 +Com:%>кӧт K ;
@@ -412,6 +415,7 @@ ELA_THEN_K ;
 +Nom+PxPl1:%>ным K ;
 +Gen+PxPl1:%>нымлӧн K ;
 +Abl+PxPl1:%>нымлісь K ;
++Abl+PxPl1+Dial/-l:%>нымвись K ;
 +Dat+PxPl1:%>нымлӧ K ;
 +Dat+PxPl1+Dial/-l:%>нымвӧ K ;
 +Acc+PxPl1:%>нымӧс K ;
@@ -459,6 +463,7 @@ ELA_THEN_K ;
 +Nom+PxPl2:%>ныт K ;
 +Gen+PxPl2:%>нытлӧн K ;
 +Abl+PxPl2:%>нытлісь K ;
++Abl+PxPl2+Dial/-l:%>нытвись K ;
 +Dat+PxPl2:%>нытлӧ K ;
 +Dat+PxPl2+Dial/-l:%>нытвӧ K ;
 +Acc+PxPl2:%>нытӧ K ;
@@ -504,6 +509,7 @@ ELA_THEN_K ;
 +Nom+PxPl3:%>ныс K ;
 +Gen+PxPl3:%>ныслӧн K ;
 +Abl+PxPl3:%>ныслісь K ;
++Abl+PxPl3+Dial/-l:%>нысвись K ;
 +Dat+PxPl3:%>ныслӧ K ;
 +Dat+PxPl3+Dial/-l:%>нысвӧ K ;
 +Acc+PxPl3:%>нысӧ K ;
@@ -605,6 +611,7 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 +Nom+PxSg1:%>ӧ K ;
 +Gen+PxSg1:%>ӧлӧн K ;
 +Abl+PxSg1:%>ӧлісь K ;
++Abl+PxSg1+Dial/-l:%>ӧвись K ;
 +Dat+PxSg1:%>ӧлӧ K ;
 +Dat+PxSg1+Dial/-l:%>ӧвӧ K ;
 +Acc+PxSg1:%>ӧс K ;
@@ -633,6 +640,7 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 +Nom+PxSg2:%>ыт K ;
 +Gen+PxSg2:%>ытлӧн K ;
 +Abl+PxSg2:%>ыт%>лісь K ;
++Abl+PxSg2+Dial/-l:%>ыт%>вись K ;
 +Car+PxSg2+So/PC:%>ыт%>тӧг K ;
 +Cmpr+PxSg2:%>ыт%>ся K ;
 +Cns+PxSg2:%>ыт%>ла K ;
@@ -660,6 +668,7 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 +Nom+PxSg3:%>ыс K ;
 +Gen+PxSg3:%>ыслӧн K ;
 +Abl+PxSg3:%>ыслісь K ;
++Abl+PxSg3+Dial/-l:%>ысвись K ;
 +Dat+PxSg3:%>ыслӧ K ;
 +Dat+PxSg3+Dial/-l:%>ысвӧ K ;
 +Com+PxSg3:%>ыскӧт K ;
@@ -703,34 +712,48 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 !! ## Case followed by possible clitic OR WORDEND
 LEXICON ABL_THEN_K
 +Abl:%>лісь K ;
++Abl+Dial/-l:%>вись K ;
 !LEXICON ABL_PXSG1_THEN_K
 !+Abl+PxSg1:%>ным%>лісь K ;
+!+Abl+PxSg1+Dial/-l:%>ным%>вись K ;
 LEXICON ABL_PXSG2_THEN_K
 +Abl+PxSg2:%>ыт%>лісь K ;
++Abl+PxSg2+Dial/-l:%>ыт%>вись K ;
 LEXICON ABL_PXSG3_THEN_K
 +Abl+PxSg3:%>ыс%>лісь K ;
++Abl+PxSg3+Dial/-l:%>ыс%>вись K ;
 LEXICON ABL_PXPL1_THEN_K
 +Abl+PxPl1:%>ным%>лісь K ;
++Abl+PxPl1+Dial/-l:%>ным%>вись K ;
 LEXICON ABL_PXPL2_THEN_K
 +Abl+PxPl2:%>ныт%>лісь K ;
++Abl+PxPl2+Dial/-l:%>ныт%>вись K ;
 LEXICON ABL_PXPL3_THEN_K
 +Abl+PxPl3:%>ныс%>лісь K ;
++Abl+PxPl3+Dial/-l:%>ныс%>вись K ;
 
 LEXICON ABL_THEN_WORDEND
 +Abl:%>лісь WordEnd ;
++Abl+Dial/-l:%>вись WordEnd ;
 !LEXICON ABL_PXSG1_THEN_WORDEND
 !+Abl+PxSg1:%>ым%>лісь WordEnd ;
+!+Abl+PxSg1+Dial/-l:%>ым%>вись WordEnd ;
 !LEXICON ABL_PXSG2_THEN_WORDEND
 !+Abl+PxSg2:%>ыт%>лісь WordEnd ;
+!+Abl+PxSg2+Dial/-l:%>ыт%>вись WordEnd ;
 !LEXICON ABL_PXSG3_THEN_WORDEND
 !+Abl+PxSg3:%>ыс%>лісь WordEnd ;
+!+Abl+PxSg3+Dial/-l:%>ыс%>вись WordEnd ;
 
 LEXICON ABL_PXPL1_THEN_WORDEND
 +Abl+PxPl1:%>ным%>лісь WordEnd ;
++Abl+PxPl1+Dial/-l:%>ным%>вись WordEnd ;
 LEXICON ABL_PXPL2_THEN_WORDEND
 +Abl+PxPl2:%>ныт%>лісь WordEnd ;
++Abl+PxPl2+Dial/-l:%>ныт%>вись WordEnd ;
 LEXICON ABL_PXPL3_THEN_WORDEND
 +Abl+PxPl3:%>ныс%>лісь WordEnd ;
++Abl+PxPl3+Dial/-l:%>ныс%>вись WordEnd ;
 
 LEXICON ACC_THEN_K
 +Acc:%>ӧс K ;
