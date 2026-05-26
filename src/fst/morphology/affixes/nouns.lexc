@@ -89,6 +89,7 @@ LEXICON PL-CASE-PX
 +Pl+Gen+PxSg2:%>%^1Cnsэтлӧн K ;
 +Pl+Abl+PxSg2:%>%^1Cnsэтлісь K ;
 +Pl+Dat+PxSg2:%>%^1Cnsэтлӧ K ;
++Pl+Dat+PxSg2+Dial/-l:%>%^1Cnsэтвӧ K ;
 
 +Pl+Acc+PxSg2:%>%^1Cnsэтӧ K ;
 +Pl+Com+PxSg2:%>%^1Cnsэткӧт K ;
@@ -108,6 +109,7 @@ LEXICON PL-CASE-PX
 +Pl+Gen+PxSg3:%>%^1Cnsэслӧн K ;
 +Pl+Abl+PxSg3:%>%^1Cnsэслісь K ;
 +Pl+Dat+PxSg3:%>%^1Cnsэслӧ K ;
++Pl+Dat+PxSg3+Dial/-l:%>%^1Cnsэсвӧ K ;
 
 +Pl+Acc+PxSg3:%>%^1Cnsэсӧ K ;
 +Pl+Com+PxSg3:%>%^1Cnsэскӧт K ;
@@ -369,6 +371,7 @@ ELA_THEN_K ;
 +Gen+PxPl1:%>нымлӧн K ;
 +Abl+PxPl1:%>нымлісь K ;
 +Dat+PxPl1:%>нымлӧ K ;
++Dat+PxPl1+Dial/-l:%>нымвӧ K ;
 +Acc+PxPl1:%>нымӧс K ;
 +Ins+PxPl1:%>наным K ;
 +Com+PxPl1:%>нымкӧт K ;
@@ -401,6 +404,7 @@ ELA_THEN_K ;
 +Gen+PxPl2:%>нытлӧн K ;
 +Abl+PxPl2:%>нытлісь K ;
 +Dat+PxPl2:%>нытлӧ K ;
++Dat+PxPl2+Dial/-l:%>нытвӧ K ;
 +Acc+PxPl2:%>нытӧ K ;
 +Ins+PxPl2:%>наныт K ;
 +Com+PxPl2:%>ныткӧт K ;
@@ -432,6 +436,7 @@ ELA_THEN_K ;
 +Gen+PxPl3:%>ныслӧн K ;
 +Abl+PxPl3:%>ныслісь K ;
 +Dat+PxPl3:%>ныслӧ K ;
++Dat+PxPl3+Dial/-l:%>нысвӧ K ;
 +Acc+PxPl3:%>нысӧ K ;
 +Ins+PxPl3:%>наныс K ;
 +Com+PxPl3:%>ныскӧт K ;
@@ -518,6 +523,7 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 +Gen+PxSg1:%>ӧлӧн K ;
 +Abl+PxSg1:%>ӧлісь K ;
 +Dat+PxSg1:%>ӧлӧ K ;
++Dat+PxSg1+Dial/-l:%>ӧвӧ K ;
 +Acc+PxSg1:%>ӧс K ;
 +Com+PxSg1:%>ӧкӧт K ;
 +Car+PxSg1+So/PC:%>ӧтӧг K ;
@@ -544,6 +550,7 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 +Cns+PxSg2:%>ыт%>ла K ;
 +Com+PxSg2:%>ыт%>кӧт K ;
 +Dat+PxSg2:%>ыт%>лӧ K ;
++Dat+PxSg2+Dial/-l:%>ыт%>вӧ K ;
 +Egr+PxSg2:%>ыт%>сянь K ;
 +Prl+PxSg2:%>ӧт%>тят K ;
 +Prl+PxSg2:%>ӧт%>тит K ;
@@ -561,6 +568,7 @@ LEXICON CASEPOSSLEX-AFTERDERIVATION_Ӧ
 +Gen+PxSg3:%>ыслӧн K ;
 +Abl+PxSg3:%>ыслісь K ;
 +Dat+PxSg3:%>ыслӧ K ;
++Dat+PxSg3+Dial/-l:%>ысвӧ K ;
 +Com+PxSg3:%>ыскӧт K ;
 +Car+PxSg3+So/PC:%>ыстӧг K ;
 +Cns+PxSg3:%>ысла K ;
@@ -709,9 +717,11 @@ LEXICON COM_THEN_WORDEND
 
 LEXICON DAT_THEN_K
 +Dat:%>лӧ K ;
++Dat+Dial/-l:%>вӧ K ;
 
 LEXICON DAT_THEN_WORDEND
 +Dat:%>лӧ WordEnd ;
++Dat+Dial/-l:%>вӧ WordEnd ;
 
 LEXICON EGR_THEN_K
 +Egr:%>сянь K ;
