@@ -257,7 +257,7 @@ Rules
 
 "%{иі%} 2 и"
 !! **@RULENAME@**
- %{иі%}:и <=> [ Vow: | CnsBeforeCyri | й: | ь: | Vow:  д (з) з ] (ы: %^VowRM:) %>  _ [ # | %> | Cns: | Vow: ] ;
+ %{иі%}:и <=> [ Vow: | :CnsBeforeCyri (%^LVBound:) | й: | ь: | Vow:  д (з) з ] (ы: %^VowRM:) %>  _ [ # | %> | Cns: | Vow: ] ;
 !!€ ворссь%>%{иі%}#
 !!€ ворсс0%>и#
 !!€ ло%>%{иі%}#
