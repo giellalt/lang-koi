@@ -1009,8 +1009,8 @@ LEXICON verbs
 вӧвлывлыны+V:вӧвлывлы V_LYDDJYNY  "" ;
 вӧвлывлыны+V:вӧвлывлы V_LYDDJYNY  "" ;
 вӧвлыны+V:вӧвлы V_LYDDJYNY  "" ;
-вӧвны+V:вӧ V_NUAVNY  "" ;
-вӧвны+V:вӧл V_KUTNY  "" ;
+вӧвны+V:вӧл V_NUAVNY  "" ;
+!вӧвны+V:вӧл V_KUTNY  "" ;
 вӧджжисьны+V:вӧджжись V_ARTASJNY  "" ;
 вӧджжыны+V:вӧджжы V_LYDDJYNY  "" ;
 вӧдитлыны+V:вӧдитлы V_LYDDJYNY  "" ;
