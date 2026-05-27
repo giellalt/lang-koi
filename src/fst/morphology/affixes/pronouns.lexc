@@ -91,6 +91,7 @@ LEXICON perssg2decl     !!≈ * **@CODE@**
 +Acc:нӧ WordEnd ;
 +Cmpr:сся WordEnd ;
 +Dat:ныт WordEnd ;
++Dat+Dial:йыт WordEnd ;
 +Gen:нат WordEnd ;
 +Nom: WordEnd ;
 : perssg ;  ! for the regular obl sg
