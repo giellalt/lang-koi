@@ -13,5 +13,8 @@ LEXICON EXCEPTIONS
 !!€ олан-вылан: овны-вывны+V+Ind+Prs+Sg2
 овны-вывны+V+IV+Ind+Prs+Sg1:ола-выла K ;
 
+!! variation
+пондыны+V+Dial:понны V_LYDDJYNY ;
+
 !! Russian-type
 Ерусалим+N+Prop+Sem/Plc:Ерусалим PROP_ ;
