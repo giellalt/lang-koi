@@ -25,11 +25,11 @@ A_ ;
 
 !LEXICON A_INT-ӦЙ
 !+Use/SpellNoSugg:ӧй A_ ;
-!!+Use/SpellNoSugg:о%- adjectives-russian-like ;
+!!+Use/SpellNoSugg:о- adjectives-russian-like ;
 
 !LEXICON A_RU-ӦЙ
 !+Use/SpellNoSugg:ӧй A_ ;
-!!+Use/SpellNoSugg:о%- adjectives-russian-like ;
+!!+Use/SpellNoSugg:о- adjectives-russian-like ;
 
 LEXICON A_F1
 +Use/SpellNoSugg: A_ ;

@@ -687,7 +687,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  «7     !! * «
  %[%>%] !! * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
  %[%<%] !! * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
- %-
+ -
 
 +Cmp
 !! ## Flag diacritics
@@ -896,9 +896,9 @@ AUXILIARIES ;
 ! Compounding
 
 LEXICON R
-%- N_ ;
-!%- nouns-russian-homographs ;
-!%- nouns-deverbal ;
+- N_ ;
+!- nouns-russian-homographs ;
+!- nouns-deverbal ;
 
 
 
@@ -931,17 +931,17 @@ LEXICON INTERJ_DESCR
 
 LEXICON K
                  WordEnd ;
-!+Clt+Clt/а:%>%-а WordEnd ;
-!+Clt+Clt/ӧ:%>%-ӧ WordEnd ;
-+Clt+Clt/-toe:%>%-тӧ WordEnd ;
-+Clt+Clt/-to:%>%-то WordEnd ;
-+Clt+Clt/-tu:%>%-ту WordEnd ;
+!+Clt+Clt/а:%>-а WordEnd ;
+!+Clt+Clt/ӧ:%>-ӧ WordEnd ;
++Clt+Clt/-toe:%>-тӧ WordEnd ;
++Clt+Clt/-to:%>-то WordEnd ;
++Clt+Clt/-tu:%>-ту WordEnd ;
 
 ! For this all instances of _#_
 ! were converted to _WordEnd_
 LEXICON WordEnd
             # ;
-+Der/И:%-И2 # ;
++Der/И:-И2 # ;
 
 ! List of spurious lexica
 ! These should be fixed.

@@ -531,8 +531,8 @@ LEXICON VerbEnd
  WordEnd ;
 
 LEXICON Serial-Verbs
-+Cmp/Serial+Cmp#:%-# Verbs ;
-+Cmp/Serial+Cmp#:%-# V_NEWWORDS ;
++Cmp/Serial+Cmp#:-# Verbs ;
++Cmp/Serial+Cmp#:-# V_NEWWORDS ;
 
 
 !! ## Derivation

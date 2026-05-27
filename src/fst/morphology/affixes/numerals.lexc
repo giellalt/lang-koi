@@ -27,7 +27,7 @@ LEXICON NUM_CARD_F2
 +Use/SpellNoSugg: CARD ;
 LEXICON CARD
 +Card: NumCASEPOSSLEX ;
-+Card+Der/кӧ+Presentational:%>%-кӧ WordEnd ;
++Card+Der/кӧ+Presentational:%>-кӧ WordEnd ;
 !+Ord:%>ӧт NumCASEPOSSLEX ;
 +Card+Iter:%>{иі}сь K ;
 +Card+Iter+Distr:%>{иі}сьӧн K ;
@@ -271,13 +271,13 @@ CASE_THEN_K ;
 !§§      ARABIC ;     ! §§24                     !^C^                               
 !§%      ARABIC ;    ! § 24                      !^C^                               
 !§§%     ARABIC ;   ! §§ 24                      !^C^                               
-!%-      ARABIC ;     ! -24                      !^C^                               
+!-      ARABIC ;     ! -24                      !^C^                               
 !%‒      ARABIC ;     ! -24 U+2012 Figure line   !^C^                               
 !%–      ARABIC ;     ! -24 U+2013 en dash       !^C^                               
 !%—      ARABIC ;     ! -24 U+2014 em dash       !^C^                               
 !%―      ARABIC ;     ! -24 U+2015 horizontal l  !^C^                               
 !%+      ARABIC ;     ! +24                      !^C^                               
-!%-%     ARABIC ;        ! - 24                  !^C^                               
+!-%     ARABIC ;        ! - 24                  !^C^                               
 !%‒%     ARABIC ;        ! - 24 2012             !^C^                               
 !%–%     ARABIC ;        ! - 24 2013             !^C^                               
 !%—%     ARABIC ;        ! - 24 2014             !^C^                               
@@ -308,12 +308,12 @@ LEXICON ARABIC          !!= * **@CODE@**
 LEXICON ARABICLOOP                              !^C^                                                                              
 +Num+Card: NUMDELIMITER ;
         ARABIC ;                                !^C^                                                                              
-%-      ARABIC ;              ! 1-2    multipart numbers        !^C^                                                              
-%.%-    ARABIC ;              ! 1.-2   multipart numbers        !^C^                                                              
-%-%     ARABIC ;              ! 1- 2   multipart numbers        !^C^                                                              
-% %-    ARABIC ;              ! 1 -2   multipart numbers        !^C^                                                              
-% %-%   ARABIC ;              ! 1 - 2  multipart numbers        !^C^                                                              
-% %-%-%   ARABIC ;            ! 1 -- 2 multipart numbers        !^C^                                                              
+-      ARABIC ;              ! 1-2    multipart numbers        !^C^                                                              
+%.-    ARABIC ;              ! 1.-2   multipart numbers        !^C^                                                              
+-%     ARABIC ;              ! 1- 2   multipart numbers        !^C^                                                              
+% -    ARABIC ;              ! 1 -2   multipart numbers        !^C^                                                              
+% -%   ARABIC ;              ! 1 - 2  multipart numbers        !^C^                                                              
+% --%   ARABIC ;            ! 1 -- 2 multipart numbers        !^C^                                                              
 %. ARABIC ;                                                     !^C^                                                              
 %, ARABIC ;                                                     !^C^                                                              
 %: ARABIC ;                                                     !^C^                                                              
@@ -321,15 +321,15 @@ LEXICON ARABICLOOP                              !^C^
    ARABIC ;   ! Allowing for "23 500" w/nbsp (initial char = alt-space) !^C^                                              
 %/ ARABIC ;   ! 24/12                                      !^C^                                                              
 +A+Ord:%. # ;                                                    !^C^                                                             
-%-+Num:%- # ;         ! 10-  (high on missing list)                            !^C^                                                             
-,%-+Num:,%- # ;       ! 10,-                                   !^C^                                                             
+-+Num:- # ;         ! 10-  (high on missing list)                            !^C^                                                             
+,-+Num:,- # ;       ! 10,-                                   !^C^                                                             
 %%+Num+Nom:%% # ;     ! 50%. It is wrong, but 75 % of us write "75%".    !^C^                                              
 % %%+Num+Nom:% %% # ; ! We must analyse the corr. ones too... 50 % etc. !^C^                                              
 
 LEXICON NUMDELIMITER
     NumCASEPOSSLEX ;
 :%: NumCASEPOSSLEX ;
-:%- NumCASEPOSSLEX ;
+:- NumCASEPOSSLEX ;
 :%' NumCASEPOSSLEX ;
 
 
