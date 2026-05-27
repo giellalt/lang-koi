@@ -54,8 +54,20 @@ GT_LEXC_SRCS_L1_L2=\
 			stems/conjunctors.lexc         \
 			stems/conjunctors_newwords.lexc         \
 			stems/descriptives.lexc         \
+			stems/exceptions.lexc         \
 			stems/koi-propernouns.lexc         \
 			stems/kom-rus-propernouns_newwords.lexc         \
+			stems/A_koi2x.lexc    \
+			stems/Adp_koi2x.lexc    \
+			stems/Adv_koi2x.lexc    \
+			stems/CC_koi2x.lexc     \
+			stems/CS_koi2x.lexc     \
+			stems/Det_koi2x.lexc     \
+			stems/Interj_koi2x.lexc    \
+			stems/N_koi2x.lexc      \
+			stems/Num_koi2x.lexc     \
+			stems/Pcle_koi2x.lexc    \
+			stems/V_koi2x.lexc    \
 			stems/nouns.lexc         \
 			stems/nouns_newwords.lexc         \
 			stems/numerals.lexc      \
@@ -86,18 +98,7 @@ GT_LEXC_L2_SRCS=\
 GENERATED_LEXC_SRCS=\
 		generated_files/urj-Cyrl-$(GLANG)-propernouns.lexc  \
 		generated_files/mul-$(GLANG)-punctuation.lexc   \
-		generated_files/mul-$(GLANG)-symbols.lexc    \
-		$(srcdir)/stems/A_koi2x.lexc    \
-		$(srcdir)/stems/Adp_koi2x.lexc    \
-		$(srcdir)/stems/Adv_koi2x.lexc    \
-		$(srcdir)/stems/CC_koi2x.lexc     \
-		$(srcdir)/stems/CS_koi2x.lexc     \
-		$(srcdir)/stems/Det_koi2x.lexc     \
-		$(srcdir)/stems/Interj_koi2x.lexc    \
-		$(srcdir)/stems/N_koi2x.lexc      \
-		$(srcdir)/stems/Num_koi2x.lexc     \
-		$(srcdir)/stems/Pcle_koi2x.lexc    \
-		$(srcdir)/stems/V_koi2x.lexc    
+		generated_files/mul-$(GLANG)-symbols.lexc    
 
 # change handling of shared lexical data here:
 if HAVE_SHARED_COMMON
@@ -121,18 +122,7 @@ endif
 # add other lexical shared data handling here
 
 # Set this to the names of all source xml files, if any
-GT_XML_SRCS=\
-		stems/A_koi2x.xml      \
-		stems/Adp_koi2x.xml       \
-		stems/Adv_koi2x.xml      \
-		stems/CC_koi2x.xml      \
-		stems/CS_koi2x.xml       \
-		stems/Det_koi2x.xml      \
-		stems/Interj_koi2x.xml      \
-		stems/N_koi2x.xml      \
-		stems/Num_koi2x.xml      \
-		stems/Pcle_koi2x.xml    \
-		stems/V_koi2x.xml 
+GT_XML_SRCS=
 
 # Define any additional lexc sources here (compiled on their own):
 GT_LOCAL_SRCS=
