@@ -52,10 +52,14 @@ LEXICON PERS                        !!≈ * **@CODE@**
 
 LEXICON perssg1decl   !!≈ * **@CODE@** 
 +Abl:нчим WordEnd ;
++Abl+Dial:нсим WordEnd ;
 +Acc:нӧ WordEnd ;
 +Cmpr:сся WordEnd ;
 +Dat:ным WordEnd ;
++Dat+Dial:йым WordEnd ;
 +Gen:нам WordEnd ;
++Gen+Dial:ам WordEnd ;
++Gen+Dial:ям WordEnd ;
 +Nom: WordEnd ;
 : perssg ;  ! for the regular obl sg
 
@@ -63,7 +67,8 @@ LEXICON perssg1decl   !!≈ * **@CODE@**
 LEXICON perspl1decl    !!≈ * **@CODE@**
 +Nom: WordEnd ;
 +Nom:йӧ WordEnd ;
-:ян WordEnd ;
++Gen:ян WordEnd ;
++Gen+Dial:ям WordEnd ;
 +Acc:янӧс WordEnd ;
 : CMPR_THEN_WORDEND ;
 :ян ABL_THEN_WORDEND ;
@@ -92,7 +97,10 @@ LEXICON perssg2decl     !!≈ * **@CODE@**
 +Cmpr:сся WordEnd ;
 +Dat:ныт WordEnd ;
 +Dat+Dial:йыт WordEnd ;
++Dat+Dial:ыт WordEnd ;
 +Gen:нат WordEnd ;
++Gen+Dial:ат WordEnd ;
++Gen+Dial:ят WordEnd ;
 +Nom: WordEnd ;
 : perssg ;  ! for the regular obl sg
 
@@ -102,7 +110,8 @@ LEXICON perspl2decl !!≈ * **@CODE@**
 :ян DAT_THEN_K ;
 :ян ABL_THEN_WORDEND ;
 
-:ян WordEnd ;
++Gen:ян WordEnd ;
++Gen+Dial:ят WordEnd ;
 :ян GEN_THEN_K ;
 +Acc:янӧс WordEnd ;
 :ян CMPR_THEN_WORDEND ;
