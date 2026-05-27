@@ -27,6 +27,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 +Cons
 +Der/ысь
 +Descr
++Dial
 +Dial/-l ! for  v 
 +Dial/-v ! for l retension
 +Dial/сев.чаз.
@@ -258,6 +259,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 +Clt
 +Clt/а !
 +Clt/ӧ !
++Clt/-toe !
 +Clt/-to !
 +Clt/-tu !
 
@@ -842,6 +844,7 @@ LEXICON Root
    Adverbs  ;
    Conjunctors	;
    Descriptives ;
+   EXCEPTIONS  ;
    Particles	;
    Pronouns    ;
    Numerals    ;
@@ -911,7 +914,7 @@ LEXICON ABBR-IS_N
              ! be dealt with for non-nominative-singular marking 2012-01-27
 
 LEXICON EndNeg
-+CC+Neg: WordEnd ; ! ни
++Neg: WordEnd ; ! абу
 
 !LEXICON EndQST
 !+Qst: WordEnd ;
@@ -930,6 +933,7 @@ LEXICON K
                  WordEnd ;
 !+Clt+Clt/а:%>%-а WordEnd ;
 !+Clt+Clt/ӧ:%>%-ӧ WordEnd ;
++Clt+Clt/-toe:%>%-тӧ WordEnd ;
 +Clt+Clt/-to:%>%-то WordEnd ;
 +Clt+Clt/-tu:%>%-ту WordEnd ;
 
