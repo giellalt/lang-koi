@@ -232,7 +232,7 @@ LEXICON PropSur-kudo
 
 !LEXICON Prop-Derivable
 !+Sem/Sur-Mal+Sg: CASEPOSSLEX ; ! Владимиров
-!а+N+Prop+Sem/Sur-Fem+Sg:%^FEM%>а CASEPOSSLEX ; ! Владимирова
+!а+N+Prop+Sem/Sur-Fem+Sg:^FEM%>а CASEPOSSLEX ; ! Владимирова
 
 ! Prop-Derivable end  in: ев, ов, ёв, ий, ин
 ! Prop-Derivable for fem: ева, ова, ёва, ая, ина
