@@ -121,10 +121,10 @@ LEXICON A_IS_SUPERL
 +Superl: ADJ_FOR_DER/MWN ;
 
 LEXICON A_PARAGOGIC-В/Л !!= * @CODE@ юмов:юмо юмолӧсь
-:%^LVBound K ; !! Singular predicative 
+:^LVBound K ; !! Singular predicative 
 +Cop+Pl:%>ӧсь K ; ! Plural predicative.
-:%^LVBound AdjCompar ;
-+Der+Der/лун+N:%^LVBound%>лун N_ ; !Derivational suffix for A-N
+:^LVBound AdjCompar ;
++Der+Der/лун+N:^LVBound%>лун N_ ; !Derivational suffix for A-N
 
 
 

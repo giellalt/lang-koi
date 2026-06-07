@@ -1,7 +1,6 @@
 
 LEXICON PROPERNOUNS-koi
 
-
 Авдотья+N+Prop:Авдотья PROP_ ;
 Агав+N+Prop:Агав PROP_ ;
 Акаия+N+Prop:Акаия PROP_ ;
@@ -51,6 +50,7 @@ LEXICON PROPERNOUNS-koi
 Жора+N+Prop:Жора PROP_ ;
 Зебдей+N+Prop:Зебдей PROP_ ;
 Иаир+N+Prop:Иаир PROP_ ;
+Иванушка+N+Prop:Иванушка PROP_ ;
 Иераполь+N+Prop:Иераполь PROP_ ;
 Ильюха+N+Prop:Ильюха PROP_ ;
 Ирӧд+N+Prop:Ирӧд PROP_ ;
@@ -64,6 +64,7 @@ LEXICON PROPERNOUNS-koi
 Лаврей+N+Prop:Лаврей PROP_ ;
 Лёха+N+Prop:Лёха PROP_ ;
 Манассия+N+Prop:Манассия PROP_ ;
+Мартышко+N+Prop:Мартышко PROP_ ;
 Матрён+N+Prop:Матрён PROP_ ;
 Маттафия+N+Prop:Маттафия PROP_ ;
 Микола+N+Prop:Микола PROP_ ;

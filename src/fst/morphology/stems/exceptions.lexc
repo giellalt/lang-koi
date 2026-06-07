@@ -13,8 +13,19 @@ LEXICON EXCEPTIONS
 !!€ олан-вылан: овны-вывны+V+Ind+Prs+Sg2
 овны-вывны+V+IV+Ind+Prs+Sg1:ола-выла K ;
 
+!! interjections
+ак+Interj:ак INTERJ_ ;
+
 !! variation
 пондыны+V+Dial:понны V_LYDDJYNY ;
 
+!! Foreign
+два+Num:два NUM_foreign ;
+дватсать+Num:дватсать NUM_foreign ;
+пять+Num:пять NUM_foreign ;
+сто+Num:сто NUM_foreign ;
+три+Num:три NUM_foreign	;
+
+по+Pr:по # ;!Russian
 !! Russian-type
 Ерусалим+N+Prop+Sem/Plc:Ерусалим PROP_ ;

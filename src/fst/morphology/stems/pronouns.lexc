@@ -4,6 +4,6 @@
 
 LEXICON Pronouns
 кинкӧ+Pron:кин PRONINDEFTAG-KO  "(kpv)..кодкӧ:код PRONINDEFTAG-KO.." ;
-
+кӧдія+Pron+Sg+Nom:кӧдія # ;
 
 ! vim: set ft=xfst-lexc:

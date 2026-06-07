@@ -3,7 +3,8 @@
 ! ================================ !
 !! # Numeral morphological lexica 
 ! ================================ !
-
+LEXICON NUM_foreign
++Src/F: NUM_ ;
 LEXICON NUM_
 CARD ;
 
@@ -103,7 +104,7 @@ LEXICON CARD-ITER-APPR
 LEXICON NumCASEPOSSLEX
 +Cmpl: # ;
 +Der/MWN+N+Sg: NumMWN ;
-+Der/MWN+N+Pl:%>%^1Cnsэз NumMWN ;
++Der/MWN+N+Pl:%>^1Cnsэз NumMWN ;
 +Der/MWN+N: PL-CASE-PX ;
 
 LEXICON NumMWN
