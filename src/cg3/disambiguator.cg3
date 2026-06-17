@@ -212,7 +212,13 @@ SET VFIN = Ind | Cond | Opt ; #!! VFIN
 
 LIST ASKI = "аски" "понедельникӧ" "вторникӧ" "середаӧ" "четвергӧ" "пекничаӧ" "субӧтаӧ" "вежалунӧ" "регыд" "аскомысь"; #!! ASKI (tomorrow set)
 
-LIST VOELI = "вӧвны" ;
+LIST VOELI = "вӧвны" ;#see also COPULAS-NOM in kpv-functions
+
+LIST AMB/AccPxSg2/Ill = "гор"
+"ага" "ар" "арес" "базис" "бай" "бал" "бан" "бере" "бес" "би" "блин" "бор" "бронхи" "брус" "букле"\
+ "бур" "бурси" "буря" "вес" "вис" "во" "воль" "выв" "вӧр" "гага" "гар" "го" "гон" "гор" "горс" "горув" "гот" "гран" "гу" "гӧсь" "до" "догма" "зон" "кай" "кар" "ки" "кол" "коли" "коль" "кор" "кос" "кош" "куль" "куран" "кус" "кюве" "кӧр" "лис" "лиф" "ма" "мир" "мор" "ню" "ор" "офор" "па" "пак" "пена" "пергамен" "пес" "пике" "плака" "пос" "посув" "прима" "пробс" "профи" "пуан" "пур" "раф" "реформа" "риф" "рос" "сай" "сар" "секстан" "сор" "спор" "староста" "стен" "сыр" "сі" "таксис" "текс" "тор" "тори" "трак" "трансфер" "ув" "фа" "фабрика" "фан" "форма" "хала" "цитра" "шор" "шпага" "шӧр" "ю" "юр" "ёр" ; # Only short word o  the pair is given
+# these are word pairs where Acc+PxSg2 and Ill are ambiguous "гор" vs "горт"
+# should both be listed?
 
 LIST NOT-PRL = "Конӧд" "Серӧд" "анӧд" "бауӧд" "вӧтӧд" "чайӧд" "болльӧд" "бусӧд" "санӧд" "гыӧд" "кӧкӧд" "кӧмӧд" ; #!! NOT-PRL (have no homograph Prolative pairs set)
 # Keep words that will not take Prl analysis
@@ -267,6 +273,10 @@ SELECT:CmpTst2 CmpTest ; # Kill'em all
 
 REMOVE Nom IF (0 Nom + Clt + Clt/сӧ);
 # кывсӧ пыдісянь гӧгӧрвоысьяс
+
+#гор vs горт:
+REMOVE:noAccInAccPxSg2/IllWhenElsewhereAcc Acc IF (0 AMB/AccPxSg2/Ill) (0* Acc BARRIER CLB OR BOS OR EOS);
+     # менӧ колясӧ гортӧ и накажитасӧ: »некытчӧ эн мун гортісь! IS THIS TOO STRONG
 
 REMOVE:ImprtCltso Imprt (0 Imprt + Sg2 + Clt + Clt/сӧ);
 
