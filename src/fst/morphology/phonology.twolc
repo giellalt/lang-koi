@@ -34,6 +34,7 @@ Alphabet
 %^LVBound:0    !!= * @CODE@ boundary for LV change instead of Consonant or end of word
 %^VowRM:0      !!= * @CODE@ vowel syncope
 %^SoftRet:0    !!= * @CODE@ soft sign retention Дӧсвидзисьсянь (Bible); literary norm Дӧсвидзиссянь (possibly ambiguous somewhere)
+%^VowRet:0    !!= * @CODE@ vowel retention кыны+V:кы%^VowRet
 
 !! ## Boundary symbols
 

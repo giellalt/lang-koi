@@ -2871,7 +2871,7 @@ LEXICON V_koi2x
 кынтыштлыны+v2+V+Err/Orth:кынтышвы BV_LYDDJYNY  "" ;
 кынтыштны+V:кынтышт BV_KUTNY  "" ;
 кынтісьны+V:кынтісь IV_ARTASJNY  "" ;
-кыны+V:кы BV_LYDDJYNY  "" ;
+кыны+V:кы^VowRet BV_SHUNY  "" ;
 кыркавны+v1+V:кыркал BV_NUAVNY  "" ;
 кыркавны+v2+V:кыркал BV_NUALNY  "" ;
 кыркйыны+V:кыркйы BV_LYDDJYNY  "" ;

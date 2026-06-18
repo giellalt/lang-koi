@@ -683,7 +683,8 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 ^1Cns   !!= * @CODE@ Plural-initial; it allows for doubling of consonant
 ^LVBound    !!= * @CODE@ boundary for LV change instead of Consonant or end of word
 ^VowRM      !!= * @CODE@ vowel syncope
-^SoftRet    !!= * @CODE@ soft sign retention Дӧсвидзисьсянь (Bible); literary norm Дӧсвидзиссянь (possibly ambiguous somewhere)
+^SoftRet    !!= * @CODE@ soft sign retention Дӧсвидзисьсянь (Bible); literary norm Дӧсвидзиссянь (possibly ambiguous somewhere);
+^VowRet    !!= * @CODE@ vowel retention кыны+V:кы^VowRet
 
  »7     !! * »
  «7     !! * «
