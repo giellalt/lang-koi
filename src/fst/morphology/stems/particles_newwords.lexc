@@ -43,8 +43,6 @@ LEXICON PCLE_NEWWORDS
 гудж+Adv:гудж ONOM_  "" ;
 гур+Adv:гур ONOM_  "" ;
 да+Adv:да PCLE_  "" ;
-да+Adv:да PCLE_  "" ;
-да+Adv:да PCLE_  "" ;
 давай+Adv:давай PCLE_  "anna" ;
 дай+Adv:дай PCLE_  "kanssa" ;
 дзиз+Adv:дзиз ONOM_  "surina" ;
@@ -54,11 +52,10 @@ LEXICON PCLE_NEWWORDS
 зато+Adv:зато PCLE_  "mutta muuten" ;
 зур+Adv:зур ONOM_  "(survaisemisen ääni)" ;
 инӧ+Adv:инӧ PCLE_  "" ;
-инӧ+Adv:инӧ PCLE_  "" ;
 инӧсь+Adv:инӧсь PCLE_  "" ;
 кам+Adv:кам ADV_  "" ;
 кос+Adv:кос PCLE_  "" ;
-кӧ+Adv:кӧ PCLE_  "" ;
+!кӧ+Pcle:кӧ PCLE_  "Only a particle when used for making indefinite word, and then it is written together" ;
 кӧть% еськӧ+Adv:кӧть% еськӧ PCLE_  "vaikka" ;
 ладнӧ+Adv:ладнӧ PCLE_  "" ;
 ли+Adv:ли PCLE_  "-ko" ;
@@ -68,7 +65,7 @@ LEXICON PCLE_NEWWORDS
 медлыты+Adv:медлыты PCLE_  "" ;
 медлытыкӧ+Adv:медлытыкӧ PCLE_  "" ;
 медлытӧ+Adv:медлытӧ PCLE_  "" ;
-медся+Adv:медся PCLE_  "" ;
+медся+Adv:медся ADV_  "" ;
 медтыкӧ+Adv:медтыкӧ PCLE_  "kunhan vain" ;
 медтӧ+Adv:медтӧ PCLE_  "" ;
 медъя+Adv:медъя PCLE_  "" ;
@@ -76,7 +73,7 @@ LEXICON PCLE_NEWWORDS
 мунтӧ+Adv:мунтӧ PCLE_  "" ;
 муртса+Adv:муртса PCLE_  "juuri" ;
 мӧй+Adv:мӧй PCLE_  "ehkä" ;
-на+Adv:на PCLE_  "vielä" ;
+на+Adv:на ADV_  "vielä" ;
 немас+Adv:немас PCLE_  "" ;
 неужели+Adv:неужели PCLE_  "" ;
 нин+Adv:нин PCLE_  "" ;
