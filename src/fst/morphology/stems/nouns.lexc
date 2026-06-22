@@ -3,7 +3,7 @@
 !! Nouns in the Komi Permyak language are things.
 
 LEXICON Nouns
-вок+N:вок N_dials ;
+вок+N:вок N_dial ;
 годов+N:годов N_ ;!CHECKME
 именье+N:именье N_ ;
 тӧвар+N:тӧвар N_ ;
