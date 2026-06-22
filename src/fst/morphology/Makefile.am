@@ -67,7 +67,6 @@ GT_LEXC_SRCS_L1_L2=\
 			stems/N_koi2x.lexc      \
 			stems/Num_koi2x.lexc     \
 			stems/Pcle_koi2x.lexc    \
-			stems/V_koi2x.lexc    \
 			stems/nouns.lexc         \
 			stems/nouns_newwords.lexc         \
 			stems/numerals.lexc      \
