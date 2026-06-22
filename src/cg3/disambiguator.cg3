@@ -244,18 +244,28 @@ SET Non-Pcle = WORD - Pcle ;
 SET NOMINAL = N | Pron ;
 SET Non-VFIN = WORD - V | V - VFIN ;
 
+LIST BETWEEN_NEG_N_CONNEG = "бы" "и" "кӧ" "пӧ" ;# this is only for a single word. 
 
+LIST SUBJECT_CANDIDATE_SG = (N Sg Nom) ;
+LIST SUBJECT_CANDIDATE_PL = (N Pl Nom) ;
+
+LIST NONAMB-OBJ = (Pron Pers Sg1 Acc) (Pron Pers Sg2 Acc) (Pron Pers Sg3 Acc) (Pron Pers Pl1 Acc) (Pron Pers Pl2 Acc) (Pron Pers Pl3 Acc) (Acc PxSg1) (Acc PxSg2) (Acc PxSg3) (Acc PxPl1) (Acc PxPl2) (Acc PxPl3);
+
+# a function
+LIST @CVP = @CVP ;# used for splitting
 
 #!! ## Rule section
 SECTION
 
 #
-SUBSTITUTE (TV) (*) TARGET (*) ;
-SUBSTITUTE (IV) (*) TARGET (*) ;
+#SUBSTITUTE (TV) (*) TARGET (*) ;
+#SUBSTITUTE (IV) (*) TARGET (*) ;
 
 SUBSTITUTE:PreferMunnyOverIns (<W:0.0>) (<W:1.0>) TARGET ("му" Sg Ins PxSg1) OR ("му" Sg Ins PxSg2) ;# мунам
 SUBSTITUTE:PreferPanyt (<W:0.0>) (<W:2.0>) TARGET ("пан" Sg Nom PxSg2) OR ("па" Sg Nom PxPl2) ;# паныт
 
+# Important barrier from functions
+MAP:cvpKpv (@CVP) TARGET CC IF (*-1 VFIN BARRIER CLB OR BOS) (*1 VFIN BARRIER CLB OR EOS);
 
 #!! * **NoDerIfPossible** removes all derivations
 REMOVE Err/Orth ;# remove if possible
@@ -281,6 +291,9 @@ REMOVE:noAccInAccPxSg2/IllWhenElsewhereAcc Acc IF (0 AMB/AccPxSg2/Ill) (0* Acc B
 REMOVE:ImprtCltso Imprt (0 Imprt + Sg2 + Clt + Clt/сӧ);
 
 REMOVE:notPrl Prl IF (0 NOT-PRL) ;
+
+REMOVE:NoIVWhenObj IV IF (0 VFIN OR ConNeg) (0* NONAMB-OBJ BARRIER CLB OR BOS OR EOS OR @CVP) ;
+	# челядьтӧ эн [енӧвт] гортӧ и
 
 # дугдывтӧг
 REMOVE:NoReadyDeverbalAdv Adv IF (0 V + Der/тӧг + Car + Ger) ;
@@ -352,7 +365,9 @@ SELECT:AAN (A Abs) IF (0 A)(1 CC)(2 A + Abs) ;
 
 # Прилагательное или существительное
 
-SELECT:ANnotNN	A IF (-1 Adv OR Qnt)(1 N) ;
+#SELECT:ANnotNN	A IF (-1 Adv OR Qnt)(1 N) ;
+REMOVE:ANnotNN	N IF (-1 Adv OR Qnt) (0 (A Sg Nom) OR (N Sg Nom)) (1 N) ;
+       #локтан: эн вошты, то локтан гортӧ, ньӧр сьӧрын ваям,
 
 REMOVE:WasA2NLeaveN Ex/A + N IF (0C N) ;
 # паськыдінын
@@ -463,6 +478,10 @@ REMOVE:NoAccWhenNextNumAgrees Acc IF (0 Pl + Nom)(1 Prs + Pl3 OR Prt1 + Pl3 OR P
 #REMOVE:NotImpWhenInd Imprt IF (*-1C Ind);
 REMOVE:NotImpWhenWords Imprt IF (-1 N)(0 N);
 #REMOVE:NotImpWhenWords Imprt IF (-1 WORD LINK *-1 BOS BARRIER Imprt);
+
+# ConNeg vs Imprt
+REMOVE:NotImpWhenDistVNeg Imprt + Sg2 IF (-2 (V Neg Sg2)) (-1 BETWEEN_NEG_N_CONNEG );
+   #он кӧ велӧтчы учӧтсянь вӧрӧт ветлӧтлыны.
 
 # ConNeg Sg/Pl
 REMOVE Pl2 IF (0 Neg + Sg2)(1 ConNeg)(NOT 1 Pl2) ;
@@ -582,7 +601,11 @@ REMOVE Po IF (-1 CLB) ;
 # This rule is too aggressive: "Ӧні видзӧд татчӧ."
 # REMOVE Imprt IF (-1 Adv OR Qnt) ;
 SELECT V IF (-1 Inf) (0 V);
-SELECT Nom IF (*-1 Acc + PxTag BARRIER CLB);
+# This rule is too aggressive: "челядьтӧ эн енӧвт гортӧ и ..."
+#SELECT Nom IF (*-1 Acc + PxTag BARRIER CLB);
+REMOVE:NoAccWhenAlreadyObviousAcc Acc IF (*-1 Acc + PxTag BARRIER CLB OR BOS);
+REMOVE:NoSubjWhenNumVerb2SubjWrongSg SUBJECT_CANDIDATE_SG IF (0* VFIN + Pl3 BARRIER CLB OR BOS OR EOS) (NOT 1 Po) ;
+REMOVE:NoSubjWhenNumVerb2SubjWrongPl SUBJECT_CANDIDATE_PL IF (0* VFIN + Sg3 BARRIER CLB OR BOS OR EOS) (NOT 1 Po) ;
 SELECT Acc IF (-1 (V TV))(0 N OR Pron);
 # ӧтияс артмӧдӧны выль кывъяссӧ, мӧдъяс...
 
