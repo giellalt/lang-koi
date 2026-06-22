@@ -64,7 +64,8 @@ LEXICON VERBNEGATIVE
 
 !! Some Flag diacritic lines are with regexes, other with aligned zeros. We want to migrate to
 !! regexes < … > , for readability reasons (sic!)
-
+LEXICON IV_LOKNY
++IV: V_LOKNY ;
 LEXICON V_LOKNY !!≈ * **@CODE@** One verb only, локны:лок U9 — глагол локны
 @U.CONJ-INF.YES@+Inf:@U.CONJ-INF.YES@%>ны VerbEnd-Comparison ;
 @U.CONJ-INF.YES@@U.CONJ-POSS.1@+Inf+Px1:@U.CONJ-INF.YES@@U.CONJ-POSS.1@%>ным VerbEnd-Comparison ;
@@ -235,6 +236,13 @@ LEXICON V_KUTNY !!≈ * **@CODE@** шуны:шу янӧдны, контроли�
 !+Refl:л VerbConj_KUTNY ; !а
 !+Refl:в VerbConj-V ; !б
 
+LEXICON BV_NUAVNY
+ IV_NUAVNY ;
+ TV_NUAVNY ;
+LEXICON IV_NUAVNY
++IV: V_NUAVNY ;
+LEXICON TV_NUAVNY
++TV: V_NUAVNY ;
 LEXICON V_NUAVNY !!≈ * **@CODE@** нуавны:нуа
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@^LVBound Verb-nyDer-ONSET-CONS ; ! овны
 @U.CONJ-INF.YES@+Dial/-v:@U.CONJ-INF.YES@ Verb-nyDer-ONSET-CONS ; ! олны
