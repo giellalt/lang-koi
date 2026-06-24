@@ -194,6 +194,9 @@ LIST Der/тӧг = Der/тӧг ;
 
 LIST CASE = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Ela Car Egr Tra Apr Ter Abe Prl ;
 SET OBLCASE = CASE - Nom ;
+SET NONCORECASE = OBLCASE - Acc - Dat ;
+SET OBVIOUS-OBJ = Acc - NONCORECASE - Dat - Nom ;#select words whose only case reading is Acc
+
 LIST PrsPtc = PrsPtc ;
 LIST PrsPrc = PrsPrc ;
 LIST PastPtc = PastPtc ;
@@ -251,6 +254,7 @@ LIST SUBJECT_CANDIDATE_PL = (N Pl Nom) ;
 
 LIST NONAMB-OBJ = (Pron Pers Sg1 Acc) (Pron Pers Sg2 Acc) (Pron Pers Sg3 Acc) (Pron Pers Pl1 Acc) (Pron Pers Pl2 Acc) (Pron Pers Pl3 Acc) (Acc PxSg1) (Acc PxSg2) (Acc PxSg3) (Acc PxPl1) (Acc PxPl2) (Acc PxPl3);
 
+
 # a function
 LIST @CVP = @CVP ;# used for splitting
 
@@ -285,8 +289,9 @@ REMOVE Nom IF (0 Nom + Clt + Clt/сӧ);
 # кывсӧ пыдісянь гӧгӧрвоысьяс
 
 #гор vs горт:
-REMOVE:noAccInAccPxSg2/IllWhenElsewhereAcc Acc IF (0 AMB/AccPxSg2/Ill) (0* Acc BARRIER CLB OR BOS OR EOS);
+REMOVE:noAccInAccPxSg2/IllWhenElsewhereAcc Acc IF (0 AMB/AccPxSg2/Ill) (0* Acc BARRIER CLB OR BOS OR EOS OR @CVP);
      # менӧ колясӧ гортӧ и накажитасӧ: »некытчӧ эн мун гортісь! IS THIS TOO STRONG
+REMOVE:noAccInAccPxSg2/IllWhenElsewhereNoTV Acc IF (0 AMB/AccPxSg2/Ill) (NOT 0* TV BARRIER CLB OR BOS OR EOS OR @CVP);
 
 REMOVE:ImprtCltso Imprt (0 Imprt + Sg2 + Clt + Clt/сӧ);
 
@@ -294,6 +299,9 @@ REMOVE:notPrl Prl IF (0 NOT-PRL) ;
 
 REMOVE:NoIVWhenObj IV IF (0 VFIN OR ConNeg) (0* NONAMB-OBJ BARRIER CLB OR BOS OR EOS OR @CVP) ;
 	# челядьтӧ эн [енӧвт] гортӧ и
+
+REMOVE ConNeg IF (NOT -1* (V Neg) BARRIER BOS OR EOS OR CLB OR @CVP);
+      # mild removal: вок: но вок менӧ видӧ: 
 
 # дугдывтӧг
 REMOVE:NoReadyDeverbalAdv Adv IF (0 V + Der/тӧг + Car + Ger) ;
@@ -316,7 +324,10 @@ SELECT Pcle IF (-1 COMMA) (0 ("шуам")) (1 COMMA);
 SELECT Pcle IF (-1 CLB) (0 ("кӧнкӧ")) (1 CLB);
 SELECT Pcle IF (-1 BOS) (0 ("кӧнкӧ")) (1 CLB);
 SELECT CC IF (-1 COMMA) (0 ("но")) ;
-SELECT Pcle IF (-1 BOS) (0 ("но")) ;
+# How can this be Pcle? 2026-06-24
+#SELECT Pcle IF (-1 BOS) (0 ("но")) ;
+      #но вок менӧ видӧ:
+      
 REMOVE Pcle IF (-1 COMMA) (0 ("но"));
 SELECT CC IF (-1 COMMA) (0 ("а"));
 REMOVE Pcle IF (-1 COMMA) (0 ("и"));
@@ -334,6 +345,9 @@ REMOVE Der/са IF (0 ("<(.*)са>"r) + A);
 # NOMINALS
 # Cases
 SELECT:Cmpl1 Cmpl IF (1 Po) ;
+
+REMOVE:NoAccWhenElsewhereObviousAcc Acc IF (0* OBVIOUS-OBJ BARRIER BOS OR EOS OR CLB OR @CVP);
+     #но вок менӧ видӧ:
 
 REMOVE Relat IF (-1 Cmpl);
 # Та йылысь юӧртліс «Коми му»
@@ -606,8 +620,12 @@ SELECT V IF (-1 Inf) (0 V);
 REMOVE:NoAccWhenAlreadyObviousAcc Acc IF (*-1 Acc + PxTag BARRIER CLB OR BOS);
 REMOVE:NoSubjWhenNumVerb2SubjWrongSg SUBJECT_CANDIDATE_SG IF (0* VFIN + Pl3 BARRIER CLB OR BOS OR EOS) (NOT 1 Po) ;
 REMOVE:NoSubjWhenNumVerb2SubjWrongPl SUBJECT_CANDIDATE_PL IF (0* VFIN + Sg3 BARRIER CLB OR BOS OR EOS) (NOT 1 Po) ;
+
+REMOVE:NomVsAcc/IllNotAcc Acc IF (0 AMB/AccPxSg2/Ill)(0* (N Sg Nom) OR (N Pl Nom) BARRIER EOS OR CLB OR BOS OR @CVP)(0* (V Sg1) OR (V Sg2) OR (V Pl1) OR (V Pl2)) ;
+      # кага коля гортӧ.
+# too strong
 SELECT Acc IF (-1 (V TV))(0 N OR Pron);
-# ӧтияс артмӧдӧны выль кывъяссӧ, мӧдъяс...
+      # ӧтияс артмӧдӧны выль кывъяссӧ, мӧдъяс...
 
 SELECT:FirstNameWhenNextSurname (N Nom) IF (0 FirstName)(1 Surname OR Patronym) ;
 SELECT (N Nom) IF (-1 (V IV VFIN)) ;
