@@ -25,8 +25,6 @@ LEXICON N-DOR ! мӧдладор The Russian is an adverbial phrase
 LEXICON N-VYV ! тулысвыв The Russian is an adverbial phrase
 +Der/выв: N_ ;
 
-LEXICON Noun1-F !
-+Src/F: N_ ;
 
 LEXICON Noun1-R-RY !
 +Err/Orth:ь N_ ;  ! This deals with январь
@@ -62,6 +60,10 @@ LEXICON N_err/orth
 
 LEXICON N_voc
 +Voc: # ;
+LEXICON Noun1-F !!# 100% lookalike for Russian vocabulary 
++Src/F: N_ ;
+
+!# regular transposition for near-lookalike of Russian vocabulary
 LEXICON N_2 !Komi ethnic name
 : NMN_ ;
 LEXICON N_2R1O6 !ethnic name, Nearly Russian Plus?
