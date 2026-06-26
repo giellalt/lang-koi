@@ -757,6 +757,7 @@ LEXICON verbs
 висьны+V:вись IV_ARTASJNY ;
 висьӧтны+V:висьӧт BV_KUTNY ;
 висьтавлыны+V:висьтавлы BV_VOLYNY ;
+висьтавлыны+V+Dial/-v:висьталлы BV_VOLYNY ;
 висьтавны+V:висьтал BV_NUAVNY ;
 висьталыштлыны+V:висьталыштлы BV_VOLYNY ;
 висьталыштлыны+V+Dial/-l:висьтавышвы BV_LYDDJYNY ;
@@ -3096,7 +3097,7 @@ LEXICON verbs
 кыйлыны+Hom1+V+Dial/-l:кыйвы BV_LYDDJYNY ;
 кыйлыны+Hom2+V+Dial/-l:кыйвы BV_LYDDJYNY ;
 кыйны+V:кый BV_KYJNY ;
-кыйны+V:кы V_KYJNY ;
+кыйны+V:кы^VowRet BV_SHUNY_colloq ;
 кыйӧв-керны+Hom1+V:кыйӧв-кер BV_KUTNY ;
 кыйӧв-керны+Hom2+V:кыйӧв-кер BV_KUTNY ;
 кыйӧв-керны+Hom1+V:кыйӧл-кер V_AMNY ;
@@ -3156,8 +3157,6 @@ LEXICON verbs
 кынтыштлыны+V:кынтыштлы BV_VOLYNY ;
 кынтыштлыны+V+Dial/-l:кынтышвы BV_LYDDJYNY ;
 кынтыштны+V:кынтышт BV_KUTNY ;
-кыны+V:кы V_LYDDJYNY ;
-кыны+V:кы^VowRet BV_SHUNY ;
 кыркавны+V:кыркал BV_NUAVNY ;
 кыркйыны+V:кыркйы BV_LYDDJYNY ;
 кыркӧтлыны+V:кыркӧтвы V_LYDDJYNY ;
