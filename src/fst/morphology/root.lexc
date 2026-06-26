@@ -863,8 +863,6 @@ LEXICON Root
    A_koi2x ;
    Adp_koi2x ;
    Adv_koi2x ;
-   CC_koi2x ;
-   CS_koi2x ;
    Det_koi2x ;
    Interj_koi2x ;
    N_koi2x ;
@@ -879,7 +877,6 @@ VERBNEGATIVE ;
  A_NEWWORDS ;
  ADP_NEWWORDS ;
  ADV_NEWWORDS ;
- CONJ_NEWWORDS ;
  N_NEWWORDS ;
  NUM_NEWWORDS ;
  PCLE_NEWWORDS ;

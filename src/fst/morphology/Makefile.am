@@ -52,7 +52,6 @@ GT_LEXC_SRCS_L1_L2=\
 			stems/adverbs.lexc    \
 			stems/adverbs_newwords.lexc    \
 			stems/conjunctors.lexc         \
-			stems/conjunctors_newwords.lexc         \
 			stems/descriptives.lexc         \
 			stems/exceptions.lexc         \
 			stems/koi-propernouns.lexc         \
@@ -60,8 +59,6 @@ GT_LEXC_SRCS_L1_L2=\
 			stems/A_koi2x.lexc    \
 			stems/Adp_koi2x.lexc    \
 			stems/Adv_koi2x.lexc    \
-			stems/CC_koi2x.lexc     \
-			stems/CS_koi2x.lexc     \
 			stems/Det_koi2x.lexc     \
 			stems/Interj_koi2x.lexc    \
 			stems/N_koi2x.lexc      \
