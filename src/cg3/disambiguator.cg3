@@ -659,8 +659,8 @@ REMOVE N IF (0 ("посни")) (1 N);
 
 REMOVE Abs IF (0 Abs OR Nom) (0 N) ;
 
-# олӧ вылӧ
-SELECT:VylöVerb (V "вывны") IF (-1 (V "овны")) ;
+# олӧ вылӧ kpv? Jaska 2026-06-26
+#SELECT:VylöVerb (V "вывны") IF (-1 (V "овны")) ;
 
 # му вылӧ
 SELECT:VylöPo (Po "вылӧ") IF (-1 (N Nom)) ;
@@ -685,8 +685,11 @@ REMOVE:UnaAdv (Qnt "уна") IF (0 Adv) ;
 
 # We disambiguate all N Sg Nom / Acc + N combinations as 
 # Nom for the first element
-SELECT:nmodNotAcc (N Sg Nom) IF (0 Nom LINK NOT 0 A ) (1 N) ;
+# Way too strong
+#SELECT:nmodNotAcc (N Sg Nom) IF (0 Nom LINK NOT 0 A ) (1 N) ;
+SELECT:nmodNotAcc (N Sg Nom) IF (0 Nom LINK NOT 0 A OR V) (1 N) ;
 	# бур юӧр
+	#»колӧ картовка пӧжавны.»
 
 # This is just a test, doesn't work
 # SELECT:AisNomNotAccIfFollowedByN Nom IF (1 (N Nom)) ;
@@ -704,4 +707,7 @@ REMOVE:errorth Err/Orth ;
 #
 #
 #
+###
+# Important barrier from functions
+MAP:cvpKpvCS (@CVP) TARGET CS IF (0* VFIN BARRIER CLB OR BOS OR EOS OR CC) ;
 
