@@ -212,10 +212,24 @@ LIST VNEG = "ог" "он" "оз" "огӧ" "огӧй" "онӧ" "онӧй" "эг" 
 
 SET VFIN = Ind | Cond | Opt ; #!! VFIN
 
+SET VFIN-NOT-SG3 = VFIN - Sg3;
 
 LIST ASKI = "аски" "понедельникӧ" "вторникӧ" "середаӧ" "четвергӧ" "пекничаӧ" "субӧтаӧ" "вежалунӧ" "регыд" "аскомысь"; #!! ASKI (tomorrow set)
 
 LIST VOELI = "вӧвны" ;#see also COPULAS-NOM in kpv-functions
+
+LIST @-FMAINV = @-FMAINV ;
+LIST MOTION-V-TAKING-INF = "бергӧтчыны" "водны" "котӧртны" "кутчисьны" "локны" "мӧдӧтны" "мунны" "петны" "повны" "пырны"
+  "кутны" "пондыны"
+  "вермыны" "кужны"
+  "велӧтчыны" "сӧгласитчыны" "юасьны" ;# this shares subject of main verb with subordinate verb
+
+LIST V-WITH-INF-OBJ-THAT-IS-SUBJ-OF-SUBORD = "вайны" "гижны" "тшӧктыны" ;
+# obj of mainv is subj of subordinate
+LIST V-WITH-INF-SUBJ = "ковны" ;
+#this places IMV as subject of verbs
+LIST V-WITH-INF-OBJ = "адззыны" "тӧдны" ;
+ #ог адззы, кытчӧ мунны.
 
 LIST AMB/AccPxSg2/Ill = "гор"
 "ага" "ар" "арес" "базис" "бай" "бал" "бан" "бере" "бес" "би" "блин" "бор" "бронхи" "брус" "букле"\
@@ -416,14 +430,20 @@ REMOVE:InitialAdv A IF (-1 BOS)(0 Adv)(NOT 1 N OR CC OR A) ;
 # =======
 SELECT:NomWhenNextPo Nom IF (1 Po);
 
+REMOVE:NoNomSgWhenPoAndPreviousSgNom (N Nom Sg) IF (*-2 VFIN-NOT-SG3) (-1 (N Sg Nom) OR (N Pl Nom)) (1 CLB OR EOS);
+
 # This seems to work
 
 SELECT:AdvWhenPreviousPx Adv IF ((-1 PxSg2) OR (-1 PxSg3)) ;
 
 REMOVE:RelatWhenjylysjVerb Relat IF (0 Po)(*1 V-jylysj BARRIER CLB);
 
+REMOVE:NoNWhenDynPo ("дын" Ill) OR ("дын" Ine) OR ("дын" Ela) OR ("дын" Ter) IF (0 Po) ;#Why do these exist20260629 Jaska
+
 REMOVE:NoAdpWhenNoComplement Po OR Adp IF (NOT -1 Nom OR Cmpl) (NOT 0 PxTag);
  # мунам матісь посаддэзӧт
+
+
 
 # Verbs
 # =====
@@ -711,3 +731,6 @@ REMOVE:errorth Err/Orth ;
 # Important barrier from functions
 MAP:cvpKpvCS (@CVP) TARGET CS IF (0* VFIN BARRIER CLB OR BOS OR EOS OR CC) ;
 
+MAP:IMVWhenHasVFINHead (@-FMAINV) TARGET (V Inf) IF (0* MOTION-V-TAKING-INF OR V-WITH-INF-SUBJ OR V-WITH-INF-OBJ OR V-WITH-INF-OBJ-THAT-IS-SUBJ-OF-SUBORD BARRIER CLB OR BOS OR EOS OR CC) ;
+	# would this be better with a list of motion verbs, i.e. MOTION-V-TAKING-INF
+	#
