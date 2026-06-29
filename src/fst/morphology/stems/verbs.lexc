@@ -1,6 +1,10 @@
 
 LEXICON verbs
 
+айда+V:айда V_ ;
+вай+V:вай V_AUX_IMPRT_PL1 "no niin -TAAn" ;
+давай+V:давай V_AUX_IMPRT_PL1 ;
+
 авзыны+V:авзы BV_LYDDJYNY ;
 авзыны+V+Dial/-v:алзы BV_LYDDJYNY ;
 авйыны+V:авйы BV_LYDDJYNY ;
@@ -25,7 +29,6 @@ LEXICON verbs
 адззывлыны+V+Dial/-v:адззыллы BV_VOLYNY ;
 адззывны+V:адззыл BV_NUAVNY ;
 адззыны+V:адззы BV_LYDDJYNY ;
-айда+V:айда V_ ;
 айзыны+V:айзы BV_LYDDJYNY ;
 айкатӧмавны+V:айкатӧмал IV_NUAVNY ;
 айкатӧмавны+V+Dial/-v:айкатӧмал IV_KUTNY ;
