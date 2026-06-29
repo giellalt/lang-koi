@@ -80,6 +80,9 @@ LEXICON V_LOKNY !!≈ * **@CODE@** One verb only, локны:лок U9 — гл�
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@%>ты VerbDer-V ; !CHECK Which one to prefer 2023-12-20
 :т  VerbConj_KUTNY ; !а
 
+!! Special AUX
+LEXICON V_AUX_IMPRT_PL1
++Aux+Imprt+Pl1: # ;
 
 !! Begin work with TV and IV
 LEXICON BV_SHUNY_colloq
