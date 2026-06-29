@@ -45,7 +45,7 @@ LEXICON Conjunctors
 не+CC:не CC_  "" ;
 нисьӧ+CC:нисьӧ CONJ_  "" ;
 ни+CC:ни CC_  "eikä" ;
-но% и+CC:но% и CONJ_  "vaan myös" ;
+но% и+CC:но% и CC_  "vaan myös" ;
 но+CC:но CC_  "mutta (kuitenkin)" ;
 пӧ+CC:пӧ CONJ_  "" ;
 раз+Hom2+CS:раз CS_  "" ;
@@ -59,7 +59,7 @@ LEXICON Conjunctors
 сэк+CS:сэк CS_  "" ;
 сэсся+CS:сэсся CS_  "" ;
 та% вӧсна+CS:та% вӧсна CS_  "tämän vuoksi" ;
-то+CS:то CS_  "" ;
+то+CC:то CC_  "otherwise" ;
 чем+CS:чем CS_ "" ;
 чтобы+CS:чтобы CS_  "" ;
 чтобы+CS+Dial:штобы CS_  "" ;
