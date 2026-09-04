@@ -1,0 +1,417 @@
+{
+  "metadata": {
+    "info": {
+      "locale": "koi",
+      "title": [
+        {
+          "lang": null,
+          "$value": "Komi-Permyak spellchecker"
+        }
+      ],
+      "description": "A spellchecker for Komi-Permyak, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway.",
+      "producer": "Giellatekno/Divvun/UiT contributors"
+    },
+    "acceptor": {
+      "type": "general",
+      "id": "acceptor.default.hfst",
+      "title": [
+        {
+          "lang": null,
+          "$value": "Komi-Permyak speller lexicon"
+        }
+      ],
+      "description": "Komi-Permyak speller lexicon compiled with HFST.",
+      "continuation": null
+    },
+    "errmodel": {
+      "id": "errmodel.default.hfst",
+      "title": [
+        {
+          "lang": null,
+          "$value": "Komi-Permyak error model"
+        }
+      ],
+      "description": "Error model for Komi-Permyak."
+    }
+  },
+  "config": {
+    "n-best": 10,
+    "max-weight": 10000.0,
+    "beam": null,
+    "reweight": {
+      "start-penalty": 10.0,
+      "end-penalty": 10.0,
+      "mid-penalty": 5.0
+    },
+    "node-pool-size": 128,
+    "recase": true,
+    "completion-marker": null
+  },
+  "summary": {
+    "total_words": 17,
+    "first_position": 3,
+    "top_five": 3,
+    "any_position": 3,
+    "no_suggestions": 0,
+    "only_wrong": 0,
+    "false_accept": 0,
+    "true_positive": 3,
+    "false_negative": 14,
+    "true_negative": 0,
+    "slowest_lookup": {
+      "secs": 0,
+      "subsec_nanos": 8112353
+    },
+    "fastest_lookup": {
+      "secs": 0,
+      "subsec_nanos": 12029
+    },
+    "average_time": {
+      "secs": 0,
+      "subsec_nanos": 1120414
+    },
+    "average_time_95pc": {
+      "secs": 0,
+      "subsec_nanos": 1120414
+    },
+    "average_position_of_correct": 1.0,
+    "average_suggestions_for_correct": 10.0
+  },
+  "results": [
+    {
+      "input": "Дӧсвидзисьсянь",
+      "expected": "Дӧсвидзиссянь",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 101187
+      },
+      "false_accept": true
+    },
+    {
+      "input": "юӧртісься",
+      "expected": "юӧртісся",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 42179
+      },
+      "false_accept": true
+    },
+    {
+      "input": "велӧтісься",
+      "expected": "велӧтісся",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 18582
+      },
+      "false_accept": true
+    },
+    {
+      "input": "Мездӧтісься",
+      "expected": "Мездӧтісся",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 39185
+      },
+      "false_accept": true
+    },
+    {
+      "input": "веськӧтлісьсянь",
+      "expected": "веськӧтліссянь",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 128285
+      },
+      "false_accept": true
+    },
+    {
+      "input": "кыскасисьсянь",
+      "expected": "кыскасиссянь",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 90971
+      },
+      "false_accept": true
+    },
+    {
+      "input": "веськӧтлісься",
+      "expected": "веськӧтлісся",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 125717
+      },
+      "false_accept": true
+    },
+    {
+      "input": "ылӧтлісьсянь",
+      "expected": "ылӧтліссянь",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 113259
+      },
+      "false_accept": true
+    },
+    {
+      "input": "Пукалісьсянь",
+      "expected": "Пукаліссянь",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 92776
+      },
+      "false_accept": true
+    },
+    {
+      "input": "пукалісься",
+      "expected": "пукалісся",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 21767
+      },
+      "false_accept": true
+    },
+    {
+      "input": "юралісься",
+      "expected": "юралісся",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 116188
+      },
+      "false_accept": true
+    },
+    {
+      "input": "баитісься",
+      "expected": "баитісся",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 98298
+      },
+      "false_accept": true
+    },
+    {
+      "input": "ыстісься",
+      "expected": "ыстісся",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 56733
+      },
+      "false_accept": true
+    },
+    {
+      "input": "олісься",
+      "expected": "олісся",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 12029
+      },
+      "false_accept": true
+    },
+    {
+      "input": "дзебісӧ",
+      "expected": "дзебисӧ",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "дзебисӧ",
+          "weight": 9.0
+        },
+        {
+          "value": "дзебасӧ",
+          "weight": 15.0
+        },
+        {
+          "value": "дзеблісӧ",
+          "weight": 15.0
+        },
+        {
+          "value": "дзебисьӧ",
+          "weight": 24.0
+        },
+        {
+          "value": "дзебитӧ",
+          "weight": 24.0
+        },
+        {
+          "value": "дзебнысӧ",
+          "weight": 24.0
+        },
+        {
+          "value": "дзебсисӧ",
+          "weight": 24.0
+        },
+        {
+          "value": "дзебис",
+          "weight": 29.0
+        },
+        {
+          "value": "дзебись",
+          "weight": 29.0
+        },
+        {
+          "value": "дзебися",
+          "weight": 30.0
+        }
+      ],
+      "position": 0,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 4650154
+      },
+      "false_accept": false
+    },
+    {
+      "input": "иньдӧтчіс",
+      "expected": "иньдӧтчис",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "иньдӧтчис",
+          "weight": 9.0
+        },
+        {
+          "value": "иньдӧтліс",
+          "weight": 15.0
+        },
+        {
+          "value": "иньдӧтчас",
+          "weight": 15.0
+        },
+        {
+          "value": "иньдӧтіс",
+          "weight": 15.0
+        },
+        {
+          "value": "индӧтчис",
+          "weight": 24.0
+        },
+        {
+          "value": "иньдӧтныс",
+          "weight": 24.0
+        },
+        {
+          "value": "иньдӧтсис",
+          "weight": 24.0
+        },
+        {
+          "value": "иньдӧтчи",
+          "weight": 29.0
+        },
+        {
+          "value": "иньдӧтчик",
+          "weight": 29.0
+        },
+        {
+          "value": "иньдӧтчим",
+          "weight": 29.0
+        }
+      ],
+      "position": 0,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 5227387
+      },
+      "false_accept": false
+    },
+    {
+      "input": "горӧтчіс",
+      "expected": "горӧтчис",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "горӧтчис",
+          "weight": 9.0
+        },
+        {
+          "value": "горӧтліс",
+          "weight": 15.0
+        },
+        {
+          "value": "горӧтчас",
+          "weight": 15.0
+        },
+        {
+          "value": "горӧтіс",
+          "weight": 15.0
+        },
+        {
+          "value": "горӧтвис",
+          "weight": 24.0
+        },
+        {
+          "value": "горӧтныс",
+          "weight": 24.0
+        },
+        {
+          "value": "горӧттис",
+          "weight": 24.0
+        },
+        {
+          "value": "борӧтчис",
+          "weight": 29.0
+        },
+        {
+          "value": "горӧтчи",
+          "weight": 29.0
+        },
+        {
+          "value": "горӧтчик",
+          "weight": 29.0
+        }
+      ],
+      "position": 0,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 8112353
+      },
+      "false_accept": false
+    }
+  ],
+  "start_timestamp": {
+    "secs": 1788554821,
+    "subsec_nanos": 828170787
+  },
+  "total_time": {
+    "secs": 0,
+    "subsec_nanos": 9592718
+  }
+}
